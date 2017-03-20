@@ -624,7 +624,7 @@ the place of articulation of /h/ is the glottis –, in other words, you
 must articulate the back of your tongue at the uvula. Just below some
 examples in IPA:
 
-spar – /spɐʁ/
+spar – /spaʁ/
 
 cherkin – /t͡ʃəʁ'kin/
 
@@ -654,7 +654,7 @@ piurn – /pjuʁn/
 
 oyr – /ojʁ/
 
-ayr – /ajɺ/
+ayr – /ajʁ/
 
 butour – /bu'tuːʁ/
 
@@ -664,11 +664,11 @@ gurgule – /'guʁgyl/
 
 eurp – /øʁp/
 
-arbust – /ɐʁ'bust/
+arbust – /aʁ'bust/
 
 ender – /'endəʁ/
 
-biaur – /bj'ɐʊʁ/
+biaur – /bj'aʊʁ/
 
 **{s} **– /s/ – like “s” in “**s**ound” or “c” in “ri**c**e”.
 
