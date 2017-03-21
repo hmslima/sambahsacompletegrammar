@@ -7719,3 +7719,1064 @@ meaning.*
 **Pemb {pemb} –** pink
 
 **Rudh {rud} –** red
+
+**Sword {sword} –** black
+
+**Violett {violEt} –** purple
+
+COMPUTING
+---------
+
+As certain terms, especially acronyms, from the english language have
+wide acceptation in the world, maybe it's more convenient to use the
+original terms, like VGA, which in sambahsa is VGT. Well, do what you
+think that is the better.
+
+Do you remember what I told about the verbs in the infinitive form? If
+not, please go back to the subchapter VERBS in this chapter VOCABULARY.
+
+If you want to translate a software to sambahsa and don't know whether
+you should translate the commands to the infinitive form or imperative
+form, see here the explanation of how it must be made:
+
+-   Commands given to the computer by the user are translated in the
+    infinitive form. ***Example:** abonne in id forum *(subscribe in the
+    forum)*; rename archive *(rename file)*; yises blixbrev *(send
+    email)
+-   Commands given to the user by the computer are translated in the
+    imperative form. ***Example:** contact nos *(contact us)*; click her
+    *(click here)*; yeis nos un blixbrev *(send us an email)
+
+[]{#anchor-284}**Abonn {abOn} –** to subscribe
+
+**Abonnent {abOnënt} –** subscriber
+
+**Abonnment {abOnmënt} –** subscription
+
+**Adresse bar {adrEs bar} –** adress bar
+
+**AI (Artificial Inteligence) {artifitsiAl intëlidjEnts} –** AI
+(*Artificial Inteligence*)
+
+**Alat bar {alAt bar} –** toolbar
+
+**Alatengjia {alAtëngjya} –** toolbar
+
+**Algorithme {algorI§m(ë)} –** algorithm
+
+**Alveycomputing {alveykompUting} –** cloud computing
+
+**Analogic {analOdjik} –** analogic
+
+**Antivirus {antivIrus} –** antivírus
+
+**Anyow {anyOw} –** password
+
+**Application {aplikatyOn} –** application
+
+**Archive {artcIv} –** file
+
+**Arrange {arAndj} – **to format (a text)
+
+**Attache {atAtc} –** to attach (a file)
+
+**Aunviel {aonvyEl} –** wireless
+
+**Aunkabel {aonkAbël} –** wireless
+
+**Aurphone {aorfOn} –** headset, headphone
+
+**BD *****(Blou-rai)***** {blu:-rä} –** BD *(Blue-ray)*
+
+**Bichoun {bitcU:n} –** layout
+
+**Binar {binAr} –** binary
+
+**Blixbrev {blIksbrëv} –** e-mail
+
+**Blog {blog} –** Blog
+
+**Bluetooth {blu:tU§} –** bluetooth
+
+**Browser {brOwzër} –** web browser
+
+**Bukmark {bukmArk} –** bookmark (of the web browser or page of
+document)
+
+**Cadre per secunde {kAdr per sekÜnd} –** frame per second
+
+**CD *****(compacto disk)***** {kompAkto disk} –** CD *(compact disk)*
+
+**Cell(ule) {tsEl(ül)} –** cell of a spreadsheet
+
+**(Central) processor {(tsentrAl) protsesOr} –** CPU *(Central
+Processing Unit)*
+
+**Channel {tcAnël} –** channel (of radio, television, etc)
+
+**Chip {tcip} –** electronic chip
+
+**Claviatolk {klavyatOlk} –** CHAT
+
+**Claviature {klaviatÜr} –** keyboard
+
+**Cleichwerd {klEytcwërd} –** key-word
+
+**Click {klik} –** click
+
+**Codec {kOdëk} –** codec
+
+**Colunn {kolUn} –** column
+
+**Compiler {kompIlër} –** compiler
+
+**Computer {kompÜtër} –** computer
+
+**Computerdorak {kompütërdorAk} –** computer case, computer chassis,
+tower, system unit, cabinet, base unit
+
+**Configuration {konfiguratyOn} –** configuration
+
+**Connect {konEkt} –** connect
+
+**Cont(o) {kOnt(o)} –** account
+
+**Converter {konvErtër} –** converter
+
+**Converte {konvErt} –** to convert
+
+**Copie {kopI:} –** copy
+
+**Cursive texte {kursIv text} –** italic text
+
+**Daftarnukta {daftarnUkta} –** bullet *(graphic symbol like •, ◦, ‣)*
+
+**Dakhelpage {dakhëlpAdj} –** home page
+
+**Data {dAta} –** dada
+
+**Databank {databAnk} –** databank
+
+**Database {databAz} –** database
+
+**Datenbank {datënbAnk} –** data bank
+
+**Datensklad {datënsklAd} –** DRIVE *(Data storage device)*
+
+**Datia {dAtya} –** file
+
+**Datum {dAtum} –** datum
+
+**DD - darm disk {darm disk} –** HD - disco rígido *(Hard Disk Drive)*
+
+**Defect {dëfEkt} – **BUG
+
+**Desinstalle {dësinstAl} –** to uninstall
+
+**Desfragmente {desfragmEnt} –** to defragment (a partition)
+
+**Desktop {desktOp} –** desktop
+
+**Diaporama {dyaporAma} –** apresentação de slides
+
+**Digital {didjitAl} –** digital
+
+**Disayn {dizAyn} –** design
+
+**Disayner {dizAynër} –** designer
+
+**Diskette {diskEt} –** disquete
+
+**Diskwehr {diskwE:r} –** to undo
+
+**DM *****(darmo memoria)***** {dArmo memOrya} –** ROM *(Read-Only
+Memory)*
+
+**Document {dokÜmënt} –** document
+
+**Documentation {dokumëntatyOn} –** documentation
+
+**Dossier {dosyEr} –** folder
+
+**Drucken {drUkën} –** print
+
+**Ducer {dÜtsër} –** driver
+
+**DVD (*****Digital Video Disc*****) {didjitAl vidEo disk} –** DVD
+*(Digital Video Disc)*
+
+**E-buk {ebUk} –** e-book
+
+**Ekran {ekrAn} –** screen
+
+**(Ecran)decor {(ekran)dëkOr} –** wallpaper
+
+**Ecransparer {ekranspArër} –** screensaver
+
+**Edeih {edE:y} –** to edit
+
+**Editor {editOr} –** editor
+
+**Emulator {emulatOr} –** emulator
+
+**Enmercatnotes {enmErkatnots} –** release notes
+
+**error {erOr} –** error
+
+**Extension {ekstënsyOn} –** complement, extention, add-on
+
+**Exter ligne {ekstër lInye} –** offline
+
+**Extrag {ekstrAg} –** to cut
+
+**Fenster {fEnstër} –** window
+
+**Format {formAt} –** to format (a hard disc or text)
+
+**Formulire {formulIr} –** form
+
+**Forum {fOrum} –** forum
+
+**Fraumbar {fraombAr} –** scroll bar
+
+**Frequent-ye Anacta Questions (F.A.Q.) {frekwEnt-ye anAkta kestyOns}
+–** Frequently Asked Questions (F.A.Q.)
+
+**Funed {fÜnëd} –** to merge (table cells)
+
+**Gadabeih {gadabE:y} –** to format (a text)
+
+**Gadget {gAdjët}–** gadget
+
+**Galerie {galerI:} – **galery
+
+**Ghyanen code {gyAnën kod} –** open source
+
+**Gleim {gleym} –** to paste
+
+**GNI *****(graphic (neuder) interface)***** {grAfik (nÖdër) intërfAts}
+–** GUI *(Graphical User Interface)*
+
+**Graphic {grAfik} –** graphic *(adjective)*
+
+**Graphic ambient {grAfik ambyEnt} –** graphical environment
+
+**Graphic pianji {grAfik pyAnji} –** drawing tablet
+
+**Graphique {grafIk} –** graphic *(substantive)*
+
+**Hacker {hAkër} –** hacker
+
+**Hardware {hardwAr} –** hardware
+
+**Hissabpianji {hisabpyAnji} –** spreadsheet
+
+**HDMI *****(Hog-definition multimedia interface)***** {hog dëfinityOn
+multimEdya intërfAts} –** HDMI *(High-Definition Multimedia Interface)*
+
+**Hol ecran {hol ekrAn} –** full screen
+
+**Hyperlink {hüpërlInk} –** hiperlink
+
+**IA (integren antplehcensambient) {intEgrën antple:tsënsambyEnt} –**
+IDE *(Integrated Development Environment)*
+
+**Icon {ikOn} –** icon
+
+**Indentation {indëntatyOn} –** indentation
+
+**Informatique {informatIk} –** computing
+
+**Infrarudh {infrarUd} –** infrared
+
+**In ligne {in lInye} –** online
+
+**Installe {instAl} –** to install
+
+**Internet {intërnEt} –** internet
+
+**Interpreter {intërprEtër} –** interpreter *(like a Java or Python
+interpreter)*
+
+**(Computer) joystick {(compÜtër) joystIk} –** joystick
+
+**Kabel {kAbël} –** cable
+
+**Khatem {qAtëm} –** Game Over
+
+**Klad {klad} –** to load
+
+**Klink {klink} –** tab (of a window, like the tabs of Mozilla Firefox)
+
+**Knop {knop} –** button
+
+**Laptop {laptOp} –** laptop
+
+**Leikstyr {lEykstür} –** game controller
+
+**Leiser {lEyzër} –** reader
+
+**Leur software {lör softwAr} –** free software
+
+**Ligne {lInye} –** line
+
+**Log in {log in} –** login, logon
+
+**Log ex {log eks} –** logout, logoff
+
+**Materplack {matërplAk} –** motherboard
+
+**Mediatolker {medyatOlkër} –** media player
+
+**Memoria carte {memOrya kart} –** memory card
+
+**Metadata {metadAta} –** metadada
+
+**Metadatum {metadAtum} –** metadatum
+
+**Microphone {mikrofOn} –** microphone
+
+**Miniature {miniatÜr} –** thumbnail
+
+**Mobilphone {mobilfOn} –** cell phone
+
+**Modem {mOdëm} –** modem
+
+**Monitor {monitOr} –** monitor
+
+**Mus {mus} –** mouse
+
+**Musictolker {muziktOlkër} –** music player
+
+**Muspad {muspAd} –** mousepad
+
+**Mov {mov} –** to move
+
+**Netwehrg {netwE:rg} –** network
+
+**Niklad {niklAd} –** to download
+
+**Ogwnschirm {oguncIrm} –** firewall
+
+**Oisschalt {oiscAlt} –** turn off
+
+**Operationsysteme {opëratyonsüstEm} –** operating system
+
+**Operative systeme {opëratIv süstEm} –** operating system
+
+**Pack {pak} –** pack *(set of softwares)*
+
+**Panell {panEl} –** panel
+
+**Partition {partityOn} –** partition of a hard disk)
+
+**Personalise {personalIz} –** to customize, to personalize
+
+**Pfehrster {pfE:rstër} –** cursor, ponteiro do mouse
+
+**(Computer) pianji {(kompÜtër) pyAnji} –** tablet
+
+**Piwer texte {pIwër text} –** bold text
+
+**Plug-in {plug-In} –** plugin
+
+**Podcast {podkAst} –** podcast
+
+**Post {post} –** post *(substantive)*
+
+**Primark lurhat {primArk lurhAt} –** markup language
+
+**Printer {prIntër} –** printer
+
+**Processor {protsësOr} –** processor
+
+**Profile {profIl} –** profile
+
+**Programmation lurhat {programatyOn lurhAt} –** programing language
+
+**Programme {progrAm} –** to program, to code
+
+**Pung {pung} –** button
+
+**Puwen {pÜwën} –** to debug
+
+**RAM *****(random access memoria)***** {randOm ak(t)sEs mëmOrya} –**
+RAM *(Random Access Memory)*
+
+**Reclame {rëklAm} –** advertisement
+
+**Recorde {rekOrd} –** to save (a document or process of a software)
+
+**Recorder {rekOrdër} –** recorder
+
+**Renam {renAm} –** to rename
+
+**Retrovert {retrovErt} –** to downgrade *(to bring back an old version
+or state)*
+
+**Rekwehr {rekwE:r} –** to redo
+
+**Rewos bar {rEwos bar} –** space bar
+
+**Rinkap {rinkAp} –** to reset
+
+**Roig {royg} – **line *(spreadsheet)*
+
+**Router {rU:tër} –** router
+
+**Salvguarde {salvgwArd} –** backup
+
+**Scanner {skAnër} –** scanner
+
+**Schalter {cAltër} –** on-off switch
+
+**Schrift {crift} –** font *(typeface)*
+
+**Server {sErvër} –** server
+
+**Smartphone {smartfOn} –** smartphone
+
+**Smauter {smAotër} –** to view
+
+**Social netwehrg {sotsiAl netwE:rg} –** social network
+
+**Software {softwAr} –** software
+
+**Sokmotor {sokmotOr} –** search engine
+
+**SPAM –** SPAM
+
+**Sroviswor {srovizwOr} –** power supply
+
+**Stahgjia {stA:gjya} –** sidebar
+
+**Strehmen {strE:mën} –** streaming
+
+**Substrichen texte {substrItcën tekst} –** underlined text
+
+**Suppressem {suprEsëm} –** to delete
+
+**Surce code {surts kod} –** source code
+
+**Swoglehmber {swoglE:mbër} –** booting
+
+**Swoncarte {swonkArt} –** sound card
+
+**Swonkwatel {swonkwAtël} –** speaker
+
+**Synchronise {sünkronIz} –** to sync
+
+**Tab(ulation) {tab(ulatyOn)} –** tabulation
+
+**Texte futliar {text futlyAr} –** text box
+
+**Textenbeorbater {tekstënbeorbAtër} –** text processor
+
+**Topic {tOpik} –** topic, thread (of a forum)
+
+**Touche {tu:tc} –** key (of a keyboard)
+
+**Touchecran {tu:tcekrAn} –** touchscreen
+
+**Trackliste {traklIst} –** playlist
+
+**Transistor {transistOr} –** transistor
+
+**TV carte {TV kart} –** capture card
+
+**Ubklad {ubklAd} –** to upload
+
+**Ubnuw {ubnUw} –** to update
+
+**Ubstiumep {ubstyÜmëp} –** to upgrade
+
+**Uperswehp {üpërswE:p} –** to hibernate
+
+**Utilitat {utilitAt} –** utility
+
+**USB (*****Universal Serial Bus*****) {universAl seriAl bus} –** USB
+*(Universal Serial Bus)*
+
+**USB cleich {USB kleytc}–** pendrive
+
+**Vector image {vëktOr imAdj} –** vector image
+
+**Vectorial image {vëktoryAl imAdj} –** vector image
+
+**VGT *****(Video Graphique Tehxen)***** {vidEo grafIk tE:ksën} –** VGA
+*(Video Graphics Array)*
+
+**Video {vidEo} –** video
+
+**Videogame {videogAm} –** video game console
+
+**Videocarte {videokArt} –** video card
+
+**Videoleik {videolEyk} –** video game console
+
+**Videotolker {videotOlkër} –** video player
+
+**Wi-fi {wi-fi} –** wi-fi
+
+**Virtual {virtuAl} –** virtual
+
+**Virus {vIrus} –** virus
+
+**Viel {vyel} –** thread, wire
+
+**Voltage-tuler {voltAdj tÜlër} –** power strip, surge protector
+
+**Volume {volÜm} –** volum
+
+**Web {web} –** web
+
+**Webcam {webkAm} –** webcam
+
+**Website {websAyt} –** website
+
+**Webtyohc {webtyO:k} –** feed *(substantive)*
+
+**Wehrgeih {we:rdjE:i} –** play, run
+
+**Windows portfeuyl {windOws portfÖyl} –** Briefcase *(from Microsoft
+Windows)*
+
+**Zoum apo {zu:m Apo} –** Zoom out
+
+**Zoum prosch {zu:m proc} –** Zoom in
+
+ANIMALS
+-------
+
+**Arank {arAnk} –** spider
+
+**Aux(an) {Aoks / aoksAn} –** ox
+
+**Av {av} –** bird
+
+**Ayg {ayg} –** female goat
+
+**Aygur {aygUr} –** stallion
+
+**Baleina {balEyna} –** whale
+
+**Baul {bawl} –** bat
+
+**Bei {bey} –** bee
+
+**Bock {bok} –** male goat
+
+**Brank {brank} –** beetle
+
+**Cat {kat} –** cat
+
+**Cavall {kavAl} –** horse
+
+**Cuincule {kwInkül} –** rabbit
+
+**Delphin {dëlfIn} –** dolphin
+
+**Gall {gal} –** rooster, cock
+
+**Gaydh {gayd} –** goat *(it can be used as adjective)*
+
+**Ghelon {gëlOn} –** turtle
+
+**Ghimer {gImër} –** young animal *(one winter-old)*
+
+**Gwow {gwow} –** cow, bovine animal
+
+**Katelsqual {katëlskwAl} –** killer whale
+
+**Kiep {kyep} –** monkey
+
+**Kierk {kyErk} –** chicken
+
+**Kunia {kUnya} –** she-dog, bitch
+
+**Kwaun {kwAon} –** dog
+
+**Leopard {leopArd} –** leopard
+
+**Lion {lyon} –** lion
+
+**Maymoun {maymU:n} – **mico
+
+**Murm {murm} –** ant
+
+**Mus {mus} –** mouse
+
+**Musch {muc} –** fly
+
+**Ornd {ornd} –** eagle
+
+**Ow {ow} –** sheep
+
+**Pelpel {pElpël} –** butterfly
+
+**Pinguin {pingwIn} –** penguin
+
+**Pisk {pisk} –** fish
+
+**Pork {pork} –** pig
+
+**Rat {rat} –** rat
+
+**Schebeck {cëbEk} –** femal emonkey
+
+**Scorpion {skorpyOn} –** scorpion
+
+**Serpent {sErpënt} –** serpent, snake
+
+**Shamyu {xAmyu} –** shark
+
+**Sill {sil} –** seal
+
+**Taur {tAor} –** bull
+
+**Tigher {tIgër} –** tiger
+
+**Urx {urks} –** bear
+
+**Vulp(ek) {vUlp(ëk)} –** fox
+
+**Wersi {wErsi} –** young animal *(one spring old)*
+
+**Wolf {wolf} –** wolf
+
+MEASURES
+--------
+
+**Absorpt energia dose {absOrpt enErdjya doz} –** absorbed dosis *(total
+ionizing dose)*
+
+**Ampere {ampEr} (A) –** ampere
+
+**Becquerel {bëkErël} (Bq**) – becquerel
+
+**Candela {kandEla} (cd) –** candela
+
+**Catalytic activitat {katalÜtik aktivitAt} –** catalytic activity
+
+**Celsius grade {tsElsyus grAd} (°C) –** Celsius grade
+
+**Dwinegh {dwInëg} –** force *(in context of pressure)*
+
+**Electric capacitat {elEktrik kapatsitAt} –** electric capacity
+
+**Electric charge {elEktrik tcardj} –** electric charge
+
+**Electric conductance {elEktrik konduktAnts} –** electric conductance
+
+**Electric inductance {elEktrik induktAnts} –** electric inductance
+
+**Electric resistence {elEktrik rezistEnts} –** electric resistence
+
+**Electromot force {elëktromot forts} –** electromotive force
+
+**Energia {enErdjya} –** energy
+
+**Equivalent dose {ekivAlënt doz} –** equivalent dose
+
+**Farad {farAd} (F) –** farad
+
+**Force {forts} –** force
+
+**Frequence {frëkEnts} –** frequence
+
+**Gray {gray} (Gy) –** gray
+
+**Gwayder flux {gwAydër fluks} –** luminous flux
+
+**Gwayder intensitat {gwAydër intënsitAt} –** luminous intensity
+
+**Henry {hEnri} (H) –** henry
+
+**Hertz {hertz} (Hz) –** hertz
+
+**Joule {ju:l} (J) –** joule
+
+**Katal {katAl} (kat) –** katal
+
+**Kelvin {kelvIn} (k) –** kelvin
+
+**Kilogramme {kilogrAm} (kg) –** kilogram
+
+**Kweitergwis {kwEytërgwis} –** illuminance
+
+**Longe {londj} –** length
+
+**Lumen {lÜmën} (lm) –** lumen
+
+**Lux {luks} (lx) –** lux
+
+**Magnetic induction {manyEtik induktyOn} –** magnetic induction
+
+**Magnetic induction flux {manyEtik induktyOn fluks} –** Magnetic
+induction flux
+
+**Masse {mas} –** mass
+
+**Meter {mEtër} (m)–** meter
+
+**Mole {mol} (mol) –** mol
+
+**Newton {newtOn} (N) –** newton
+
+**Ohm {o:m} (Ω) –** ohm
+
+**Pascal {paskAl} (Pa) –** pascal
+
+**Plane angule {plan Angül} –** plane angle
+
+**Pressem {prEsëm} –** pressure
+
+**Radian {radyAn} (rad) –** radian
+
+**Radioactivitat {radyoaktivitAt} –** radioactivity
+
+**Secunde {sekUnd} (s) –** second
+
+**Siemens {syEmëns} (S) –** siemens
+
+**Sievert {syEvërt} (Sv) –** sievert
+
+**Solid angule {sOlid Angül} –** solid angle
+
+**Srov {srov} –** electric power
+
+**Steradian {steradyAn} (sr) – **steradian
+
+**Stieure {styÖr} –** power
+
+**Temperature {temperatÜr} –** temperature
+
+**Tesla {tEsla} (T) –** tesla
+
+**Volt {volt} (V) –** volt
+
+**Wakel {wAkël} –** batch, quantity
+
+**Wakt {wakt} –** time *(duration)*
+
+**Weber {wEbër} (Wb) –** weber
+
+**Wehrg {we:rg} –** work
+
+**Watt {wat} (W) –** watt
+
+FAMILY
+------
+
+**Aja {Aja} –** granny, grandma
+
+**Amma {Ama} –** adoptive mother
+
+**Atta {Ata} –** stepfather
+
+**Bint {bint} –** girl
+
+**Brater {brAtër} –** brother
+
+**Cousin {ku:zIn} –** cousin
+
+**Cummater {kummAtër} –** godmother
+
+**Cumpater {kumpAtër} –** godfather
+
+**Daiwer {dÄwër} –** brother-in-law
+
+**Dugter {dUgtër} –** daughter
+
+**Eln {eln} –** child, puppy
+
+**Esor {ezOr} –** wife
+
+**Ewo {Ewo} –** grandpa, grandad
+
+**Familia {famIlya} –** family
+
+**Fiancee {fyantsEë} –** fiancee
+
+**Fianceo {fyantsEo} –** fiancé
+
+**Gelou {djëlU:} –** sister-in-law
+
+**Gemer {djEmër} –** sister’s husband
+
+**Genealogic dru {djënealOdjik dru} –** family tree
+
+**Grandmater {grandmAtër} –** grandmother
+
+**Grandpater {grandpAtër} –** grandfather
+
+**Gvibh {gvib} –** wife
+
+**Ienter {yEntër} –** husband’s brother’s wife
+
+**Kerab {kërAb} –** relative
+
+**Kerdprient {kërdpryEnt} –** boyfriend
+
+**Kerdprientin {kërdpryentIn} –** girlfriend
+
+**Kweil {kweyl} –** girl
+
+**Mann {man} –** husband
+
+**Mater {mAtër} –** mother
+
+**Matruw {matrUw} –** maternal uncle
+
+**Nanander {nanAndër} –** husband’s sister
+
+**Nepot {nepOt} –** nephew
+
+**Neptia {nEptya} –** niece
+
+**Nitia {nItya} –** *circle of family and close friends*
+
+**Novsta {nOvsta} –** bride
+
+**Novsto {nOvsto} –** groom
+
+**Oncle {onkl} –** uncle
+
+**Parent {pArënt} –** parent
+
+**Pater {pAtër} –** father
+
+**Prient {pryent} –** friend
+
+**Samgwelbh –** *born of the same mother*
+
+**Siour {syu:r} –** wife’s brother
+
+**Son {son} –** son
+
+**Swelion {swelyOn} –** wife’s sister’s husband
+
+**Swesgen {swEsdjën} –** sibling
+
+**Swes(ter) {swEs(tër)} –** sister
+
+**Swoker {swOkër} –** father-in-law
+
+**Swokru {swOkru} –** mother-in-law
+
+**Tante {tant} –** aunt
+
+**Vidva {vIdva} –** widow
+
+**Vidvo(s) {vIdvo(s)} –** widower
+
+**Wehdmen {wE:dmën} –** *purchase price of the bride*
+
+VARIOUS
+-------
+
+**Alphabet {alfAbd} – **alphabet
+
+**Anua {Anwa} –** old woman
+
+**Aunfin {aonfIn} –** endless, infinite
+
+**Buk {buk} –** book
+
+**Dienkia {dyEnkya} –** domestic electric appliances
+
+**Distance-control {distAnts kontrOl} –** remote-control
+
+**Dru {dru} –** tree
+
+**Fall {fal} –** case *(situation)*
+
+**Forest {forEst} –** forest
+
+**Future {futür} –** future
+
+**Geront {djërOnt} –** old man
+
+**Grammatic {gramAtik} –** grammar
+
+**Gwen {gwen} –** woman
+
+**Gwenak {gwënAk} –** young woman
+
+**Ject {jekt} –** thing
+
+**Ker {ker} –** time, occasion
+
+**Kindergarten {kindërgArtën} –** kindergarten
+
+**Kwehrmen {kwE:mën} –** way *(of doing something)*
+
+**Majoritat {majoritAt} –** majority
+
+**Memoria {memOrya}** – memory
+
+**Mensc {mensk} – **human, man *(“man” in the sense of specie)*
+
+**Menue {mënÜ:} – **menu
+
+**Message {mesAdj} –** menssage
+
+**Minoritat {minoritAt} –** minority
+
+**Pieg {pyeg} –** girl
+
+**Present {prEzënt} –** present
+
+**Prev {prev} –** past
+
+**Primar talim {primAr tAlim} –** *stage when the children learns the
+basic, like reading and very basic calculation*
+
+**Pwarn {pwarn} –** boy
+
+**Secundar talim {sekundAr tAlim} –** *stage when teenagers learns the
+fundamental*
+
+**Suedos {sÜ:dos} –** property *(quality)*
+
+**Television {televizyOn} – **television
+
+**Veneg {vEnëg} –** seller
+
+**Videocassette {videokasEt} –** videocassette
+
+**Videoteip {videotEyp} –** videocassette
+
+**Wakt {wakt} –** time *(duration)*
+
+**Wir {wir} –** man
+
+**Yeudmo {yÖdmo} –** man *(as combatent)*
+
+**Yuwen {yÜwën} –** young man
+
+**Zaman {dzamAn} –** epoch, time
+
+INTERJECTIONS
+-------------
+
+**Ajaban! {ajabAn} –** gosh!
+
+**Al-hamdulillah! {al hamdulilA:} –** thank you God!
+
+**Aman! {amAn} –** have mercy!
+
+**Anchoa! {antcOa} –** not possible!
+
+**Asafa! {azAfa} –** how awful!
+
+**Bast(a)! {bAst(a)} –** it's enough!
+
+**Bravo! {brAvo} –** bravo!
+
+**Bre! {bre} –** whoa!
+
+**Chao! {tcAo} –** goodbye!
+
+**Chiba! {tcIba} –** *word used to drive a dog*
+
+**Chinchay! –** nothing!
+
+**Coul! {ku:l} –** cool!
+
+**Dank! {dank} –** Thanks!
+
+**E? {ë} –** hein?
+
+**Ehh {e:} –** err *(doubt)*
+
+**Gwivtu! / Gwive! {gw} –** hurray!
+
+**Ha ha ha! {ha ha ha} –** Ha ha ha!
+
+**Hay(te)! {hay(t)} –** go! *(encouragement)*
+
+**Hue! {hü:} –** Gee up! *for a horse*
+
+**Hurrah! {hurA:} –** hooray!
+
+**Iblis! {Iblis} –** deuce! devil!
+
+**Ihali {ihAli} –** *divine will*
+
+**Interjection {intërjëktyOn} –** interjection
+
+**Lassamahallah {lasamahalA:} –** God help us!
+
+**Lutfan {lutfAn} –** be nice!
+
+**Maideh {maydE:} –** help! mayday!
+
+**Marba {mArba} –** please to meet you!
+
+**Mersie! {mërsI:} –** thank you!
+
+**O Deiwes! {o dEywës} **– great Gods!
+
+**Pawiropeku! {pawiropEku} –** goodbye! farewell!
+
+**Sayang! {sayAng} –** what a pity!
+
+**Servus! {sErvus} –** at your service!
+
+**Scha! {ca} –** hush!
+
+**Sieune {syön} –** Bless You ! *(to someone who has just sneezed)*
+
+**Sikhtir {sIqtir} –** out!
+
+**Stop! {stop} –** stop!
+
+**Toi! {toy} –** *deception*
+
+**Uff! {uf} –** uff!
+
+**Ups! {ups} –** ops!
+
+**Vedim! {vEdim} –** let's see! *(to bring a counter-argument)*
+
+**Yallah! {yalA:} –** my God!
+
+**Way! {way} –** ai! ui!
+
+**Zinhaar! {dzinhaAr} –** beware! caution!
+
+REFERENCES
+==========
+
+SIMON, Olivier. RICE, Stephen L (ed.). **The Grammar Of
+Sambahsa-Mundialect In English**. 7 ed. Maio 2012.
+
+A Starter to Sambahsa
+
+RICE, Stephen L. **Sambahsa\_Phrasebook**
+
+WINTER, Robert. **Sambahsa: Guide to Pronouns and Articles**.
+
+OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **FrontPage**. Available in:
+&lt;http://sambahsa.pbworks.com/w/page/10183084/FrontPage&gt;. Acesso
+em: jul. 2016.
+
+OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **IPA Sambahsa phonetics**.
+Available in:
+&lt;http://sambahsa.pbworks.com/w/page/10183089/IPA%20Sambahsa%20phonetics&gt;.
+Access in: jul. 2016.
+
+YEAHBITCHMAGNETSOH. **Flag of Indo-European Speakers**. Reddit.
+Disponível em:
+&lt;https://www.reddit.com/r/vexillology/comments/3jlf0k/flag\_of\_indoeuropean\_speakers/&gt;.
+Access in: jul 2016.
+
+DIARIO DOS CAMPOS. **Idiotismos da Língua Portuguesa**. 01 set. 2012.
+Disponível em:
+&lt;http://www.diariodoscampos.com.br/variedades/2009/05/idiotismos-da-lingua-portuguesa/1123815/&gt;.
+Access in: jul. 2016.
+
+RACHEL. Youtube channel of Rachel's English.
+&lt;https://www.youtube.com/user/rachelsenglish&gt;. Access in: jan.
+2017.
