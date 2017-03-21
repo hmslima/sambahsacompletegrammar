@@ -7740,14 +7740,15 @@ you should translate the commands to the infinitive form or imperative
 form, see here the explanation of how it must be made:
 
 -   Commands given to the computer by the user are translated in the
-    infinitive form. ***Example:** abonne in id forum *(subscribe in the
+    infinitive form. ***Example:** abonne id forum *(subscribe in the
     forum)*; rename archive *(rename file)*; yises blixbrev *(send
     email)
 -   Commands given to the user by the computer are translated in the
-    imperative form. ***Example:** contact nos *(contact us)*; click her
-    *(click here)*; yeis nos un blixbrev *(send us an email)
+    imperative form, with the "courtesy" formula of the 2nd person plural.
+    ***Example:** contancte nos *(contact us)*; clickte her
+    *(click here)*; yeiste nos un blixbrev *(send us an email)
 
-[]{#anchor-284}**Abonn {abOn} –** to subscribe
+[]{#anchor-284}**Abonn {abOn} –** to subscribe to/in
 
 **Abonnent {abOnënt} –** subscriber
 
@@ -7786,7 +7787,7 @@ form, see here the explanation of how it must be made:
 
 **Aurphone {aorfOn} –** headset, headphone
 
-**BD *****(Blou-rai)***** {blu:-rä} –** BD *(Blue-ray)*
+**BR *****(Blou-rai)***** {blu:-rä} –** BR *(Blue-ray)*
 
 **Bichoun {bitcU:n} –** layout
 
@@ -7796,14 +7797,15 @@ form, see here the explanation of how it must be made:
 
 **Blog {blog} –** Blog
 
-**Bluetooth {blu:tU§} –** bluetooth
+**Bluetooth {blu:tU§} –** Bluetooth (since it's a Registered Trademark, 
+the Sambahsa word keeps the English pronounciation)
 
-**Browser {brOwzër} –** web browser
+**Browser {brOwsër} –** web browser
 
 **Bukmark {bukmArk} –** bookmark (of the web browser or page of
 document)
 
-**Cadre per secunde {kAdr per sekÜnd} –** frame per second
+**Cadre per secunde {kAdr per sekUnd} –** frame per second
 
 **CD *****(compacto disk)***** {kompAkto disk} –** CD *(compact disk)*
 
@@ -7837,13 +7839,13 @@ tower, system unit, cabinet, base unit
 
 **Configuration {konfiguratyOn} –** configuration
 
-**Connect {konEkt} –** connect
+**Connect {konEkt} –** to connect (transitive)
 
 **Cont(o) {kOnt(o)} –** account
 
 **Converter {konvErtër} –** converter
 
-**Converte {konvErt} –** to convert
+**Convert {konvErt} –** to convert
 
 **Copie {kopI:} –** copy
 
@@ -7873,9 +7875,9 @@ tower, system unit, cabinet, base unit
 
 **Desinstalle {dësinstAl} –** to uninstall
 
-**Desfragmente {desfragmEnt} –** to defragment (a partition)
+**Desfragmente {dësfragmEnt} –** to defragment (a partition)
 
-**Desktop {desktOp} –** desktop
+**Desktop {dësktOp} –** desktop
 
 **Diaporama {dyaporAma} –** apresentação de slides
 
@@ -7894,7 +7896,7 @@ Memory)*
 
 **Document {dokÜmënt} –** document
 
-**Documentation {dokumëntatyOn} –** documentation
+**Documentation {dokümëntatyOn} –** documentation
 
 **Dossier {dosyEr} –** folder
 
@@ -7902,12 +7904,12 @@ Memory)*
 
 **Ducer {dÜtsër} –** driver
 
-**DVD (*****Digital Video Disc*****) {didjitAl vidEo disk} –** DVD
+**DVD (*****Digital Video Disk*****) {didjitAl vidEo disk} –** DVD
 *(Digital Video Disc)*
 
 **E-buk {ebUk} –** e-book
 
-**Ekran {ekrAn} –** screen
+**Ecran {ekrAn} –** screen
 
 **(Ecran)decor {(ekran)dëkOr} –** wallpaper
 
@@ -7939,7 +7941,7 @@ Memory)*
 
 **Fraumbar {fraombAr} –** scroll bar
 
-**Frequent-ye Anacta Questions (F.A.Q.) {frekwEnt-ye anAkta kestyOns}
+**Frequent-ye Anacta Questions (F.A.Q.) {frEkwënt-ye anAkta këstyOns}
 –** Frequently Asked Questions (F.A.Q.)
 
 **Funed {fÜnëd} –** to merge (table cells)
@@ -7948,7 +7950,7 @@ Memory)*
 
 **Gadget {gAdjët}–** gadget
 
-**Galerie {galerI:} – **galery
+**Galerie {galërI:} – **galery
 
 **Ghyanen code {gyAnën kod} –** open source
 
@@ -8056,9 +8058,9 @@ interpreter)*
 
 **Niklad {niklAd} –** to download
 
-**Ogwnschirm {oguncIrm} –** firewall
+**Ogwnschirm {Oguncirm} –** firewall
 
-**Oisschalt {oiscAlt} –** turn off
+**Oisschalt {oyscAlt} –** turn off
 
 **Operationsysteme {opëratyonsüstEm} –** operating system
 
@@ -8070,7 +8072,7 @@ interpreter)*
 
 **Partition {partityOn} –** partition of a hard disk)
 
-**Personalise {personalIz} –** to customize, to personalize
+**Personalise {përsonalIz} –** to customize, to personalize
 
 **Pfehrster {pfE:rstër} –** cursor, ponteiro do mouse
 
@@ -8088,7 +8090,7 @@ interpreter)*
 
 **Printer {prIntër} –** printer
 
-**Processor {protsësOr} –** processor
+**Processor {protsesOr} –** processor
 
 **Profile {profIl} –** profile
 
@@ -8105,16 +8107,16 @@ RAM *(Random Access Memory)*
 
 **Reclame {rëklAm} –** advertisement
 
-**Recorde {rekOrd} –** to save (a document or process of a software)
+**Recorde {rëkOrd} –** to save (a document or process of a software)
 
-**Recorder {rekOrdër} –** recorder
+**Recorder {rëkOrdër} –** recorder
 
-**Renam {renAm} –** to rename
+**Renam {rënAm} –** to rename
 
-**Retrovert {retrovErt} –** to downgrade *(to bring back an old version
+**Retrovert {rëtrovErt} –** to downgrade *(to bring back an old version
 or state)*
 
-**Rekwehr {rekwE:r} –** to redo
+**Rekwehr {rëkwE:r} –** to redo
 
 **Rewos bar {rEwos bar} –** space bar
 
@@ -8138,7 +8140,7 @@ or state)*
 
 **Smauter {smAotër} –** to view
 
-**Social netwehrg {sotsiAl netwE:rg} –** social network
+**Social netwehrg {sotsiAl nëtwE:rg} –** social network
 
 **Software {softwAr} –** software
 
@@ -8146,7 +8148,7 @@ or state)*
 
 **SPAM –** SPAM
 
-**Sroviswor {srovizwOr} –** power supply
+**Sroviswor {sroviswOr} –** power supply
 
 **Stahgjia {stA:gjya} –** sidebar
 
@@ -8176,7 +8178,7 @@ or state)*
 
 **Touche {tu:tc} –** key (of a keyboard)
 
-**Touchecran {tu:tcekrAn} –** touchscreen
+**Touchecran {tu:tcëkrAn} –** touchscreen
 
 **Trackliste {traklIst} –** playlist
 
@@ -8186,7 +8188,9 @@ or state)*
 
 **Ubklad {ubklAd} –** to upload
 
-**Ubnuw {ubnUw} –** to update
+**Ubnuw {ubnUw} –** update (substantive)
+
+**Ubnuwen {ubnÜwën} -** to update (transitive verb)
 
 **Ubstiumep {ubstyÜmëp} –** to upgrade
 
@@ -8194,7 +8198,7 @@ or state)*
 
 **Utilitat {utilitAt} –** utility
 
-**USB (*****Universal Serial Bus*****) {universAl seriAl bus} –** USB
+**USB (*****Universal Serial Bus*****) {univërsAl sëriAl bus} –** USB
 *(Universal Serial Bus)*
 
 **USB cleich {USB kleytc}–** pendrive
@@ -8230,13 +8234,13 @@ or state)*
 
 **Web {web} –** web
 
-**Webcam {webkAm} –** webcam
+**Webcam {wëbkAm} –** webcam
 
-**Website {websAyt} –** website
+**Website {wëbsIt} –** website
 
-**Webtyohc {webtyO:k} –** feed *(substantive)*
+**Webtyohc {wëbtyO:k} –** feed *(substantive)*
 
-**Wehrgeih {we:rdjE:i} –** play, run
+**Wehrgeih {we:rdjE:i} –** play, run (transitive)
 
 **Windows portfeuyl {windOws portfÖyl} –** Briefcase *(from Microsoft
 Windows)*
@@ -8244,6 +8248,7 @@ Windows)*
 **Zoum apo {zu:m Apo} –** Zoom out
 
 **Zoum prosch {zu:m proc} –** Zoom in
+
 
 ANIMALS
 -------
@@ -8288,7 +8293,7 @@ ANIMALS
 
 **Katelsqual {katëlskwAl} –** killer whale
 
-**Kiep {kyep} –** monkey
+**Kiep {kyep} –** ape
 
 **Kierk {kyErk} –** chicken
 
@@ -8300,7 +8305,7 @@ ANIMALS
 
 **Lion {lyon} –** lion
 
-**Maymoun {maymU:n} – **mico
+**Maymoun {maymU:n} – ** monkey
 
 **Murm {murm} –** ant
 
@@ -8322,7 +8327,7 @@ ANIMALS
 
 **Rat {rat} –** rat
 
-**Schebeck {cëbEk} –** femal emonkey
+**Schebeck {cëbEk} –** female monkey
 
 **Scorpion {skorpyOn} –** scorpion
 
@@ -8343,6 +8348,7 @@ ANIMALS
 **Wersi {wErsi} –** young animal *(one spring old)*
 
 **Wolf {wolf} –** wolf
+
 
 MEASURES
 --------
@@ -8421,7 +8427,7 @@ induction flux
 
 **Mole {mol} (mol) –** mol
 
-**Newton {newtOn} (N) –** newton
+**Newton {nëwtOn} (N) –** newton
 
 **Ohm {o:m} (Ω) –** ohm
 
@@ -8445,11 +8451,11 @@ induction flux
 
 **Srov {srov} –** electric power
 
-**Steradian {steradyAn} (sr) – **steradian
+**Steradian {stëradyAn} (sr) – **steradian
 
 **Stieure {styÖr} –** power
 
-**Temperature {temperatÜr} –** temperature
+**Temperature {tëmpëratÜr} –** temperature
 
 **Tesla {tEsla} (T) –** tesla
 
@@ -8474,7 +8480,7 @@ FAMILY
 
 **Atta {Ata} –** stepfather
 
-**Bint {bint} –** girl
+**Bent {bent} –** girl
 
 **Brater {brAtër} –** brother
 
@@ -8530,7 +8536,7 @@ FAMILY
 
 **Nanander {nanAndër} –** husband’s sister
 
-**Nepot {nepOt} –** nephew
+**Nepot {nëpOt} –** nephew
 
 **Neptia {nEptya} –** niece
 
@@ -8554,7 +8560,7 @@ FAMILY
 
 **Son {son} –** son
 
-**Swelion {swelyOn} –** wife’s sister’s husband
+**Swelion {swëlyOn} –** wife’s sister’s husband
 
 **Swesgen {swEsdjën} –** sibling
 
@@ -8593,7 +8599,7 @@ VARIOUS
 
 **Forest {forEst} –** forest
 
-**Future {futür} –** future
+**Future {futür} –** future (substantive)
 
 **Geront {djërOnt} –** old man
 
@@ -8613,7 +8619,7 @@ VARIOUS
 
 **Majoritat {majoritAt} –** majority
 
-**Memoria {memOrya}** – memory
+**Memoria {mëmOrya}** – memory
 
 **Mensc {mensk} – **human, man *(“man” in the sense of specie)*
 
@@ -8634,12 +8640,12 @@ basic, like reading and very basic calculation*
 
 **Pwarn {pwarn} –** boy
 
-**Secundar talim {sekundAr tAlim} –** *stage when teenagers learns the
+**Secundar talim {sëkundAr tAlim} –** *stage when teenagers learns the
 fundamental*
 
 **Suedos {sÜ:dos} –** property *(quality)*
 
-**Television {televizyOn} – **television
+**Television {tëlëvizyOn} – **television
 
 **Veneg {vEnëg} –** seller
 
@@ -8701,8 +8707,6 @@ INTERJECTIONS
 **Hurrah! {hurA:} –** hooray!
 
 **Iblis! {Iblis} –** deuce! devil!
-
-**Ihali {ihAli} –** *divine will*
 
 **Interjection {intërjëktyOn} –** interjection
 
