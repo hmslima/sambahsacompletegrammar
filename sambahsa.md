@@ -624,7 +624,7 @@ the place of articulation of /h/ is the glottis –, in other words, you
 must articulate the back of your tongue at the uvula. Just below some
 examples in IPA:
 
-spar – /spɐʁ/
+spar – /spaʁ/
 
 cherkin – /t͡ʃəʁ'kin/
 
@@ -654,7 +654,7 @@ piurn – /pjuʁn/
 
 oyr – /ojʁ/
 
-ayr – /ajɺ/
+ayr – /ajʁ/
 
 butour – /bu'tuːʁ/
 
@@ -664,11 +664,11 @@ gurgule – /'guʁgyl/
 
 eurp – /øʁp/
 
-arbust – /ɐʁ'bust/
+arbust – /aʁ'bust/
 
 ender – /'endəʁ/
 
-biaur – /bj'ɐʊʁ/
+biaur – /bj'aʊʁ/
 
 **{s} **– /s/ – like “s” in “**s**ound” or “c” in “ri**c**e”.
 
@@ -920,7 +920,7 @@ VOWELS
 **“ea” {ëa} *****(at the end of a word)***** –** /əa/ – like in “ocean”
 {ots(ë)An} *(ocean) Notice that as the sounds {ë} and {a} aresimilar, in
 practice the “e”, in this case, normally ends being absorbed, in other
-words, it is not pronounced.*
+words, it is not pronounced. In this case, any final consonant - except "s" - shifts the stress on "a", and leads to that pronunciation different from "wakea".*
 
 **“ee” {Eë} –** /eə/ – like in “eet” {Eët} *(*(he/she/it)* was)*
 
@@ -963,7 +963,7 @@ when isolates the letter “w” is pronounced like a short {u} and “y” like
 
 []{#anchor-37}**sehkwnt {sE:kunt} –** (they) follow
 
-**type {tüp} –** guy
+**type {tüp} –** guy; type
 
 But when the letter “y” finds itself at the final of a word or followed
 by a -s, “y” e “ys” respectively will have the sounds {i} and {is}.
@@ -1092,7 +1092,7 @@ pronunciation {wi})*, oCel *(where C is the only consonant)*.
 
 []{#anchor-52}**Suadin – **{swadIn} *(fair weather)*
 
-**Reling –** {rEling} *(rainling)*
+**Reling –** {rEling} *(railing)*
 
 **Kierey –** {kyerEy} *(ram) *
 
@@ -1362,7 +1362,7 @@ made, everything will be explained in the next chapters.
 
 **Chao {tcAo} –** []{#anchor-88}good bye
 
-**Khuda hafiz {qUda hAfiz} –** good bye
+**Khuda hafiz {qUda hAfidz} –** good bye
 
 **Do reviden {do rëvIdën} –** good bye
 
@@ -1397,7 +1397,7 @@ don’t speak much Sambahsa.
 
 **Mien nam est … {myen nam est} –** my name is…
 
-**Io ne prete {yo ne prEte} –** I don't understand ([]{#anchor-91}what
+**Io ne prete {yo ne prEt} –** I don't understand ([]{#anchor-91}what
 you wanted to say)
 
 **Ne ho pretet hol / Ne ho preten hol {ne ho prEtët hol / ne ho prEtën
@@ -1410,7 +1410,7 @@ THE DECLINATION CASES
 =====================
 
 Sambahsa has a interesant caracteristic, it has a system of declination
-cases which are: *nominative*, *accusative*, *dative* and *denitive*.
+cases which are: *nominative*, *accusative*, *dative* and *genitive*.
 These cases refers to the pronouns and articles. But what they are and
 how they are used?
 
@@ -1869,7 +1869,7 @@ Let's see some examples
 
 **Id hand al person {id hand al përsOn} –** the hand of the person
 
-**Id augos cios wir – {id Aogos tsyos wir}** the strength of that man
+**Id augos cios wir – {id Aogos tsyos wir}** the power of that man
 
 **Ia quitances tos munt {ya kitAntsës tos munt} –** the bills of this
 month
@@ -1968,7 +1968,8 @@ as in the words “vasyo” (everything) and “alyo” (another):
 For euphonics effects or literary proposals, like poetry, you can use
 these declinations in other words, for example the indefinite article
 “un”, but often only apply these declinations to the words “vasyo” and
-“alyo”
+“alyo”. Remember however that those "euphonic" declensions can be used
+only if they are compatible with the accentuation of the word
 
 The sentence “un bell pwarn” {un bel pwarn}, which means “a pretty boy”,
 may be written as “uno bello pwarn” {Uno bElo pwarn}.
@@ -2016,7 +2017,7 @@ Look an example:
 
 **The death of Louis –** id mohrt os Louis {id mo:rt os lU:is}
 
-When diverse elements are owners of somethinf, it's interesting to use
+When diverse elements are owners of something, it's interesting to use
 the word “sbei”.
 
 **The house of Paul and Peter –** Paul ed Peter sbei dom
@@ -2075,7 +2076,7 @@ OTHER PREPOSITIONS OF POSSESSION
 
 **Ir {ir} –** their *(masculine, feminine, neutral and undeterminate)*
 
-**Sien {syen} –** his, her, its, their. *Used in the accusative.*
+**Sien {syen} –** his, her, its, their. *Used when it refers to the subject of the sentence.*
 
 **Uns {uns} –** of a(n)
 
@@ -2135,7 +2136,7 @@ case:
 *****for the***** *****(male)***** president –** *ia* manager yisit *id*
 blixbrev *ei* president.
 
-INDEFINIDE ARTICLE
+INDEFINITE ARTICLE
 ------------------
 
 The indefinide article is “un”.
@@ -2144,9 +2145,9 @@ The indefinide article is “un”.
 
 **A wall –** un mur {un mur}
 
-**A girl –** un bint {un bint}
+**A girl –** un bent {un bent}
 
-HOW TO SAY THE CONJUNCTIONS “E” AND “OU”
+HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
 ========================================
 
 I only want to teach already now this two very basic conjuctions,
@@ -2279,7 +2280,7 @@ in a problematic situation []{#anchor-165}**{ correct Ѵ}**
 []{#anchor-166}**Un pateric amor –** []{#anchor-167}a paternal love
 []{#anchor-168}**{ wrong X}**
 
-[]{#anchor-169}**Un patruw amor –** a paternal love []{#anchor-170}**{
+[]{#anchor-169}**Un patruw amor –** a paternal love (attachment) []{#anchor-170}**{
 correct Ѵ}**
 
 []{#anchor-171}**Tod buit monstereus –**
@@ -2295,9 +2296,9 @@ correct Ѵ}**
 Ѵ}**
 
 Sometimes may be not interessant to use a affix for using a substantive
-as adjective, but a preposition like “os” may be a good alternative.
+as adjective, but a preposition like “os” or "es" may be a good alternative.
 
-[]{#anchor-179}**Kamo anon os kwaun –** []{#anchor-180}I like food of
+[]{#anchor-179}**Kamo anon es kwaun –** []{#anchor-180}I like food of
 dog
 
 **Lieubho likes RPGs os table –** []{#anchor-181}I love tabletop RPGs
@@ -2314,7 +2315,7 @@ examples is:
 
 **Kamo kwaun-anon –** I like dog food
 
-**Lieubho likes table-RPGs –** I love tabletop RPGs
+**Lieubho likes table-RPGs –** I love playing tabletop RPGs
 
 Notice that the “table” of “table-RPG” and the “kwaun” of “kwaun-anon”
 are not as adjectives, but as components of a word made throught the
@@ -2399,7 +2400,7 @@ is “wassic”, is for things. Which one use? You choose, I prefered
 “amin”, but wouldn't be wrong to use “wassic”, it depends of the
 person's world perspective.
 
-“Meis” and “minter” are comparative words, now let's talk about
+“Meis” and “minter” (sometimes "mins" instead of "minter", but rare) are comparative words, now let's talk about
 superlatives. But what are superlatives? Look the two examples below:
 
 []{#anchor-195}Charles is taller than Michael
@@ -2453,7 +2454,7 @@ basically the standard form.
 
 Word finished with -um have its final replaced by -a.
 
-**Territorium {tëritOryum} *****(territory)***** –** territoria
+**Territorium {te(r)ritOryum} *****(territory)***** –** territoria
 {te(r)ritOrya} *(territories)*
 
 **Collegium {kolEdjyum} *****(college)***** –** collegia {kol(l)Edjya}
@@ -2477,14 +2478,14 @@ beings)*.
 
 **Magv {magv} *****(child)***** – **magvi {mAgvi} *(children)*
 
-**Kwax {kwaks} *****(croack)***** –** kwaxa {kwAxa} *(croacks)*
+**Kwax {kwaks} *****(croack)***** –** kwaxa {kwAksa} *(croacks)*
 
 **Urx {urks} *****(bear)***** –** urxi {Urksi} *(bears)*
 
 **Rawaj {rawAj} *****(currency unit)***** –** rawaja {rawAja} *(currency
 units)*
 
-**Aux {Aoks} *****(ox)***** –** auxi {Aoksi} *(oxes)*
+**Aux {Aoks} *****(ox)***** –** auxi {Aoksi} *(oxen)*
 
 **Kwas {kwas} *****(cough)***** –** kwasa {kwAza} *(cough)*
 
@@ -2542,31 +2543,29 @@ SOME, FEW, MANY AND OTHERS
 
 **Many *****(adjective)***** –** mult {mult}
 
-**Too (much/many) *****(adverb)***** –** pior {pyor}
+**Too (much/many) *****(adverb or adjective)***** –** pior {pyor}
 
 **Quite *****(adverb)***** – **destull {dëstUl}
 
 **Several –** plur {plur}
 
-**More *****(adverb) (comparative)***** –** meis {meys}
+**More *****(adverb or adjective) (comparative)***** –** meis {meys}
 
-**Less *****(adverb)***** *****(comparative)***** –** minter {mIntër}
+**Less *****(adverb or adjective)***** *****(comparative)***** –** minter {mIntër}; mins {mins}
 
-**Most *****(adverb) (superlative)***** –** meist {meyst}
+**Most *****(adverb or adjective) (superlative)***** –** meist {meyst}
 
 **Less** ***(adverb)***** *****(superlative)***** **– minst {minst}
 
-**Tanto, Tantos – **tant {tant}
+**So much, so many – **tant {tant}
 
 **Each *****(more than two)***** –** ielg {yElg}
 
 **Each *****(of two)*****, either –** Ieter {yEtër}
 
-**All the –** vasyi {vAzyi} *(masculine)*
+**All the –** vasyi {vAzyi} *(masculine & undetermined nominative plural)*
 
-**All the –** vasya {vAzya} *(feminine)*
-
-**All the –** vasyo {vAzyo} *(neutral)*
+**All the –** vasya {vAzya} *(neutral plural nominative & accusative)*
 
 **Some, a few–** oik {oyk}
 
@@ -2617,7 +2616,7 @@ necessary the article)*
 **She is a bit heavy –** Ia est lyt []{#anchor-202}gwaur {ya est lüt
 gwAur}
 
-**Other book –** alter buk {Altër buk}
+**The other book –** alter buk {Altër buk}
 
 **Another book –** alyo buk {Alyo buk}
 
@@ -2650,7 +2649,21 @@ it in your mind:
 country has few beautiful beachs
 
 **Tod land hat *****pau***** bella plaja –** this country has not-very
-beautiful beachs
+beautiful beachs. 
+
+You have surely that some of the above-mentionned words work sometimes
+as an adjective, and sometimes as an adverb. What makes the difference ?
+It is an adjective when it refers to the quantity of the substantive, 
+but an adverb when it refers to the quality of the adjective. 
+
+**Volo lyt cofie -** I want a little of coffee
+
+**Lyt-ye bitter cofie -** Slightly bitter coffee
+
+To make the difference, when there is a risk of confusion, use the
+hyphenated ending "-ye" for adverbs, and, if possible, the "euphonic"
+declensional endings for adjectives. 
+
 
 About “destull”:
 
@@ -2731,7 +2744,7 @@ For numbers like 20, 30, 40, …, 90 you use the suffix -gim
 
 There the numbers 100, 1000, 1000000 and 1000000000:
 
-**100 – cent(om) {tsënt(Om)} –** one hundred
+**100 – cent(om) {tsent / tsëntOm} –** one hundred
 
 **1,000 – mil {mil} –** one thousand
 
@@ -2741,7 +2754,7 @@ There the numbers 100, 1000, 1000000 and 1000000000:
 
 Some examples of numbers:
 
-**23 – dwogim oyn –** twenty three
+**23 – dwogim tri –** twenty three
 
 **130 – cent trigim –** one hundred and thirty
 
@@ -2779,7 +2792,7 @@ Yes, “first” and “second” are irregular, despite be admitted the “dwot
 
 Only the last component needs termination:
 
-**Eleventh –** dec prest
+**Twenty first –** dwogim prest
 
 Know these too:
 
@@ -2834,7 +2847,7 @@ Remember of “million” and “milliard”? They only exist in the
 distributive form. But when the distributive is followed by another
 number, the distributive doesn't more need be in the infinitive.
 
-**1891400 humanos –** Oino million octcent nevgim oino mil quarcent
+**1891400 humans –** Oino million octcent nevgim oino mil quarcent
 mensci
 
 Parts can be indicated by -del.
@@ -2879,39 +2892,39 @@ The days of the week:
 
 **Ardie {ardI:} –** Tuesday
 
-**Credie **[]{#anchor-215}**{kredI:} –** Wednesday
+**Credie **[]{#anchor-215}**{krëdI:} –** Wednesday
 
 **Khamsi {qAmsi} –** Thursday
 
-**Juma **[]{#anchor-216}**{djUma} –** Friday
+**Juma **[]{#anchor-216}**{jUma} –** Friday
 
 **Sabd {sabd} –** Saturday
 
 Here the months:
 
-**Januar {djanuAr} –** January
+**Januar {januAr} –** January
 
-**Februar {februAr} –** February
+**Februar {fëbruAr} –** February
 
 **Mart {mart} –** March
 
 **Aprile {aprIl} –** April
 
-**Mai {may} – **May
+**Mai {mä} – **May
 
-**Jun {djun} –** June
+**Jun {jun} –** June
 
-**Jul {djul} – **July
+**Jul {jul} – **July
 
 **August {aogUst} –** Agust
 
-**September {septEmbër} –** September
+**September {sëptEmbër} –** September
 
 **October {oktObër} –** October
 
 **November {novEmbër} –** November
 
-**December {detsEmbër} –** December
+**December {dëtsEmbër} –** December
 
 To indicate the hours, the best way is putting the number's hour before
 of “saat” {saAt} following the minute's numbers.
@@ -2932,7 +2945,7 @@ The present period of time may be indicated by the prefix ho-:
 
 **Tonight – **honoct
 
-**The evening –** hovesper
+**This evening –** hovesper
 
 But “today” and “this morning” are made in the following ways:
 
@@ -2957,7 +2970,7 @@ There the translations for “tomorrow, “yesterday and their variations:
 
 **Of yesterday –** ghestern
 
-**Before yesterday –** []{#anchor-217}preghes
+**Before yesterday –** []{#anchor-217}preghes {prëgEs}
 
 More important words:
 
@@ -2965,7 +2978,7 @@ More important words:
 
 **Last week –** []{#anchor-219}perhvdi {pEr(h)vdi}
 
-**Every time, every hour –** []{#anchor-220}stets
+**Every time –** []{#anchor-220}stets (used in general with comparatives)
 
 **In times past –** []{#anchor-221}xiawngja {ksyAwngja}
 
@@ -2997,7 +3010,7 @@ the english -ever
 > **Ir gwelsa brungend quodkwe spalt iom armurs –** their shafts taking
 > advantage of any split of the armours
 
-**-libt {libt} –** any *(in the sense of “whichever you want”)*
+**-libt {libd} –** any *(in the sense of “whichever you want”)*
 
 > **Cheus quodlibt fustan {tcös kwOdlibt fustAn} – **Choose any skirt
 > *(the one you prefer)*
@@ -3040,13 +3053,13 @@ also means the verb “like”}*
 
 **Ka {ka} –** as a *(quality, function)*
 
-**It(han) {it(§An)} –** so, this way
+**It(han) {it / i§An} –** so, this way
 
 []{#anchor-222}**Zowngschie {dzowngcI:} /dzowŋ'ʃi/ –** anyway
 
 **-med {med} –** *suffixed to a pronoun in the genitive, it has the
-meaning of “per/through” + instrument. quosmed {kwOsmed} (with what? /
-by which means?); tosmed {tOsmed} (with that / through that means)*
+meaning of “per/through” + instrument. quosmed {kwOsmëd} (with what? /
+by which means?); tosmëd {tOsmed} (with that / through that means)*
 
 **Quayt {kwayt} –** how much, how many *(pronoun)*
 
@@ -3100,7 +3113,7 @@ levtos/dextos.
 
 “Outside” and “inside” are represented respectively for “exo” and “eni”
 *(irregular words)*, are possible forms like extro/extos and
-entros/entos.
+entro/entos.
 
 An adverb of direction can be made per the suffix -worts, like in “Vasya
 fluvs sreunt marworts” {vAsya fluvz srönt marwOrtz} (“all rivers flow to
@@ -3195,7 +3208,7 @@ original form (only the stem). For example: the word “sedd”, as a verb,
 I translate as “to sit” (infinitive of english), but “to sit” in the
 infinitive of sambahsa is “sedde”, not “sedd”. Don't worry that I'll
 warn you when the verb be in the infinitive, I only want that you know
-that when I show you something like “linekw = sair”, don't think that
+that when I show you something like “linekw = to leave”, don't think that
 “linekw” already is the verb in the infinitive. Are we understood?
 
 Let's meet the irregular verbs:
@@ -3207,7 +3220,7 @@ Let's meet the irregular verbs:
 **Woid {woyd} –** to know
 
 []{#anchor-224}“Es”, “hab” and “woid” are verbs in the stem form, the
-infinitive form of them is respectively “ese”, “habe” and “woide”. You
+infinitive form of them is respectively “ses”, “habe” and “woide”. You
 don't need to worry a lot about “es”, “hab” and “woid” since these verbs
 are irregular.
 
@@ -3237,9 +3250,9 @@ Look the very same conjugation from above, but with the pronouns:
 
 **Io som {yo som} –** I am
 
-**Tu/Yu es {tu/yu es} –** you are
+**Tu es {tu es} –** you are
 
-**Is/Ia/Id/I est {is/ya/id est} –** he/she/it is
+**Is/Ia/Id/El est {is/ya/id/el est} –** he/she/it is
 
 **Wey smos {wey smos} –** we are
 
@@ -3260,7 +3273,7 @@ Now let's see the conjugations of the verbs “hab” and “woid”:
 
 **Habmos / Hams {hAbmos / hams} –** *(we)* have
 
-**Yu habte {yu habt} –** *(you)* have *(plural)*
+**Yu habte {yu habd} –** *(you)* have *(plural)*
 
 **Habent / Hant {hAbënt / hant} –** *(they)* have
 
@@ -3282,17 +3295,22 @@ The conjugation of the verbs in the present is made with the following
 terminations:
 
 **1**^**st**^** **[]{#anchor-225}**person singular:** -m *(when after
-the sound of vowel or {y})*, -o *(in other cases)*
+the sound of vowel or {y})*, -o *(in other cases)*. If the stem of the verb ends
+with "-e" or if the addition of "-o" would be incompatible with the
+accentuation, add nothing  but use the personal pronoun "io". 
 
 **2**^**nd**^** person singular:** -s
 
 **3**^**rd**^** person singular:** -t
 
-**1**^**st**^** person plural:** -m(o)s
+**1**^**st**^** person plural:** -m(o)s (use the one compatible with the
+accentuation)
 
-**2**^**nd**^** person plural:** -t(e)
+**2**^**nd**^** person plural:** -t(e) (use "-t" if "-te" is incompatible with 
+the accentuation)
 
-**3**^**rd**^** person plural:** -(e)nt, -e
+**3**^**rd**^** person plural:** -(e)nt, -e (use the one compatible with the
+accentuation)
 
 Let's more one example:
 
@@ -3427,7 +3445,8 @@ terminations:
 
 **1**^**st**^** **[]{#anchor-240}**person singular:** -im
 
-**2**^**nd**^** person singular:** -(i)st(a)
+**2**^**nd**^** person singular:** -(i)st(a) (use what is 
+compatible with the accentuation)
 
 **3**^**rd**^** person singular:** -it
 
@@ -3444,22 +3463,22 @@ of vowel, but it's not mandatory! Look an example below:
 
 []{#anchor-241}**ghyah {gya:} –** to gape
 
-**ghyah + s + it = ghyahsit {gyA:sit} –** gaped
+**ghyah + s + it = ghyahsit {gyA:sit} –** (he/she/it) gaped
 
 An example to you understand:
 
-[]{#anchor-242}***(***[]{#anchor-243}***I)***** broved –** brovim
+[]{#anchor-242}***(***[]{#anchor-243}***I)***** browed –** brovim
 {brOvim}
 
-***(You)***** broved – **brovist {brOvist} *or* brovsta {brOvzta}
+***(You)***** browed – **brovist {brOvist} *or* brovsta {brOvzta}
 
-***(He/she/it)***** broved –** brovit {brOvit}
+***(He/she/it)***** browed –** brovit {brOvit}
 
-***(We)***** broved –** brovam {brovAm}
+***(We)***** browed –** brovam {brovAm}
 
-***(You)***** broved – **brovat {brovAt}
+***(You)***** browed – **brovat {brovAt}
 
-***(They)***** broved –** broveer {brovEër}
+***(They)***** browed –** broveer {brovEër}
 
 “Brovista” is not possible because of the “a” would change the
 accentuation of the word.
@@ -3539,7 +3558,7 @@ respectively for “i” and “u” and is added the termination -es.
 
 **Linekw {lInëkw}** – linkwes {lInkwës} *(to leave)*
 
-**Dreiv {dreyv} –** drives {drivs} *(to drift)*
+**Dreiv {dreyv} –** drives {drivz} *(to drift)*
 
 []{#anchor-247}**Ghieul {giÖl} –** ghiules {gyüls} *(to carbonize)*
 
@@ -3554,7 +3573,7 @@ scribble)*
 
 Let's see a practical example:
 
-**Tehrbo kaupe anon {tE:rbo kawp anOn} –** I have to buy food
+**Tehrbo kaupe anon {tE:rbo kAop anOn} –** I have to buy food
 
 **Tehrb {te:rb} –** have to
 
@@ -3570,7 +3589,8 @@ You've meet an example of the kind:
 
 But verbs that denotes movement you must use the preposition “ad”, which
 you will know with more details in a future chapter. That happens
-because of the sambahsa's verbs behave like substantives.
+because sambahsa infinitives behave like substantives, except that they
+don't use any article.
 
 **Ia ihsit *****ad***** vide sien son {ya I:sit ad vid syen son} –** she
 went []{#anchor-249}to see her son
@@ -3578,13 +3598,13 @@ went []{#anchor-249}to see her son
 A situation where the verb is explicitly used as substantive:
 
 **Is hehlpt iom *****ad***** tarjmes id dictionar do portughesche {is
-he:lpt yom ad tArjmës id diktyonAr do portugEc} –** he helped him to
+he:lpt yom ad tArjmës id diktyonAr do portugEc} –** he helps him to
 translate the dictionary to portuguese
 
 Othe similar situation, but with two verbs in the infinitive:
 
 **(Tu) has gwiven kay hehlpe *****ad***** cree un nov mund {(tu) has
-gwIvën kay he:lp ad crEë un nov mund} –** you has born to help create a
+gwIvën kay he:lp ad crEë un nov mund} –** you have lived to help create a
 new world
 
 FUTURE
@@ -3638,7 +3658,7 @@ below:
 present)*
 
 []{#anchor-253}[]{#anchor-254}***(I)***** will permit – **permittsiem
-{permitsyEm}
+{përmitsyEm}
 
 ***(You)***** will permit –** permittsies {permitsyEs}
 
@@ -3668,7 +3688,8 @@ way:
 
 It's a kinda similar to english.
 
-Sambahsa has the negative version of sie-, which works in the same way,
+Sambahsa has the negative version of sie-, which works in the same way
+(i.e. only as an independent particle, but never as a suffix),
 it's the nie-.
 
 ***(I)***** wont permit –** niem permitte {nyem permIt}
@@ -3749,7 +3770,7 @@ The conjugation of the main verbs:
 
 **Smad ses {smad ses} –** let's be
 
-**Ste {st} –** be
+**Ste {ste} –** be
 
 **Sontu {sOntu} –** *(they)* be
 
@@ -3775,14 +3796,14 @@ stem, with or without the final -e.
 In the 1^st^ person plural it's used the word “smad” *(let's)* with the
 verb in the infinitive.
 
-**Smad linkwes {smad linkwës} –** let's leave
+**Smad linkwes {smad lInkwës} –** let's leave
 
 **Smad edde {smad ed} –** let's eat
 
 In the 2^nd^ person plural, the form is the same used in the simple
 present, but without the personal pronoun.
 
-**Linkwte {lInkut} –** *(you)* eat
+**Linkwte {lInkut} –** *(you)* leave !
 
 **Eddte {edt} -** []{#anchor-261}(*you)* eat
 
@@ -3884,7 +3905,7 @@ Let's work with the following words:
 
 []{#anchor-267}**Pressem {prEsëm} –** to press
 
-[]{#anchor-268}**Scinesd {sInësd} –** to split
+[]{#anchor-268}**Scinesd {sInësd} –** to split (transitive)
 
 []{#anchor-269}**Annem {Anëm} –** to breathe
 
@@ -4051,14 +4072,14 @@ participle:
 
 **-dd / -tt –** ss
 
-**-rt / -rr / -r –** -rs
+**-rt / -rr / -rg –** -rs
 
 **-lg –** ls
 
 **-ct –** -x
 
 Verbs finished in -v follow the same procediment of -t, but only for
-their past participle. If the -v comes after “a” or a consonant, it will
+their past participle. If the -v comes after "o" or "u", it falls, otherwise, it will
 be replaced for -w.
 
 **Solv –** solwt
@@ -4068,6 +4089,7 @@ be replaced for -w.
 In other forms the -v disappears.
 
 **mov – **mot
+
 
 **Clud –** to close
 
@@ -4190,7 +4212,7 @@ exemplos.
 
 **re- –** *as the re- of english*
 
-**Ho tehrben rescribe mien buk –** I have had to rewrite my book
+**Ho tohrben rescribe mien buk –** I have had to rewrite my book
 
 **vi- –** *corresponds to the English adverb “finally”*
 
@@ -4260,7 +4282,7 @@ only must describe the events that actually occurs, no for general
 statements. These consitions are rarely fulfilled.
 
 []{#anchor-274}[]{#anchor-275}**Stahnti medsu iens peinds –** here they
-stay amidst the enemies
+stand amidst the enemies
 
 **Acquiseihmi denars kay likes videogames –** I gain money for playing
 videogames
@@ -4366,7 +4388,7 @@ It means “not to stop doing”, it consists in repeat the fist consonant
 (or sC, Cw, Cy or Cv) before the stem with the addiction of i- or ei-.
 The imperfect tense is made with ee-.
 
-**Dehm *****(to train)***** –** didehm *(to train *without stoping*)*
+**Dehm *****(to tame/to put upright)***** –** didehm *(to tame/to put upright *without stoping*)*
 
 ### THE INTENSIVE
 
@@ -4388,7 +4410,7 @@ It means “to start to keep on doing”. There is apofonies to be observed:
 
 You use the suffix -ye. The imperfect tense is made with ee-.
 
-[]{#anchor-278}**Kwehr- sien itner –** to do it in his/her/its way
+[]{#anchor-278}**Kwehr- sien itner –** to make one's way
 
 **Kwohrye- sien itner –** *it indicates that the action was stopped for
 a time (for example: for the agent to rest) and it continues this action
@@ -4428,7 +4450,7 @@ DATIVE
 ------
 
 **Manoel gives honey to the bears –** Manoel daht mielt im urxims\
-**I’ve bought a present to my wife –** ho kaupen un hadia mien esori\
+**I’ve bought a present to my wife –** ho kaupen un hadia mieni esori\
 **I make furnitures for the houses –** kwehro meublar ibs domims
 
 ADVERBS
@@ -4510,7 +4532,7 @@ in all the other cases you use the gerund. Look some examples:
 
 **He ate the cake looking at me –** Is essit id torte spehcend-ye me
 
-**They *****(women)***** died working –** Ias mohrseer orbatend-ye
+**They *****(women)***** died working –** Ias mohreer orbatend-ye
 
 If I’ve wrote “Is essit id torte spehcend me” *(without the -ye in the
 gerund)* it would mean that is the cake that is looking me, I hope that
@@ -4601,7 +4623,7 @@ the place of “od”.
 
 **I desire that he learns sambahsa –** vanscho kem is euct Sambahsa
 
-**That our team win the enemy team and win the european soccer champion
+**That our team win the enemy team and become the european soccer champion
 –** Ke nies swoin vinct id peindswoin ed biht Europes football champion
 
 **Let’s fake that the glass have become so soft as gauze to we can go
@@ -4777,7 +4799,7 @@ Which T-shirt are you going to use?
 
 I am going to use *my newer one*
 
-Qualg camiss vahte yu vehse?
+Qualg tischert vahte yu vehse?
 
 Vahm vehse *mien nov(er)*
 
@@ -4785,7 +4807,7 @@ My little fish is like of the neighbor*’s one* before die
 
 Mien lytil pisk est lik *tal* ios nieber pre mehre
 
-Here the complete sentence: Mien lytil pisk est lik tal al pisk ios
+Here the complete sentence: Mien lytil pisk est lik al pisk ios
 nieber pre mehre
 
 PARTICIPLES
@@ -4822,7 +4844,7 @@ ACTIVE PAST
 
 For forming the active participle of the past, it’s enough to add the
 suffix -us or -vs *(it’ll depend of what gives the better pronunciation
-to the word)*.
+to the word and of its accentuational patterns)*.
 
 **Dank spollay ob gwehmus hetro –** thank you very much for coming here
 
@@ -4860,7 +4882,8 @@ why.
 
 ### OTHER WAY OF EXPRESSING THE PAST TENSE, THE PRESENT PERFECT
 
-It’s the same as in english.
+It’s the same as in English but the Sambahsa tense can refer to actions that don't 
+last anymore, even if they still have consequences.
 
 **Ho edden –** I’ve eaten
 
@@ -6562,7 +6585,7 @@ SUFFIXES
 
 ### EXPRESSING QUALITY OR STATE
 
-In some cases it's added the suffix -e and it's submited to apophony.
+In some cases it's added the suffix -e and it's submited to apophony if possible.
 
 **Long \[long\] (length) –** longe \[londj\] (lengthness)
 
@@ -6830,7 +6853,7 @@ absurd sentence.
 Now see the sentence how it should be translated:
 
 **I asked my father for money –** prohgim mien pater ke mi daht denars
-*(**literally:** I asked my father that he dive me money)*
+*(**literally:** I asked my father that he give me money)*
 
 Notice that “mi” is in the dative case
 
@@ -6975,7 +6998,8 @@ attention* (to = dative)*, to demand* (something)*
 
 **Clud {klud} –** to close
 
-**Comprehend {komprEhënd} –** to comprehend
+**Comprehend {komprehEnd} –** to comprehend (to have comprehension
+for)
 
 **Credeih {krëdE:y} –** to believe
 
@@ -7016,11 +7040,11 @@ attention* (to = dative)*, to demand* (something)*
 **Em {em} –** to take *(in the sense of “take a train” or “take a
 decision”)*
 
-**(En)schalt {(en)cAlt} –** to switch *(a machine)*
+**(En)schalt {(en)cAlt} –** to switch (on) *(a machine)*
 
 **Entre {Entrë} –** to enter
 
-**Euc {ök} –** to study
+**Euc {ök} –** to learn
 
 **Exporte {ekspOrt} –** to export
 
@@ -7028,13 +7052,13 @@ decision”)*
 
 **Faungmoen {faongmOyn} –** to pay a visit to
 
-**Feug {fög} –** flee
+**Feug {fög} –** to flee (from)
 
 **Fineih {finE:y} –** to finish
 
 **Fleurt {flört} –** to flirt
 
-**Folossie {folosI:} –** to use, to capitalize on
+**Folossie {folosI:} –** to use, to make use of
 
 **Fortrehc {fortrE:k} –** to depart, to go off *(for a travel)*
 
@@ -7066,7 +7090,7 @@ you can say “bringhes do luce”)*
 **Gvaedd {gvayd} –** to guess
 
 **Gvehd *****&lt;something&gt; &lt;from someone&gt;*****{gve:d} –** to
-pray *(for something from someon, like in “I nowngmins gvehde seuy ud
+pray *(for something from someone, like in “I nowngmins gvehde seuy ud
 Div”, which means “the peasants pray for rain from God”)*
 
 **Gwah {gwa:} –** to go to
@@ -7106,7 +7130,7 @@ second movie takes place in China”)*
 
 **Kaup {kAop} –** to buy
 
-**Kaur {kAor} –** to care
+**Kaur {kAor} –** to care (for = "de")
 
 **Keung {köng} –** to hesitate, to delay
 
@@ -7126,7 +7150,7 @@ second movie takes place in China”)*
 
 **Klu {klu} –** *past tense of “kleu”*
 
-**Kurihen {kurIhën} –** accquire *(by buying)*
+**Kurihen {kurIhën} –** to purchase
 
 **Kussen {kUsën} –** to kiss
 
@@ -7142,7 +7166,7 @@ second movie takes place in China”)*
 
 **Leis {leys} –** to read
 
-**Leips {leypz} –** to miss *(a deadline)*
+**Leips {leypz} –** to miss *(a deadline, a bus...)*
 
 **Leit {leyt} –** to go, to run *(figurative sense)*
 
@@ -7156,7 +7180,7 @@ second movie takes place in China”)*
 
 **Lis {lis} –** *past tense of “leis”*
 
-**Lites {litz} –** *infinitive form of “leit”*
+**Lites {lits} –** *infinitive form of “leit”*
 
 **Localise {lokaliz} –** to locate
 
@@ -7166,9 +7190,9 @@ second movie takes place in China”)*
 
 **Man {man} –** to stay
 
-**Manage {manAdj} –** to manage
+**Manage {manAdj} –** to manage (something, to take good care of)
 
-**Mank {mank} –** to lack, to be lacking
+**Mank {mank} –** to lack, to be lacking (intransitive)
 
 **Maximise {maksimIz} –** to maximize
 
@@ -7181,7 +7205,7 @@ signals to his son that the dictionary has errors”);* to pray
 
 **Mehn {me:n} –** to think
 
-**Meil {meyl} –** to prefer
+**Meil {meyl} –** to prefer, to like
 
 **Meuk {mök} –** to release
 
@@ -7204,7 +7228,7 @@ reasons to
 
 **Namor {namOr} –** to date *(like in “John and Mary are dating”)*
 
-**Naudh {nAod} –** to need
+**Naudh {nAod} –** to need, require
 
 **Nayd {nayd} –** to scoff at
 
@@ -7247,10 +7271,8 @@ reasons to
 
 **Poitt {poyt} –** to have the right to, to be entitled to
 
-**Prehg {pre:g} –** to pray
-
 **Prehg *****&lt;someone&gt;***** ke(m) {pre:g &lt;&gt; ke(m)} –** to
-ask *(like in “Henrique prehct Olivier kem (is) ei antwehrdt”, which
+ask, to pray *(like in “Henrique prehct Olivier kem (is) ei antwehrdt”, which
 means “Henrique asks Olivier for an answer”)*, to talk *(in the sense of
 “to talk with someone about a matter”)*
 
@@ -7316,7 +7338,7 @@ use the emblem of his house”)*
 
 **Sok {sok} –** to investigate
 
-**Solle {sol} –** must *(probability)*
+**Soll {sol} –** must *(probability)*
 
 **Spar {spar} –** to spare, to save *(like in “save money”)*
 
@@ -7331,9 +7353,10 @@ use the emblem of his house”)*
 sprehct Lee quer is weict in Brasilu”, que significa “Smith asks Lee
 where he lives in Brazil”)*
 
-**Sprehng {spre:ng} –** to spring, to explode, to burst
+**Sprehng {spre:ng} –** to spring, to explode, to burst (intransitive;
+the transitive is "spraneg")
 
-**Stehm {ste:m} –** to support *(a person or an idea)*
+**Stehm {ste:m} –** to support *(a person, an idea, something)*
 
 **Stehnk {ste:nk} –** to stink
 
@@ -7365,7 +7388,7 @@ dinner” or “I have to work”)*
 
 **Trehc {tre:k} –** to displace (oneself)
 
-**Trehv {tre:v} –** to find, to find
+**Trehv {tre:v} –** to find, to meet (transitive)
 
 **Ubklad {ubklAd} –** to upload *(a file)*
 
@@ -7411,7 +7434,7 @@ link in “strong alcohol”)*
 
 **Bell {bel} –** beautiful
 
-**Bert {bert} –** brighty
+**Bert {bert} –** bright
 
 **Biaur {byAor} –** ugly
 
@@ -7459,7 +7482,7 @@ quality)*
 
 **Kiest {kyest} –** clean *(pure)*
 
-**Latif {lAtif} –** pure
+**Latif {lAtif} –** kind (adjective)
 
 **Lent {lent} –** slow
 
@@ -7513,7 +7536,7 @@ quality)*
 
 **Trauric {trAorik} –** sad, mourning
 
-**Trist {trist} –** sad thing
+**Trist {trist} –** sad (thing)
 
 **Dussaun {dusAon} –** unhealthy
 
@@ -7532,7 +7555,7 @@ BODY
 
 **Aur {Aor} –** ear
 
-**Badan {badAn} –** organism
+**Badan {badAn} –** organism (when refering to the body)
 
 **Bagu {bAgu} –** forearm
 
@@ -7580,7 +7603,7 @@ BODY
 
 **Jamb {jamb} –** leg
 
-**Kays {kays} –** hair
+**Kays {kays} –** hair (on the head)
 
 **Kers {kers} –** brain
 
@@ -7666,7 +7689,7 @@ BODY
 
 **Xiongbu {ksyOngbu} –** chest
 
-**Yowkjitia {yowkjItya} –** body (of a living being)
+**Yowkjitia {yowkjItya} –** body (when refering to a living being)
 
 COLORS
 ------
@@ -7697,1064 +7720,3 @@ meaning.*
 **Pemb {pemb} –** pink
 
 **Rudh {rud} –** red
-
-**Sword {sword} –** black
-
-**Violett {violEt} –** purple
-
-COMPUTING
----------
-
-As certain terms, especially acronyms, from the english language have
-wide acceptation in the world, maybe it's more convenient to use the
-original terms, like VGA, which in sambahsa is VGT. Well, do what you
-think that is the better.
-
-Do you remember what I told about the verbs in the infinitive form? If
-not, please go back to the subchapter VERBS in this chapter VOCABULARY.
-
-If you want to translate a software to sambahsa and don't know whether
-you should translate the commands to the infinitive form or imperative
-form, see here the explanation of how it must be made:
-
--   Commands given to the computer by the user are translated in the
-    infinitive form. ***Example:** abonne in id forum *(subscribe in the
-    forum)*; rename archive *(rename file)*; yises blixbrev *(send
-    email)
--   Commands given to the user by the computer are translated in the
-    imperative form. ***Example:** contact nos *(contact us)*; click her
-    *(click here)*; yeis nos un blixbrev *(send us an email)
-
-[]{#anchor-284}**Abonn {abOn} –** to subscribe
-
-**Abonnent {abOnënt} –** subscriber
-
-**Abonnment {abOnmënt} –** subscription
-
-**Adresse bar {adrEs bar} –** adress bar
-
-**AI (Artificial Inteligence) {artifitsiAl intëlidjEnts} –** AI
-(*Artificial Inteligence*)
-
-**Alat bar {alAt bar} –** toolbar
-
-**Alatengjia {alAtëngjya} –** toolbar
-
-**Algorithme {algorI§m(ë)} –** algorithm
-
-**Alveycomputing {alveykompUting} –** cloud computing
-
-**Analogic {analOdjik} –** analogic
-
-**Antivirus {antivIrus} –** antivírus
-
-**Anyow {anyOw} –** password
-
-**Application {aplikatyOn} –** application
-
-**Archive {artcIv} –** file
-
-**Arrange {arAndj} – **to format (a text)
-
-**Attache {atAtc} –** to attach (a file)
-
-**Aunviel {aonvyEl} –** wireless
-
-**Aunkabel {aonkAbël} –** wireless
-
-**Aurphone {aorfOn} –** headset, headphone
-
-**BD *****(Blou-rai)***** {blu:-rä} –** BD *(Blue-ray)*
-
-**Bichoun {bitcU:n} –** layout
-
-**Binar {binAr} –** binary
-
-**Blixbrev {blIksbrëv} –** e-mail
-
-**Blog {blog} –** Blog
-
-**Bluetooth {blu:tU§} –** bluetooth
-
-**Browser {brOwzër} –** web browser
-
-**Bukmark {bukmArk} –** bookmark (of the web browser or page of
-document)
-
-**Cadre per secunde {kAdr per sekÜnd} –** frame per second
-
-**CD *****(compacto disk)***** {kompAkto disk} –** CD *(compact disk)*
-
-**Cell(ule) {tsEl(ül)} –** cell of a spreadsheet
-
-**(Central) processor {(tsentrAl) protsesOr} –** CPU *(Central
-Processing Unit)*
-
-**Channel {tcAnël} –** channel (of radio, television, etc)
-
-**Chip {tcip} –** electronic chip
-
-**Claviatolk {klavyatOlk} –** CHAT
-
-**Claviature {klaviatÜr} –** keyboard
-
-**Cleichwerd {klEytcwërd} –** key-word
-
-**Click {klik} –** click
-
-**Codec {kOdëk} –** codec
-
-**Colunn {kolUn} –** column
-
-**Compiler {kompIlër} –** compiler
-
-**Computer {kompÜtër} –** computer
-
-**Computerdorak {kompütërdorAk} –** computer case, computer chassis,
-tower, system unit, cabinet, base unit
-
-**Configuration {konfiguratyOn} –** configuration
-
-**Connect {konEkt} –** connect
-
-**Cont(o) {kOnt(o)} –** account
-
-**Converter {konvErtër} –** converter
-
-**Converte {konvErt} –** to convert
-
-**Copie {kopI:} –** copy
-
-**Cursive texte {kursIv text} –** italic text
-
-**Daftarnukta {daftarnUkta} –** bullet *(graphic symbol like •, ◦, ‣)*
-
-**Dakhelpage {dakhëlpAdj} –** home page
-
-**Data {dAta} –** dada
-
-**Databank {databAnk} –** databank
-
-**Database {databAz} –** database
-
-**Datenbank {datënbAnk} –** data bank
-
-**Datensklad {datënsklAd} –** DRIVE *(Data storage device)*
-
-**Datia {dAtya} –** file
-
-**Datum {dAtum} –** datum
-
-**DD - darm disk {darm disk} –** HD - disco rígido *(Hard Disk Drive)*
-
-**Defect {dëfEkt} – **BUG
-
-**Desinstalle {dësinstAl} –** to uninstall
-
-**Desfragmente {desfragmEnt} –** to defragment (a partition)
-
-**Desktop {desktOp} –** desktop
-
-**Diaporama {dyaporAma} –** apresentação de slides
-
-**Digital {didjitAl} –** digital
-
-**Disayn {dizAyn} –** design
-
-**Disayner {dizAynër} –** designer
-
-**Diskette {diskEt} –** disquete
-
-**Diskwehr {diskwE:r} –** to undo
-
-**DM *****(darmo memoria)***** {dArmo memOrya} –** ROM *(Read-Only
-Memory)*
-
-**Document {dokÜmënt} –** document
-
-**Documentation {dokumëntatyOn} –** documentation
-
-**Dossier {dosyEr} –** folder
-
-**Drucken {drUkën} –** print
-
-**Ducer {dÜtsër} –** driver
-
-**DVD (*****Digital Video Disc*****) {didjitAl vidEo disk} –** DVD
-*(Digital Video Disc)*
-
-**E-buk {ebUk} –** e-book
-
-**Ekran {ekrAn} –** screen
-
-**(Ecran)decor {(ekran)dëkOr} –** wallpaper
-
-**Ecransparer {ekranspArër} –** screensaver
-
-**Edeih {edE:y} –** to edit
-
-**Editor {editOr} –** editor
-
-**Emulator {emulatOr} –** emulator
-
-**Enmercatnotes {enmErkatnots} –** release notes
-
-**error {erOr} –** error
-
-**Extension {ekstënsyOn} –** complement, extention, add-on
-
-**Exter ligne {ekstër lInye} –** offline
-
-**Extrag {ekstrAg} –** to cut
-
-**Fenster {fEnstër} –** window
-
-**Format {formAt} –** to format (a hard disc or text)
-
-**Formulire {formulIr} –** form
-
-**Forum {fOrum} –** forum
-
-**Fraumbar {fraombAr} –** scroll bar
-
-**Frequent-ye Anacta Questions (F.A.Q.) {frekwEnt-ye anAkta kestyOns}
-–** Frequently Asked Questions (F.A.Q.)
-
-**Funed {fÜnëd} –** to merge (table cells)
-
-**Gadabeih {gadabE:y} –** to format (a text)
-
-**Gadget {gAdjët}–** gadget
-
-**Galerie {galerI:} – **galery
-
-**Ghyanen code {gyAnën kod} –** open source
-
-**Gleim {gleym} –** to paste
-
-**GNI *****(graphic (neuder) interface)***** {grAfik (nÖdër) intërfAts}
-–** GUI *(Graphical User Interface)*
-
-**Graphic {grAfik} –** graphic *(adjective)*
-
-**Graphic ambient {grAfik ambyEnt} –** graphical environment
-
-**Graphic pianji {grAfik pyAnji} –** drawing tablet
-
-**Graphique {grafIk} –** graphic *(substantive)*
-
-**Hacker {hAkër} –** hacker
-
-**Hardware {hardwAr} –** hardware
-
-**Hissabpianji {hisabpyAnji} –** spreadsheet
-
-**HDMI *****(Hog-definition multimedia interface)***** {hog dëfinityOn
-multimEdya intërfAts} –** HDMI *(High-Definition Multimedia Interface)*
-
-**Hol ecran {hol ekrAn} –** full screen
-
-**Hyperlink {hüpërlInk} –** hiperlink
-
-**IA (integren antplehcensambient) {intEgrën antple:tsënsambyEnt} –**
-IDE *(Integrated Development Environment)*
-
-**Icon {ikOn} –** icon
-
-**Indentation {indëntatyOn} –** indentation
-
-**Informatique {informatIk} –** computing
-
-**Infrarudh {infrarUd} –** infrared
-
-**In ligne {in lInye} –** online
-
-**Installe {instAl} –** to install
-
-**Internet {intërnEt} –** internet
-
-**Interpreter {intërprEtër} –** interpreter *(like a Java or Python
-interpreter)*
-
-**(Computer) joystick {(compÜtër) joystIk} –** joystick
-
-**Kabel {kAbël} –** cable
-
-**Khatem {qAtëm} –** Game Over
-
-**Klad {klad} –** to load
-
-**Klink {klink} –** tab (of a window, like the tabs of Mozilla Firefox)
-
-**Knop {knop} –** button
-
-**Laptop {laptOp} –** laptop
-
-**Leikstyr {lEykstür} –** game controller
-
-**Leiser {lEyzër} –** reader
-
-**Leur software {lör softwAr} –** free software
-
-**Ligne {lInye} –** line
-
-**Log in {log in} –** login, logon
-
-**Log ex {log eks} –** logout, logoff
-
-**Materplack {matërplAk} –** motherboard
-
-**Mediatolker {medyatOlkër} –** media player
-
-**Memoria carte {memOrya kart} –** memory card
-
-**Metadata {metadAta} –** metadada
-
-**Metadatum {metadAtum} –** metadatum
-
-**Microphone {mikrofOn} –** microphone
-
-**Miniature {miniatÜr} –** thumbnail
-
-**Mobilphone {mobilfOn} –** cell phone
-
-**Modem {mOdëm} –** modem
-
-**Monitor {monitOr} –** monitor
-
-**Mus {mus} –** mouse
-
-**Musictolker {muziktOlkër} –** music player
-
-**Muspad {muspAd} –** mousepad
-
-**Mov {mov} –** to move
-
-**Netwehrg {netwE:rg} –** network
-
-**Niklad {niklAd} –** to download
-
-**Ogwnschirm {oguncIrm} –** firewall
-
-**Oisschalt {oiscAlt} –** turn off
-
-**Operationsysteme {opëratyonsüstEm} –** operating system
-
-**Operative systeme {opëratIv süstEm} –** operating system
-
-**Pack {pak} –** pack *(set of softwares)*
-
-**Panell {panEl} –** panel
-
-**Partition {partityOn} –** partition of a hard disk)
-
-**Personalise {personalIz} –** to customize, to personalize
-
-**Pfehrster {pfE:rstër} –** cursor, ponteiro do mouse
-
-**(Computer) pianji {(kompÜtër) pyAnji} –** tablet
-
-**Piwer texte {pIwër text} –** bold text
-
-**Plug-in {plug-In} –** plugin
-
-**Podcast {podkAst} –** podcast
-
-**Post {post} –** post *(substantive)*
-
-**Primark lurhat {primArk lurhAt} –** markup language
-
-Printer {prIntër} – printer
-
-Processor {protsësOr} – processor
-
-Profile {profIl} – profile
-
-Programmation lurhat {programatyOn lurhAt} – programing language
-
-Programme {progrAm} – to program, to code
-
-**Pung {pung} –** button
-
-**Puwen {pÜwën} –** to debug
-
-**RAM *****(random access memoria)***** {randOm ak(t)sEs mëmOrya} –**
-RAM *(Random Access Memory)*
-
-**Reclame {rëklAm} –** advertisement
-
-**Recorde {rekOrd} –** to save (a document or process of a software)
-
-**Recorder {rekOrdër} –** recorder
-
-**Renam {renAm} –** to rename
-
-**Retrovert {retrovErt} –** to downgrade *(to bring back an old version
-or state)*
-
-**Rekwehr {rekwE:r} –** to redo
-
-**Rewos bar {rEwos bar} –** space bar
-
-**Rinkap {rinkAp} –** to reset
-
-**Roig {royg} – **line *(spreadsheet)*
-
-**Router {rU:tër} –** router
-
-**Salvguarde {salvgwArd} –** backup
-
-**Scanner {skAnër} –** scanner
-
-**Schalter {cAltër} –** on-off switch
-
-**Schrift {crift} –** font *(typeface)*
-
-**Server {sErvër} –** server
-
-**Smartphone {smartfOn} –** smartphone
-
-**Smauter {smAotër} –** to view
-
-**Social netwehrg {sotsiAl netwE:rg} –** social network
-
-**Software {softwAr} –** software
-
-**Sokmotor {sokmotOr} –** search engine
-
-**SPAM –** SPAM
-
-**Sroviswor {srovizwOr} –** power supply
-
-**Stahgjia {stA:gjya} –** sidebar
-
-**Strehmen {strE:mën} –** streaming
-
-**Substrichen texte {substrItcën tekst} –** underlined text
-
-**Suppressem {suprEsëm} –** to delete
-
-**Surce code {surts kod} –** source code
-
-**Swoglehmber {swoglE:mbër} –** booting
-
-**Swoncarte {swonkArt} –** sound card
-
-**Swonkwatel {swonkwAtël} –** speaker
-
-**Synchronise {sünkronIz} –** to sync
-
-**Tab(ulation) {tab(ulatyOn)} –** tabulation
-
-**Texte futliar {text futlyAr} –** text box
-
-**Textenbeorbater {tekstënbeorbAtër} –** text processor
-
-**Topic {tOpik} –** topic, thread (of a forum)
-
-**Touche {tu:tc} –** key (of a keyboard)
-
-**Touchecran {tu:tcekrAn} –** touchscreen
-
-**Trackliste {traklIst} –** playlist
-
-**Transistor {transistOr} –** transistor
-
-**TV carte {TV kart} –** capture card
-
-**Ubklad {ubklAd} –** to upload
-
-**Ubnuw {ubnUw} –** to update
-
-**Ubstiumep {ubstyÜmëp} –** to upgrade
-
-**Uperswehp {üpërswE:p} –** to hibernate
-
-**Utilitat {utilitAt} –** utility
-
-**USB (*****Universal Serial Bus*****) {universAl seriAl bus} –** USB
-*(Universal Serial Bus)*
-
-**USB cleich {USB kleytc}–** pendrive
-
-**Vector image {vëktOr imAdj} –** vector image
-
-**Vectorial image {vëktoryAl imAdj} –** vector image
-
-**VGT *****(Video Graphique Tehxen)***** {vidEo grafIk tE:ksën} –** VGA
-*(Video Graphics Array)*
-
-**Video {vidEo} –** video
-
-**Videogame {videogAm} –** video game console
-
-**Videocarte {videokArt} –** video card
-
-**Videoleik {videolEyk} –** video game console
-
-**Videotolker {videotOlkër} –** video player
-
-**Wi-fi {wi-fi} –** wi-fi
-
-**Virtual {virtuAl} –** virtual
-
-**Virus {vIrus} –** virus
-
-**Viel {vyel} –** thread, wire
-
-**Voltage-tuler {voltAdj tÜlër} –** power strip, surge protector
-
-**Volume {volÜm} –** volum
-
-**Web {web} –** web
-
-**Webcam {webkAm} –** webcam
-
-**Website {websAyt} –** website
-
-**Webtyohc {webtyO:k} –** feed *(substantive)*
-
-**Wehrgeih {we:rdjE:i} –** play, run
-
-**Windows portfeuyl {windOws portfÖyl} –** Briefcase *(from Microsoft
-Windows)*
-
-**Zoum apo {zu:m Apo} –** Zoom out
-
-**Zoum prosch {zu:m proc} –** Zoom in
-
-ANIMALS
--------
-
-**Arank {arAnk} –** spider
-
-**Aux(an) {Aoks / aoksAn} –** ox
-
-**Av {av} –** bird
-
-**Ayg {ayg} –** female goat
-
-**Aygur {aygUr} –** stallion
-
-**Baleina {balEyna} –** whale
-
-**Baul {bawl} –** bat
-
-**Bei {bey} –** bee
-
-**Bock {bok} –** male goat
-
-**Brank {brank} –** beetle
-
-**Cat {kat} –** cat
-
-**Cavall {kavAl} –** horse
-
-**Cuincule {kwInkül} –** rabbit
-
-**Delphin {dëlfIn} –** dolphin
-
-**Gall {gal} –** rooster, cock
-
-**Gaydh {gayd} –** goat *(it can be used as adjective)*
-
-**Ghelon {gëlOn} –** turtle
-
-**Ghimer {gImër} –** young animal *(one winter-old)*
-
-**Gwow {gwow} –** cow, bovine animal
-
-**Katelsqual {katëlskwAl} –** killer whale
-
-**Kiep {kyep} –** monkey
-
-**Kierk {kyErk} –** chicken
-
-**Kunia {kUnya} –** she-dog, bitch
-
-**Kwaun {kwAon} –** dog
-
-**Leopard {leopArd} –** leopard
-
-**Lion {lyon} –** lion
-
-**Maymoun {maymU:n} – **mico
-
-**Murm {murm} –** ant
-
-**Mus {mus} –** mouse
-
-**Musch {muc} –** fly
-
-**Ornd {ornd} –** eagle
-
-**Ow {ow} –** sheep
-
-**Pelpel {pElpël} –** butterfly
-
-**Pinguin {pingwIn} –** penguin
-
-**Pisk {pisk} –** fish
-
-**Pork {pork} –** pig
-
-**Rat {rat} –** rat
-
-**Schebeck {cëbEk} –** femal emonkey
-
-**Scorpion {skorpyOn} –** scorpion
-
-**Serpent {sErpënt} –** serpent, snake
-
-**Shamyu {xAmyu} –** shark
-
-**Sill {sil} –** seal
-
-**Taur {tAor} –** bull
-
-**Tigher {tIgër} –** tiger
-
-**Urx {urks} –** bear
-
-**Vulp(ek) {vUlp(ëk)} –** fox
-
-**Wersi {wErsi} –** young animal *(one spring old)*
-
-**Wolf {wolf} –** wolf
-
-MEASURES
---------
-
-**Absorpt energia dose {absOrpt enErdjya doz} –** absorbed dosis *(total
-ionizing dose)*
-
-**Ampere {ampEr} (A) –** ampere
-
-**Becquerel {bëkErël} (Bq**) – becquerel
-
-**Candela {kandEla} (cd) –** candela
-
-**Catalytic activitat {katalÜtik aktivitAt} –** catalytic activity
-
-**Celsius grade {tsElsyus grAd} (°C) –** Celsius grade
-
-**Dwinegh {dwInëg} –** force *(in context of pressure)*
-
-**Electric capacitat {elEktrik kapatsitAt} –** electric capacity
-
-**Electric charge {elEktrik tcardj} –** electric charge
-
-**Electric conductance {elEktrik konduktAnts} –** electric conductance
-
-**Electric inductance {elEktrik induktAnts} –** electric inductance
-
-**Electric resistence {elEktrik rezistEnts} –** electric resistence
-
-**Electromot force {elëktromot forts} –** electromotive force
-
-**Energia {enErdjya} –** energy
-
-**Equivalent dose {ekivAlënt doz} –** equivalent dose
-
-**Farad {farAd} (F) –** farad
-
-**Force {forts} –** force
-
-**Frequence {frëkEnts} –** frequence
-
-**Gray {gray} (Gy) –** gray
-
-**Gwayder flux {gwAydër fluks} –** luminous flux
-
-**Gwayder intensitat {gwAydër intënsitAt} –** luminous intensity
-
-**Henry {hEnri} (H) –** henry
-
-**Hertz {hertz} (Hz) –** hertz
-
-**Joule {ju:l} (J) –** joule
-
-**Katal {katAl} (kat) –** katal
-
-**Kelvin {kelvIn} (k) –** kelvin
-
-**Kilogramme {kilogrAm} (kg) –** kilogram
-
-**Kweitergwis {kwEytërgwis} –** illuminance
-
-**Longe {londj} –** length
-
-**Lumen {lÜmën} (lm) –** lumen
-
-**Lux {luks} (lx) –** lux
-
-**Magnetic induction {manyEtik induktyOn} –** magnetic induction
-
-**Magnetic induction flux {manyEtik induktyOn fluks} –** Magnetic
-induction flux
-
-**Masse {mas} –** mass
-
-**Meter {mEtër} (m)–** meter
-
-**Mole {mol} (mol) –** mol
-
-**Newton {newtOn} (N) –** newton
-
-**Ohm {o:m} (Ω) –** ohm
-
-**Pascal {paskAl} (Pa) –** pascal
-
-**Plane angule {plan Angül} –** plane angle
-
-**Pressem {prEsëm} –** pressure
-
-**Radian {radyAn} (rad) –** radian
-
-**Radioactivitat {radyoaktivitAt} –** radioactivity
-
-**Secunde {sekUnd} (s) –** second
-
-**Siemens {syEmëns} (S) –** siemens
-
-**Sievert {syEvërt} (Sv) –** sievert
-
-**Solid angule {sOlid Angül} –** solid angle
-
-**Srov {srov} –** electric power
-
-**Steradian {steradyAn} (sr) – **steradian
-
-**Stieure {styÖr} –** power
-
-**Temperature {temperatÜr} –** temperature
-
-**Tesla {tEsla} (T) –** tesla
-
-**Volt {volt} (V) –** volt
-
-**Wakel {wAkël} –** batch, quantity
-
-**Wakt {wakt} –** time *(duration)*
-
-**Weber {wEbër} (Wb) –** weber
-
-**Wehrg {we:rg} –** work
-
-**Watt {wat} (W) –** watt
-
-FAMILY
-------
-
-**Aja {Aja} –** granny, grandma
-
-**Amma {Ama} –** adoptive mother
-
-**Atta {Ata} –** stepfather
-
-**Bint {bint} –** girl
-
-**Brater {brAtër} –** brother
-
-**Cousin {ku:zIn} –** cousin
-
-**Cummater {kummAtër} –** godmother
-
-**Cumpater {kumpAtër} –** godfather
-
-**Daiwer {dÄwër} –** brother-in-law
-
-**Dugter {dUgtër} –** daughter
-
-**Eln {eln} –** child, puppy
-
-**Esor {ezOr} –** wife
-
-**Ewo {Ewo} –** grandpa, grandad
-
-**Familia {famIlya} –** family
-
-**Fiancee {fyantsEë} –** fiancee
-
-**Fianceo {fyantsEo} –** fiancé
-
-**Gelou {djëlU:} –** sister-in-law
-
-**Gemer {djEmër} –** sister’s husband
-
-**Genealogic dru {djënealOdjik dru} –** family tree
-
-**Grandmater {grandmAtër} –** grandmother
-
-**Grandpater {grandpAtër} –** grandfather
-
-**Gvibh {gvib} –** wife
-
-**Ienter {yEntër} –** husband’s brother’s wife
-
-**Kerab {kërAb} –** relative
-
-**Kerdprient {kërdpryEnt} –** boyfriend
-
-**Kerdprientin {kërdpryentIn} –** girlfriend
-
-**Kweil {kweyl} –** girl
-
-**Mann {man} –** husband
-
-**Mater {mAtër} –** mother
-
-**Matruw {matrUw} –** maternal uncle
-
-**Nanander {nanAndër} –** husband’s sister
-
-**Nepot {nepOt} –** nephew
-
-**Neptia {nEptya} –** niece
-
-**Nitia {nItya} –** *circle of family and close friends*
-
-**Novsta {nOvsta} –** bride
-
-**Novsto {nOvsto} –** groom
-
-**Oncle {onkl} –** uncle
-
-**Parent {pArënt} –** parent
-
-**Pater {pAtër} –** father
-
-**Prient {pryent} –** friend
-
-**Samgwelbh –** *born of the same mother*
-
-**Siour {syu:r} –** wife’s brother
-
-**Son {son} –** son
-
-**Swelion {swelyOn} –** wife’s sister’s husband
-
-**Swesgen {swEsdjën} –** sibling
-
-**Swes(ter) {swEs(tër)} –** sister
-
-**Swoker {swOkër} –** father-in-law
-
-**Swokru {swOkru} –** mother-in-law
-
-**Tante {tant} –** aunt
-
-**Vidva {vIdva} –** widow
-
-**Vidvo(s) {vIdvo(s)} –** widower
-
-**Wehdmen {wE:dmën} –** *purchase price of the bride*
-
-VARIOUS
--------
-
-**Alphabet {alfAbd} – **alphabet
-
-**Anua {Anwa} –** old woman
-
-**Aunfin {aonfIn} –** endless, infinite
-
-**Buk {buk} –** book
-
-**Dienkia {dyEnkya} –** domestic electric appliances
-
-**Distance-control {distAnts kontrOl} –** remote-control
-
-**Dru {dru} –** tree
-
-**Fall {fal} –** case *(situation)*
-
-**Forest {forEst} –** forest
-
-**Future {futür} –** future
-
-**Geront {djërOnt} –** old man
-
-**Grammatic {gramAtik} –** grammar
-
-**Gwen {gwen} –** woman
-
-**Gwenak {gwënAk} –** young woman
-
-**Ject {jekt} –** thing
-
-**Ker {ker} –** time, occasion
-
-**Kindergarten {kindërgArtën} –** kindergarten
-
-**Kwehrmen {kwE:mën} –** way *(of doing something)*
-
-**Majoritat {majoritAt} –** majority
-
-**Memoria {memOrya}** – memory
-
-**Mensc {mensk} – **human, man *(“man” in the sense of specie)*
-
-**Menue {mënÜ:} – **menu
-
-**Message {mesAdj} –** menssage
-
-**Minoritat {minoritAt} –** minority
-
-**Pieg {pyeg} –** girl
-
-**Present {prEzënt} –** present
-
-**Prev {prev} –** past
-
-**Primar talim {primAr tAlim} –** *stage when the children learns the
-basic, like reading and very basic calculation*
-
-**Pwarn {pwarn} –** boy
-
-**Secundar talim {sekundAr tAlim} –** *stage when teenagers learns the
-fundamental*
-
-**Suedos {sÜ:dos} –** property *(quality)*
-
-**Television {televizyOn} – **television
-
-**Veneg {vEnëg} –** seller
-
-**Videocassette {videokasEt} –** videocassette
-
-**Videoteip {videotEyp} –** videocassette
-
-**Wakt {wakt} –** time *(duration)*
-
-**Wir {wir} –** man
-
-**Yeudmo {yÖdmo} –** man *(as combatent)*
-
-**Yuwen {yÜwën} –** young man
-
-**Zaman {dzamAn} –** epoch, time
-
-INTERJECTIONS
--------------
-
-**Ajaban! {ajabAn} –** gosh!
-
-**Al-hamdulillah! {al hamdulilA:} –** thank you God!
-
-**Aman! {amAn} –** have mercy!
-
-**Anchoa! {antcOa} –** not possible!
-
-**Asafa! {azAfa} –** how awful!
-
-**Bast(a)! {bAst(a)} –** it's enough!
-
-**Bravo! {brAvo} –** bravo!
-
-**Bre! {bre} –** whoa!
-
-**Chao! {tcAo} –** goodbye!
-
-**Chiba! {tcIba} –** *word used to drive a dog*
-
-**Chinchay! –** nothing!
-
-**Coul! {ku:l} –** cool!
-
-**Dank! {dank} –** Thanks!
-
-**E? {ë} –** hein?
-
-**Ehh {e:} –** err *(doubt)*
-
-**Gwivtu! / Gwive! {gw} –** hurray!
-
-**Ha ha ha! {ha ha ha} –** Ha ha ha!
-
-**Hay(te)! {hay(t)} –** go! *(encouragement)*
-
-**Hue! {hü:} –** Gee up! *for a horse*
-
-**Hurrah! {hurA:} –** hooray!
-
-**Iblis! {Iblis} –** deuce! devil!
-
-**Ihali {ihAli} –** *divine will*
-
-**Interjection {intërjëktyOn} –** interjection
-
-**Lassamahallah {lasamahalA:} –** God help us!
-
-**Lutfan {lutfAn} –** be nice!
-
-**Maideh {maydE:} –** help! mayday!
-
-**Marba {mArba} –** please to meet you!
-
-**Mersie! {mërsI:} –** thank you!
-
-**O Deiwes! {o dEywës} **– great Gods!
-
-**Pawiropeku! {pawiropEku} –** goodbye! farewell!
-
-**Sayang! {sayAng} –** what a pity!
-
-**Servus! {sErvus} –** at your service!
-
-**Scha! {ca} –** hush!
-
-**Sieune {syön} –** Bless You ! *(to someone who has just sneezed)*
-
-**Sikhtir {sIqtir} –** out!
-
-**Stop! {stop} –** stop!
-
-**Toi! {toy} –** *deception*
-
-**Uff! {uf} –** uff!
-
-**Ups! {ups} –** ops!
-
-**Vedim! {vEdim} –** let's see! *(to bring a counter-argument)*
-
-**Yallah! {yalA:} –** my God!
-
-**Way! {way} –** ai! ui!
-
-**Zinhaar! {dzinhaAr} –** beware! caution!
-
-REFERENCES
-==========
-
-SIMON, Olivier. RICE, Stephen L (ed.). **The Grammar Of
-Sambahsa-Mundialect In English**. 7 ed. Maio 2012.
-
-A Starter to Sambahsa
-
-RICE, Stephen L. **Sambahsa\_Phrasebook**
-
-WINTER, Robert. **Sambahsa: Guide to Pronouns and Articles**.
-
-OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **FrontPage**. Available in:
-&lt;http://sambahsa.pbworks.com/w/page/10183084/FrontPage&gt;. Acesso
-em: jul. 2016.
-
-OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **IPA Sambahsa phonetics**.
-Available in:
-&lt;http://sambahsa.pbworks.com/w/page/10183089/IPA%20Sambahsa%20phonetics&gt;.
-Access in: jul. 2016.
-
-YEAHBITCHMAGNETSOH. **Flag of Indo-European Speakers**. Reddit.
-Disponível em:
-&lt;https://www.reddit.com/r/vexillology/comments/3jlf0k/flag\_of\_indoeuropean\_speakers/&gt;.
-Access in: jul 2016.
-
-DIARIO DOS CAMPOS. **Idiotismos da Língua Portuguesa**. 01 set. 2012.
-Disponível em:
-&lt;http://www.diariodoscampos.com.br/variedades/2009/05/idiotismos-da-lingua-portuguesa/1123815/&gt;.
-Access in: jul. 2016.
-
-RACHEL. Youtube channel of Rachel's English.
-&lt;https://www.youtube.com/user/rachelsenglish&gt;. Access in: jan.
-2017.
