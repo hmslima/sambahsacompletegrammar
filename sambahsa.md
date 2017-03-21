@@ -20,37 +20,36 @@ due credit for the original creation.
 ![](Pictures/200000070000091900000335273053DC.svm){width="2.328cm"
 height="0.82cm"}
 
-The sambahsa language autorship is of Dr. Olivier Simon, the language's
-use is free for anyone.. For the elaboration of this grammar was used,
-as reference, the book *The Grammar Of Sambahsa-Mundialect In English*
-by Dr. Olivier Simon and some subchapters of this grammar are pratically
-a translation of the Olivier's book, that the author have permited me to
-use, even considering the license of this book. I've also utilised many
+The sambahsa language authorship is of Dr. Olivier Simon, the language's
+use is free for anyone. For the elaboration of this grammar, *The Grammar Of Sambahsa-Mundialect In English*
+by Dr. Olivier Simon was used. Some subchapters of this grammar are practically
+a translation of Olivier's book. Dr. Simon has given me permission to do so, even 
+considering the license of this book. I've also utilised many
 examples from *The Grammar Of Sambahsa-Mundialect In English* and others
-that the own Dr. Olivier Simon made for me.
+that Dr. Simon made for me.
 
-It's very important to inform that the language is not under a Creative
-Commons license or anything alike, but, as was said, the language is
+It's very important to inform the reader that the language itself is not under a Creative
+Commons license or anything like it. As was said, the language is
 free, you can translate your works, or produce original works, without
 the need of Dr. Olivier Simon's permission, even it is for commercial
 purposes; in other words, you can write books in sambahsa and sell them
 without problems. Enjoy this beautiful language.
 
-The author of the image used in the cover of this book, who intitule
-himself as YeahBitchMagnetsOh in the Reddit communities, have autorized
-the use of his image in this book. There's the eletronic adress from
+The author of the image used in the cover of this book, who named
+himself as YeahBitchMagnetsOh in the Reddit communities, has permitted
+the use of his image in this book. Here is the electronic address from
 where the image was downloaded.
 https://www.reddit.com/r/vexillology/comments/3jlf0k/flag\_of\_indoeuropean\_speakers/
 
-**This is a beta version of the grammar, it already can be used, but
-know that still there are what to be improved and even corrected.**
+**This is a beta version of the grammar. It already can be used, but
+know that there are things to be improved and even corrected.**
 
 THIS GRAMMAR IS UNDER TRANSLATION FROM BRAZILIAN PORTUGUESE TO ENGLISH,
 THE TRANSLATION ABSOLUTELY IS NOT PERFECT YET! WAITING FOR AVAILABLE
 PEOPLE TO MAKE A REVISION.
 
 For the people who will revise my translation, I thank you very much, my
-english definitively is not good, but I hope that I didn't left much
+english definitively is not good, but I hope that I didn't leave much
 work for you. If you find something very strange, please warn me, maybe
 it is strange in the original work too :P !!!
 
@@ -63,10 +62,10 @@ ACKNOWLEDGEMENTS
 
 []{#anchor}I thank to Dr. Olivier Simon for making himself available for
 answering my questions and giving me many examples, many examples of
-this grammar is of him. I must thank him twice, because he have had all
-patience of the world with me, he is almost the coauthor of this book.
+this grammar are from him. I must thank him twice, because he had all the
+patience in the world for me. He is almost the coauthor of this book.
 
-I also thanks to Sylvain Auclair, Martín Rincón Botero and Justin
+Also a thanks to Sylvain Auclair, Martín Rincón Botero and Justin
 Gagnon, who helped me a lot.
 
 INTRODUCTION
