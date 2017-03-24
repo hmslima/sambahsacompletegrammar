@@ -193,7 +193,7 @@ language in the globe, in practically all schools of the world with a
 minimal of infrastructure the english language is taught; unlike
 english, no auxiliary language had the support of a State and companies
 to propagate it on the world. When I started this grammar I only knew
-portuguese, my mother tongue, and I had some knowledge of english and
+portuguese, my mother tongue, and I had some reasonable knowledge of english and
 esperanto; when I meet sambahsa there were only a grammar in french, the
 mother tongue of the creator of sambahsa, and in english. Thanks to the
 english I could start my studies of sambahsa and then make this grammar.
@@ -209,9 +209,9 @@ decided to learn portuguese; but this version in english is useful to
 russophones, hispanophones, francophones, nipophones, sinophones,
 germanophones, italophones and many others who has a good knowledge of
 english, because of probably they live in a country where the english is
-taught in the schools.
+taught in the schools. But I hope that these people translate this grammar to their respective languages.
 
-May seem that I contradict everything what was said in the previous
+Some may think that I contradict everything what was said in the previous
 sub-chapters and I am praising the english language, but it’s not the
 case, I am only being realist, I only recognize the advances of the
 current model as well as I pointed some of its deficiencies, I still
@@ -220,7 +220,7 @@ just as is important to learn spanish, russian, esperanto, mandarin,
 etc, because although we defend that use an auxiliary language as lingua
 franca would be much more efficient, I say that the true international
 language is the polyglotism, if you want to be something near to a true
-“citizen of the world” be a polyglot!
+“citizen of the world”, be a polyglot!
 
 BUT WHY LEARN SAMBAHSA?
 -----------------------
@@ -271,7 +271,7 @@ our language. Really sambahsa doesn't economize in its invariable words,
 a prolix language like sambahsa pays the price of demanding a bit more
 of study, but, by contrast, it allows the best expression of thought.
 
-Everything has a price: many auxiliary languages try to be the possible
+**Everything has a price:** many auxiliary languages try to be the possible
 simplest ones, adopting, for example, very simple orthographies: one
 letter, one sound; all nouns have only one ending, all adjectives have
 only one ending, etc. The advantage of not having a too complex
@@ -2281,6 +2281,7 @@ in a problematic situation []{#anchor-165}**{ correct Ѵ}**
 
 []{#anchor-169}**Un patruw amor –** a paternal love (attachment) []{#anchor-170}**{
 correct Ѵ}**
+*The Romance word “amor” has a PIE ancestor meaning “to be bound” or “attached to” (cf. Greek : omnumi = I swear). So, the real first meaning of “amor” is “attachment” (“emotional connection between individuals”)*
 
 []{#anchor-171}**Tod buit monstereus –**
 []{#anchor-172}[]{#anchor-173}that was monstrous **{ wrong X}**
@@ -2300,7 +2301,7 @@ as adjective, but a preposition like “os” or "es" may be a good alternative.
 []{#anchor-179}**Kamo anon es kwaun –** []{#anchor-180}I like food of
 dog
 
-**Lieubho likes RPGs os table –** []{#anchor-181}I love tabletop RPGs
+**Lieubho likes RPGs os table –** []{#anchor-181}I love playing tabletop RPGs
 
 Wouldn't make sense to say something like []{#anchor-182}“…kwaunic anon”
 or []{#anchor-183}“… []{#anchor-184}tableus RPG”, because “…kwaunic
@@ -2563,6 +2564,8 @@ SOME, FEW, MANY AND OTHERS
 **Each *****(of two)*****, either –** Ieter {yEtër}
 
 **All the –** vasyi {vAzyi} *(masculine & undetermined nominative plural)*
+
+**All the –** vasyas {vAzyas} *(feminine nominative plural)*
 
 **All the –** vasya {vAzya} *(neutral plural nominative & accusative)*
 
@@ -3058,7 +3061,7 @@ also means the verb “like”}*
 
 **-med {med} –** *suffixed to a pronoun in the genitive, it has the
 meaning of “per/through” + instrument. quosmed {kwOsmëd} (with what? /
-by which means?); tosmëd {tOsmed} (with that / through that means)*
+by which means?); tosmed {tOsmëd} (with that / through that means)*
 
 **Quayt {kwayt} –** how much, how many *(pronoun)*
 
