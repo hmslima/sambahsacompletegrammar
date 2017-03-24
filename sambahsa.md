@@ -2834,6 +2834,8 @@ for incompatible).
 
 **Tenth –** dect
 
+**Eleventh –** oindemt
+
 Yes, “first” and “second” are irregular, despite be admitted the “dwot”.
 
 Only the last component needs termination:
@@ -2977,6 +2979,8 @@ of “saat” {saAt} following the minute's numbers.
 
 **18:49 –** octdem saat quargim nev
 
+**05:00 –** penk saat
+
 To indicate a determined decade, like “the 70's”, you inform the year
 more the termination -tias.
 
@@ -3082,11 +3086,15 @@ A comparison for better understanding, the two sentences below mean
 
 **Cadanghen {kadAngën} –** everybody
 
-**Quodquid {kwOdkid} –** anything
+**Quodquid {kwOdkid} –** anything *(pejorative sense)*
+
+**Quodgvonc {kwodgvOnk} –** anything
 
 **Quodkwe {kwOdkwë} –** whatever
 
 **Quiskwe {kIskwë} –** whoever
+
+*For saying sentences like “I don't see (any)thing”, you can say “ne vido ject”, it's used “ject” in these cases when in negative sentences. But a better way of expressing would be “vido neid” (“I see nothing”).*
 
 **Ma? {ma} –** why?
 
