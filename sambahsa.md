@@ -238,7 +238,7 @@ cases, to have its spelling or pronounce changed to adequate the
 standards of the language, the “problems” of importing these proper
 nouns will be the same that occurs in any national language.
 
-For not having 100 years as other auxiliary languages, sambahsa doesn't
+For not having more than 100 years as other auxiliary languages, sambahsa doesn't
 have a community with thousand of speakers yet, but this scenario can
 change, every auxiliary language started with only one person, but can
 exist thousands of speakers if more people get interested for the
@@ -729,69 +729,113 @@ sambahsa, I did this to make you pay attention to the differences
 between the two languages, in these cases there wont a transcription to
 SPT.
 
-For you don't being lost, firstly I show the word, then the
-transcription to IPA, which is between slashes, and then the
-transcription in SPT, which is between brackets.
+For you don't being lost, firstly I show the word, then the transcription to IPA, which is between square brackets or slashes, and then the transcription in SPT, which is between curly brackets.
 
-**Beach** – /bi:tʃ/ – {bi:tc}
+**Men –** [mɛn] – {män}
 
-**Men –** /mɛn/ – {män}
+**Man –** [mæn] – {män} ({ä} should be /ɛ/, but I think that I can representate /æ/ as {ä})
 
-**Man –** /mæn/ – {män} *({*ä*} would be /*ɛ*/, but I think that I can
-representate /*æ*/ as {*ä*})*
+**Black –** [blæk] – {bläk}
 
-**Bra –** /bɹɑː/ – {bra} *({*a*} would be /*a*/, but I think that I can
-representate /*ɑ*/ as {*a*})*
+**Flower –** [ˈflaʊ̯ɚ] – {flAoë} ({ë} should be /ə/, but I think that I can representate /ë/ as {ɚ})
 
-**Food –** /fu:d/ – {fu:d}
+**Fire –** [ˈfaɪ̯ɚ] – {fAyë}
 
-**Cute –** /kjut/ – {kyut}
+**Breathe –** [bɹiːð] (the sound /ð/ doesn't exist In sambahsa)
 
-**Sea –** /si:/ – {si:}
+**Two –** [tʰuː] – {tu:} – (SPT, as borad IPA transcription, can't representate diacritics)
 
-**Fill **– /fɪl/ – {fil} *({*i*} would be /*i*/, but I think that I can
-representate /*ɪ*/ as {*i*})*
+**The –** [ðə] or [ðiː] 
 
-**Boat –** /boʊt/ – {bowt} *({*u*} would be /*u*/, but I think that I
-can representate /*ʊ*/ as *{u})
+**Understand –** [ˌʌndɚˈstænd] – {ondëstÄnd} (we can consider /ʌ/ as {o})
 
-**Dog –** /dɔg/ – {dog} *(notice in this example and in the example just
-above that /*o*/ and /*ɔ*/ are both represented as {*o*}, yeah, {*o*}
-can mean both sounds)*
+**Letter –** [ˈlɛɾɚ] – {lÄrë}
 
-**Girl –** /gɜɹl/ – *(the sound /*ɜ*/ doesn't exist in sambahsa and
-/*ɹ*/ is a sound that should be avoided)*
+**Turn –** [tʰɚn] – {tën}
 
-**Extra – **/ˈɛkstɹə/ – {Äkstrë} *(but you still can represent /*ɹ*/ as
-{*r*})*
+**Good –** [gʊd] – {gud} – (we can consider /ʊ/ as {u})
 
-**About –** /əˌbaʊd/ – {ëbAod}
+**Until –** [ənˈtʰɪɫ] – {äntIl} – (we can consider /ɪ/ as {i} and /ɫ/ as {l})
 
-**Excuse *****(noun)***** – **/ɪkˈskjus/ – {ik skyUs}
+**Very –** [ˈvɛɹi] – {vÄri} (we can represent /ɹ/ as {r})
 
-**Where are you going –** /ˈwɛəɹ‿əɹ ju ˈgoʊɪŋ/
+**Cheek –** [t͡ʃiːk] – {tci:k}
 
-**Keep –** /kip/ – {kip}
+**Divide –** [dɪˈvaɪ̯d] – {divAyd}
 
-**Each –** /itʃ/ – {itc}
+**Thing –** [θɪŋ] – {§ing} 
 
-**Father –** /fɑðəɹ/ – (*the sound /ð/ doesn't exist in sambahsa*)
+**Thin –** [θɪn] – {§in}
 
-**Again –** /əˈgɛn/ – {ëgÄn}
+**North –** [nɔːɹθ] – {nor§}
 
-**Blackout –** /ˈblækˌaʊt|/ – {bläkAwt}
+**Father –** [ˈfɑːðɚ]
 
-**Sound –** /saʊnd/ – {sAond}
+**Situation –** [ˌsɪt͡ʃuːˈeɪ̯ʃn̩] – {sItcu:eycn}
 
-**Thief –** /θif/ – {§if}
+**Have –** [hæv] – {häv}
 
-**Tomorrow –** /təˈmɑɹoʊ/ – {tëmArow}
+**Battleship –** [ˈbæɾɫ̩ˌʃɪp] – {bÄrlcip}
 
-**She –** /ʃi/ – {ci}
+**Ring –** [ɹɪŋ] – {ring}
 
-**When –** /wɛn/ – {wän}
+**Pleasure –** [ˈpl̥ɛʒɚ] – {pläjë}
 
-**Now – **/naʊ/ – {nAo}
+**Emotion –** [ɪˈmoʊ̯ʃn̩] – {imOocn}
+
+**Shy –** [ʃaɪ̯] – {cay}
+
+**Human –** [ˈhjuːmən] or [ˈçuːmən] – {hyU:mën} or {xU:mën}
+
+**Beautiful –** [ˈbjuːɾɪfɫ̩] – {byU:rufl} 
+
+**Enough –** [ɪˈnʌf] – {inOf}
+
+**Kid –** [kʰɪd] – {kid}
+
+**Feel –** [fiːɫ] – {fi:l}
+
+**Sang –** [sæŋ] – {säng}
+
+**Sink –** [sɪŋk] – {singk}
+
+**Jam –** [d͡ʒæm] – {djäm}
+
+**Hurry –** [ˈhʌɹi] or [ˈhɚ.i] – {hOri} or {hËi}
+
+**Has –** [hæz] – {häz}
+
+**Square –** [skwɛɹ] – {skwär}
+
+**Twenty –** [ˈtw̥ɛnti] or [ˈtw̥ɛ̃ɾ̃i] – {twËnti} (sambahsa doens't have nasal vowels)
+
+**Horse –** [hɔːɹs] – {ho:rs}
+
+**Milk –** [mɪɫk] – {milk}
+
+**Queen –** [kw̥iːn] – {kwi:n}
+
+**Girl –** [gɚɫ] – {gël}
+
+**When –** [wɛn] or [ʍɛn] – {wän}
+
+**True –** [tɹ̥uː] – {tru:}
+
+**Yellow –** [ˈjɛloʊ̯] – {yÄlOo}
+
+**Star –** [stɑːɹ] – {sta:r}
+
+**Thought –** [θɔːt] – {§o:t}
+
+**Choice –** [t͡ʃɔɪ̯s] – {tcoys}
+
+**Go –** [goʊ̯] – {gOo}
+
+**Price –** [pɹ̥aɪ̯s] – {prays}
+
+**Lot –** [lɑːt] – {la:t} (we can consider /ɑ/ as {a})
+
+**Red –** [ɹɛd] – {räd}
 
 It’s good to remember that the letter {r} from SPT can assume various
 sounds, like /r/, /ɾ/, /ʁ/, /ʀ/ and /ɹ/.
@@ -6746,6 +6790,13 @@ compounded word.
 STYLE
 =====
 
+Different of the national languages, which have native speakers inserted
+in a determined social context, sambahsa is to be spoken between people
+of different backgrounds. An mongolian will find difficulties in
+understanding a person who speaks in the german way.
+
+You must beaware to don't translate a sentence like “It's necessary to repair the house” to “id est necessar repare id dom”, the correct translation is “est necessar repare id dom”. Work on to avoid transporting characteristics from english to sambahsa. 
+
 Do you know what is idiotism? It's is a linguistic term used to describe
 terms that are only used in a determined language, if they were directly
 translated to other language, they wont have any sense. I'll show you
@@ -6761,11 +6812,6 @@ waiter)*. In direct translation it is “for drinking”.
 It's not like the idiotisms are untranslable, it's their direct
 translation that is unfeasible. Are understanding what I am trying to
 say?
-
-Different of the national languages, which have native speakers inserted
-in a determined social context, sambahsa is to be spoken between people
-of different backgrounds. An mongolian will find difficulties in
-understanding a person who speaks in the german way.
 
 I am not saying that you have to speak a poor and personalityless
 sambahsa! But you have to be aware in avoiding idiotisms and other forms
@@ -7543,6 +7589,8 @@ quality)*
 **Dussaun {dusAon} –** unhealthy
 
 **Veut {vöt} –** old
+
+**Wahid {wahId} –** only
 
 **Walik {wAlik} –** strong, powerful
 
