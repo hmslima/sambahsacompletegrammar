@@ -5379,330 +5379,323 @@ lands, ibo vide udbrehge grave social troubles –** além disso, uma
 partilha mais justa da riqueza tem que ser implementada em vários
 países, para que não sejam vistos problemas sociais graves
 
-**Ilhali {ilhAli} –** enquanto que, ao passo que
+**Ilhali {ilhAli} –** whereas
 
 **Ilhali id recognition ios inherent decos vasyims members ios
-menscfamilia ed iren egal edinalienable rects constituet id sul om lure,
-justice ed pace tienxia –** considerando que o reconhecimento da
-dignidade inerente a todos os membros da família humana e seus
-inalienáveis direitos iguais constituem a fundação da liberdade, justiça
-e paz em todo lugar.
+menscfamilia ed iren egal ed inalienable rects constituet id sul om lure,
+justice ed pace tienxia –** Whereas recognition of the inherent dignity
+and of the equal and inalienable rights of all members of the human
+family is the foundation of freedom, justice and peace in the world.
 
-**Intant {intAnt} –** enquanto isso, ao mesmo tempo, nesse meio tempo
+**Intant {intAnt} –** in the meantime
 
-**Bet intant, kwehr quodlibt –** mas enquanto isso, faça o que quiser
+**Bet intant, kwehr quodlibt –** But in the meantime, do what you want.
 
-**Inkaptos {inkAptos} –** do começo, a partir do início
+**Inkaptos {inkAptos} –** from the beginning/start
 
-**Tolk mi vasyo quod wakyit inkaptos –** conte me tudo o que aconteceu
-desde o começo
+**Sayg mi quanto wakyit inkaptos –** Tell me everything that happened from
+the beginning.
 
-**Iter {Itër} –** de novo, outra vez, novamente
+**Iter {Itër} –** once again, once more
 
-**Som con mien família iter –** estou com minha família outra vez
+**Som con mien família iter –** I'm once again with my family.
 
-**Ja {ja} –** já
+**Ja {ja} –** already
 
-**Tu biscripst todeghern ed tu ja finihst id wehrg –** você começou a
-escrever esta manhã e já terminou o trabalho
+**Tu biscripst todeghern ed tu ja finihst id wehrg –** You began to
+write this morning and already you finished the work.
 
-**Jaldi {jAldi} –** rapidamente, o mais rápido *(passa noção de
-velocidade)*
+**Jaldi {jAldi} –** swiftly, quickly
 
-**Ia cursit meg jaldi quando ia eet yuner –** ela corria muito rápido
-quando mais nova
+**Ia cursit meg jaldi quando ia eet yuner –** She ran more quickly when
+she was younger.
 
-**Id nivell ios wed est steighend jaldi –** o nível da água está subindo
-depressa
+**Id nivell ios wed est steighend jaldi –** The level of the water is rising
+quickly.
 
-**Ka {ka} –** como um, como
+**Ka {ka} –** as (a) (when referring to a quality)
 
-**Tod werd wehrct ka adjective ed adverb –** essa palavra se comporta
-como um adjetivo e um advérbio
+**Tod werd wehrct ka adjective ed adverb –** This word works as an adjective
+and as an adverb.
 
-**Kad {kad} –** talvez
+**Kad {kad} –** maybe/perhaps that
 
-**Kad wehdo iam –** talvez eu me case com ela
+**Kad wehdsiem iam –** Perhaps I will marry her.
 
-**Kafi {kAfi} –** o bastante, suficiente
+**Kafi {kAfi} –** enough
 
-**Sat {sat} –** o bastante, suficiente
+**Sat {sat} –** enough
 
-**Ho edden kafi –** comi o suficiente
+**Ho edden kafi –** I have eaten enough.
 
-**Kam? {kam} –** como?
+**Kam? {kam} –** how ? (in what manner ?), like
 
-**Kam arrives her? –** como você chegou aqui?
+**Kam leits tu? –** How are you?
 
-**Kam adet {kam Adët} –** como costume
+**Kam adet {kam Adët} –** As usual.
 
-**Kam adet ia oisbud aus –** ela acordou cedo, como costume
+**Kam adet ia oisbud aus –** As usual she woke up early.
 
-**Kamsei {kAmsey} –** como se
+**Kamsei {kamsEy} –** as if
 
 **Is ee-sispehct me kamsei is esiet/eet un lion sispehcend un owu –**
-ele olhava para mim como se ele fosse um leão olhando uma ovelha
+He didn't stop looking at me as if he was/were a lion looking at a sheep.
 
-**Kariban {karibAn} –** daqui a pouco, em seguida
+**Kariban {karibAn} –** soon, shortly
 
-**Linkwsiemos (hetos) kariban –** sairemos daqui a pouco
+**Linkwsiemos (hetos) kariban –** We'll soon leave (from here).
 
-**Kathalika {ka§alIka} –** da mesma forma, do mesmo modo
+**Kathalika {ka§alIka} –** likewise
 
-**Tony ed Sandro sont kerabs, kathalika sont Otavio ed Clarissa –** Tony
-e Sandro são parentes, da mesma forma são Otávio e Clarissa.
+**Tony ed Sandro sont kerabs, kathalika sont Otavio ed Clarissa –** Tony 
+and Sandro are relatives, likewise are Otavio and Clarissa.
 
-**Kay {kay} –** para, para que, em ordem para
+**Kay {kay} –** (in order) to
 
-**Gwahsiem weir kay defende mien land –** irei para a guerra para
-defender meu país
+**Gwahsiem weir kay defende mien land –** I'll go to war to defend my 
+country.
 
-**Eiskwo un wogh kay safer –** quero um carro para viajar
+**Eiskwo un wogh kay safer –** I want a car in order to travel.
 
-**Khaliban {qalibAn} –** principalmente
+**Khaliban {qalibAn} –** mainly
 
-**Is orbietit khaliban ka swobod orbater –** ele trabalhava
-principalmente como freelancer
+**Is orbietit khaliban ka swobod orbater –** He mainly worked as a
+freelancer
 
-**Kheptenn {qëptEn} –** completamente, definitivamente
+**Kheptenn {qëptEn} –** definitely
 
-**Is kheptenn est gai –** ele definitivamente é gay
+**Is kheptenn est gai –** He's definitely gay.
 
-**Kjiawxieng {kjyawksyEng} –** por acaso
+**Kjiawxieng {kjyawksyEng} –** by chance
 
-**Kjiawxieng kwe has cigarettes? –** por acaso você tem cigarros?
+**Kjiawxieng kwe has cigarettes? –** By chance, do you have some 
+cigarettes?
 
-**Kongcio {kOngtsyo} –** doravante, de agora em diante, em direção ao
-futuro, a partir de agora
+**Kongcio {kOngtsyo} –** henceforth.
 
-**Kongcio sessiem un gohd pater, promitto –** daqui pra frente eu serei
-um bom pai, eu prometo
+**Kongcio sessiem un gohd pater, promitto –** Henceforth I'll be a
+good father, I promise.
 
-“Nuntos” tem o mesmo significado e geralmente é muito mais usado, já que
-o “kongcio” aparenta ser antiquado.
+"henceforth" is used here to render the rare use of "kongcio". 
+Sambahsa uses more frequently "nuntos" = "from now on". 
 
-**Kweter {kwEtër} –** *muito parecido com “an”, mas tem uma pequena
-diferença *
+**Kweter {kwEtër} –** *"whether", indicates the choice or the doubt
+betwwen two options.*
 
 *Ay buit impossible tarctum kweter ia hieb vanien in id hava we ia hieb
-curren baygh oku in id bosc* (“tarctum” é a opcional forma antiga do
-infinitivo) –
+curren baygh oku in id bosc* (“tarctum” is an optional antiquated form of
+infinitive) –
 
-Era impossível para ela supor se ela desapareceu no ar ou ela tinha
-corrido muito rápido no bosque.
+It was impossible to her to conjecture whether she has vanished in the air
+or she had run very quickly into the wood.
 
-***Quo ia druve-ye gnohskwit eet kweter el stohng we ne –** o que ela
-realmente quer se ele* (um inseto) *pica ou não*
+***Quo ia druve-ye gnohskwit eet kweter el stohng we ne –** What she really
+wanted to know (about an insect) was whether it stung or not. *
 
-**Lakin {lakIn} –** entretanto, contudo, todavia
+**Lakin {lakIn} –** However, nevertheless
 
-**Kamo te, lakin tu dehlcs change –** gosto de você, entretanto você
-deve mudar
+**Kamo te, lakin tu dehlcs change –** I like you, however you've got to change.
 
-**Libter {lIbtër} – **com prazer
+**Libter {lIbtër} – **with pleasure
 
-**Libter kwehrsiem tod pro te –** com prazer farei isso para você
+**Libter kwehrsiem tod pro te –** With pleasure I shall do that for you.
 
-**Lika {lIka} –** semelhantemente, parecido
+**Lika {lIka} –** the same (adverb)
 
-**Daydey, ho piten vergihes werds qua swehnient pior lika alyi –** Em
-geral, tenho tentado evitar as palavras que soariam bastante do mesmo
-modo que outra
+**Daydey, ho piten vergihes werds qua swehnient pior lika alyi –** In general, 
+I have tried to avoid words that sounded too much the same as another (one).
 
-**Makar {makAr} –** por mais que
+**Makar {makAr} –** even though
 
-**Makar ei saygo, is ne kaurt de –** por mais que lhe diga, ele não faz
-caso
+**Makar ei saygo, is ne kaurt de –** Even though I tell him, he doesn't care.
 
-**Makar io ielgv denars, na kwahsim spare –** por mais dinheiro que
-ganhasse, não conseguia poupar
+**Makar io ielgv denars, na kwahsim spare –** Even though I earned money, I 
+failed to spare.
 
-**Makar kauro, ne kwahm vergihes howkscheces –** por mais cuidado que
-tenha, não consigo evitar os buracos da estrada
+**Makar kauro, ne kwahm vergihes howkscheces –** Even though I care, I fail to
+avoid potholes.
 
-**Mathalan {ma§alAn} –** por exemplo
+**Mathalan {ma§alAn} –** for example, for instance
 
-**Kamo aw fantasia buks, mathalan Is Lytil Prince ed Lovecrafts buks –**
-gosto de livros antigos de fantasia, como por exemplo O Pequeno Príncipe
-e livros de Lovecraft.
+**Kamo veuta fantasia buks, mathalan Is Lytil Prince ed Lovecrafts buks –**
+I like old fantasy books, for example "The Little Prince" and Lovecraft's books.
 
-**Meist-ye {meyst ye} –** no máximo
+**Meist-ye {meyst ye} –** at the most
 
-**Eiskwo meist-ye dwo purts, ne meis quem to –** eu quero, no máximo,
-dois filhos, não mais do que isso
+**Eiskwo meist-ye dwo purts, ne meis quem to –** I want two children at the 
+most, no more than that.
 
-**Men {men} –** mas
+**Men {men} –** but (less strong than "bet")
 
-**Men, weidwos, to ne est tien fault –** mas (além disso), é claro, isso
-não é culpa sua
+**Men, weidwos, to ne est tien fault –** But, of course, this is not your
+fault.
 
-**Menxu {mEnksu} –** enquanto
+**Menxu {mEnksu} –** while (conj.)
 
-**Eem in alyo land menxu mien land eet invaden –** eu estava em outro
-país enquanto meu país foi invadido
+**Eem in alyo land menxu mien land eet invaden –** I was in another country
+while my country was invaded.
 
-**Minst-ye, lytst-ye –** pelo menos *(“tehrb” também pode ser usado
-aqui)*
+**Minst-ye, lytst-ye –** at the least
 
-**Naudhsies minst-ye six hevds kay plane adequat-ye –** você precisará
-de, pelo menos, seis semanas para planejar adequadamente
+**Naudhsies minst-ye six hevds kay plane adequat-ye –** You shall require
+at the least seven weeks in order to plan adequately.
 
-**Mudam {mudAm} – **constantemente, continuamente
+**Mudam {mudAm} – **continually
 
-**Myen machine orbat mudam –** minha máquina trabalha sem parar
+**Myen machine orbat mudam –** My machine works continually.
 
-***Id seuy fallt mudam – **a chuva cai constantemente*
+***Id seuy fallt mudam – **The rain is continually falling.*
 
-**Mutlak {mutlAk} –** absolutamente
+**Mutlak {mutlAk} –** absolutely
 
-**Ia est mutlak khiter –** ela é absolutamente má
+**Ia est mutlak khiter –** She is absolutely evil.
 
-**Mox(u) {mOks(u)} –** breve, logo
+**Mox(u) {mOks(u)} –** soon (adv.)
 
-**Vidsiem te mox –** verei você em breve
+**Vidsiem te mox –** I shall see you soon.
 
-**Naiw(o) {nÄw(o)} –** nunca
+**Naiw(o) {nÄw(o)} –** never
 
-**Naiwo likwim mien land –** nunca sai do meu país
+**Naiwo likwim mien land –** I never left my country.
 
-**Naturelika {natürëlIka} –** naturalmente
+**Naturelika {natürëlIka} –** naturally
 
-**Naturelika kamo uces bahsas –** naturalmente que eu gosto de aprender
-idiomas
+**Naturelika kamo uces bahsas –** Naturally I enjoy learning
+languages.
 
-**Neti {nEti} –** não mais, nunca mais
+**Neti {nEti} –** no more
 
-**Neti eddo her –** nunca mais como aqui
+**Neti eddo her –** I eat here no more.
 
-**Nib {nib} –** a não ser
+**Nib/nibo {nib/nIbo} –** unless
 
-**Orbatsiem in id farm nibo kamyabo in un public concurs – **trabalharei
-na fazenda a não ser que eu tenha sucesso em um concurso público
+**Orbatsiem in id farm nibo kamyabo in un public concurs – **I 
+will work at the farm unless I pass a public exam.
 
-**Nisbatan {nisbatAn} –** relativamente
+**Nisbatan {nisbatAn} –** relatively
 
-**Ia ruines sont nisbatan salver quem id forest –** as ruínas são
-relativamente mais seguras do que a floresta
+**Ia ruines sont nisbatan salver quem id forest –** The ruins are 
+relatively safer than the forest.
 
-**Nun {nun} –** agora
+**Nun {nun} –** now
 
-**Som noroct nun –** estou feliz agora
+**Som noroct nun –** Now I'm happy
 
-**Nundiens {nundyEns} –** hoje em dia, atualmente
+**Nundiens {nundyEns} –** nowadays
 
-**Nundiens, leuds sont suagramat –** as pessoas são bem alfabetizadas
-nos dias de hoje
+**Nundiens, leuds sont suagramat –** Nowadays, people are well literate.
 
-**Nuper {nÜpër} – **recentemente
+**Nuper {nÜpër} – **recently
 
-**Gnahsit nupe –** dei à luz recentemente
+**Gnahsit nuper –** (He/she) was born recently.
 
-**Nuptos {nUptos} –** não muito tempo atrás
+**Nuptos {nUptos} –** not long ago
 
-**Nuptos mien dugter ghiemt –** há não muito tempo atrás minha filha se
-casou
+**Nuptos mien dugter ghiemit –** Recently my daughter married.
 
-**Oku {Oku} –** depressa, rapidamente
+**Oku {Oku} –** quick(ly)
 
-**Gwehm oku –** venha depressa
+**Gwehm oku –** Come quickly
 
-**Ne ghehdo antwehrde tib oku –** não posso te responder por agora
+**Ne ghehdo antwehrde tib oku –** I cannot answer quickly to you.
 
-**Okwivid-ye {okwivId-ye} –** obviamente
+**Okwivid-ye {okwivId-ye} –** obviously
 
-**Okwivid-ye i ne surviveer –** obviamente eles não sobreviveram
+**Okwivid-ye i ne surviveer –** obviously they didn't survive.
 
-**Pati {pAti} –** inclusive, incluindo
+**Pati {pAti} –** including (prep.)
 
-**Sayg mi tien adresse, pati tien postal code –** diga me seu endereço,
-inclusive o seu código postal
+**Sayg mi tien adresse, pati tien postal code –** Tell me your
+address, inclunding your postal code.
 
-**Payn {payn} – **dificilmente
+**Payn {payn} – **hardly
 
-**Payn kwahsiemos fuges –** dificilmente conseguiremos fugir
+**Payn kwahsiemos fuges –** We could hardly flee.
 
-**Perodh {perOd} –** para a frente, adiante
+**Perodh {përOd} –** forward
 
-**Ghango perodh –** ando para a frente
+**Ghango perodh –** I walk forward
 
-**Plus {plus} –** mais (+)
+**Plus {plus} –** plus (+), additional, more
 
-**Dwo plus dwo est egal ad quar –** dois mais dois é igual a quatro
+**Dwo plus dwo est egal ad quar –** 2 + 2 = 4
 
-**Addihsim plus mathmoun ad mien buk –** adicionei mais conteúdo ao meu
-livro
+**Addihsim plus mathmoun ad mien buk –** I added more contents 
+to my book.
 
-Nesta última frase você pode usar o “meis” no lugar do “plus” se quiser
+In the latter sentence, you could have used "meis" instead of 
+"plus"
 
-**Poskwo {pOskwo} =** dind
+**Poskwo {pOskwo} =** afterwards, then
 
-**Prevst {prevst} –** uma vez (no passado)
+**Prevst {prevst} –** once (in the very past)
 
-**Visim un fee prevst –** eu vi uma fada uma vez (no passado)
+**Visim un fee prevst –** I saw a fairy once in the past.
 
-**Protiapo {protyApo} –** contra a corrente
+**Protiapo {protyApo} –** against the stream
 
-**Gwivo protiapo –** vivo contra a corrente
+**Snahm protiapo –** I swim against the stream
 
-**Punor {punOr} –** por outro lado
+**Punor {punOr} –** on the other hand (opposition)
 
-**Habe purts est gohd, punor dehlcs dedie tien hol gwiv pro i –** ter
-filhos é bom, por outro lado você deve dedicar toda a sua vida para eles
+**Habe purts est gohd, punor dehlcs dedie tien hol gwiv pro i –**Having
+children is good, but, on the other hand, you must dedicate your life to
+them.
 
-**Quayque {kwAyk(ë)} –** embora, apesar de
+**Quayque {kwAyk(ë)} –** (al)though
 
-**Eddo mult leckereits, quayque som diabetic –** como muitos doces,
-apesar de eu ser diabético
+**Eddo mult leckereits, quayque som diabetic –** I eat a lot of sweets, 
+though I'm diabetic.
 
-**Quasi {kwAzi} –** quase
+**Quasi {kwAzi} –** nearly
 
-**Quasi mohrim honoct –** quase morri esta noite
+**Quasi mohrim honoct –** I nearly died tonight.
 
-**Quodlibt {kwOdlibd} –** tanto faz
+**Quodlibt {kwOdlibd} –** anyone/thing you like/want
 
-**Vols tu un orange, un banana au un mankay? Quodlibt – **você quer uma
-laranja, uma banana ou uma manga? Tanto faz
+**Vols tu un orange, un banana au un mankay? Quodlibt – **Do you 
+want an orange, a banana or a mango ? Anyone you want. 
 
-**Quoterlibt {kwOtërlibd} –** tanto faz *(escolha entre apenas duas
-opções)*
+**Quoterlibt {kwOtërlibd} –** *(same as "quodlibt", but for a choice
+between two options.)*
 
-**Vols tu un orange au un mankay? Quoterlibt – **você quer uma laranja
-ou uma manga? Tanto faz
+**Vols tu un orange au un mankay? Quoterlibt – **Do you want 
+an orange or a mango ? Anyone you want.
 
-**Saat-ye {saAt ye} –** no sentido horário
+**Saat-ye {saAt ye} –** clockwise (adv.)
 
-**Id wogh currt saat-ye –** o carro corre no sentido horário
+**Id wogh gwaht saat-ye –** The car goes clockwise.
 
-**Sammel {sAmël} –** ao mesmo tempo
+**Sammel {sAmël} –** at the same time.
 
-**Nies purts vanier sammel –** nossos filhos sumiram ao mesmo tempo
+**Nies purts vanier sammel –** Our children vanished at the same time.
 
-**Sat {sat} –** o bastante, suficientemente
+**Sat {sat} –** enough
 
-**Essim sat – **comi o suficiente
+**Essim sat – **I ate enough.
 
-**Schawxwen {xAwkswën} –** []{#anchor-282}momentaneamente
+**Schawxwen {xAwkswën} –** []{#anchor-282}momentarily
 
-***Eem schawxwen dusiht –** estive momentaneamente tonto*
+***Eem schawxwen dusiht –** I turned momentarily dizzy.*
 
-**Schowi {cOwi} –** portanto
+**Schowi {cOwi} –** consequently
 
 **Id institutional division iom maghs est schowi necessar iri mutual
-control –** a divisão institucional dos poderes é consequentemente
-necessária para o seu controle mútuo
+control –** The institutional division of the powers is by consequence
+necessary to their mutual control.
 
-**Sei {sey} –** se *(introduzindo uma condição ou suposição)*
+**Sei {sey} –** if *(introducing a condition or a supposition)*
 
-**Sei seuyt, mansiem domi –** se chover, ficarei em casa
+**Sei seuyt, mansiem domi –** If it rains, I'll stay at home.
 
 **Kaupsiem tien hadia, bet sei tien pater ne payght mi, cheidsiem con
-iom –** comprarei seu presente, mas se seu pai não me pagar, brigarei
-com ele
+iom –** I shall buy your present, but if your father doesn't pay me, I'll
+have an argument with him. 
 
-**Seni {sEni} –** à parte, separadamente
+**Seni {sEni} –** apart, separately, asunder
 
-**Crohscim seni ud mien braters ed swest**ers – cresci separado dos meus
-irmãos e irmãs
+**Crohscim seni ud mien braters ed swesters** – I grew up separately from
+my brothers and sisters. 
 
 **Ser {ser} –** seriamente *(ferimentos, machucados…)*
 
