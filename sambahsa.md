@@ -4632,7 +4632,7 @@ friend talk to each other in sambahsa
 **RELATIVE PRONOUN AND INTEGRANT CONJUNCTION**
 ==============================================
 
-Look the sentences below, look at the use of the word “que”:
+Look the sentences below, look at the use of the word “that”:
 
 \(1) This is the horse *that* I bought
 
@@ -4994,26 +4994,26 @@ Don’t be afraid with the size of this chapter, I only aimed to put all
 the invariable words here, in what way to this grammar be a good
 reference material.
 
-**Aiw(o) {Äw(o)} –** jamais *(sem negação)*, sempre, já
+**Aiw(o) {Äw(o)} –** ever
 
-**Ays kays eet is bellst quod is hieb aiwo vis –** o cabelo dela era o
-mais bonito que ele já tinha visto
+**Ays kays eet id bellst quod is hieb aiwo vis –** Her hair was the most 
+beautiful he had ever seen.
 
-**Est stragn od tod ilaj aiw hieb esen usen –** é estranho que este
-tratamento jamais tenha sido usado
+**Est stragn od tod ilaj aiw hieb esen usen –** It's strange that this 
+medical treatment has ever been used.
 
-Como substantivo, “aiwo” significa “era”, como em “Petraiwo”, que
-significa “Idade da Pedra”.
+As a substantive, "aiwo" means "Age", i.e. "period of time, History", just
+like "the Stone Age" or "the Golden Age". 
 
 **Id memorandum comprindt oino iom meist exhaustive playcts aiwo signen
 ab bo lands, markend uno major wehnd in ira relations –**
-[]{#anchor-281}O memorando abrange um dos acordos mais abrangentes
-jamais assinados entre os dois países, marcando um ponto de virada nas
-suas relações
+[]{#anchor-281}The memorandum comprises one of the most exhaustive 
+agreements ever signed by both countries, highlighting a major turning
+point in their relations.
 
-**Id khakst film aiwo –** o pior filme jamais feito/visto/…
+**Id khakst film aiwo –** The worst movie ever.
 
-**Agar {agAr} –** se, em caso de
+**Agar {agAr} –** in case that
 
 **In 2005, id Chinese Parlament hat widen un "anti-secession" leg
 autorisend silahneud agar Taywan declariet sien independence –** In
@@ -5021,14 +5021,14 @@ autorisend silahneud agar Taywan declariet sien independence –** In
 authorizes the use of force in case that Taiwan would declare its
 independence
 
-**Albatt(a) {albAt(a)} – **de fato, realmente
+**Albatt(a) {albAt(a)} – **certainly, indeed
 
-**Albatt sambahsa ne est id meis facil bahsa –** de fato sambahsa não é
-a língua mais fácil
+**Albatt sambahsa ne est id meist facil bahsa –** Certainly, Sambahsa
+is not the easiest language.
 
-**Als {als} –** mais *(preste atenção como o “mais” é utilizado)*
+**Als {als} –** otherwise, else
 
-**Kwe semanghen als volt anon? –** alguém mais quer comida?
+**Kwe semanghen als volt anon? –** Does someone else want some food ?
 
 **Also {Also} –** also, so
 
@@ -5044,50 +5044,49 @@ closer at each face
 suddenly thought about stopping up his nose; also, he wasn't caught by
 sneezings
 
-**Amalan {amalAn} –** praticamente
+**Amalan {amalAn} –** practically, virtually
 
-**Ti bel animals sont amalan extinct –** esses belos animais estão
-praticamente extintos
+**Ti bell animals sont amalan extinct –** These beautiful animals are 
+practically extinct. 
 
-**An {an} –** se *(veja como o “se” é usado nas frases abaixo para que
-você não se confunda com o “sei”)*
+**An {an} –** whether, if, that (introducing an interrogation, a doubt)
 
-***Ne woidim an poitto drehnke hoyd –** não sei se posso beber *(bebida
-alcoólica)* hoje*
+***Ne woidim an poitto drehnke hoyd –** I don't know if I have the right 
+to drink alcohol today. 
 
-***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** ela
-foi ver se o seu carro saiu do conserto*
+***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** She went 
+off to see if her car had left the reparation service. 
 
-***Daumo an i insects tant kame plukes ambh kiers –** me pergunto se os
-insetos gostam tanto de voar em volta de velas*
+***Daumo an i insects tant kame plukes ambh kiers –** I wonder whether insects
+so much like to fly around candles.
 
-**Anter {Antër} –** em vez, prefira
+**Anter {Antër} –** rather
 
-**Sieycst “torche”, bet kad eiskws sayge anter “torte” –** você disse
-“tocha”, mas talvez você queira dizer “torta” em vez disso
+**Sieycst “torche”, bet kad eiskws sayge anter “torte” –** You said "torche", bet
+perhaps that you rather mean "torte". 
 
-**Api {Api} –** ora, mas, agora
+**Api {Api} –** but, now (to introduce a counter-argument)
 
 **Est saygen od pisks ne maghe ses daht im leuds, i dehlge bihe bedarst
-ad piskes, api leuds ne hant access ei fluv –** dizem que peixes não
-pode ser dados às pessoas, deve-se ensiná-las a pescar, mas o povo não
-tem acesso ao rio
+ad piskes, api leuds ne hant access ei fluv –** It is said that fish(es) cannot
+be given to people, they must be taught how to fish, but people don't have any
+access to the river. 
 
 **Gulf lands eiskwnt conserve ir teutisk ed religieus traditions. Api,
 id interpretation ios Coran ed ia reuls in gwis ios scharia
-inferioreihnt gwens dia wirs –** países do Golfo querem conservar as
-suas tradições tribais e religiosas. Ora, a interpretação do Alcorão e
-as regras em vigor da Sharia fazem as mulheres inferiores em relação aos
-homens
+inferioreihnt gwens dia wirs –** The Gulf countries want to keep their tribal 
+and religious traditions. Now, the interpretation of the Coran and the rules
+in force of the Sharia make women inferior towards men. 
 
-**Aproposs {apropOs} –** a propósito
+**Aproposs {apropOs} –** By the way
 
-**Dank ob aurdhens id meja. Aproposs, kwohrst tien almentask? –**
-obrigado por arrumar a mesa. A propósito você fez o seu dever de casa?
+**Dank ob aurdhnes id meja. Aproposs, kwohrst tien almentask? –**
+Thanks for putting the table in order. By the way, did you do your (school)
+homework ? 
 
 **Som un serieus christian ed, aproposs, som gai. Sem leuds pohnd
-difficil ghabe to –** sou um cristão sério e, a propósito, sou gay.
-Algumas pessoas acharam difícil compreender isso
+difficil ghabe to –** I'm a serious Christian and, by the way, I'm gay. Some
+people found this difficult to understand.
 
 **Ar {ar} –** for *(used when “ghi” is not convenient)*
 
@@ -5101,136 +5100,131 @@ bases
 Notice that the use of “ghi” would not be practical to use “ghi” because
 of the long complement “pos dwo secules os Russiano militaro presence”
 
-**Arasih {arazI:} –** acidentalmente
+**Arasih {arazI:} –** accidentally
 
-**Arasih sorbim un bei –** acidentalmente eu engoli uma abelha
+**Arasih sorbim un bei –** Accidentally I swallowed a bee.
 
-**Au {Ao} –** ou *(separa substantivos)*
+**Au {Ao} –** or
 
-**Dah ei un apel au un vinber –** dê a ele uma maçã ou uma uva
+**Dah ei un apel au un vinber –** Give him an apple or a grape.
 
-**Aus {Aos} –** cedo
+**Aus {Aos} –** early
 
-***Is gwohmit aus –** ele chegou cedo*
+***Is gwohmit aus –** He came early*
 
-**Autah {aotA:} –** ou *(é apenas mais forte do que “au”)*
+**Autah {aotA:} –** or *(a little stronger than “au”)*
 
 ***China est tienxia dwot plautsto Stat yeji id land superficie, autah
 trit au quart plautsto yeji id total superficie, sekwent id meid methode
-–** A China é o segundo maior país do mundo em massa de terra, ou (caso
-contrário), terceiro ou quarto maior de superfície total, seguindo o
-método de medição*
+–** China is the world's second largest state by land area, or either 
+the third or fourth-largest by total area, depending on the method of 
+measurement*
 
-**Auti {Aoti} – **ou também, ou mesmo
+**Auti {Aoti} – **or too
 
 ***Tod militar potential ghehdt ses nudt eni id quader om UNO au NATO
 operations, auti ob id ****maidehsa om certain lands au organisations
-–** este potencial militar pode ser usado no âmbito das operações da ONU
-ou OTAN, ou mesmo / também por causa do pedido de ajuda de determinados
-países ou organizações*
+–** This military potential can be used whithin the framework of UNO 
+or NATO operations, or else because of the call for help of certain 
+countries or organisations*
 
-**Bad {bad} –** finalmente, afinal
+**Bad {bad} –** at last, finally
 
-**Bad gwahsiem hem –** finalmente irei para casa
+**Bad gwahsiem hem –** At last I came home.
 
 **Ia gwenak me spohc med sien okwi meg-ye ghyanen ob staunos, pre bad
-sprehge –** a jovem olhou para mim com seus olhos bem abertos de
-espanto, antes de finalmente perguntar
+sprehge –** The young woman looked at me with her eyes wide-opened in
+amazement, before she finally talked to me.
 
-**Ne … bad {ne … bad} –** ainda não
+**Ne … bad {në … bad} –** not... yet
 
-**Ne ho bad perichohxen id hol Sambahsa-Portughesche kamus –** ainda não
-chequei completamente todo o repertório de dicionário do
-sambahsa-português
+**Ne ho bad perichohxen id hol Sambahsa-Portughesche kamus –** I haven't
+yet proofread the whole Sambahsa-Portuguese lexicon.
 
-perichohxen = peri + chohxen (pretérito de chehx)
+perichohxen = peri + chohxen (preterit of chehx)
 
-**Bariem {baryEm} – **pelo menos, de toda maneira
+**Bariem {baryEm} – **at least
 
-**Som orm, bet bariem weiko in un riche land –** sou pobre, mas, pelo
-menos, vivo num país rico
+**Som orm, bet bariem weiko in un riche land –** I'm poor, but at least I
+live in a rich country.
 
-**Besonters {bezOntërs} –** especialmente, principalmente
+**Besonters {bëzOntërs} –** especially
 
-***Kamo magvi, besonters i tamijdars –** gosto de crianças,
-especialmente as bem-educadas*
+***Kamo magvi, besonters i tamijdars –** I like children, especially
+the well-educated ones.
 
-Extra: nesta frase você também poderia dizer: …besonters ti tamijdar
+Extra: "those well-educated" would be "ti tamijdar", because "ti" here
+replaces the substantive. 
 
-**Bet {bet} –** mas
+**Bet {bet} –** bet
 
-**Ho un bell gvibh, bet ne som noroct –** tenho uma bela esposa, mas não
-sou feliz
+**Ho un bell gvibh, bet ne som noroct –** I have a beautiful wife, but I'm
+not happy.
 
-**Bfuyi {bfUyi} –** repetidamente, para sempre, eternamente
+**Bfuyi {bfUyi} –** continuously, non-stop
 
-**El Manticore henslit iom bfuyi –** o diabinho não parou perturbá-lo
+**El Manticore henslit iom bfuyi –** The Manticore harassed him continously.
 
-**Biadet {byAdët} –** normalmente, usualmente, geralmente
+**Biadet {byAdët} –** usually
 
-**Biadet eihm ad hem jumas –** normalmente vou para casa às sextas
+**Biadet eihm hem jumas –** Usually I go home on Fridays.
 
-**Bilax {bilAks} –** pelo contrário, ao contrário
+**Bilax {bilAks} –** On the contrary
 
-**Ne orbato con bandits, bilax, tik orbato con honeste leuds –** não
-trabalho com bandidos, pelo contrário, só trabalho com gente honesta
+**Ne orbato con bandits, bilax, tik orbato con honeste leuds –** I don't work 
+with bandits, on the contrary, I only work with honest people.
 
-**(Bil)hassa {(bil)hAsa} –** na maioria das vezes, geralmente
+**(Bil)hassa {(bil)hAsa} –** mostly
 
-**Bilhassa ghango in id forest nocts –** na maioria das vezes eu caminho
-na floresta a noite
+**Bilhassa ghango in id forest nocts –** I walk in the forest mostly at night. 
 
-**Cadadien {kadadyEn} – **diariamente, todo dia
+**Cadadien {kadadyEn} – **every day, daily
 
-**Cadadien puwno id dom –** limpo a casa diariamente
+**Cadadien puwno id dom –** I clean up the house every day.
 
-**Casu quo {kAzu kwo} – **se necessário, em caso de necessidade, se for
-caso disso
+**Casu quo {kAzu kwo} – **if need be
 
-**Casu quo, pehrnsiem id dom, men neti sessiem makrouse –** se for
-preciso, venderei a casa, mas não ficarei mais endividado
+**Casu quo, pehrnsiem id dom, men neti sessiem makrouse –** If necessary, I 
+will sell the house, but I won't be indebted anymore.
 
-**Chiowdeo {tcyowdEo} –** exatamente
+**Chiowdeo {tcyowdEo} –** exactly, precisely
 
-**Quod volst sayge chiowdeo? –** o que você quis dizer exatamente?
+**Quod volst sayge chiowdeo? –** What did you mean exactly ?
 
-**Chunke {tcunk} –** desde *(casual)*
+**Chunke {tcunk} –** since, as *(conditional)*
 
 **Chunke yu xeihte id magh os kyukes iom Mighelekwo, ne ghehdiete yu
-sprehge iom quer wehst eys poti? –** Desde que você mantenha o poder de
-convocar o Cavalo da Névoa, você não poderia lhe perguntar onde está seu
-mestre?
+sprehge iom quer wehst eys poti? –**Since you hold the power to summon the
+Horse of Mist, couldn't you ask him where his master is now ?
 
-**Circa {tsIrka} –** cerca de, aproximadamente
+**Circa {tsIrka} –** about, approximately
 
-**Is est circa dwo meters buland –** ele tem cerca de dois metros de
-altura
+**Is est circa dwo meters buland –** He's approximately two meters tall.
 
-**Com(samen) {kom(sAmën)} –** juntamente
+**Com(samen) {kom(sAmën)} –** together
 
-**Hovesper, sessiemos com –** esta tarde estaremos juntos
+**Hovesper, sessiemos com –** Tonight, we'll be together.
 
-**Daanistah {daanista:} –** intencionalmente
+**Daanistah {daanista:} –** knowingly
 
-**Daanistah brohgim id machine –** quebrei a máquina intencionalmente
+**Daanistah brohgim id machine –** I broke the machine intentionally.
 
-**Dalg {dalg} –** longe
+**Dalg {dalg} –** far
 
-**Resido dalg –** moro longe
+**Weiko dalg –** I live far (from here)
 
-**Dalger {dAldjër} –** mais adiante, mais a frente *(sentido espacial,
-nunca temporal)*
+**Dalger {dAldjër} –** farther
 
-**Tetos dalger, vidsies un phar –** dali mais adiante você verá um farol
+**Tetos dalger, vidsies un phar –** Farther from there, you'll see a 
+lighthouse.
 
-**Seghlim dalger kay trehve id noroc **– naveguei mais longe para
-encontrar a felicidade
+**Seghlim dalger kay trehve id noroc **– I sailed farther to find 
+happiness.
 
-**Dar {dar} –** ainda *(geralmente usado no meio das frases, atrás de um
-verbo. Veja o exemplo abaixo para você não confundir com o “yed”)*
+**Dar {dar} –** still *(as an adverb)*
 
-**Quan gwahm lict, mien mann dar est wehrgend –** quando vou pra cama o
-meu marido ainda está trabalhando
+**Quan gwahm lict, mien mann dar est wehrgend –** When I go to bed, 
+my husband is still working.
 
 **Dat {dat} –** given that
 
@@ -5242,28 +5236,22 @@ ate one lembas before sleeping
 linkwes id urb –** Given that he had no money to afford a fare to the
 east, Ithacus had to leave the city
 
-**Daydey {daydEy} – **em geral
+**Daydey {daydEy} – **generally
 
-**Daydey ia semens teukent quan (sont) madhen –** de um modo geral as
-sementes germinam quando molhadas
+**Daydey ia semens teukent quan (sont) madhen –** In general, seeds do 
+sprout when they've turned wet.
 
-Obs.: neste caso, escrever apenas “…quan madhen” não é gramaticalmente
-errado, mas é preferível que se coloque o verbo no meio para fins de
-clareza
+**Dayim {dayIm} –** constantly
 
-**Dayim {dayIm} –** repetidamente
-
-***Is fabric orbater premt ia scruvs dayim –** o operário aperta os
-parafusos repetidamente*
-
-É sinônimo de “bfuyi”
+***Is fabric orbater premt ia scruvs dayim –** The factory worker constantly
+presses the screws.
 
 **Dind {dind} –** then, after that
 
-***Gwahsim id mercat, dind gwahsim kyrk –** I went to market, then I wnt
+***Gwahsim id mercat, dind gwahsim kyrk –** I went to market, then I went
 to church*
 
-**Diu {dyu} – **muito tempo
+**Diu {dyu} – **for a long time, long (temporal adverb)
 
 **Unte baygh diu, ho esen her –** durante muito tempo, estive aqui
 
