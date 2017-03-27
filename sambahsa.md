@@ -5697,117 +5697,110 @@ have an argument with him.
 **Crohscim seni ud mien braters ed swesters** – I grew up separately from
 my brothers and sisters. 
 
-**Ser {ser} –** seriamente *(ferimentos, machucados…)*
+**Ser {ser} –** severely *(injuries)*
 
-***Buim ser vurnt unte id accident –** eu fiquei gravemente ferido(a)
-durante o acidente*
+***Buim ser vurnt unte id accident –** I was severely injured during the
+accident
 
-**Serter {sErtër} –** mais tarde
+**Serter {sErtër} –** later
 
-**Wano wakt nun, ghehdsiemos vide mutu serter –** preciso de um tempo,
-mais pra frente a gente se vê
+**Wano wakt nun, ghehdsiemos vide mutu serter –** I'm lacking time for the
+moment, we can see each other later.
 
-**Shayad {xayAd} –** provavelmente
+**Shayad {xayAd} –** probably
 
 Credeihm od ne ter sessient meis large ubnuwa nuntos. Shayad naudhsiem
-kaure tik de id
+kaure tik de id = *I think that there won't be larger updates from now on. 
+Probably I'll have to care about it.*
 
-**werdskaut capitel ed adverbs –** acredito que não haverá mais grandes
-atualizações a partir de agora. Provavelmente precisarei me preocupar
-apenas em relação ao capítulo de vocabulário e advérbios
+**Sigwra {sIgura} –** certainly, sure (adv.)
 
-**Sigwra {sIgura} –** seguramente
+**Sigwra eucsiem sambahsa –** I will certainly learn Sambahsa.
 
-**Sigwra eucsiem sambahsa –** seguramente aprenderei sambahsa
+**Sonst {sonst} –** if not, or else
 
-**Sonst {sonst} –** senão, de outra forma, caso contrário
+**Is ne hat daken vies message, sonst habiet gwohmt –** He didn't get 
+your message, or else he would have come.
 
-**Is ne hat daken vies message, sonst habiet gwohmt –** ele não recebeu
-sua mensagem, caso contrário teria vindo
-
-**Sontern {sOntërn} –** mas *(depois de uma negação)*
+**Sontern {sOntërn} –** but *(after a negation)*
 
 **“Ne ho saygen od neid est gohder,” jawieb is Roy, “sontern od neid est
-meis lecker –** “eu não disse que nada é melhor”, respondeu o rei, “mas
-que nada é mais delicioso”
+meis lecker –** "I haven't said that nothing is better," replied the King, 
+"but that nothing is more delicious". 
 
-**Stayg {stayg} =** fujutan ***(mas este também pode ser usado como
-adjetivo)***
+**Stayg {stayg} =** fujutan ***(but the former can be used as an adjective too)***
 
 **Strax {straks} =** fauran
 
-**Tadrijan {tadrIjan} –** gradualmente, pouco a pouco
+**Tadrijan {tadrijAn} –** gradually, little by little
 
-**Tadrijan ia beis construgent ir alvey –** aos poucos as abelhas
-constroem sua colmeia
+**Tadrijan i beis construgent ir alvey –** Little by little do the bees build
+their hive.
 
-**Taiper {tÄpër} –** atualmente, presentemente
+**Taiper {tÄpër} –** presently
 
-**Taiper id mund est baygh dangereus –** atualmente o mundo está muito
-perigoso
+**Taiper id mund est baygh dangereus –** The world is presently very dangerous.
 
-**Takriban {takribAn} –** quase, aproximadamente
+**Takriban {takribAn} –** about, approximately
 
-**Ho takriban penkwe milliards in id bank –** tenho quase 5 bilhões no
-banco
+**Ho takriban penkwe milliards in id bank –** I have approximately five millions
+at the bank.
 
-**Tan(do) {tAn(do)} –** contanto, sob a condição de
+**Tan(do) {tAn(do)} –** as long as
 
 **“Ghehdo te hehlpe ad kwehre id sam”, is iey “tan es asli-ye zakir” –**
-“eu posso te ajudar a fazer o mesmo”, disse ele, “contanto que você seja
-realmente piedoso”
+"I can help you to do the same", he said, "as long as you are faithfully
+pious".
 
-**Tienxia {tyEnksya} –** em qualquer lugar no mundo
+**Tienxia {tyEnksya} –** all around the world
 
-**Tienxia est khitert, betschi tienxia est karam –** em todo lugar há
-maldade, mas também em todo lugar há bondade
+**Tienxia est khitert, betschi tienxia est karam –** There's evil all around
+the world, but there is also goodness all around the world.
 
-**Tik {tik} – **somente, apenas
+**Tik {tik} – **only
 
-**Som tik octoat –** tenho apenas oito anos
+**Som tik octat –** I'm only eight years old.
 
-**Towsraen {towsrAyn} –** aleatoriamente
+**Towsraen {towsrAyn} –** at random
 
-**Ia numers prehpent towsraen –** os números aparecem aleatoriamente
+**Ia numers prehpent towsraen –** The numbers come up at random.
 
-**Tsay {tsay} –** de novo, mais uma vez, novamente, de volta, para trás,
-atrás
+**Tsay {tsay} –** back, again
 
-**I peinds gwehment tsay –** os inimigos estão vindo novamente
+**I peinds gwehment tsay –** The enemies are coming back.
 
-**Tun {tun} –** então, naquele momento
+**Tun {tun} –** then
 
-**Tun el magv visit un piurneus serpent ep id charagah –** então a
-criança viu uma cobra de fogo sobre a grama
+**Tun el magv visit un serpent ep id gras –** Then the child saw
+a snake on the grass.
 
-**Wa {wa} –** e/ou *(para indicar nomes alternativos)*
+**Wa {wa} –** ed/or *(to indicate alternative names)*
 
 **Feira de Santana wa “Princesse Urb” est id second mierst urb os Bahia
-–** Feira de Santana ou “Cidade Princesa” é a segunda maior cidade da
-Bahia
+–** Feira de Santana or “Princess City” is the second largest city of 
+Bahia.
 
-**Wakea {wakEa} –** definitivamente
+**Wakea {wakEa} –** definitely
 
-**Is est wakea is meist preparet **– ele é definitivamente o mais
-preparado
+**Is est wakea is meist preparet **– He's definitely the best prepared one.
 
-**Way {way} –** infelizmente, ai de mim!
+**Way {way} –** unfortunately, alas !
 
-**Way ia mohrit –** infelizmente ela morreu
+**Way ia mohrit –** Alas, she died.
 
-**We {we} –** ou *(separa orações)*
+**We {we} –** or *(separes verbs)*
 
-***Ne woidim an kaupo un wogh we io safer do Tyrkia –** não sei se
-compro um carro ou viajo para a Turquia.*
+***Ne woidim an kaupo un wogh we io safer do Tyrkia –** I don't know if I 
+buy a car or travel to Turkey.
 
-**Weidwos {wEydwos} –** é claro, naturalmente, certamente
+**Weidwos {wEydwos} –** of course
 
-**Weidwos sambahsa est facil –** é claro que sambahsa é fácil
+**Weidwos sambahsa est facil –** Of course, Sambahsa is easy.
 
-**Yadi {yAdi} –** se apenas
+**Yadi {yAdi} –** if only
 
-***Yadi Jorge hieb esen perodhsedd, hol esiet different –** se somente
-Jorge tivesse sido presidente, tudo seria diferente.*
+***Yadi Jorge hieb esen perodhsedd, hol esiet different –** If only Jorge
+had been the chairman, everything would be different.*
 
 **Yani {yAni} –** isto é, quer dizer que
 
