@@ -5931,225 +5931,210 @@ Id insule est bayna aqua – a ilha está cercada por água
 **Is planit id competition bayna i daskals –** Ele planejou a competição
 junto aos professores
 
-**Bi {bi} –** no *(local de trabalho)*, em *(autor de uma obra ou
-ideia)*, próximo de *(não implica proximidade espacial permanente)*.
-Essa preposição frequentemente se funde ao pronome nas formas dativa e
-acusativa. bi + ei = bei; bi + ay = bay; bi + el = bil; bi + im = bim;
+**Bi {bi} –** at *(workplace, shop)*, in *(the work of an author)*, by *(idea
+of non-permanent proximity)*.
+This preposition frequently merges with the pronoun-definite article in the dative
+or accusative. bi + ei = bei; bi + ay = bay; bi + el = bil; bi + im = bim;
 
-**Fruits sont kaupen bi mercat –** frutas são compradas no mercado
+**Fruits sont kaupen bi mercat –** fruits are bought at the market
 
-**Manskwo bi mien sokwi in tod walu –** quero permanecer junto ao meu
-companheiro neste campo de batalha
+**Manskwo bi mien sokwi ep tod walu –** I want to stand by my companion on that
+battlefield.
 
 **Sei yed id dayi progress dehlct ses, bi Kant kam bi Condorcet, id
-norme quod permitt judce Historia… –** Se, contudo, a ideia geral de
-progresso deve ser, em Kant e em Condorcet, a norma que permite julgar
-História…
+norme quod permitt judce Historia… –** If however the idea of progress must be,
+in Kant as in Condorcet, the norm that allows to judge History...
 
-**Bila {bIla} –** salvo, na ausência de
+**Bila {bIla} –** in lack of, failing
 
 **Bila satisfacend communicationzariyas ed efficienta
-transportsnetwehrgs, ia electoral campagnes sont difficil ductu –** na
-ausência de meios de comunicação e de redes de transportes eficientes,
-as campanhas eleitorais são difíceis de conduzir
+transportsnetwehrgs, ia electoral campagnes sont difficil ductu –**In lack
+of satisfying communication means and transportation networks, electoral
+campaigns are hard to carry on.
 
-**Cis {tsis} –** deste lado de
+**Cis {tsis} –** On this side (where I am)
 
-**Cis tod fluv –** deste lado do rio
+**Cis tod fluv –** On this side of the river.
 
-**Con {kon} –** com *(no sentido de companhia)*
+**Con {kon} –** with *(idea of company)*
 
-**Som con te –** estou contigo / estou com você
+**Som con te –** I'm with you.
 
-**Safersiem con iom –** viajarei com ele
+**Safersiem con iom –** I will travel with him.
 
-**Weiko con mien esor – **vivo com minha esposa / moro com minha esposa
+**Weiko con mien esor – **I live with my wife.
 
-**Tolko con Olivier –** falo com Olivier
+**Tolko con Olivier –** I'm talking with Olivier
 
-**Contra {kOntra} –** contra
+**Contra {kOntra} –** against
 
-**I katuer contra nos –** eles lutaram contra nós
+**I katuer contra nos –** They fought against us.
 
-**Circa {tsIrka} – **cerca de, por volta de, em torno de
+**Circa {tsIrka} – **about, approximately
 
-**Is est circa dwo meters buland–** ele tem cerca de dois metros
+**Is est circa dwo meters buland–** He's approximately two meters high.
 
-**Dayir {dAyir} –** concernente, relativo a, a respeito de, acerca de,
-referente a, tocante a
+**Dayir {dAyir} –** concerning, for what pertains to
 
-**Ia conflicts dayir wed bihnt schowi imminent –** os conflitos
-relativos à água estão se tornando consequentemente iminentes
+**Ia conflicts dayir wed bihnt schowi imminent –** By consequence, 
+conflicts about water are getting imminent. 
 
-**De {de} –** sobre
+**De {de} –** about
 
-**Tod buk est de drus –** este livro é sobre árvores
+**Tod buk est de drus –** This book is about trees.
 
-**Dia {dya} –** para, à, ao
+**Dia {dya} –** towards (in a moral, figurative sense)
 
 **Id majoritat os Kashmirs population esiet nuntos ryowkhowo dia
-independence –** a maioria da população da Caxemira seria, doravante,
-favorável à independência
+independence –** The majority of Kashmir's population would be from
+now on favorable towards independence.
 
-**Som allergic dia penicillin –** sou alérgico a penicilina
+**Som allergic dia penicillin –** I'm allergical at penicillin.
 
-**Do {do} –** em, para dentro, de
+**Do {do} –** into
 
-**Wey safersiemos do Espania –** nós viajamos para a Espanha
+**Wey safersiemos do Espania –** We will travel (in)to Spain.
 
 ***Ho adapten sem reconstruct nams em antique hindeuropay divs do
-Sambahsa – **adaptei alguns nomes reconstruídos dos antigos deuses
-indo-europeus para o sambahsa*
+Sambahsa – **I have adapted some reconstructed names of antique 
+Indo-european gods into Sambahsa.*
 
-**Due {dü:}–** devido a
+**Due {dü:}–** due to
 
-**Due id seuy, khako linkwes mien dom – **devido a chuva, não posso sair
-da minha casa
+**Due id seuy, khako linkwes mien dom – **Because of (due to) the rain, 
+I can't leave my house.
 
-**Ender {Endër} –** abaixo, debaixo *(não implica contato)*
+**Ender {Endër} –** beneath, underneath
 
-**Ter est un kwaun ender id meja –** há um cachorro debaixo da mesa
+**Ter est un kwaun ender id meja –** There is a dog beneath the table.
 
-**Ender nebhs sont id land ed id mar –** Debaixo das nuvens está a terra
-e o mar
+**Ender nebhs sont id land ed id mar –** Beneath the clouds there are the
+land and the sea.
 
-**Id stohm ender id nas –** a boca debaixo do nariz
+**Id stohm ender id nas –** the mouth beneath the nose.
 
-**Endo {Endo} –** em direção ao interior
+**Endo {Endo} –** within, inside (with movement)
 
-**El monster fugit endo antro –** o monstro fugiu para o interior da
-caverna
+**El monster fugit endo id antro –** The monster fled inside the cave-den.
 
-**Engwn {Engun} – **ao longo de, junto a
+**Engwn {Engun} – **along
 
-**Tod permitt mette precis-ye engwn ia walls ed flors **– Isso permite
-cortar com precisão ao longo das paredes e flores
+**Tod permitt mette precis-ye engwn ia walls ed flors **– This allows to 
+mow with precision along the remparts and the flowers.
 
-**Eni {Eni} –** dentro
+**Eni {Eni} –** within, inside
 
-**Eni mien corpos ter sont vehrms –** dentro do meu corpo há vermes
+**Eni mien corpos ter sont vehrms –** There are worms inside my body.
 
-**Ep {ep} –** sobre, em cima de *(toca o objeto no qual ele está em
-cima)*. Antes de “h” essa preposição tornasse “ef”, como se faz com o
-“ab”
+**Ep {ep} –** on. Turns to "ef" before "h-".
 
-**Ter est un rat ep id meja –** há um rato sobre a mesa
+**Ter est un rat ep id meja –** There is a rat on the table.
 
-**Epter {Eptër} –** pouco mais de
+**Epter {Eptër} –** just over (ex: a garment on another one, or looking over a 
+shoulder)
 
 **Ia dohm-se ep id bors om sien peds, ed, glanzend epter id leizdo ios
-mur, ayso spect incontrit tod uns buland wir –** ela esticou-se na ponta
-dos pés e espiou por cima da borda do muro, e seus olhos encontraram
-imediatamente aqueles de um homem alto
+mur, ayso spect incontrit tod uns buland wir –** She stood upright on the tip
+of her feet, and, glancing over the edge of the wall, her look met the one of 
+a tall man.
 
-**Ex {eks} –** fora, de, do, da
+**Ex {eks} –** out of, from (within)
 
-**Som ex Brasilu –** sou do Brasil
+**Som ex Brasilu –** I'm from Brazil.
 
-**Un helm ex stal –** um elmo de aço
+**Un helm ex stal –** A helmet (made) of steel.
 
-**El kwaun gwehmt ex id dom –** o cachorro veio para fora da casa
+**El kwaun gwehmt ex id dom –** The dog comes out of the house.
 
-Veja a diferença de “ex” e “exo”
+Look at the difference between “ex” and “exo”
 
-***El kwaun est ex****o**** id dom –** o cachorro está do lado de fora
-da casa*
+***El kwaun est ex****o**** id dom –** The dog is outside the house.
 
-Quando não para expressar a ideia de “feito de” ou “de tal lugar”, a
-preposição “ex” passa uma ideia de movimento.
+**In {in} – **in
 
-**In {in} – **em
+**Som in id strad X –** I'm in X Street
 
-**Som in id strad X –** estou na rua X
+**Ghehdo bahe in dwodem bahsas –** I can speak in twelve languages.
 
-**Ghehdo bahe in dwodem bahsas –** posso falar em doze línguas
+**Credeihm in fees –** I believe in fairies.
 
-**Credeihm in fees –** acredito em fadas
+**Instet {instEt} –** instead (of)
 
-**Instet {instEt} –** em vez (de)
+**Instet swehpe, ma ne orbats? –** Instead of sleeping, why don't you work ?
 
-**Instet swehpe, ma ne orbats? –** em vez de dormir, por que você não
-trabalha?
+**Inter {Intër} –** between
 
-**Inter {Intër} –** entre
+**Ia bent est inter dwo geronts –** The girl is between two old men.
 
-**Ia bint est inter dwo geronts –** a garota está entre dois anciãos
+***Id joyel eet inter ia colunns –** The jewel was between the columns.*
 
-***Id joyel eet inter ia colunns –** a joia ficava entre as colunas*
-
-**Kata {kAta} –** a partir do topo de
+**Kata {kAta} –** from above, down
 
 **Mathalan, ia pinegs hangend kata id mur nieb id ogwn quanta tengier
-gwiv –** por exemplo, os quadros pendurados na parede perto da lareira,
-tudo parecia estar vivo
+gwiv –** For example, the paintings on the wall near the fire all
+seemed to be alive.
 
-**Kye {kye} –** no sentido de, em direção a. *Essa preposição se mistura
-com o determinante seguinte ou o pronome na 3ª pessoa, não é difícil
-encontrar algo como kyid (kye + id).*
+**Kye {kye} –** in the direction of. *This preposition merges with the next
+pronoun or article; the most common occurance is kyid (kye + id).*
 
-**Vahm gwahe kye mien dom –** vou para minha casa
+**Vahm gwahe kye mien dom –** I shall go soon in the direction of my house.
 
-**Is fallit kya dubes ios hayd –** ele caiu nas profundezas do inferno
+**Is fallit kya dubes ios hayd –** He fell towards the depths of Hell.
 
-**To ne est bad perfection, bet to est un itner kye –** esta não é a
-perfeição ainda, mas este é um caminho para isso
+**To ne est bad perfection, sontern to est un itner kye –** This is not yet
+perfection, but this is a way in (that) direction.
 
-**Kyant {kyant} = kye + ant –** em direção a *(com intenção de
-encontro)*
+**Kyant {kyant} = kye + ant –** towards *(coming in the opposite direction of)
 
-**Io vis iom gwehme kyant me –** o vi chegar ao meu encontro
+**Io vis iom gwehme kyant me –** I saw him coming towards me.
 
-**Med {med} –** com *(um instrumento)*.
+**Med {med} –** with *(an instrument)*.
 
-**Is magician construgit un castell med sien magia – **O mago construiu
-um castelo com sua magia
+**Is magician construgit un castell med sien magia – **The magician built a 
+castle with his magics.
 
-**Saferam med wogh –** viajamos de carro
+**Saferam med wogh –** We traveled in a car.
 
-**Med alya werds –** ou seja; em outras palavras
+**Med alya werds –** with other words
 
-**Medsu {mEdsu} –** no meio de
+**Medsu {mEdsu} –** in the middle of
 
-**Eduarda khiek sib stambhes glihes medsu sien dakrus –** Eduarda não se
-conteve de rir no meio de suas lágrimas
+**Eduarda khiek sib stambhes glihes medsu sien dakrus –** Eduarda couldn't 
+help herself from laughing in the middle of her tears.
 
 **Arriveer bad in vid unios mier menegh medsu quod is Lion ed is Unicorn
-eent katuend –** eles finalmente chegaram a visão de uma grande
-multidão, no meio da qual o Leão e o Unicórnio estavam lutando
+eent katuend –** They eventually arrived in sight of a big crowd in the
+middle of which the Lion and the Unicorn were fighting.
 
-**Mustathna {mustA§na} –** para além, além de
+**Mustathna {mustA§na} –** apart from, except
 
 **3.729.500 leuds gwiveer dien 1sto Januar 2015 in Kartvelia (mustathna
-Abkhasia ed Sud-Iristan) –** 3.729.500 pessoas viviam em 1º de janeiro
-de 2015, na Geórgia (para além da Abkházia e da Ossétia do Sul)
+Abkhasia ed Sud-Iristan) –** 3.729.500 people were living on the 1st of
+January 2015 in Georgia (not counting Abkhazia and South Ossetia)
 
-**Nespekent {nëspEkënt} –** apesar de
+**Nespekent {nëspEkënt} –** despite
 
 **Nespekent sien situation, Sophia biey meis pro iom quem pro se ye cid
-moment –** Apesar de sua situação, Sophia temia mais por ele do que para
-si mesma naquele momento
+moment –** Despite her situation, Sophi feared more for him than for
+herself at this moment.
 
-**Nieb {nyeb} –** ao lado de
+**Nieb {nyeb} –** on the side of, beside
 
-**Id dru est nieb id dom –** a árvore está ao lado da casa
+**Id dru est nieb id dom –** The tree is by the house.
 
-**Ob {ob} –** porque
+**Ob {ob} –** because (of)
 
-**Eddo sabzi ob id suasmehct –** como vegetais porque eles tem um bom
-sabor
+**Eddo sabzi ob id suasmehct –** I eat vegetables because they taste good.
 
-**Dank ob id antwehrd –** obrigado pela resposta
+**Dank ob id antwehrd –** Thanks for the answer
 
-**Ois {oys} –** vindo de. *As vezes escrito como “oys”.*
+**Ois {oys} –** having its origin in. *Sometimes written “oys”.*
 
 **Tuntos, ad pelu Stats ois id decolonisation moliet trehve ir tula –**
-desde então, uma série de Estados nascidos da descolonização tiveram
-dificuldade para encontrar seu equilíbrio
+From this time, many States born out of the decolonization had
+difficulties to find their balance.
 
-Acho melhor eu explicar o que o “ad” está fazendo aqui junto ao “ad pelu
-Stats” para quem não entendeu. No exemplo foi usado o verbo “molie”, que
-significa “ser/estar difícil”, por isso que foi necessário o uso do “ad”
-para indicar o objeto indireto,
+The verb "molie" means 
 
 **Pati {pAti} –** incluindo, inclusive
 
