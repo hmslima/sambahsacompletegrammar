@@ -6134,218 +6134,213 @@ herself at this moment.
 From this time, many States born out of the decolonization had
 difficulties to find their balance.
 
-The verb "molie" means 
+The verb "molie" means "to be difficult to"; that's why there is "ad" before
+"pelu Stats". The real subject of "moliet" is "trehve" = "to find". 
 
-**Pati {pAti} –** incluindo, inclusive
+**Pati {pAti} –** including
 
 **Ceters hieb esen lusen unte id naufrage, pati vasya mehmens os eys
-gwito tuntro –** todas as outras coisas tinham sido perdidas durante o
-naufrágio, incluindo todas as memórias de sua vida até então
+gwito tuntro –** All other things had been lost during the shipwreck, 
+including all the memories of his life until then.
 
-**Per {per} –** por meio de, através de, de
+**Per {per} –** through
 
-**Skapam per cid passage –** escapamos por meio daquela passagem
+**Skapam per cid passage –** We escaped through this passage.
 
-**Presaygo id future per mien cristall ball –** prevejo o futuro através
-da minha bola de cristal
+**Presaygo id future per mien cristall ball –**I foretell the future 
+through my cristal ball.
 
-**(Per)ambh {(për)Amb} –** por aí, em torno de, em volta
+**(Per)ambh {(për)Amb} –** around
 
-***Piends sont ambh nos –** inimigos estão a nossa volta*
+***Piends sont ambh nos –** Enemies are around us*
 
-**Ia ghyors perambh id vallee –** as montanhas cercam o vale
+**Ia ghyors perambh id vallee –** The mountains around the valley.
 
-Ter est aqua perambh id insule – há água em torno da ilha
+Ter est wed perambh id insule – There is water around the island.
 
-**Ploisko {plOysko} –** exceto
+**Ploisko {plOysko} –** except
 
-**Eddo quantgenos os miems, ploisko pork –** como todo tipo de carne,
-exceto carne de porco
+**Eddo quant genos os miems, ploisko pork –** I eat all kind of meat, 
+except pork.
 
-**Po {po} –** para *(em troca de)*, para *(a fim de obter)*
+**Po {po} –** for *(in exchange of; in search for)*
 
-**Io change un apel po un banane –** troco uma maçã por uma banana
+**Io exchange un apel po un banane –** I exchange an apple for a banana.
 
-**Pon {pon} –** desde
+**Pon {pon} –** since, for
 
-**Som her pon id auror –** estou aqui desde o amanhecer
+**Som her pon id auror –** I'm here since dawn.
 
-**Pon kamdiu reidneute yu in plen diewo? –** Por quanto tempo você tem
-montado em plena luz do dia? (perceba o uso do durativo -neu-, falarei
-sobre ele no capítulo apropriado)
+**Pon kamdiu reidneute yu in plen diewo? –** For how long have you been
+riding in full daylight ? (We use here the durative suffix -neu-)
 
-**Pos {pos} –** depois
+**Pos {pos} –** after
 
-**Tolko tib pos io arrive –** falo com você depois que eu chegar
+**Tolko tib pos io arrive –** I (will) talk to you after I (will) arrive.
 
-**Pre {pre} –** antes
+**Pre {pre} –** before (in time)
 
-**Tolko tib pre linkwo –** falo com você antes de eu sair
+**Tolko tib pre linkwo –** I talk to you before I leave.
 
-**Pri {pri} –** passar ao longo de, passar perto
+**Pri {pri} –** by, along (idea of movement)
 
-**Is vis un bloudun reider qui galoppit pri iom dextos levtro –** ele
-viu um cavaleiro vestido de azul que passou galopando perto dele da
-direita para a esquerda
+**Is vis un bloudun reider qui galoppit pri iom dextos levtro –** He saw
+a blue-clad rider who was galopped before him from the right to the left.
 
-**Quando yu gwahsiete pri id cocin –** quando passar pela cozinha
+**Quando yu gwahsiete pri id cocin –** When you'll go by the kitchen
 
-**El shamyu snahsit pri me –** o tubarão passou nadando ao meu lado
+**El shamyu snahsit pri me –** The shark was swimming along me.
 
-**Pro {pro} –** para, para que
+**Pro {pro} –** for (the benefit of)
 
-**Kieupim un cavall pro te –** comprei um cavalo para você
+**Kieupim un cavall pro te –** I bought a horse for you.
 
-**Eiskwo un wogh pro miena safers – **quero um carro para as minhas
-viagens
+**Eiskwo un wogh pro miena safers – **I want a car for my travels.
 
-**El behrger mohrit pro vies gwits –** o salvador morreu pela vida de
-vocês
+**El behrger mohrit pro vies gwits –** The saviour died for your lives.
 
-**Prod {prod} –** adiante, à frente
+**Prod {prod} –** ahead (of)
 
-**Noster chef semper ghanct prod nies grupp –** nosso chefe anda sempre
-à frente do nosso grupo
+**Noster chef semper ghanct prod nies grupp –** Our chief is always walking
+ahead of our group.
 
-**Prokwe(m) {prOkwë(m)}–** perto, próximo
+**Prokwe(m) {prOkwë(m)}–** near, close to
 
-**El animal est prokwe me –** o animal está próximo de mim
+**El animal est prokwe me –** The animal is close to me.
 
-**Prosch {proc} –** perto de, próximo *(com a ideia de movimento!)*
+**Prosch {proc} –** close(r) to *(idea of approaching)*
 
-**Id wogho gwehmt prosch me –** o carro está de aproximando de mim
+**Id wogho gwehmt prosch me –** The car is approaching me.
 
-**Protie {protI:} –** contra. O mesmo que “contra”
+**Protie {protI:} –** against. Same meaning as “contra”
 
-**I katueer protiev nos –** eles lutaram contra nós
+**I katueer protiev nos –** They fought against us.
 
 **Protiev {protyEv} = **Protie
 
-**Samt {samt} –** com (denota circunstância, descrição)
+**Samt {samt} –** with (circumstance, description)
 
-**Un wir samt blou okwi –** um homem com olhos azuis
+**Un wir samt blou okwi –** A blue-eyed man.
 
-**Cid familia gwivt samt maungo noroc –** aquela família vive com muita
-alegria
+**Cid familia gwivt samt maungo noroc –** This family lives with a 
+lot of happiness.
 
-**Cheuso mien werds samt kaur –** escolho minhas palavras com cuidado
+**Cheuso mien werds samt kaur –** I choose my words carefully.
 
-**Sekwos {sEkwos} –** seguinte, depois
+**Sekwos {sEkwos} –** following
 
 **Sekwos id swodetermination referendum os 1sto Jul 1962, Algeria
-proclamet sien independence –** na sequência do referendo de
-autodeterminação do 01 de julho de 1962, a Argélia proclamou sua
-independência
+proclamet sien independence –** Following the self-determination
+referendum of July 1st, 1962, Algeria proclaims its independence.
 
-**Speit {speyt} –** apesar de *(passa uma ideia de desapontamento)(pode
-ser usado como substantivo também)*
+**Speit {speyt} –** despite *(with a idea of disappointment)(is a 
+substantive as well)*
 
-**Id tank, speit gwaur leusa, tadrijan upertrehsit eyso squadron –** o
-tanque, apesar de pesadas perdas, esmagou seu esquadrão pouco a pouco
+**Id tank, speit gwaur leusa, tadrijan upertrehsit eyso squadron –** 
+The tank, despite heavy losses, managed to get through his squadron.
 
-**Sub {sub} –** logo embaixo, debaixo *(geralmente implica contato)*
+**Sub {sub} –** under 
 
-**Ter est un arank sub id meja –** há uma aranha debaixo da mesa
+**Ter est un arank sub id meja –** There's a spider under the table.
 
-**Sub un peruca est un calv cap –** debaixo de uma peruca tem uma cabeça
-careca
+**Sub un peruca est un calv cap –** Under the wig there's a bald head.
 
-**Subpoena {subpOyna} –** sob medo de *(penalidade)*
+**Subpoena {subpOyna} –** under fear of*(penalty)*
 
 **Uno mukhla al est tun dahn kay linkwes id land subpoena expulsion –**
-um prazo é então dado a ele para deixar o país sob a ameaça de expulsão
+A deadline is then given to him/her in order to leave the country under
+threat of expulsion.
 
-**Suisraen {swisrAyn} –** não obstante
+**Suisraen {swisrAyn} –** notwithstanding
 
 **Diplomatia ghehdeiht ia Stats suisraen ia differences iren
 constitutional ed social systemes, do mutual comprehension –**
-diplomacia permite que os Estados, não obstante as diferenças de seus
-sistemas constitucionais e sociais, alcancem a compreensão mútua
+Diplomacy allows States, notwithstanding the differences of their
+constitutional and social systemes, to reach mutual understanding.
 
-**Suppose {supOzë} –** vamos supor
+**Suppose {supOz} –** supposing that
 
 **Suppose mathalan yu subscripte un contract bi un pharmaceutic firma
-kay behrge vos ud diabetes –** vamos supor, por exemplo, que você assine
-um contrato com uma empresa farmacêutica para mantê-lo da diabetes
+kay behrge vos ud diabetes –** Let's suppose, for example, that you 
+sign a contract with a pharmaceutical firm to keep you from diabetes.
 
-**Swod {swod} –** no caminho de, na forma de
+**Swod {swod} –** in the way of, according to the custom of
 
-***Swod iens atavs (salaf) sokwis ios Prophet –** seguindo os costumes
-dos seguidores antepassados (salafis) do Profeta*
+***Swod iens atavs (salaf) sokwis ios Prophet –** In the way of the 
+ancestors (salaf) who followed the Prophet*
 
-**Tiel {tyel}–** até. Mas antes de um verbo nós usamos “hin(a)”.
+**Tiel {tyel}–** till. But before a verb, use “hin(a)”.
 
-**Id verdia start ex id urb ed continuet tiel id mar –** a estrada
-começa da cidade e continua até o mar
+**Id verdia start ex id urb ed continuet tiel id mar –** The highway
+starts from the city and runs to the sea.
 
-**Cursim tiel mien dom –** corri até minha casa
+**Cursim tiel mien dom –** I ran up to my house.
 
-**Trans {trans} –** do outro lado
+**Trans {trans} –** beyond
 
-**Trans tod fluv –** do outro lado do rio
+**Trans tod fluv –** Beyond the river.
 
-**Ud {ud} –** de
+**Ud {ud} –** from, of
 
-**Un brev ud Clara –** uma carta de Clara
+**Un brev ud Clara –** A letter from Clara
 
-**Ia kieupit un dom med denars ud ays pater –** ela comprou uma casa com
-o dinheiro do pai dela
+**Ia kieupit un dom med denars ud ays pater –** She bought a house with 
+money from her father. 
 
-**Ulter {Ultër} –** em adição, além da
+**Ulter {Ultër} –** besides, moreover, in addition to
 
 **Ulter id marche wehlen ios roy Huan, is conservit precieus-ye id royal
-titule yeji quod is poiss mutalbe id noble nam Vasconcelos –** além da
-ordem do rei Huan, ele conservou preciosamente o título real, segundo a
-qual ele poderia reivindicar o nome nobre de Vasconcelos
+titule yeji quod is poiss mutalbe id noble nam Vasconcelos –** In addition
+to the march order of King Huan, he kept preciously the royal title 
+according to which he had the right to claim the noble name Vasconcelos.
 
-**Uper {Üpër} –** acima *(não toca o objeto no qual ele está em cima)*
+**Uper {Üpër} –** over
 
-**Un plav pleuct uper id tor –** um avião voa sobre a torre
+**Un plav pleuct uper id tor –** A plane is flying over the tower.
 
-**Unte {Untë} –** durante, através* (tempo ou espaço)*
+**Unte {Unt} –** during, in the space of* (temporal or spatial meaning)*
 
-**Unte id wer –** durante a primavera
+**Unte id wer –** during the spring
 
-**Unte id hall – **através do corredor
+**Unte id hall – **Within the hall
 
-**I construgeer id tor unte ia yars –** Eles construíram a torre ao
-longo dos anos
+**I construgeer id tor unte ia yars –** They build the tower during the
+years.
 
-***Unte tod wakt, in Washington –** enquanto isso, em Washington*
+***Unte tod wakt, in Washington –** During this time, in Washington*
 
-**Sub id schock, is Waktprince remien aunmov unte un khvil –** Sob o
-choque, o Príncipe do Tempo permaneceu imóvel por um tempo
+**Sub id schock, is Waktprince remien aunmov unte un khvil –** Under the
+shock, the Prince of Time remained motionless for a while.
 
-**Vice {vits} –** ao invés de; no lugar de
+**Vice {vits} –** at the place of, vice-
 
 **Henrique ne hat ghohden dake ia buks. Vice to, Olivier hat ei yist ia
-odt-documents –** Henrique não teve como receber os livros. Ao invés
-disso, Olivier enviou para ele os documentos .odt.
+odt-documents –** Henrique could not get the books. Instead of this, 
+Olivier sent him the odt-documents.
 
-**Witerom {witërOm} –** contra, em frente de, diante de, em face de
-*(raramente usado como preposição)*
+**Witerom {witërOm} –** opposite to (prep; adv)
 
-**Witerom id dikhliz, is daskal skohpt me –** Na (extremidade oposta do)
-corredor, o professor estava esperando por mim
+**Witerom id dikhliz, is daskal skohpt me –** On the opposite end of the
+gangway, the teacher was waiting for me. 
 
-**Yant {yant} –** assim que, tão logo
+**Yant {yant} –** as soon as (can be used with substantives)
 
-**Yant ho denars, kaupo un leuyk tib –** assim que eu tiver dinheiro eu
-compro um brinquedo para você
+**Yant ho denars, kaupo un leuyk tib –** As soon as I get money, I buy you
+a toy.
 
-**Ye {ye} –** não tem significado definido, expressa uma circunstância
-ou condição, você usa essa preposição quando nenhuma outra mais serve, é
-a nossa preposição coringa.
+**Ye {ye} –** has no definitive meaning, expresses a circumstance
+or a condition; with an hyphen after a word, makes an adverb.
 
-**Ye mien surprise –** para minha surpresa
+**Ye mien surprise –** At my surprise
 
-**Ye mieno mayn –** na minha opinião
+**Ye mieno mayn –** In my opinion
 
-**Io arrive do dom ye noct–** eu chego em casa à noite
+**Io arrive do dom ye noct–** I arrive at the house at night.
 
-**Za {dza} –** na parte de trás
+**Za {dza} –** in the back of
 
-**Za te! –** atrás de você!
+**Za te! –** In your back !
+
 
 SOME DOUBTS THAT CAN APPEAR
 ---------------------------
@@ -6355,19 +6350,20 @@ very similar examples I order to evidence the differences, but some
 doubts can remain. In this subchapter I try to predict some of them and
 I try to answer them.
 
+
 ### DIFFERENCE BETWEEN “MED” AND “PER”
 
 What's the difference between the twho sentences below?
 
 **Is magician hat construgen un castell med sien magia –** the magician
-have built a castle with his magic
+has built a castle with his magic
 
 **Is magician hat construgen un castell per sien magia – **the magician
-have built a castle through his magic
+has built a castle through his magic
 
 The second sentence is gramatically correct, but it gives the impression
-that the magician have build the castle with he in other dimension or
-distant place, while in the first sentence the magician have build the
+that the magician has build the castle with him in other dimension or
+distant place, while in the first sentence the magician has build the
 castle in the place where he was. Look whether with the example below
 you can understand:
 
@@ -6376,8 +6372,9 @@ Glego per id fenster med mien durbin iam bikini-vehsend gwenak
 I ogle through the window with my binoculars the bikini-weared young
 woman
 
-Did you notice why my second example *(the one of the magician who have
+Did you notice why my second example *(the one of the magician who has
 built the castle “per” his magic)* was strange?
+
 
 ### DIFFERENCE BETWEEN “POS” AND “TRANS”
 
@@ -6386,29 +6383,31 @@ the one below:
 
 **Id urb est pos id forest –** the city is after the forest
 
-The sentece above means something like: first it's necessary cross the
-forest before reachingthe city.
+The sentence above means something like: first it's necessary cross the
+forest before reaching the city.
+
 
 ### DIFFERENCE BETWEEN “EX” AND “UD”
 
 Let's see three examples:
 
-**Som ex Uniet Stats –** I am from United States
+**Som ex ia Uniet Stats –** I am from the United States
 
 **Un helm ex stal –** a helmet of steel
 
-**Un brev ud Klara –** a letter carta from Klara
+**Un brev ud Klara –** a letter from Klara
 
 The “ex”, when not in the sense of “out”, is used for something made
-from the mencioned object or came from it, like a helmet of steel or a
+from the mentioned object or came from it, like a helmet of steel or a
 person from a country. The “ud” is used for things that didn't come from
 within the mencioned object, like we don't expect that the letter was
 made from the body of Klara, so we use “ud” instead “ex”.
 
+
 ### DIFFERENCE BETWEEN “VICE” AND “INSTET”
 
-As prepositions both means the same thing, but “intet” can be also a
-adverb while “vice” also can be a preffix, like in “vice-president”.
+As prepositions both means the same thing, but “instet” can be also a
+adverb while “vice” also can be a prefix, like in “vice-president”.
 
 Henrique ne hat ghohden dake ia buks. *Instet*, Olivier hat ei yist ia
 odt-documents
@@ -6416,10 +6415,11 @@ odt-documents
 Henrique ne hat ghohden dake ia buks. *Vice to*, Olivier hat ei yist ia
 odt-documents
 
+
 “GE”, “NU”, “TAR”, “TUN”
 ========================
 
-They're not simple words to be translated, but this chapter will teach
+They're not easy words to be translated, but this chapter will teach
 you how to use them.
 
 The word “tun” is the demonstrative of “kun” or “quando”.
@@ -6438,14 +6438,15 @@ State, the regional or local authorities (etc …)
 
 “ge” and “tar” are like “ghi”, but as, sometimes, the repetition of the
 particle “ghi” occurs very repeatedly, it's used these two particles.
-“ge” emphasizes personal pronouns and articles, while “tar” emphasize
+“ge” emphasizes personal pronouns and articles, while “tar” emphasizes
 interrogative pronouns.
 
-An excelent example with “nu” and “tar”:
+An excellent example with “nu” and “tar”:
 
 **Sei nu id luce quod est in te est temos, kam tar megil sessiet tod
-temos! –** if, therefore, the light that is in thee there are, how large
-are such darkness!
+temos! –** if, therefore, the light that is in thee be darkness, how 
+great is that darkness!
+
 
 USEFUL AFFIXES
 ==============
