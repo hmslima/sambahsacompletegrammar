@@ -5253,71 +5253,68 @@ to church*
 
 **Diu {dyu} – **for a long time, long (temporal adverb)
 
-**Unte baygh diu, ho esen her –** durante muito tempo, estive aqui
+**Unte baygh diu, ho esen her –** I was here for very long.
 
-**Diutos is est un prisoner – **há muito tempo que ele é um prisioneiro
+**Diutos is est un prisoner – **He's been a prisoner for a long time.
 
-**Diuper {dyÜpër} –** muito tempo atrás
+**Diuper {dyÜpër} –** long ago
 
-**Diuper ia gwivit in mien dom –** muito tempo atrás ela viveu na minha
-casa
+**Diuper ia gwivit in mien dom –** Long ago, she lived in my house.
 
-**Ed {ed} –** e
+**Ed {ed} –** and
 
-**Io ed mien son –** eu e meu filho
+**Io ed mien son –** Me and my son.
 
-**Entrim {Entrim} –** nesse ínterim, nesse meio tempo, enquanto isso
+**Entrim {Entrim} –** Meanwhile
 
-**Vahm soke discret-ye, bet entrim, to dehlct remane inter nos –** vou
-investigar às escondidas, mas enquanto isso, isto precisa ficar entre
-nòs
+**Vahm soke discret-ye, bet entrim, to dehlct remane inter nos –** I'm
+gonna investigate discretely, but meanwhile, that must remain between us.
 
-**Esdi {Ezdi} –** mesmo se
+**Esdi {Ezdi} –** even if
 
-**Ne weiko in tod dom esdi i payghent me –** não moro nessa casa mesmo
-que me paguem
+**Ne weiko in tod dom esdi i payghent me –** I don't live in that house even
+if they pay me.
 
-**Eni {Eni} –** dentro
+**Eni {Eni} –** within, inside
 
-***El kwaun est eni id dom –** o cachorro está do lado de dentro da
-casa*
+***El kwaun est eni id dom –** The dog is inside the house.*
 
-**Eti {Eti} –** além disso, ademais
+**Eti {Eti} –** moreover, furthermore, and also
 
-**Ne eddo hamburger, eti som vegetarian – **não como hambúrguer, e além
-disso sou vegetariano
+**Ne eddo hamburger, eti som vegetarian – **I don't eat hamburger, 
+moreover I'm a vegan.
 
-**En id plan ios edifice. Tod plan est ja veut. Kad id edificie hat est
+**En id plan ios edifice. Tod plan est ja veut. Kad id edifice hat est
 modifiet mulayim-ye tuntos. Eti khact ses vis ep id an fulan dwer est
-ghyanen au cluden –** here is the plan of the building. This plan is
-already old. Maybe the building has been slightly modified since then.
-Moreover it cannot be seen on it whether any door is open or closed
+ghyanen au cluden –** Here is the plan of the building. This plan is 
+already old. Perhaps that the building was slightly modified since this
+time. Moreover, we cannot see whether any door is open or closed.
 
 **Tod vestibule compris eti dwo dwers, uter wester, alter euster –**
-that entrance hall comprised further two doors, one to the west, the
-other to the east
+This entrance room comprised furthermore two doors, one to the west, 
+the other one to the east.
 
-**Exo {Ekso} –** do lado de fora
+**Exo {Ekso} –** outside
 
-**El kwaun est exo id dom –** o cachorro está do lado de fora da casa
+**El kwaun est exo id dom –** The dog is outside the house. 
 
-Podemos dizer também: “el kwaun est exter id dom”
+We can also say: “el kwaun est exter id dom”
 
-**Fauran {faorAn} –** imediatamente
+**Fauran {faorAn} –** immediately
 
-**Kehrzsiem mien kays fauran, iey(it) is orbater ei bes –** cortarei meu
-cabelo imediatamente, disse o trabalhador ao patrão
+**Kehrzsiem mien kays fauran, iey(it) is orbater ei bes –** I will cut
+my hair immediately, the worker said to the boss.
 
-**Filan {filAn} –** este ou aquele
+**Filan {filAn} –** so & so
 
 **Ia religieus autoritats hant tolcto kay woide kweter filan buk ios
 Bible eet we ne inspiret ab Div –** the religious authorities have
 discussed to know whether this or that book of the Bible was inspired by
 God or not
 
-**FujatAn {fujatAn} –** de repente
+**FujatAn {fujatAn} –** suddenly
 
-**Fujatan eem trigimat –** de repente eu tinha trinta anos
+**Fujatan eem trigimat –** Suddenly I turned thirty.
 
 **Gontro {gOntro} (gon + tro) –** aside *(adverb of movement)*
 
@@ -5331,53 +5328,50 @@ by the rein the colonel was holding firmly, moved to the side, and, this
 way, the long blade of Fabricio's sabre of heavy cavalry slid along the
 dress of the hussard and passed just under his very eyes
 
-**Ghi {gi} –** *sem significado definido, essa palavra frequentemente
-aparece em segunda posição numa oração e serve para enfatizar a palavra
-anterior. Algumas vezes é sufixado ao advérbio ou pronome anterior. Pode
-ser traduzido como “então”, “por conta disso”, “porque”.*
+**Ghi {gi} –** *without any definite meaning, this word frequently
+appears in second position and serves to emphasize the word before. It is
+often suffixed to a pronoun, an adverb, as long as it is phonetically
+compatible. Can mean "also, then, for..."
 
-**Is ne kieup id wogh, isghi ne hieb denars –** ele não comprou o carro
-porque ele não tinha dinheiro
+**Is ne kieup id wogh, isghi ne hieb denars –** He didn't buy the car, for
+he had no money.
 
-**Eiskwo woide id ghi payghen pris –** quero saber o preço realmente
-pago
+**Eiskwo woide id ghi payghen pris –** I'd like to know the (actually) paid
+price.
 
-**Id probleme tom prabhils est od pauk ghi anghens brunge ia –** o
-problema dessas regras é que elas, na verdade, beneficiam poucas pessoas
+**Id probleme tom prabhils est od pauk ghi anghens brunge ia –** The problem
+with these rules is that (indeed) few people benefit from them.
 
-**Hatta {hAta} –** mesmo, até
+**Hatta {hAta} –** even (adv.)
 
-**Hatta i smulkst aranks ghehde nices –** Até as menores aranhas podem
-matar
+**Hatta i smulkst aranks ghehde nices –** Even the smallest spiders can kill.
 
-**Pedro ne hat hatta smautert tod film –** O Pedro nem viu esse filme
+**Pedro ne hat hatta smautert tod film –** Pedro hasn't even watched this movie.
 
-**Tu hatta ghyienst id hadia –** você nem abriu o presente
+**Tu hatta ghyienst id hadia –** You even opened the present.
 
-**Hatta habend-ye piten, ne kamyabim –** mesmo tendo tentado, eu não
-consegui
+**Hatta habend-ye piten, ne kamyabim –** Even having tried, I didn't succeed.
 
-**Magho sayge od hatta Suomi hat falls os foll gwow siuge –** posso
-dizer que até a Finlândia tem casos de vaca louca
+**Magho sayge od hatta Suomi hat falls os foll gwow siuge –** I can tell that 
+even Finland has cases of mad cow disease.
 
-**Hakan {hakAn} –** realmente, verdadeiramente
+**Hakan {hakAn} –** really, truly
 
-***Is hakan lieubht te –** ele realmente te ama*
+***Is hakan lieubht te –** He really loves you.*
 
-**Iawod {yawOd} –** esperar que
+**Iawod {yawOd} –** provided that, let's hope that
 
 **Hol grupps bihnt autoriset ad page, conservend ir bahsa, ir mores, ir
-social organisation iawod obedeihnt ia loys ios Roman Stat –** grupos
-inteiros estão autorizados a instalar-se, conservando sua língua, seus
-costumes, sua organização social, desde que obedeça às leis do Estado
-Romano
+social organisation iawod obedeihnt ia loys ios Roman Stat –** Whole groups
+are authorized to settle down, keeping their language, their customs, their
+social organisation, provided that they abide by the laws of the Roman State.
 
-**Ib {ib} –** para que não, com receio de
+**Ib {ib} –** lest
 
 **Eti, un ieuster daysa iom opnos tehrbiet bihe instohlen in multa
-lands, ibo vide udbrehge grave social troubles –** além disso, uma
-partilha mais justa da riqueza tem que ser implementada em vários
-países, para que não sejam vistos problemas sociais graves
+lands, ibo vide udbrehge grave social troubles –** Moreover, a fairer
+sharing of wealth should be set up in many lands, lest (we) see grave
+social troubles break up.
 
 **Ilhali {ilhAli} –** whereas
 
@@ -5802,42 +5796,38 @@ buy a car or travel to Turkey.
 ***Yadi Jorge hieb esen perodhsedd, hol esiet different –** If only Jorge
 had been the chairman, everything would be different.*
 
-**Yani {yAni} –** isto é, quer dizer que
+**Yani {yAni} –** that is to say (to bring a precision)
 
-**Babys sont pur, yani, i ne hant synt –** bebês são puros, isto é, eles
-não têm pecado
+**Babys sont pur, yani, i ne hant synt –** Babies are pure, that is to say,
+they haven't sinned.
 
-**(Ya)schi {(yA)ci} –** também, além disso *(“schi” pode ser sufixado à
-primeira palavra de uma oração se for um pronome ou uma palavra
-invariável e se for foneticamente compatível)*
+**(Ya)schi {(yA)ci} –** also, too *(“-schi” can be suffixed
+to a pronoun, an article or another invariable word if it's
+phonetically compatible and if it's the word concerned by the repetition)*
 
-**Iaschi buit aunstohmen ad mohrt –** ela também foi condenada a morte
+**Iaschi buit makhkoumihn ad mohrt –** She too was sentenced to death.
 
-**Cavalls yaschi ghehdent ses usen ka transport forme – **cavalos podem
-ser usados como meio de transporte também
+**Cavalls yaschi ghehdent ses usen ka transport forme – **Horses too can be
+used as a means of transportation.
 
-**Yed {yed} –** ainda *(usado para algo que ainda não aconteceu, e
-geralmente fica no final da frase. Veja o exemplo abaixo para você não
-confundir com o “dar”)*
+**Yed {yed} –** yet, however
 
-**Is postalion ne gwohmit yed? –** o carteiro não chegou ainda? / o
-carteiro ainda não chegou?
+**Yed, is postalion ne gwohmit. –** Yet, the postman didn't come.
 
-**Yeji {yEji} – **de acordo
+**Yeji {yEji} – **according to
 
 **Yeji me, id compagnie vaht bihe muflis, ne kauro / Yeji me, id
-compagnie vaht muflisasce, ne kauro –** por mim, a empresa vai à
-falência, não me importo
+compagnie vaht muflisasce, ne kauro –** In my opinion, the company
+is going into bankrupcy, I don't care.
 
 **Yeji Einstein, dwo jects sont aunfin, id universe ed mensc cacavania
-–** para Einstein, duas coisas são infinitas, o universo e a estupidez
-humana
+–** According to Einstein, two things are endless, the universe and 
+human stupidity.
 
-**Yunyun {yunyUn} –** e assim por diante
+**Yunyun {yunyUn} –** and so on
 
-**Un cyclist safert 20Km in id prest hor, 16 in id second yunyun –** um
-ciclista percorre 20Km na primeira hora, 16Km na segunda e assim por
-diante
+**Un cycliste safert 20Km in id prest hor, 16 in id second yunyun –** A
+cycliste travels 20 kmin the first hour, 16 in the second one, and so on.
 
 SOME DOUBTS THAT CAN APPEAR
 ---------------------------
@@ -5872,64 +5862,58 @@ you are a veterinar, thus we should use “bet” instead “men” in (2). In
 (3), if you live in a place where people like sports a lot, but it's
 common that almost nobody practice such activities, “men” can be used.
 
+
 PREPOSITIONS
 ============
 
-Preposições são palavras que estabelecem uma relação, do tipo
-subordinativa, entre dois termos de uma oração. A maioria das
-preposições do sambahsa podem ser usadas como conjunções também. As
-preposições são:
+Note that many Sambahsa prepositions can be used as conjunctions or adverbs too
+*(see the dictionary in case of doubt)*
 
-**Ab {ab} –** de *(após particípio passivo).* Essa preposição se torna
-“af” quando antes de palavra que inicie com “h”. Também pode significar
-“a partir de”, “começando de”
+**Ab {ab} –** by *(after a verb in the passive).* This preposition turns to "af"
+if the next word begins with a "h". Otherwise, it can mean "starting from".
 
-**Id torte buit edden ab me –** o bolo foi comido por mim
+**Id torte buit edden ab me –** The pie was eaten by me.
 
-**Af hoyd –** a partir de hoje
+**Af hoyd –** from today.
 
-**Ad {ad} –** para, no, na. *Muito interessante quando o dativo não pode
-ser usado.*
+**Ad {ad} –** at. *Is used when the dative cannot.*
 
-**Yeiso un blixbrev ad Henrique –** Envio um e-mail para Henrique
+**Yeiso un blixbrev ad Henrique –** I send an e-mail to Henrique.
 
-***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** ela
-foi ver se o seu carro saiu do conserto*
+***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** She went
+off tosee if her car had left the reparation service.
 
-**Ant {ant} –** em frente de, perante
+**Ant {ant} –** in front of
 
-**Ant id scol –** em frente da escola
+**Ant id scol –** in front of the school
 
-**Ant id thron** – diante do trono
+**Ant id thron** – in front of the throne
 
-**Apo {Apo} –** fora. Pode ser reduzido para “ap” quando antes de
-vogais.
+**Apo {Apo} –** off. Can be reduced to "ap" before a vowel.
 
-**Grand Britain lyehct apo id Europay dayluk –** Grã-Bretanha
-encontra-se fora do continente europeu
+**Grand Britain lyehct apo id Europay dayluk –** Great Britain is located off
+the European mainland.
 
-**Apter {Aptër} –** atrás
+**Apter {Aptër} –** behind
 
-**Apter id dru –** atrás da árvore
+**Apter id dru –** behind the tree
 
-**Apter iam mater –** atrás da mãe
+**Apter iam mater –** behind the mother
 
-**Id urb est apter id forest – **a cidade fica atrás/depois da floresta
+**Id urb est apter id forest – **The city is behind the forest.
 
-**Aun {Aon}– **sem
+**Aun {Aon}– **without
 
-**Som aun chifan –** estou sem refeição
+**Som aun chifan –** I'm without a meal.
 
-**Bayna {bAyna} –** entre, no meio de *(no sentido de cercado(a) por)*
+**Bayna {bAyna} –** among
 
-**Smos bayna i peinds –** estamos cercados por inimigos
+**Smos bayna i peinds –** We are among the enemies.
 
-**Id vallee est bayna ia ghyors –** o vale está entre as montanhas
+**Id vallee est bayna ia ghyors –** The valley is among the mountains.
 
-Id insule est bayna aqua – a ilha está cercada por água
-
-**Is planit id competition bayna i daskals –** Ele planejou a competição
-junto aos professores
+**Is planit id competition bayna i daskals –** He planned the competition 
+among the teachers.
 
 **Bi {bi} –** at *(workplace, shop)*, in *(the work of an author)*, by *(idea
 of non-permanent proximity)*.
@@ -6549,7 +6533,7 @@ preffixed to a word of “muslim” origin*
 
 **or- –** original, primeval, primitive
 
-**Oraryo – **pre-arian or proto indo-european (aryo = arian)
+**Oraryo – **pre-aryan or proto indo-european (aryo = aryan)
 
 **par- –** completion or fullfilled action
 
@@ -6599,21 +6583,21 @@ SUFFIXES
 
 ### EXPRESSING QUALITY OR STATE
 
-In some cases it's added the suffix -e and it's submited to apophony if possible.
+In some cases it's added the suffix -e and it's submitted to apophony if possible.
 
 **Long \[long\] (length) –** longe \[londj\] (lengthness)
 
 **Deub \[döb\] (deep) –** dube \[düb\] (deepness)
 
-**Slab \[slab\] (weak) –** sliebe \[slyeb\] (eakness)
+**Slab \[slab\] (weak) –** sliebe \[slyeb\] (weakness)
 
-This systen only works if there is a phonetics differenc between the
+This system only works if there is a phonetic difference between the
 adjective and the derived form. For other adjectives is used the suffix
 -(e)t.
 
-**Mild \[mild\] (mild) –** mildet \[mildEt\] (pity)
+**Mild \[mild\] (mild) –** mildet \[mIldët\] (pity)
 
-**Mynder \[mÜndër\] (proud) –** Myndert \[mündErt\] (pride)
+**Mynder \[mÜndër\] (proud) –** Myndert \[mÜndërt\] (pride)
 
 It's possible the use of others affixes like -os and -ia. For words of
 romanic origin it's used -or and (i)tat.
