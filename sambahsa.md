@@ -29,7 +29,7 @@ examples from *The Grammar Of Sambahsa-Mundialect In English* and others
 that Dr. Simon made for me.
 
 It's very important to inform the reader that the language itself is not under a Creative
-Commons license or anything like it. As was said, the language is
+Commons license or anything like it, the language is under the traditional Copyright license in which Dr. Olivier Simon has all property rights. As was said, the language is
 free, you can translate your works, or produce original works, without
 the need of Dr. Olivier Simon's permission, even it is for commercial
 purposes; in other words, you can write books in sambahsa and sell them
@@ -728,6 +728,8 @@ Deliberately I've inserted some words whose sounds don’t exist in
 sambahsa, I did this to make you pay attention to the differences
 between the two languages, in these cases there wont a transcription to
 SPT.
+
+It's important to highlight that the SPT was not made to transcribe words of other languages that are not sambahsa (!!!), what we're going to do here is just a fun for you acquiring more intimacy with the SPT.
 
 For you don't being lost, firstly I show the word, then the transcription to IPA, which is between square brackets or slashes, and then the transcription in SPT, which is between curly brackets.
 
@@ -5509,6 +5511,10 @@ failed to spare.
 **Makar kauro, ne kwahm vergihes howkscheces –** Even though I care, I fail to
 avoid potholes.
 
+**Makhsus {mAqsus} –** on purpose, intentionally
+
+**Makhsus ho scriben id texte samt erros –** Deliberately I've written the text with mistakes
+
 **Mathalan {ma§alAn} –** for example, for instance
 
 **Kamo veuta fantasia buks, mathalan Is Lytil Prince ed Lovecrafts buks –**
@@ -7393,6 +7399,8 @@ dinner” or “I have to work”)*
 **Ubklad {ubklAd} –** to upload *(a file)*
 
 **Uc {uk} –** *past tense of “euc”*
+
+**Uperleit do {upërlEyt do} –** to pass to *(like in “pass the salt to me”)*
 
 **Use {Üz} –** to use
 
