@@ -6839,6 +6839,18 @@ going a bit very quickly
 
 **Id grance leit engwn id Rhen –** the boundaries goes along the Rhine
 
+More examples, but with te word “uperleit”:
+
+**Hind uperleit ex un agrent societat eni un democratic quader –** India makes the transition from a agricultural society within a democratic framework
+
+**Id economic crosct nilent, uperleitend ex 9% pro yar in 2010 do 6% in 2011 –** The economic growth is slowing down, passing from 9% for year to 6% in 2011
+
+**Mehnent maghe uperlites fauran do id politic nivell –** They think *(they)* can pass immediately to the political level
+
+**Serter uperlit is do id camp ios Papp –** Later, he joined the camp of the Pope
+
+**Ghehdt uperlites id hol territorium uns land –** it can go *(extend)* beyond the whole territory of a country
+
 HOW ASK SOMETHING TO SOMEONE
 ----------------------------
 
@@ -7400,7 +7412,7 @@ dinner” or “I have to work”)*
 
 **Uc {uk} –** *past tense of “euc”*
 
-**Uperleit do {upërlEyt do} –** to pass to *(like in “pass the salt to me”)*
+**Uperleit do {üpërlEyt do} –** to pass to, to go to *(figurative sense)*
 
 **Use {Üz} –** to use
 
