@@ -5004,8 +5004,7 @@ beautiful he had ever seen.
 **Est stragn od tod ilaj aiw hieb esen usen –** It's strange that this 
 medical treatment has ever been used.
 
-As a substantive, "aiwo" means "Age", i.e. "period of time, History", just
-like "the Stone Age" or "the Golden Age". 
+*As substantive, “aiwo” means “age”, i.e. “period of time, History”, like in “Petraiwo”, which means “Stone Age”.*
 
 **Id memorandum comprindt oino iom meist exhaustive playcts aiwo signen
 ab bo lands, markend uno major wehnd in ira relations –**
@@ -5038,7 +5037,7 @@ is not the easiest language.
 travel, also I have to study
 
 **Maria ghi hieb neid magho kay lises ments. Also ia contentit-se med
-abgires ed chehxe proscher cada face –** Alice indeed had no powers to
+abgires ed chehxe proscher cada face –** Maria indeed had no powers to
 read minds. So she contented herself with turning away and looking
 closer at each face
 
@@ -5064,8 +5063,8 @@ so much like to fly around candles.
 
 **Anter {Antër} –** rather
 
-**Sieycst “torche”, bet kad eiskws sayge anter “torte” –** You said "torche", bet
-perhaps that you rather mean "torte". 
+**Sieycst “torche”, bet kad eiskws sayge anter “torte” –** You said "torche", but
+perhaps that you rather mean "cake". 
 
 **Api {Api} –** but, now (to introduce a counter-argument)
 
@@ -5080,7 +5079,7 @@ inferioreihnt gwens dia wirs –** The Gulf countries want to keep their tribal
 and religious traditions. Now, the interpretation of the Coran and the rules
 in force of the Sharia make women inferior towards men. 
 
-**Aproposs {apropOs} –** By the way
+**Aproposs {apropOs} –** By the way, a propos
 
 **Dank ob aurdhnes id meja. Aproposs, kwohrst tien almentask? –**
 Thanks for putting the table in order. By the way, did you do your (school)
@@ -5099,14 +5098,14 @@ an advanced bastion of the West for, after two centuries of Russian
 military presence, Moscow had to evacuate in 2005 its last military
 bases
 
-Notice that the use of “ghi” would not be practical to use “ghi” because
+Notice that the use of “ghi” would not be practical because
 of the long complement “pos dwo secules os Russiano militaro presence”
 
 **Arasih {arazI:} –** accidentally
 
-**Arasih sorbim un bei –** Accidentally I swallowed a bee.
+**Arasih ho sorben un bei –** Accidentally I've swallowed a bee.
 
-**Au {Ao} –** or
+**Au {Ao} –** or *(separate substantives and adjectives)*
 
 **Dah ei un apel au un vinber –** Give him an apple or a grape.
 
@@ -5122,7 +5121,7 @@ trit au quart plautsto yeji id total superficie, sekwent id meid methode
 the third or fourth-largest by total area, depending on the method of 
 measurement*
 
-**Auti {Aoti} – **or too
+**Auti {Aoti} –** or … too, or … also
 
 ***Tod militar potential ghehdt ses nudt eni id quader om UNO au NATO
 operations, auti ob id ****maidehsa om certain lands au organisations
@@ -5132,7 +5131,7 @@ countries or organisations*
 
 **Bad {bad} –** at last, finally
 
-**Bad gwahsiem hem –** At last I came home.
+**Bad gwahsiem hem –** at last I'll go to home.
 
 **Ia gwenak me spohc med sien okwi meg-ye ghyanen ob staunos, pre bad
 sprehge –** The young woman looked at me with her eyes wide-opened in
@@ -5143,7 +5142,7 @@ amazement, before she finally talked to me.
 **Ne ho bad perichohxen id hol Sambahsa-Portughesche kamus –** I haven't
 yet proofread the whole Sambahsa-Portuguese lexicon.
 
-perichohxen = peri + chohxen (preterit of chehx)
+perichohxen = peri + chohxen (preterit of "chehx")
 
 **Bariem {baryEm} – **at least
 
@@ -5207,7 +5206,7 @@ Horse of Mist, couldn't you ask him where his master is now ?
 
 **Hovesper, sessiemos com –** Tonight, we'll be together.
 
-**Daanistah {daanista:} –** knowingly
+**Daanistah {daanista:} –** knowingly, intentionally
 
 **Daanistah brohgim id machine –** I broke the machine intentionally.
 
@@ -5215,7 +5214,7 @@ Horse of Mist, couldn't you ask him where his master is now ?
 
 **Weiko dalg –** I live far (from here)
 
-**Dalger {dAldjër} –** farther
+**Dalger {dAldjër} –** farther, further *(in the espacial sense, never temporal)*
 
 **Tetos dalger, vidsies un phar –** Farther from there, you'll see a 
 lighthouse.
@@ -5238,15 +5237,17 @@ ate one lembas before sleeping
 linkwes id urb –** Given that he had no money to afford a fare to the
 east, Ithacus had to leave the city
 
-**Daydey {daydEy} – **generally
+**Daydey {daydEy} –** in general, generally
 
 **Daydey ia semens teukent quan (sont) madhen –** In general, seeds do 
 sprout when they've turned wet.
+*Ps.: in this case, writting only “…quan madhen” is not gramatically incorrect, but it's preferable the use of the verb in the middle for clarity*
 
 **Dayim {dayIm} –** constantly
 
 ***Is fabric orbater premt ia scruvs dayim –** The factory worker constantly
 presses the screws.
+It's synonyms of “bfuyi”
 
 **Dind {dind} –** then, after that
 
@@ -5255,7 +5256,7 @@ to church*
 
 **Diu {dyu} – **for a long time, long (temporal adverb)
 
-**Unte baygh diu, ho esen her –** I was here for very long.
+**Unte baygh diu, ho esen her –** during a long time, I've been here.
 
 **Diutos is est un prisoner – **He's been a prisoner for a long time.
 
@@ -5267,7 +5268,7 @@ to church*
 
 **Io ed mien son –** Me and my son.
 
-**Entrim {Entrim} –** Meanwhile
+**Entrim {Entrim} –** meanwhile
 
 **Vahm soke discret-ye, bet entrim, to dehlct remane inter nos –** I'm
 gonna investigate discretely, but meanwhile, that must remain between us.
@@ -5281,7 +5282,7 @@ if they pay me.
 
 ***El kwaun est eni id dom –** The dog is inside the house.*
 
-**Eti {Eti} –** moreover, furthermore, and also
+**Eti {Eti} –** moreover, furthermore, also
 
 **Ne eddo hamburger, eti som vegetarian – **I don't eat hamburger, 
 moreover I'm a vegan.
@@ -5392,7 +5393,7 @@ family is the foundation of freedom, justice and peace in the world.
 **Sayg mi quanto wakyit inkaptos –** Tell me everything that happened from
 the beginning.
 
-**Iter {Itër} –** once again, once more
+**Iter {Itër} –** once again, once more, anew
 
 **Som con mien família iter –** I'm once again with my family.
 
@@ -5401,7 +5402,7 @@ the beginning.
 **Tu biscripst todeghern ed tu ja finihst id wehrg –** You began to
 write this morning and already you finished the work.
 
-**Jaldi {jAldi} –** swiftly, quickly
+**Jaldi {jAldi} –** swiftly, quickly *(it pass the notion of velocity)*
 
 **Ia cursit meg jaldi quando ia eet yuner –** She ran more quickly when
 she was younger.
@@ -5424,9 +5425,13 @@ and as an adverb.
 
 **Ho edden kafi –** I have eaten enough.
 
-**Kam? {kam} –** how ? (in what manner ?), like
+**Kam {kam} –** how ?, in what manner ?, like
+
+**Kam arrives her? –** how you arrive here?
 
 **Kam leits tu? –** How are you?
+
+**Som kam tu –** I am like you
 
 **Kam adet {kam Adët} –** As usual.
 
@@ -5467,16 +5472,15 @@ freelancer
 **Kjiawxieng kwe has cigarettes? –** By chance, do you have some 
 cigarettes?
 
-**Kongcio {kOngtsyo} –** henceforth.
+**Kongcio {kOngtsyo} –** from now on, hereinafter, henceforth.
 
 **Kongcio sessiem un gohd pater, promitto –** Henceforth I'll be a
 good father, I promise.
 
-"henceforth" is used here to render the rare use of "kongcio". 
-Sambahsa uses more frequently "nuntos" = "from now on". 
+*“Nuntos” has the same meaning and often is most used, since the “kongcio” seems be antiquated.* 
 
 **Kweter {kwEtër} –** *"whether", indicates the choice or the doubt
-betwwen two options.*
+between two options.*
 
 *Ay buit impossible tarctum kweter ia hieb vanien in id hava we ia hieb
 curren baygh oku in id bosc* (“tarctum” is an optional antiquated form of
@@ -5492,16 +5496,16 @@ wanted to know (about an insect) was whether it stung or not. *
 
 **Kamo te, lakin tu dehlcs change –** I like you, however you've got to change.
 
-**Libter {lIbtër} – **with pleasure
+**Libter {lIbtër} –** willingly, with pleasure
 
 **Libter kwehrsiem tod pro te –** With pleasure I shall do that for you.
 
-**Lika {lIka} –** the same (adverb)
+**Lika {lIka} –** the same (adverb), alike
 
 **Daydey, ho piten vergihes werds qua swehnient pior lika alyi –** In general, 
 I have tried to avoid words that sounded too much the same as another (one).
 
-**Makar {makAr} –** even though
+**Makar {makAr} –** even though, although
 
 **Makar ei saygo, is ne kaurt de –** Even though I tell him, he doesn't care.
 
@@ -5517,10 +5521,10 @@ avoid potholes.
 
 **Mathalan {ma§alAn} –** for example, for instance
 
-**Kamo veuta fantasia buks, mathalan Is Lytil Prince ed Lovecrafts buks –**
+**Kamo veuta fantasia buks, mathalan "Is Lytil Prince" ed Lovecrafts buks –**
 I like old fantasy books, for example "The Little Prince" and Lovecraft's books.
 
-**Meist-ye {meyst ye} –** at the most
+**Meist-ye {meyst ye} –** at the most, at the latest
 
 **Eiskwo meist-ye dwo purts, ne meis quem to –** I want two children at the 
 most, no more than that.
@@ -5535,12 +5539,12 @@ fault.
 **Eem in alyo land menxu mien land eet invaden –** I was in another country
 while my country was invaded.
 
-**Minst-ye, lytst-ye –** at the least
+**Minst-ye, lytst-ye –** at the least *(“tehrb” can be used here)*
 
 **Naudhsies minst-ye six hevds kay plane adequat-ye –** You shall require
 at the least seven weeks in order to plan adequately.
 
-**Mudam {mudAm} – **continually
+**Mudam {mudAm} –** constantly, steadily, continually, continuously
 
 **Myen machine orbat mudam –** My machine works continually.
 
@@ -5563,7 +5567,7 @@ at the least seven weeks in order to plan adequately.
 **Naturelika kamo uces bahsas –** Naturally I enjoy learning
 languages.
 
-**Neti {nEti} –** no more
+**Neti {nEti} –** not … anymore, nevermore, never again, no more
 
 **Neti eddo her –** I eat here no more.
 
@@ -5603,11 +5607,6 @@ relatively safer than the forest.
 
 **Okwivid-ye i ne surviveer –** obviously they didn't survive.
 
-**Pati {pAti} –** including (prep.)
-
-**Sayg mi tien adresse, pati tien postal code –** Tell me your
-address, inclunding your postal code.
-
 **Payn {payn} – **hardly
 
 **Payn kwahsiemos fuges –** We could hardly flee.
@@ -5620,15 +5619,15 @@ address, inclunding your postal code.
 
 **Dwo plus dwo est egal ad quar –** 2 + 2 = 4
 
-**Addihsim plus mathmoun ad mien buk –** I added more contents 
-to my book.
+**Ho addihn plus mathmoun ad mien buk –** I've added more contents to my book
 
 In the latter sentence, you could have used "meis" instead of 
 "plus"
 
-**Poskwo {pOskwo} =** afterwards, then
+**Poskwo {pOskwo} –** afterwards, then
+**Ghamsiemos poskwo stajernsiemos un dom –** we will marry and we will rent a house afterwards
 
-**Prevst {prevst} –** once (in the very past)
+**Prevst {prevst} –** once (in the very past), before
 
 **Visim un fee prevst –** I saw a fairy once in the past.
 
@@ -5636,7 +5635,7 @@ In the latter sentence, you could have used "meis" instead of
 
 **Snahm protiapo –** I swim against the stream
 
-**Punor {punOr} –** on the other hand (opposition)
+**Punor {punOr} –** however, on the other hand (opposition)
 
 **Habe purts est gohd, punor dehlcs dedie tien hol gwiv pro i –**Having
 children is good, but, on the other hand, you must dedicate your life to
@@ -5651,13 +5650,13 @@ though I'm diabetic.
 
 **Quasi mohrim honoct –** I nearly died tonight.
 
-**Quodlibt {kwOdlibd} –** anyone/thing you like/want
+**Quodlibt {kwOdlibd} –** whatever, anyone/thing you like/want
 
 **Vols tu un orange, un banana au un mankay? Quodlibt – **Do you 
 want an orange, a banana or a mango ? Anyone you want. 
 
-**Quoterlibt {kwOtërlibd} –** *(same as "quodlibt", but for a choice
-between two options.)*
+**Quoterlibt {kwOtërlibd} –** *same as "quodlibt", but for a choice
+between two options*
 
 **Vols tu un orange au un mankay? Quoterlibt – **Do you want 
 an orange or a mango ? Anyone you want.
@@ -5678,7 +5677,7 @@ an orange or a mango ? Anyone you want.
 
 ***Eem schawxwen dusiht –** I turned momentarily dizzy.*
 
-**Schowi {cOwi} –** consequently
+**Schowi {cOwi} –** therefore, consequently
 
 **Id institutional division iom maghs est schowi necessar iri mutual
 control –** The institutional division of the powers is by consequence
@@ -5728,7 +5727,7 @@ your message, or else he would have come.
 meis lecker –** "I haven't said that nothing is better," replied the King, 
 "but that nothing is more delicious". 
 
-**Stayg {stayg} =** fujutan ***(but the former can be used as an adjective too)***
+**Stayg {stayg} =** fujutan ***(both can be used as adjectives)***
 
 **Strax {straks} =** fauran
 
@@ -5761,7 +5760,7 @@ the world, but there is also goodness all around the world.
 
 **Som tik octat –** I'm only eight years old.
 
-**Towsraen {towsrAyn} –** at random
+**Towsraen {towsrAyn} –** randomly, at random
 
 **Ia numers prehpent towsraen –** The numbers come up at random.
 
@@ -5769,7 +5768,7 @@ the world, but there is also goodness all around the world.
 
 **I peinds gwehment tsay –** The enemies are coming back.
 
-**Tun {tun} –** then
+**Tun {tun} –** then *(temporal adverb)*
 
 **Tun el magv visit un serpent ep id gras –** Then the child saw
 a snake on the grass.
@@ -5795,7 +5794,7 @@ buy a car or travel to Turkey.
 
 **Weidwos {wEydwos} –** of course
 
-**Weidwos sambahsa est facil –** Of course, Sambahsa is easy.
+**Weidwos od sambahsa est facil –** Of course that Sambahsa is easy.
 
 **Yadi {yAdi} –** if only
 
@@ -5805,15 +5804,15 @@ had been the chairman, everything would be different.*
 **Yani {yAni} –** that is to say (to bring a precision)
 
 **Babys sont pur, yani, i ne hant synt –** Babies are pure, that is to say,
-they haven't sinned.
+they have not sin.
 
 **(Ya)schi {(yA)ci} –** also, too *(“-schi” can be suffixed
 to a pronoun, an article or another invariable word if it's
 phonetically compatible and if it's the word concerned by the repetition)*
 
-**Iaschi buit makhkoumihn ad mohrt –** She too was sentenced to death.
+**Iaschi buit makhkoumihn ad mohrt –** She also was sentenced to death.
 
-**Cavalls yaschi ghehdent ses usen ka transport forme – **Horses too can be
+**Cavalls yaschi ghehdent ses usen ka transport forme – **Horses also can be
 used as a means of transportation.
 
 **Yed {yed} –** yet, however
@@ -5882,7 +5881,7 @@ if the next word begins with a "h". Otherwise, it can mean "starting from".
 
 **Af hoyd –** from today.
 
-**Ad {ad} –** at. *Is used when the dative cannot.*
+**Ad {ad} –** at. *Very useful when the dative cannot be used.*
 
 **Yeiso un blixbrev ad Henrique –** I send an e-mail to Henrique.
 
@@ -5994,7 +5993,7 @@ Indo-european gods into Sambahsa.*
 **Due id seuy, khako linkwes mien dom – **Because of (due to) the rain, 
 I can't leave my house.
 
-**Ender {Endër} –** beneath, underneath
+**Ender {Endër} –** beneath, underneath *(doesn't imply contact)*
 
 **Ter est un kwaun ender id meja –** There is a dog beneath the table.
 
@@ -6016,7 +6015,7 @@ mow with precision along the remparts and the flowers.
 
 **Eni mien corpos ter sont vehrms –** There are worms inside my body.
 
-**Ep {ep} –** on. Turns to "ef" before "h-".
+**Ep {ep} –** on *(touches the object). Turns to "ef" before "h-".*
 
 **Ter est un rat ep id meja –** There is a rat on the table.
 
@@ -6040,9 +6039,11 @@ Look at the difference between “ex” and “exo”
 
 ***El kwaun est ex****o**** id dom –** The dog is outside the house.
 
+*When is not possible to express the idea of “made of” or “from certain place”, the preposition “ex” passes the idea of movement.*
+
 **In {in} – **in
 
-**Som in id strad X –** I'm in X Street
+**Som in id strad X –** I'm in Street X
 
 **Ghehdo bahe in dwodem bahsas –** I can speak in twelve languages.
 
@@ -6064,8 +6065,7 @@ Look at the difference between “ex” and “exo”
 gwiv –** For example, the paintings on the wall near the fire all
 seemed to be alive.
 
-**Kye {kye} –** in the direction of. *This preposition merges with the next
-pronoun or article; the most common occurance is kyid (kye + id).*
+**Kye {kye} –** in the direction of. *This preposition merges itself with the following determinat or the pronoun in the 3rd person, it's not rare to find something like kyid (kye + id).*
 
 **Vahm gwahe kye mien dom –** I shall go soon in the direction of my house.
 
@@ -6087,7 +6087,7 @@ castle with his magics.
 
 **Med alya werds –** with other words
 
-**Medsu {mEdsu} –** in the middle of
+**Medsu {mEdsu} –** amidst, in the middle of
 
 **Eduarda khiek sib stambhes glihes medsu sien dakrus –** Eduarda couldn't 
 help herself from laughing in the middle of her tears.
@@ -6108,7 +6108,7 @@ January 2015 in Georgia (not counting Abkhazia and South Ossetia)
 moment –** Despite her situation, Sophi feared more for him than for
 herself at this moment.
 
-**Nieb {nyeb} –** on the side of, beside
+**Nieb {nyeb} –** next to, on the side of, beside
 
 **Id dru est nieb id dom –** The tree is by the house.
 
@@ -6118,20 +6118,21 @@ herself at this moment.
 
 **Dank ob id antwehrd –** Thanks for the answer
 
-**Ois {oys} –** having its origin in. *Sometimes written “oys”.*
+**Ois {oys} –** coming from, having its origin in. *Sometimes written “oys”.*
 
 **Tuntos, ad pelu Stats ois id decolonisation moliet trehve ir tula –**
 From this time, many States born out of the decolonization had
 difficulties to find their balance.
 
-The verb "molie" means "to be difficult to"; that's why there is "ad" before
-"pelu Stats". The real subject of "moliet" is "trehve" = "to find". 
+I think that is better I explain what “ad” is doing in “ad pelu Stats” for those who didn't understand. In the example was used the verb “molie”, which means “to be difficult to”, that's why was necessary the use of “ad” for indicating the indirect object. The real subject of “moliet” is “trehve”.
 
 **Pati {pAti} –** including
 
 **Ceters hieb esen lusen unte id naufrage, pati vasya mehmens os eys
 gwito tuntro –** All other things had been lost during the shipwreck, 
 including all the memories of his life until then.
+
+**Sayg mi tien adresse, pati tien postal code –** tell me your address, inclunding your postal code
 
 **Per {per} –** through
 
@@ -6162,7 +6163,7 @@ except pork.
 **Som her pon id auror –** I'm here since dawn.
 
 **Pon kamdiu reidneute yu in plen diewo? –** For how long have you been
-riding in full daylight ? (We use here the durative suffix -neu-)
+riding in full daylight ? (notice the use of the durative -neu-, I'll talk about it in the appropriate chapter)
 
 **Pos {pos} –** after
 
@@ -6202,7 +6203,7 @@ ahead of our group.
 
 **Id wogho gwehmt prosch me –** The car is approaching me.
 
-**Protie {protI:} –** against. Same meaning as “contra”
+**Protie {protI:} =** contra
 
 **I katueer protiev nos –** They fought against us.
 
@@ -6229,11 +6230,11 @@ substantive as well)*
 **Id tank, speit gwaur leusa, tadrijan upertrehsit eyso squadron –** 
 The tank, despite heavy losses, managed to get through his squadron.
 
-**Sub {sub} –** under 
+**Sub {sub} –** under *(often implies contact)*
 
 **Ter est un arank sub id meja –** There's a spider under the table.
 
-**Sub un peruca est un calv cap –** Under the wig there's a bald head.
+**Sub un peruca ter est un calv cap –** Under a wig there's a bald head.
 
 **Subpoena {subpOyna} –** under fear of*(penalty)*
 
@@ -6259,7 +6260,7 @@ sign a contract with a pharmaceutical firm to keep you from diabetes.
 ***Swod iens atavs (salaf) sokwis ios Prophet –** In the way of the 
 ancestors (salaf) who followed the Prophet*
 
-**Tiel {tyel}–** till. But before a verb, use “hin(a)”.
+**Tiel {tyel}–** up to, till. But before a verb, use “hin(a)”.
 
 **Id verdia start ex id urb ed continuet tiel id mar –** The highway
 starts from the city and runs to the sea.
@@ -6284,7 +6285,7 @@ titule yeji quod is poiss mutalbe id noble nam Vasconcelos –** In addition
 to the march order of King Huan, he kept preciously the royal title 
 according to which he had the right to claim the noble name Vasconcelos.
 
-**Uper {Üpër} –** over
+**Uper {Üpër} –** over (it doesn't touce the object)
 
 **Un plav pleuct uper id tor –** A plane is flying over the tower.
 
@@ -6302,13 +6303,13 @@ years.
 **Sub id schock, is Waktprince remien aunmov unte un khvil –** Under the
 shock, the Prince of Time remained motionless for a while.
 
-**Vice {vits} –** at the place of, vice-
+**Vice {vits} –** at the place of *(it also can be used as preffix)*
 
 **Henrique ne hat ghohden dake ia buks. Vice to, Olivier hat ei yist ia
 odt-documents –** Henrique could not get the books. Instead of this, 
 Olivier sent him the odt-documents.
 
-**Witerom {witërOm} –** opposite to (prep; adv)
+**Witerom {witërOm} –** opposite to *(rarely it is used as preposition, often it is used as adverb)*
 
 **Witerom id dikhliz, is daskal skohpt me –** On the opposite end of the
 gangway, the teacher was waiting for me. 
@@ -6318,8 +6319,7 @@ gangway, the teacher was waiting for me.
 **Yant ho denars, kaupo un leuyk tib –** As soon as I get money, I buy you
 a toy.
 
-**Ye {ye} –** has no definitive meaning, expresses a circumstance
-or a condition; with an hyphen after a word, makes an adverb.
+**Ye {ye} –** *it doesn't have a defined meaning, it expresses a circumstance or condition, you use this preposition when no other is useful, it is our Joker card*
 
 **Ye mien surprise –** At my surprise
 
