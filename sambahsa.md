@@ -5126,7 +5126,7 @@ countries or organisations*
 
 **Bad {bad} –** at last, finally
 
-**Bad gwahsiem hem –** at last I'll go to home.
+**Bad gwahsiem hem –** at last I'll go home.
 
 **Ia gwenak me spohc med sien okwi meg-ye ghyanen ob staunos, pre bad
 sprehge –** The young woman looked at me with her eyes wide-opened in
@@ -5209,7 +5209,7 @@ Horse of Mist, couldn't you ask him where his master is now ?
 
 **Weiko dalg –** I live far (from here)
 
-**Dalger {dAldjër} –** farther, further *(in the espacial sense, never temporal)*
+**Dalger {dAldjër} –** farther, further *(in the spatial sense, never temporal)*
 
 **Tetos dalger, vidsies un phar –** Farther from there, you'll see a 
 lighthouse.
@@ -5397,7 +5397,7 @@ the beginning.
 **Tu biscripst todeghern ed tu ja finihst id wehrg –** You began to
 write this morning and already you finished the work.
 
-**Jaldi {jAldi} –** swiftly, quickly *(it pass the notion of velocity)*
+**Jaldi {jAldi} –** swiftly, quickly *(notion of velocity)*
 
 **Ia cursit meg jaldi quando ia eet yuner –** She ran more quickly when
 she was younger.
@@ -5799,7 +5799,7 @@ had been the chairman, everything would be different.*
 **Yani {yAni} –** that is to say (to bring a precision)
 
 **Babys sont pur, yani, i ne hant synt –** Babies are pure, that is to say,
-they have not sin.
+they have not sinned.
 
 **(Ya)schi {(yA)ci} –** also, too *(“-schi” can be suffixed
 to a pronoun, an article or another invariable word if it's
@@ -6280,7 +6280,7 @@ titule yeji quod is poiss mutalbe id noble nam Vasconcelos –** In addition
 to the march order of King Huan, he kept preciously the royal title 
 according to which he had the right to claim the noble name Vasconcelos.
 
-**Uper {Üpër} –** over (it doesn't touce the object)
+**Uper {Üpër} –** over (it doesn't touche the object)
 
 **Un plav pleuct uper id tor –** A plane is flying over the tower.
 
@@ -6298,13 +6298,13 @@ years.
 **Sub id schock, is Waktprince remien aunmov unte un khvil –** Under the
 shock, the Prince of Time remained motionless for a while.
 
-**Vice {vits} –** at the place of *(it also can be used as preffix)*
+**Vice {vits} –** at the place of *(it can also be used as a prefix)*
 
 **Henrique ne hat ghohden dake ia buks. Vice to, Olivier hat ei yist ia
 odt-documents –** Henrique could not get the books. Instead of this, 
 Olivier sent him the odt-documents.
 
-**Witerom {witërOm} –** opposite to *(rarely it is used as preposition, often it is used as adverb)*
+**Witerom {witërOm} –** opposite to *(it's also an adverb)*
 
 **Witerom id dikhliz, is daskal skohpt me –** On the opposite end of the
 gangway, the teacher was waiting for me. 
@@ -6605,9 +6605,9 @@ romanic origin it's used -or and (i)tat.
 
 ### EXPRESSING AN ACTION
 
-If the own stem is not the sufficient, the ending -(e)n may be added *(or -sa for verbs ending in sound of stressed vowel)*. For verbs of romance origin is added -(t)ion to the verbam stem.
+If the own stem is not the sufficient, the ending -(e)n may be added *(or -sa for verbs ending with a stressed vowel sound)*. For verbs of romance origin is added -(t)ion is added to the verbal stem.
 
-### INDICATING THE EXECUTOR OF AN ACTION
+### INDICATING THE PERFORMER OF AN ACTION
 
 The most used is -er, very similar to english. A pratical set is -ant
 for who makes the action, -eit for who suffers this action and -at to
