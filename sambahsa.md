@@ -79,11 +79,10 @@ to the British Isles and to India. Sambahsa counts with many
 contributions from another languages, especially arabic, but also
 chinese, indonesian and many others.
 
-Being an auxiliary language, sambahsa is much more easier than any
+For being an auxiliary language, sambahsa is much more easier than any
 national language like german or spanish, but sambahsa is a bit more
-difficult if compared to other auxiliary languages because of show
-itself as complicated in the start, but after that the learning process
-show itself incredibly simple.
+difficult if compared to other auxiliary languages because it is a bit complicated at the beginning, but after that, the learning process
+is incredibly simple.
 
 With what the language looks alike? The interesting of sambahsa is that
 you don't see it as a constructed language, but as a national language
@@ -97,8 +96,8 @@ from the east. At times it feels a bit like Bulgarian, at other times
 like Persian, and sometimes similar to German as well”.
 
 It's not official, but may be said that sambahsa has a flag for
-represent it. Actually the flag just after was made to represent all
-speaker of indo-european languages, but the sambahsa movement kinda have
+representing it. Actually the flag just after this paragraph was made to represent all
+speakers of indo-european languages, but the sambahsa movement kinda has
 adopted the flag for itself.
 
 ![**Author:
@@ -110,10 +109,10 @@ languages derive their words for “person” from words related to clay,
 like the word “earthling”. The white color was chosen because of it
 contrasts the better. The reason the symbol is the wheel is because it
 is an important inovation made by humans, and, anyway, it's an important
-symbol for almost all indo-europeans anyhow
+symbol for almost all indo-europeans anyhow.
 
 The movement that supports sambahsa is not linked to any kind of
-thought: people from all kinds, ethnicity, places, believes and
+thought: people from all kinds, ethnicity, places, believes, genres, sexual orientations, social classes and
 ideologies may use the language as they please.
 
 As was said, this grammar is free, because it is under the license
@@ -121,11 +120,10 @@ Creative Commons CC-BY 4.0, you may modify it as you want and even use
 it for commercial purposes. You may also use this book to make your own
 version of the sambahsa's grammar and even sell it in the market of your
 city, if you want. Your only obligation is to attribute the due credit
-to original author, I hope it's not much to ask.
+to original author, I hope it's not much to ask. But just remember that this license doesn't apply to the language itself.
 
-The objective of this grammar is to teach everything what is the
-interest of the student in the most possible friendly way, if it is not
-possible in the current grammar's version you're reading, we hope to
+The objective of this grammar is to teach everything what is important to the student in the most possible friendly way, if it is not
+possible in this current version you're reading, we hope to
 reach something near in future versions. Notice that this is a
 “*complete* grammar”, this “complete” is not a mere decoration like in
 other grammars, it means that I’ll approach all points to you finish
@@ -143,47 +141,46 @@ I'll work in China or, at least, stay in touch with chineses, I will
 have to learn mandarin or cantonese, it's obvious. What I am talking
 about here is: if I enter in a room where there are a paquistanese, a
 russian, a brazilian, an argentinian and a japanese, all of them only
-could have a communication if they know a common language, because of
-are few they who have time and disposition to learn five different
+could have a communication if they know a common language, because only a very few people have time and disposition to learn five different
 languages; in current days it's expected that all these people speak
 english for making possible a communication. This is the X of the
 question.
 
 The problem with a national language – no matter whether it is english,
 spanish, french or mandarin – is that it's spent much time *(also money
-in many cases)* learning it. Of course that for those who like to learn
+in many cases)* learning it. Of course that for those who likes to learn
 languages or will live in a foreign country, it's a **fabulous**
 investment, even learning a “less important” language is a good
 investment if it pleases you and it may be a professional differential
 in the future. But when the matter is a language that serve as bridge
 between different people, the scenario is different.
 
-I like to say that two peoples communicate with other through the
-[]{#anchor-1}language of a determined country is is like calculate using
-roman numerals. It's perfectly possible calculate with this numerals,
+I like to say that two persons communicate with each other through the
+[]{#anchor-1}language of a determined country it is like calculate using
+roman numerals. It's perfectly possible calculate with roman numerals,
 peoples did that for centuries (!!), but it's much more efficient to
 calculate with indo-arabic numerals, that in our case would be a
 language that you learn in months instead one you learn in years and is
-fully of traps. I said “language of a determined country” because of
+fully of traps. I said “language of a determined country” because
 people learn – in the international communication scope – the english
 variant from United States of America or England, but never the english
-from Jamaica)
+from Jamaica.
 
 Other negative point in using the language of another country as
-international language is that, somewhat, corroborate the supremacy of
-this country. In the modern times was used french because of France was
+international language is that, somewhat, it corroborates the supremacy of
+this country. In the modern times was used french because France was
 the most influential nation of Europe, since the XX century we use
-english because of the anglophone countries acquire great economic and
+english because the anglophone countries acquire great economic and
 military power. Do some decades hence we will have to communicate with
 each other in mandarin or in the language of the country that “rules”
-the world.
+the world?
 
 ### SO ARE YOU AGAINST THE ENGLISH LANGUAGE?
 
-My answer to this question is a loud “**NO**”! English is considered as
+My answer for this question is a loud “**NO**”! English is considered as
 official language in countries of all the continents, not to mention
 that the United States and England are great exporters of culture, it’s
-because of this and other factors that many people support the idea that
+because of it and other factors that many people support the idea that
 english still will be used as lingua franca even when the United States
 lose its hegemony. And personally I think that english is a very
 beautiful language.
@@ -198,8 +195,8 @@ esperanto; when I meet sambahsa there were only a grammar in french, the
 mother tongue of the creator of sambahsa, and in english. Thanks to the
 english I could start my studies of sambahsa and then make this grammar.
 I work in favor to auxiliary languages like sambahsa and esperanto
-because I judge languages like these more efficient than national
-languages, but we know that currently a work will be much better exposed
+because I judge languages like them as much more efficient than national
+languages, but we know that, currently, a work will be much better exposed
 if it is made in english.
 
 For example, the original version of this grammar, which is in brazilian
@@ -208,35 +205,34 @@ mozambicans, etc) and **maybe** to a very few of curious people who had
 decided to learn portuguese; but this version in english is useful to
 russophones, hispanophones, francophones, nipophones, sinophones,
 germanophones, italophones and many others who has a good knowledge of
-english, because of probably they live in a country where the english is
+english, because probably they live in a country where the english is
 taught in the schools. But I hope that these people translate this grammar to their respective languages.
 
-Some may think that I contradict everything what was said in the previous
+Some may think that I am contradicting everything what was said in the previous
 sub-chapters and I am praising the english language, but it’s not the
-case, I am only being realist, I only recognize the advances of the
+case, I am only being realistic, I only recognize the advances of the
 current model as well as I pointed some of its deficiencies, I still
 defend the use of auxiliary languages. It’s important to learn english
-just as is important to learn spanish, russian, esperanto, mandarin,
+just as it's important to learn spanish, russian, esperanto, mandarin,
 etc, because although we defend that use an auxiliary language as lingua
-franca would be much more efficient, I say that the true international
+franca would be much more efficient, the actual international
 language is the polyglotism, if you want to be something near to a true
-“citizen of the world”, be a polyglot!
+“citizen of the world”, be a polyglot! But an auxiliary language would help immensely.
 
 BUT WHY LEARN SAMBAHSA?
 -----------------------
 
-Before I meet sambahsa I've already known other auxiliary languages, but
-I was not fully satisfied with them, not because they are inefficient or
-ugly, but they have certain aspects, due their simplicity, that
+Before I meet sambahsa I've already known other auxiliary languages *(not only esperanto)*, but
+I was not fully satisfied with them, not because they are inefficient, but they have certain aspects, due their simplicity, that
 displeased me.
 
-Sambahsa have success in having the regularity – and facility – of an
+Sambahsa has success in having the regularity – and facility – of an
 auxiliary language and the naturality and native beauty of a national
 language. Sambahsa is as good as portuguese or english for making poetry
 and the imported proper nouns from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
 standards of the language, the “problems” of importing these proper
-nouns will be the same that occurs in any national language.
+nouns will be the same that occurs in any national language, like english.
 
 For not having more than 100 years as other auxiliary languages, sambahsa doesn't
 have a community with thousand of speakers yet, but this scenario can
@@ -254,33 +250,32 @@ Winter said in his “Sambahsa: Guide to Pronouns and Articles”,
 practical for an international auxiliary language”*.
 
 The differential of sambahsa is that, even being an auxiliary language,
-it behave well as a natural language *(I don't like this term, but it
+it behaves well as a natural language *(I don't like this term, but it
 was the description that I thought to explain it)*.
 
-Sambahsa indeed is easy, you only have to know what are you priorities
+Sambahsa do is easy, you only have to know what are you priorities
 of study, *you have to know how to study*! Doesn't make sense decorate
 all declinative cases from dative if you use them a very few times (and
-maybe only a few of them, even you only use sambahsa in all days of your
+maybe only a few of them, even if you only use sambahsa in all days of your
 life)! Also it's necessary have in mind that it's not because it is an
 easy language you will be writing philosophical treatises in three
 weeks, but maybe you can do it in six or eight months.
 
-Also people say that the language is excessively prolix, sometimes
+People also say that the language is excessively prolix, sometimes
 having two or three invariable words for each one of the same type in
 our language. Really sambahsa doesn't economize in its invariable words,
 a prolix language like sambahsa pays the price of demanding a bit more
-of study, but, by contrast, it allows the best expression of thought.
+of study, but, by contrast, it allows the best expression of the thought.
 
-**Everything has a price:** many auxiliary languages try to be the possible
-simplest ones, adopting, for example, very simple orthographies: one
-letter, one sound; all nouns have only one ending, all adjectives have
+**Everything has a price:** many auxiliary languages try the possible to be the simplest ones adopting, for example, very simple orthographies: one
+letter, one sound; all nouns having only one ending, all adjectives having
 only one ending, etc. The advantage of not having a too complex
 orthography is that the learning curve is very low, but the disadvantage
-is that from this is created a little problem with importation of words
+is that from this simplicity it's created a little problem with importation of words
 of other languages, which will have to be drastically modified *(as in
-orthography as in pronounce)* for being according to the language's
+orthography as in pronounce)* in order to make them fit to the language's
 rules. Other problem of a simple orthography is the little freedom for
-the creation of poesy and music. I am not saying that very simple
+the creation of poetry and music. I am not saying that very simple
 auxiliary languages are ugly, since it's very subjective and a person
 with a crystalline voice and talent can create the best song of the
 world through the simplest and “ugliest” language. What I am saying is
@@ -291,15 +286,15 @@ to pay?
 
 Many complain that very simple auxiliary languages offers little poetic
 freedom, others will say that more complex auxiliary languages are
-unnecessarily more difficult.
+unnecessarily difficult.
 
 []{#anchor-2}*Arrested for having dog, arrested for not having dog*.
 
 THE SAMBAHSA VOCABULARY
 -----------------------
 
-Just below a list of languages that had contributed for the sambahsa
-vocabulary, the percentage of borrowed word and some examples between
+Just below there is a list of languages that had contributed for the sambahsa
+vocabulary, the percentage of borrowed words and some examples between
 parentheses:
 
 **Indo-European –** 44,28 % *(skadh, paursk, potnia) *
@@ -377,23 +372,23 @@ METHODOLOGY OF TEACHING
 I structured the grammar in the following way: I avoid the presentation
 of a new content that demands the previous knowledge of other
 no-mentioned subject, for example: if for learning the future verbal
-tense is necessary to know the infinitive, I will teach the infinitive
+tense it's necessary to know the infinitive, I will teach the infinitive
 before; if for learning the declination is necessary some basic grammar
 knowledge, I will bring back those teachings from middle school's
 classes. I believe that this way is the less annoying for the beginner.
 
-This book was made in the way that it serves the student with no any
+This book was made in the way that it serves the student without any
 previous knowledge, in other words, I am assuming you don't know another
-language and even you don't know certain basic grammar terms. Thus a
+language and you even don't know certain basic grammar terms. Thus a
 student can read this grammar without the necessity of consulting other
-book, except dictionaries. *The goal of this grammar is to be accessible
-to everyone*.
+books, except dictionaries. *The goal of this grammar is to be accessible
+to everyone*!
 
 **What I am going to say is important, so pay attention!** When you
 study, don't be in a hurry for decorating all cases in the accusative or
-all the list of prepositions once, take it easy, since you will use some
+all the list of prepositions once, take it easy (!), since you will use some
 words more times than other ones. No grammar was made to be read just
-once, but many times. Now you are starting, read the chapters only once,
+once, but many times. Now that you are starting, read the chapters only once,
 twice at most, then go on to the next chapter. After finishing the
 reading of the grammar, start reading texts, they will help you to
 increase your vocabulary and improve you grammar knowledge, since you
@@ -407,8 +402,8 @@ two reasons to do that: the act of made a grammar demands a great
 responsibility, what boosted me in my studies, thanks to this work I
 could learn things more quickly, that was a very interesting exercise;
 the second reason is that the person who knows the first difficulties of
-a beginner is other beginner, if I had to make this grammar much time
-after, maybe I could forget certain difficulties I had and I wouldn't
+a beginner is other beginner, if I had decided to make this grammar much time
+after, maybe I could forget certain difficulties that I had and I wouldn't
 address them in this grammar.
 
 ACTUALLY YOU DON'T NEED TO LEARN EVERYTHING
@@ -417,8 +412,8 @@ ACTUALLY YOU DON'T NEED TO LEARN EVERYTHING
 One of the goals of this grammar is being the most complete as possible,
 in other words, the goal is to cover the most basic until the elements
 that will only rarely appear in the most erudite literature. There will
-be things here optional forms of the indicative of present, that rarely
-are used, but this grammar has the obligation of presenting. Focus only
+be things here like optional forms of the indicative of present, that rarely
+are used, but this grammar has the obligation of presenting it. Focus only
 in what is necessary for you!
 
 The language also has a very rich phonology, there are sounds that
@@ -426,7 +421,7 @@ doesn't exist in english, but can be learned in a short time. I made the
 possible to explain the sounds, since per comparisons with other
 languages until per what movements of tongue and mouth are made. But if
 you really have difficulty with some sounds, there is no problem, you
-can use a similar sound, very improbably someone you don't understand
+can use a similar sound, very improbably someone wont understand
 you, but endeavor a bit for learning all sounds, it'll be a learning
 that will serve for other languages as you will see.
 
@@ -438,7 +433,7 @@ tips that are useful for any language, not only sambahsa:
 
 -   When you read, listen, write or say a word, directly associate this
     word to its idea. I'll explain: some people, when read “nebh”,
-    associate this word to portuguese word “cloud” and then they make
+    associate this word to the english word “cloud” and then they make
     association to a cloud. Don't do this, train your mind to don't need
     an intermediate, try to directly associate the word to the idea or
     object.
@@ -1463,9 +1458,9 @@ Before let's remember those english classes of your school time, look
 the sentence below:
 
 **The man buys the car:** In this case “the man” is the *subject* of the
-sentence, it's the subjetc because of is *doing* the action, which in
+sentence because it's him who is *doing* the action, which in
 this case is the buying; and “the car” is the *direct object* of the
-sentence, because of it's *suffering* the action, it's being affected
+sentence, because of it's the car that is*suffering* the action, it's being affected
 directly by the verb. Look the sentences below:
 
 **I eat tomato –** “I” ([]{#anchor-92}subject), “tomato”
@@ -1479,7 +1474,7 @@ doesn't have a []{#anchor-94}direct object!
 **They gave me a message:** we have one more element in this sentence,
 it's the indirect object. We can easily recognize the subject, which is
 “they”, but which one is the direct object and which one is the indirect
-objetct? Remember, the direct object is that suffers the action, what is
+objetct? Remember, the direct object is that directly suffers the action; what is
 being given, the person or the message? The message! The direct object
 is “a message”. The indirect object is that is *beneficed* by the
 action, which is being *indirectly* affected by the verb, which in this
@@ -1491,7 +1486,7 @@ object), “documents” (direct object)
 **She bought a dog for him –** “she”(subject), “dog” (direct object),
 “him” (indirect object)
 
-[]{#anchor-95}Now we can see the cases. I want to warning that I'll only
+[]{#anchor-95}Now we can see the cases. I want to warn you that I'll only
 show you the cases for now, just for you recognize them by sight, I will
 only show explanations in sentences after I explain the verbs, when
 we'll be more comfortable to make sentences.
@@ -1499,7 +1494,7 @@ we'll be more comfortable to make sentences.
 NOMINATIVE CASE
 ---------------
 
-Basicaly it is the subject of a sentence.
+Basically it is the subject of a sentence.
 
 **Ego / io {Ego / yo} –** I
 
@@ -5427,7 +5422,7 @@ and as an adverb.
 
 **Kam {kam} –** how ?, in what manner ?, like
 
-**Kam arrives her? –** how you arrive here?
+**Kam has tu arriven her? –** how have you arrived here?
 
 **Kam leits tu? –** How are you?
 
