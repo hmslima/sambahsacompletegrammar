@@ -6605,10 +6605,7 @@ romanic origin it's used -or and (i)tat.
 
 ### EXPRESSING AN ACTION
 
-Se o próprio radical verbal não é o suficiente, a terminação -(e)n pode
-ser adicionada *(ou -sa para verbos terminados em som de vogal acentuada
-tonicamente)*. Verbos de origem românica adiciona-se -(t)ion ao radical
-verbal.
+If the own stem is not the sufficient, the ending -(e)n may be added *(or -sa for verbs ending in sound of stressed vowel)*. For verbs of romance origin is added -(t)ion to the verbam stem.
 
 ### INDICATING THE EXECUTOR OF AN ACTION
 
