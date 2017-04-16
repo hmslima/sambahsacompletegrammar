@@ -467,14 +467,14 @@ For represent the sounds there is the *Sambahsa Phonetic Transcription*
 all of this grammar, the letters in UPPERCASE inside the brackets
 represent the accentuated syllables and a colon (:) informs that the
 vowel before that is lengthened. Be aware that the explanations about
-pronunciation are based in the american version of english.
+pronunciation are based in the General American English.
 
 Initially the SPT was made between square brackets \[ \], but I've
 choosen curly brackets { } because the square brackets already are used
-by the international phonetic alphabet that I'll talk soon after.
+by the other system of phonetic transcription that I'll talk soon after.
 
 In addiction there is something called *International Phonetic Alphabet*
-(IPA), it's like the SPT, but it's used in all the world. The letters of
+(IPA), it's like the SPT, but IPA is used for all languages while SPT is only for sambahsa. The letters of
 this alphabet always will lie inside slashes / / or square brackets \[
 \] in this grammar. I will use the IPA to explain the SPT, because if
 you have access to the sounds of the IPA, you have a secure source of
@@ -495,7 +495,7 @@ known while SPT only applies to sambahsa? There are two reasons:
     encompass several similar sounds of IPA, thus there wont unnecessary
     effort to people of diverse backgrounds pronounce sambahsa words.
     For example: {r} refers, preferably, the sounds /ʀ/ and /r/, but it
-    also can refers to the sound /ɾ/, which occurs in th american
+    also can refers to the sound /ɾ/, which occurs in the american
     english.
 
 Before we go on, some observations:
@@ -504,18 +504,18 @@ Before we go on, some observations:
     sounds not found in the english language will be explained with all
     details as possible.
 -   This grammar is useful for all who knows english, but the phonetic
-    descriptions were based on the american english.
--   The United States of America is a continental country and have some
+    descriptions were based on the english of the United States of America.
+-   The United States of America is a continental country and has some
     linguistic variation. So, if you find that the phonetic description
     of a word is unfamiliar, maybe I am referring to the way of speaking
-    of other part of the United States.
+    of other part of the United States. That's why IPA is very useful here, you can know the exact sound.
 -   Sambahsa is very rich in what concerns to sounds, if you find that
     some sound is very complicate, you can use a similar sound in its
     place if you think that the meaning of the word will not be twisted
     and make confusion in the conversation. The important is that you
     use sambahsa!
 -   You don't need to use IPA if you don't want, since all the sounds
-    will be explained. The AFI is there for serving as additional
+    will be explained. The IPA is there for serving as additional
     resource for you.
 -   Even you have never heard about IPA, you can easily use it. There
     are many resources that shows the sounds of the IPA and some ones
@@ -527,9 +527,9 @@ Before we go on, some observations:
     -   As I've said before: the IPA practically only will be used in
         this “alphabet and pronunciation” chapter, in the rest of the
         book I will use only SPT! The IPA is only a secure guide for you
-        learning SPT, which is important!
+        learning SPT!
 
--   If the IPA and SPT wont be clear for you, I put some words from our
+-   If the IPA wont be clear for you, I put some words from our
     english language transcribed in these alphabets to you comprehend
     them well.
 
@@ -554,7 +554,7 @@ in “p**ai**d” or “ei” in “r**ei**n”, whose sound actually is /eɪ/, 
 without the second part /…ɪ/. It's like the “é” in the french word
 “beaut**é**” or the “ee” in the standard german “S**ee**le”.
 
-**{ë} –** /ə/ – like “e” in “fath**e**r”, “a” in “**a**gain” or “u” in
+**{ë} –** /ə/ – like “a” in “**a**gain”, "e" in "b**e**ige" or “u” in
 “syr**u**p”.
 
 **{f} –** /f/ – like “f” in “**f**ather”.
@@ -566,7 +566,7 @@ without the second part /…ɪ/. It's like the “é” in the french word
 **{i} –** /i/ – like “y” in “happ**y**”, “ey” in “mon**ey**” or “ie” in
 “part**ie**s”.
 
-**{j} –** /[]{#anchor-7}ʒ/ – like “s” “vi**s**ion” or “a**s**ian”
+**{j} –** /[]{#anchor-7}ʒ/ – like “s” “vi**s**ion” or “a**s**ian” or “g” in “bei**g**e”
 
 **{k} –** /k/ – like “c” in “**c**ut”, “ck” in “ba**ck**” or “k” in
 “spea**k**”
@@ -585,37 +585,34 @@ sound is found in “o” of “n**o**rth”.
 
 **{ö} –** /ø/ – like the “ö” from german or the “eux” french.
 []{#anchor-9}[]{#anchor-10}[]{#anchor-11}Don't you know german neither
-french? []{#anchor-12}There is no problem, I teach you how to made this
+french? []{#anchor-12}There is no problem, I teach you how to make this
 sound. It's how you make the {e} sound, but with the mouth in the form
-you make the {o} sound, in other words, speak /e/ with the puckered
-lips.
+you make the {o} sound, in other words, speak /e/ with the lips puckered.
 
 **{p} –** /p/ – like “p” in “**p**each”.
 
 **{q} –** /x/ – like the german “ach-laut” or like “j” in the spanish
 word “**j**ota”. Don't you know german neither spanish? There is no
-problem, I teach you how to made this sound. It's like the {h} sound,
-but the sound comes scraping the final of your throat; think in a
+problem, I teach you how to make this sound. It's like the {h} sound,
+but you put the back of your tongue against your soft palate as you do with {k} and {g}; think in a
 vintage kettle.
 
 **{r} –** /[]{#anchor-13}ʀ/ – in situations like in “radh”, “prete” and
 “accurat”, where after “r” there is a vowel, you can pronunciate it as
-the “r” in “**r**ed”. Actually sambahsa admits a wide variety of sounds
+the “r” in “**r**ed” /ɹ/ or “tt” in “le**tt**er” /ɾ/. Actually sambahsa admits a wide variety of sounds
 – includding our “r” (!!!!!) –, but *if* it’s for elect an official
 sound, it should be the uvular “r” (/ʀ/) from german.
-[]{#anchor-14}Don't you know germa? []{#anchor-15}There is no problem, I
-teach you how to made this sound. Do the following exercise, gargle
-water (or any other liquid). Through this simple exercise you start to
-understand how to vibrate your uvula.
+[]{#anchor-14}Don't you know german? []{#anchor-15}There is no problem, I
+teach you how to make this sound. Do the following exercise, gargle
+a bit of water *(or any other liquid)* in order to you understand how to vibrate your uvula. The /ʀ/ sound is made by the trill of the uvula.
 
 **{r} –** /[]{#anchor-16}ʁ/ – in situations like in “irk”, “amor” and
-“absorb”, where after “r” there isn't a consonant or this “r” is the
+“absorb”, where just after “r” there is a consonant (not a vowel!) or this “r” is the
 last letter of the word, this consonant assumes the sound \[ʁ\]. The /ʁ/
 is very similar the sound /h/ of “**h**orse”, but there are two
-differences, you must vibrate your vocal cords like you do in {d} or {n}
-and the place of articulation of /[]{#anchor-17}ʁ/ is the uvula – while
-the place of articulation of /h/ is the glottis –, in other words, you
-must articulate the back of your tongue at the uvula. Just below some
+differences: you must vibrate your vocal cords and the place of articulation of /[]{#anchor-17}ʁ/ is the uvula – while
+the place of articulation of /h/ is the glottis *(which for some people is the same that it doesn't have a place of articulation)* –, in other words, you
+must put the back of your tongue against the uvula. If it still is difficult for you, let's try an exercise: when you make the sound /h/ you don't vibrate your vocal cords, the vibration of the vocal cords are important, it's that what differentiates the sounds /t/ *(voiceless, without vibration)* and /d/ *(voiced, with vibration)*, /k/ *(voiceless)* and /g/ *(voiced)*, /s/ *(voiceless)* and /z/ *(voiced)*, /f/ *(voiceless)* and /v/ *(voiced)*; OK, try to make the sound /h/ be voiced, in order to make the sound /ɦ/ *(/ɦ/ is just the voiced version of /h/ if you didn't understand)*; when you be able to make the sound /ɦ/, then make this sound with the back of the tongue against the uvula, thus you're be making the sound /ʁ/.Just below some
 examples in IPA:
 
 spar – /spaʁ/
@@ -672,7 +669,7 @@ biaur – /bj'aʊʁ/
 
 **{ü} –** /y/ – like the french “u” or the german “ü”.
 []{#anchor-18}[]{#anchor-19}Don't you know german neither french?
-[]{#anchor-20}There is no problem, I teach you how to made this sound.
+[]{#anchor-20}There is no problem, I teach you how to make this sound.
 It's very simple, speak the {u} sound, notice the movements you do with
 your mouth; now speak the sound {i}, but with the mouth movement of {u},
 in other words, speak {i} with a puckered lips.
@@ -680,18 +677,14 @@ in other words, speak {i} with a puckered lips.
 **{v} **– /v/ – like “v” in “**v**ein”.
 
 **{w} –** /w/ – like “w” in “**w**ater”, but it's *not* like “w” in
-“sho**w**”, which is /ʊ/.
+“sho**w**”, which is [ʊ̯]. It's a semivowel.
+
+**{y} –** /j/ – like “y” in “**y**ou” or the first part of “u” in
+“t**u**be” /t**j**u:b/. It's a semivowel.
 
 **{x} –** /ç/ – like the german “ich-laut” or, perhaps, “h” in
 “**h**uman”. []{#anchor-21}Don't you know german? []{#anchor-22}There is
-no problem, I teach you how to made this sound. Articulate your mouth in
-order it is in the way you speak the vowel {i}, notice that in this
-position the body of your tongue almost touch your palate and the tip of
-your tongue touches the inferior teeth of the front, then expire as you
-do when you pronounce {c}, but be careful for you don't rise the tongue.
-
-**{y} –** /j/ – like “y” in “**y**ou” or the first part of “u” in
-“t**u**be” /t**j**u:b/.
+no problem, I teach you how to make this sound. Put the back of your tongue against your hard palate, in the same way you make with the sound {y}, then you try to pronounce this sound like you would do with {s}.
 
 **{z} –** /z/ – like “z” in “**z**ap”.
 
@@ -709,18 +702,17 @@ like in “**th**is” or “wor**th**” whose sound is /ð/.
 
 **{nk} –** /ŋk/
 
-I suggest that you really learn the SPT before move on. Because of this
-is a very important part, I suggest that you make an exception and read
+I suggest you to learn the SPT very well before move on. Because it's a very important part, I suggest you to make an exception and read
 this chapter more than twice, I need that you know it very well.
 
 SOME ENGLISH WORDS IN IPA AND SPT
 ---------------------------------
 
-Do you remember that I promised the transcription of some word of ours
-to IPA and SPT? If you reached here without understanding very well both
+Do you remember that I promised the transcription of some words of ours
+to IPA and SPT? If you've reached here without understanding very well both
 alphabets, let's see whether with the list below you understand them.
 Deliberately I've inserted some words whose sounds don’t exist in
-sambahsa, I did this to make you pay attention to the differences
+sambahsa, I did it to make you pay attention to the differences
 between the two languages, in these cases there wont a transcription to
 SPT.
 
@@ -734,13 +726,13 @@ For you don't being lost, firstly I show the word, then the transcription to IPA
 
 **Black –** [blæk] – {bläk}
 
-**Flower –** [ˈflaʊ̯ɚ] – {flAoë} ({ë} should be /ə/, but I think that I can representate /ë/ as {ɚ})
+**Flower –** [ˈflaʊ̯ɚ] – {flAoë} ({ë} should be /ə/, but I think that I can representate /ë/ as [ɚ])
 
 **Fire –** [ˈfaɪ̯ɚ] – {fAyë}
 
 **Breathe –** [bɹiːð] (the sound /ð/ doesn't exist In sambahsa)
 
-**Two –** [tʰuː] – {tu:} – (SPT, as borad IPA transcription, can't representate diacritics)
+**Two –** [tʰuː] – {tu:} – (SPT, as broad IPA transcription, can't representate diacritics)
 
 **The –** [ðə] or [ðiː] 
 
@@ -855,22 +847,22 @@ WE ARE NOT FINISHED YET, SOME CONVENTIONS
 -----------------------------------------
 
 **Before we go on, a warning: **don't worry, initially, with the more
-complex grammar rules, because of I'll be showing the pronounce of each
-example during a good time here, so you'll naturally learn the
+complex grammar rules, because I'll show you the pronunciaton of each
+example in almost all parts of this grammar, so you'll naturally learn the
 pronunciation. *Don't decore anything, understand it*! My advice is:
 read this part once or twice – at most – then go on with your studies.
-Does the orthography is this so difficult? No, but it can be boring at
-the beginning for those who are starting and it is, in my personal
+Does the orthography is too difficult? No, but it can be boring at
+the beginning for those who are starting and it is not, in my personal
 opinion, obligatory at the beginning since I'll dispose the
 pronunciation with the examples.
 
 Since here until the final of the **ALPHABET AND PRONUNCIATION**
-chapter, the text will be almost a transcription of the book *The
+chapter, the text will be almost a transcription of a chapter of the book *The
 Grammar Of Sambahsa-Mundialect In English*, of Dr. Olivier Simon.
 
 The vowels are represented by V, they are: “a”, “e”, “i”, “o”, “u”. The
 semivowels are “w” and “y”, they are represented by C, as well as the
-consonants.
+consonants. The letters "w" and “y” can assume the function of vowels when they're not related to any other vowel.
 
 ### THE LETTER “e”:
 
@@ -902,25 +894,25 @@ unpronounceable, in these cases “e” assumes the sound {ë}.
 
 *Why do “gn” of “storgnet” is pronounced as {ny}? I explain it later.*
 
-All words finished in “quet” and “ques” are pronounced, respectively”,
+All words ending with “quet” and “ques” are pronounced, respectively,
 as {kët} e {kës}.
 
 In all the other cases “e” has the {ë} sound, like in “kohlen”, which is
 pronounced as {kO:lën}.
 
-*Why do the pronounce of “o” is lengthened in this word? This I am going
+*Why do the pronounce of “o” is lengthened in this word? I am going
 to answer you.*
 
 ### THE LETTER “h”:
 
-It has the {h} sound when at the beginning of a word or between vowels.
+The {h} sound appears when "h" is at the beginning of a word or between vowels.
 
 **habe {hab} –** have
 
 **rahat {rahAt} –** rest
 
-[]{#anchor-30}When the letter “h” is after a vowel and is not followed
-by no other vowel, the letter “h” serves to indicate that the
+[]{#anchor-30}When the letter “h” is after a vowel and it is not followed
+by other vowel, the letter “h” serves to indicate that the
 pronunciation of the vowel must be lengthened.
 
 []{#anchor-31}**kohlen {kO:lën} –** hiden
@@ -958,7 +950,7 @@ VOWELS
 /'ea/ – like in “wakea” {wakEa} *(definitely)*
 
 **“ea” {ëa} *****(at the end of a word)***** –** /əa/ – like in “ocean”
-{ots(ë)An} *(ocean) Notice that as the sounds {ë} and {a} aresimilar, in
+{ots(ë)An} *(ocean) Notice that as the sounds {ë} and {a} are similar, in
 practice the “e”, in this case, normally ends being absorbed, in other
 words, it is not pronounced. In this case, any final consonant - except "s" - shifts the stress on "a", and leads to that pronunciation different from "wakea".*
 
@@ -998,7 +990,7 @@ SEMIVOWELS
 ----------
 
 “w” and “y” respectively are {w} and {y} when combined to vowel, but
-when isolates the letter “w” is pronounced like a short {u} and “y” like
+when isolates the letter “w” is pronounced like a short {u}, more precisely [ŭ] or [ʊ̆], and the letter “y” is like
 {ü}.
 
 []{#anchor-37}**sehkwnt {sE:kunt} –** (they) follow
@@ -1043,7 +1035,7 @@ like in “[]{#anchor-40}thamf” {§amf} *(stench)* and
 “[]{#anchor-41}esthetic” {estEtik} (*aesthetical)*.
 
 **“c” {k} *****(it's {ts} (/t͡s/) when before “e”, “i” e “y”)***** –**
-clike in “condition” {kondityOn} *(condition)* and “petrificit”
+like in “condition” {kondityOn} *(condition)* and “petrificit”
 {pëtrifItsit} *(petrified)*
 
 **“g” {g} *****(it's {dj} when before “e”, “i” e “y”)***** –** like in
@@ -1057,16 +1049,11 @@ our “r”! The recommended form – but it's not compulsory – it's the way
 spoken in Luxembourg or Saarland, /ʀ/. However this sound can take other
 forms:
 
-**“rr” /r(r)/ and “rh” /r(h)/ –** like the spanish “rr” (/r/).
+**“rr” /r(r)/ and “rh” /r(h)/ –** like the spanish “rr” (/r/). Don't you know spanish? There is no problem, I teach you how to make this sound. It's made by the trill of the tongue in the alveolar ridge, but know that the movement of the tongue is more made by the airflow than the tongue itself. It's like the /ɾ/ of “be**tt**er”, but you have multiple vibrations of the tongue instead of a single vibration of /ɾ/.
 
 **“rl” –** like the japanese “r” (/ɺ/), it may also be pronounced as
-/rl/ or /ʁl/. Don't know japanese? There is no problem, I explain it:
-notice where your tongue touches when you speaks the sound {d}. Did you
-observe? You make the japanese “r” trying to make the /ɾ/ of
-“be**tt**er”, but touching the tongue in the same place where you do
-when you say {d} and you must hold your tongue during a tiny bit in
-order to the air passes at the laterals of your tongue instead of the
-center of the tongue.
+/rl/ or /ʁl/. Don't you know japanese? There is no problem, I explain it:
+it's very similar to the /ɾ/ of “be**tt**er”, but you must hold your tongue during a tiny bit of time in order to the air pass at the laterals of your tongue instead of the center of the tongue.
 
 **“s” {s} *****({z} when between vowels)***** –** “son” {son} *(son)
 and* “decision” {dëtsiziOn} *(decision)*
@@ -1099,7 +1086,7 @@ STRESS ACCENT IN SAMBAHSA
 ### ALWAYS RECEIVES ACCENTUATION
 
 Vowels before the letter “h” or a double consonant (rr”, “ll”, “tt” …),
-by double consonant also it's understood the “ck”{k(k)}. The same is
+by double consonant also is understood the “ck”{k(k)}. The same is
 said about a syllable before a final -e. There some examples:
 
 []{#anchor-44}**Prodah –** {prodA:} *(hand over *(a criminal)*)\
@@ -1201,7 +1188,7 @@ word.
 
 **Corcuksnest –** {korkUksnëst} *(crow's nest)*
 
-These rules doesn't necessarily apply to proper nouns and the use of
+These rules don't necessarily apply to proper nouns and the use of
 hyphen preserves the accentuation in both sides.
 
 IF YOU FOUND SOME SOUNDS VERY DIFFICULT
@@ -1209,13 +1196,13 @@ IF YOU FOUND SOME SOUNDS VERY DIFFICULT
 
 I did my best to teach you each sound, but if you really can't learn
 some of them – but I believe you can – it's not the end of the world!!!
-If you can't pronounce the sounds /x/ e /ç/, no-one you put you in a
+If you can't pronounce sounds like /x/ e /ç/, no-one you put you in a
 jail if you use /ʃ/ and /h/ in their places. If you can't pronounce the
 japanese “r”, use our “r”. The good news is that the difficult sounds
-are rarely used, with the exception of the vowels don't found in
-english.
+are rarely used, with the exception of the vowels not found in
+the english language.
 
-The advantage of learning the sambahsa's phonetics is that you master
+The advantage of learning the phonetics of sambahsa is that you master
 the phonetics of many other languages.
 
 SELLAMAT!
@@ -5782,7 +5769,7 @@ Bahia.
 
 **Way ia mohrit –** Alas, she died.
 
-**We {we} –** or *(separes verbs)*
+**We {we} –** or *(separes clauses)*
 
 ***Ne woidim an kaupo un wogh we io safer do Tyrkia –** I don't know if I 
 buy a car or travel to Turkey.
@@ -5799,7 +5786,8 @@ had been the chairman, everything would be different.*
 **Yani {yAni} –** that is to say (to bring a precision)
 
 **Babys sont pur, yani, i ne hant synt –** Babies are pure, that is to say,
-they have not sinned.
+they haven't sin.
+**…i hant neid synt –** …they have no sin.
 
 **(Ya)schi {(yA)ci} –** also, too *(“-schi” can be suffixed
 to a pronoun, an article or another invariable word if it's
