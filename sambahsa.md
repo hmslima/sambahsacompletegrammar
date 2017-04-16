@@ -554,7 +554,7 @@ in “p**ai**d” or “ei” in “r**ei**n”, whose sound actually is /eɪ/, 
 without the second part /…ɪ/. It's like the “é” in the french word
 “beaut**é**” or the “ee” in the standard german “S**ee**le”.
 
-**{ë} –** /ə/ – like “a” in “**a**gain”, "e" in "b**e**ige" or “u” in
+**{ë} –** /ə/ – like “a” in “**a**gain” or “u” in
 “syr**u**p”.
 
 **{f} –** /f/ – like “f” in “**f**ather”.
@@ -591,8 +591,8 @@ you make the {o} sound, in other words, speak /e/ with the lips puckered.
 
 **{p} –** /p/ – like “p” in “**p**each”.
 
-**{q} –** /x/ – like the german “ach-laut” or like “j” in the spanish
-word “**j**ota”. Don't you know german neither spanish? There is no
+**{q} –** /x/ – like the german “ach-laut”, like “j” in the spanish
+word “**j**ota”  or like “ch” in the scots word “lo**ch**”. Don't you know german neither spanish? There is no
 problem, I teach you how to make this sound. It's like the {h} sound,
 but you put the back of your tongue against your soft palate as you do with {k} and {g}; think in a
 vintage kettle.
@@ -1212,7 +1212,7 @@ Sellamat! It's with this word, “sellamat” {selamAt}, that we say
 “hello”, you also may say “salut” {salUt}, which have the same function.
 
 In this chapter I'll show you some sentences, maybe you'll deduce the
-elements of each one by youself, but, anyway, in the posterior chapter
+elements of each one by youself, but, anyway, in the posterior chapters
 I'll unravel each sentence's element, so don't worry if you don't
 understand something in this chapter.
 
@@ -1231,14 +1231,20 @@ Let's start with some basic sentences:
 *(more emphasis at “I”)*
 
 Notice that, in the same way as occurs in the spanish language, in most
-cases you may omit the pronoun, because of the own verb indicates the
-used pronoun. You've just known the verb correspondent to “to be” when
+cases you may omit the pronoun, because the own verb indicates the
+used pronoun. You've just met the verb correspondent to “to be” when
 linked to the pronoun “I”. Let's to the next sentences:
 
 **Es **[]{#anchor-66}**Robert {es **[]{#anchor-67}**rObërt } –**
 []{#anchor-68}you are Robert
 
 **Es **[]{#anchor-69}**Linda {es **[]{#anchor-70}**lInda} –**
+[]{#anchor-71}you are Linda
+
+**Tu es **[]{#anchor-66}**Robert {tu es **[]{#anchor-67}**rObërt } –**
+[]{#anchor-68}you are Robert
+
+**Tu es **[]{#anchor-69}**Linda {tu es **[]{#anchor-70}**lInda} –**
 []{#anchor-71}you are Linda
 
 **Is est Robert {is est rObërt} –** he are Robert
@@ -1257,9 +1263,9 @@ The next cases are fairly interesting:
 **El est gohd {el est go:d} –** he/she is good *(undetermined)*
 
 **UNDERSTAND IT VERY WELL:** neutral pronouns refers to things,
-undetermined pronouns are used when doesn't know the genre or it's not
-desired to say the genre. **Pay attention:** from now, all pronoun or
-article that I *don't* indicate as *(neutral)* or *(undetermined)*, will
+undetermined pronouns are used when it's not known the genre or it's not
+desired to say the genre. **Pay attention:** from now, all pronouns or
+articles that I *don't* indicate as *neutral* or *undetermined*, will
 have the masculine genre or the feminine genre. Are we understood?
 
 To make clear what is *neutral* and what is *undetermined*, look the
@@ -1326,7 +1332,7 @@ from french: “Vous êtes un ami/des amis”; an example from russian:
 friend(s)).
 
 Other important observation about the second person of plural “yu”. You
-already know that is not necessary the use of the pronoun, but in future
+already know that, in most cases, it's not necessary the use of the pronoun, but in future
 examples you'll notice that the pronunciation of the third person of
 singular and the second person of plural are very similar, look:
 
@@ -1334,8 +1340,8 @@ singular and the second person of plural are very similar, look:
 
 **Yu lieubhte me {yu liÖb*****t***** me} –** you love me
 
-Did you imagine if didn't exist the pronoun? That's why the pronoun “yu”
-almost have to appear.
+Did you imagine if didn't exist the pronoun there? That's why the pronoun “yu”
+always have to appear.
 
 It's important that you know how to say the verb “there be”, in the
 sense of existence. It's is pretty similar to english, I'll use the noun
@@ -1436,7 +1442,7 @@ studying and you'll be able to maintain a conversation.
 THE DECLINATION CASES
 =====================
 
-Sambahsa has a interesant caracteristic, it has a system of declination
+Sambahsa has a interesting caracteristic, it has a system of declination
 cases which are: *nominative*, *accusative*, *dative* and *genitive*.
 These cases refers to the pronouns and articles. But what they are and
 how they are used?
@@ -1461,11 +1467,11 @@ doesn't have a []{#anchor-94}direct object!
 **They gave me a message:** we have one more element in this sentence,
 it's the indirect object. We can easily recognize the subject, which is
 “they”, but which one is the direct object and which one is the indirect
-objetct? Remember, the direct object is that directly suffers the action; what is
+object? Remember, the direct object is the one that directly suffers the action; what is
 being given, the person or the message? The message! The direct object
 is “a message”. The indirect object is that is *beneficed* by the
-action, which is being *indirectly* affected by the verb, which in this
-case is “me”. Look the sentences below:
+action, which is being *indirectly* affected by the verb, which, in this
+case, is “me”. Look the sentences below:
 
 **I've sent you the documents –** “I” (subject), “you” (indirect
 object), “documents” (direct object)
@@ -1585,7 +1591,7 @@ instead “io”, we want to say that there is a certain relevance in the
 “I” is doing, or suffering, this or that action.
 
 I'll ask you to stop here for a while and study the pronouns (only the
-personal pronouns!), because of I will use them a lot from here.
+personal pronouns!), because I will use them a lot from here.
 
 About the other cases, it's enough read them once or twice at most, you
 don't need record everything now! Follow the same method of study you
@@ -2071,7 +2077,7 @@ genitive case.
 
 Notice that, in the translations of the genitive case, we use the
 definite article “the” with the preposition “of”, while the preposition
-of possession is only translated to a preposition. I'll see you some
+of possession is only translated to a preposition. I'll show you some
 inappropriate sentences for you to understand:
 
 “Id mohrt ios Louis” would be translated to “the death of the Louis” and
@@ -2156,7 +2162,7 @@ the pronouns. For animals we don't use the article “id”, but the article
 ***The***** dog loves *****the***** woman – ***el* kwaun lieubht *iam*
 gwen {el kwAon liöbt yam gwen}
 
-The same applies to an article as a indirect object, it is in the dative
+The same applies to an article as an indirect object, it is in the dative
 case:
 
 ***The***** *****(female)***** manager sent *****the***** e-mail
@@ -2177,21 +2183,20 @@ The indefinide article is “un”.
 HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
 ========================================
 
-I only want to teach already now this two very basic conjuctions,
-because of, until we reach the chapter about conjuctions, maybe we will
+It's good to teach you right now this two very basic conjuctions,
+because until we reach the chapter about conjuctions, maybe we will
 have seen some examples with them.
 
 The conjuction “and” is translated as “ed” for sambahsa.
 
 **He and I – **is ed io
 
-As “or” you need to pay a bit more of attention. When we deal with two
-nouns or pronouns, we use “au”.
+As “or” you need to pay a bit more of attention. Often you'll use “au”:
 
 **He or me – **is au io {is Ao yo}
 
-But when we deal with two sentences, we use the conjuction “we” (don't
-confuse with the english pronoun!). I'll use a complex sentense, but
+But when we deal with two clauses, we use the conjuction “we” *(don't
+get confused with the english pronoun!)*. I'll use a complex sentense, but
 only look at how the conjuction is used:
 
 []{#anchor-144}My child, you must choose: to play in the park *or* to
@@ -2202,14 +2207,14 @@ Mien purt, dehlcs chuses: likes in id park *we* snahe in id piscine
 ADJECTIVES
 ==========
 
-A adjective is a word that qualifies a noun, as in “the beautiful
+An adjective is a word that qualifies a noun, as in “the beautiful
 house”, where the adjective “beautiful” qualifies the noun “house”. I
 think I'll seize the moment to explain what is an adverb: an adverb
 qualifies adjectives and verbs, like in “very fast”, where the adverb
 “very” qualifies the adjective “fast”. Are we understood?
 
 The construction of adjectives is similar to english, basically you have
-to put the adjective just before the noun, but let's meet before some
+to put the adjective just before the noun. Let's meet before some
 adjectives and nouns we'll use in our examples:
 
 **Veut {vöt} –** old
@@ -2234,7 +2239,7 @@ adjectives and nouns we'll use in our examples:
 
 **Blou {blu:} –** blue
 
-Eis os exemplos:
+There the examples:
 
 **Veut wogh –** old car
 
@@ -2258,7 +2263,7 @@ You may use the adjective alone and make it as a noun:
 Notice that you need an article and you can make use of a declination,
 when possible.
 
-Also isn possible to make adjectives from verbs through participles, but
+Also it's possible to make adjectives from verbs through participles, but
 this I'l explain only in the chapter od participles.
 
 To create adjectives from substantives you may make use of affixes like
@@ -2274,14 +2279,14 @@ place is dangerous
 **Ia gwen est nerv*****eus***** {ya gwen est nervÖs} –** the woman is
 nervous
 
-Don't worry very much about these affixes because many words can be used
+Don't worry too much about these affixes because many words can be used
 as substantives or adjectives without the necessity of modifing the
 word, like “infinitive”, which means “infinitive”*(what a big
 surprise!)*, in“un infinitive verb”*(a infinitive verb)* or “smad studye
 id infinitive”*(let's study the infinitive)*.
 
 A *very important observation* is that the vocabulary of sambahsa comes
-from languages of different families, like derivatives of latin and
+from languages of different families, like derivatives from latin and
 germanic languages, the rules of making of adjectives from substantives
 are adapted according to the origin of the word, sometimes you use other
 affix, or other way, which is not through the -ic or -eus. See the
@@ -2390,7 +2395,7 @@ the meaning pratically still is the same. But this case is no more a
 []{#anchor-194}predicative adjective over the object, but a *nominal*
 adjective over the object.
 
-There is a way of write better the third sentence, it would be making
+There is a better way to write the third sentence, it would be making
 use of the suffix -eih, which is a factive, you'll learn about affixes
 in a specific chapter. The sentense would be thus: “Tod anon sieugeiht
 me” *(this food sickens me)*. I didn't use it in the examples because
@@ -2401,7 +2406,7 @@ COMPARISONS
 -----------
 
 The comparison is made suffixing the -er to adjective (or -ter in the
-case the word finishes with a voewl), but only use this termination when
+case the word finishes with a vowel), but only use this ending when
 the accentuation of the word is not altered, in other case use the word
 “meis”, which means “more”; “quem” means “than”.
 
@@ -2410,14 +2415,14 @@ the accentuation of the word is not altered, in other case use the word
 **He is taller than me –** is est meis buland quem io {is est meys
 bulAnd kem yo}
 
-Comparisons of equality are made with tem … quem, which may be
-translated as as … as.
+Comparisons of equality are made with "tem … quem", which may be
+translated as "as … as".
 
 **Mary is as beautiful as Elizabeth – **Maria est tem bell quem
 Elizabeth
 
-Comparison od inferiority as made with minter … quem, which may be
-translated to less … than.
+Comparison od inferiority as made with "minter … quem", which may be
+translated to "less … than".
 
 **Wolves are less reliable than dogs –** wolfs sont minter amin quem
 kwauns {wolfs sont mIntër amIn kem kwAons}
@@ -2438,7 +2443,7 @@ Steven is the tallest
 Charles is taller than Michael, but it doesn't mean that necessarily
 doesn't exist people taller than Charles, the “taller” is a comparative,
 it only makes the comparison between two beings. But the second sentence
-says that Steven is taller than everyvody in the context where he is,
+says that Steven is taller than everybody in the context where he is,
 “tallest” is a superlative. Of course the same thought applies to
 comparisons of inferiority:
 
@@ -2468,8 +2473,7 @@ they are:
 PLURAL
 ======
 
-The plural is easy and intuitive, often the words at plural ends with a
--s added at the final of the words, as made in english, this is
+The plural is easy and intuitive, often the words have a -s added in their endings, as made in english, this is
 basically the standard form.
 
 **Prince {prints} *****(prince)***** –** princes {prIntsës} *(princes)*
@@ -2536,12 +2540,13 @@ Some examples with articles:
 
 **The people –** i leuds {i lödz}
 
+*Please notice that even the articles are modified, while “the men” is “ies wirs”, “the man” is “is wir”.*
+
 For finishing, an example of plural with declination:
 
 **Plur millions brasileiren –** several millions of brazilians
 
-Notice that was written “brasileiren” instead “brasileirs”, but I could
-would use anyone without problems, but if you use “brasilers”, don't
+Notice that was written “brasileiren” instead “brasileirs”, but I could use anyone without problems, but if you use “brasilers”, don't
 forget to use the “em”, that would be “Plur millions em brasileirs
 vahnt…”
 
@@ -2681,16 +2686,16 @@ country has few beautiful beachs
 **Tod land hat *****pau***** bella plaja –** this country has not-very
 beautiful beachs. 
 
-You have surely that some of the above-mentionned words work sometimes
+You can see that some of the above-mentionned words work sometimes
 as an adjective, and sometimes as an adverb. What makes the difference ?
 It is an adjective when it refers to the quantity of the substantive, 
-but an adverb when it refers to the quality of the adjective. 
+but it's an adverb when it refers to the quality of the adjective. 
 
 **Volo lyt cofie -** I want a little of coffee
 
 **Lyt-ye bitter cofie -** Slightly bitter coffee
 
-To make the difference, when there is a risk of confusion, use the
+To differentiate them when there is a risk of confusion, use the
 hyphenated ending "-ye" for adverbs, and, if possible, the "euphonic"
 declensional endings for adjectives. 
 
@@ -2710,7 +2715,7 @@ beautiful, but there are other countries that are more beautiful)*
 NUMBERS
 =======
 
-There the numbers form 0 to 10:
+There the numbers from 0 to 10:
 
 **0 – zero {dzEro} –** zero
 
@@ -2800,7 +2805,7 @@ for incompatible).
 **First –** ~~oint~~ prest *(if it's the first of a group of two, we use
 “preter” instead “prest”)*
 
-**Second –** dwot *(or “second”)*
+**Second –** dwot *(or “second”, equal to the english word)*
 
 **Third – **trit
 
@@ -2899,6 +2904,8 @@ the “pwol”. Look one more example:
 
 **Pwolpenkt – **4,5
 
+About punctuations in numbers, sambahsa is different from english, the fractioned numbers don't receive a dot, but a comma; a number like “two and a half” is transcribed as 2,5 in sambahsa. Numbers superior to 999 don't reveice any punctuation, so “one million” wont be transcribed as 1,000,000, but as 1000000.
+
 TIME
 ====
 
@@ -2987,14 +2994,14 @@ But “today” and “this morning” are made in the following ways:
 
 **This morning –** Todeghern
 
-A verb that indicates a period of time spent can be made per the prefix
+A verb that indicates a period of spent time can be made per the prefix
 (u)per-.
 
 **Passe ad upernocte in mien dom – **spend the night in my house
 
 **Uperdienam in id farm –** we spent the day in the farm
 
-There the translations for “tomorrow, “yesterday and their variations:
+There the translations for “tomorrow, “yesterday" and their variations:
 
 **Tomorrow –** cras
 
@@ -3023,7 +3030,7 @@ More important words:
 CORRELATIVES
 ============
 
-They are words made affixing certain particles to the interrogative
+They are words made by affixing certain particles to the interrogative
 pronouns or other words, like “anghen” *(person)*, “ject” *(thing)* and
 “loc” *(place)*.
 
@@ -3089,7 +3096,7 @@ also means the verb “like”}*
 
 **Katha {kA§a} –** so, thus
 
-**Ka {ka} –** as a *(quality, function)*
+**Ka {ka} –** as (a) *(quality, function)*
 
 **It(han) {it / i§An} –** so, this way
 
@@ -3145,11 +3152,11 @@ kwAntro, kwAntos/kwantOys} –** everywhere
 
 **Alyer, altro, altos/alyois {Alyer, Altro, Altos/alyOys} –** elsewhere
 
-“Left” and “right” are represented respectively for lev(ter) and
+“Left” and “right” are represented respectively by lev(ter) and
 dex(ter), naturally that are possible forms like levtro/dextro and
 levtos/dextos.
 
-“Outside” and “inside” are represented respectively for “exo” and “eni”
+“Outside” and “inside” are represented respectively by “exo” and “eni”
 *(irregular words)*, are possible forms like extro/extos and
 entro/entos.
 
@@ -3233,21 +3240,18 @@ THE VERBS
 
 Ah, the verbs…
 
-With the exception of three verbs, “ses” {ses}, “habe” {hab} and “woide”
+With the exception of three main verbs, “ses” {ses}, “habe” {hab} and “woide”
 {woyd}, all the other verbs are regular, you only need pay attention to
 some cases, predicted by the ortographic rules.
 
 It's common, in other languages, the verbs be represented in their
 infinitive form, like in dictionaries for example, but in sambahsa the
-standard form of presentation is in the form of *stem*. I want that is
-be very clear from now, the translations of the sambahsa verbs will be
+standard form of presentation is in the form of *stem*. I want it to be clear from now on, the translations from sambahsa to english will be
 provided in the infinitive form, even when the verbs are in their
-original form (only the stem). For example: the word “sedd”, as a verb,
-I translate as “to sit” (infinitive of english), but “to sit” in the
-infinitive of sambahsa is “sedde”, not “sedd”. Don't worry that I'll
+original form (only the stem). For example: the word “sedd” is translated to “to sit” (infinitive of english), but “sedd” is not the infinitive form of the word, its infinitive form is “sedde”. Don't worry because I'll
 warn you when the verb be in the infinitive, I only want that you know
 that when I show you something like “linekw = to leave”, don't think that
-“linekw” already is the verb in the infinitive. Are we understood?
+“linekw” already is the verb in the infinitive form. Are we understood?
 
 Let's meet the irregular verbs:
 
@@ -3258,15 +3262,17 @@ Let's meet the irregular verbs:
 **Woid {woyd} –** to know
 
 []{#anchor-224}“Es”, “hab” and “woid” are verbs in the stem form, the
-infinitive form of them is respectively “ses”, “habe” and “woide”. You
+infinitive form of them are respectively “ses”, “habe” and “woide”. You
 don't need to worry a lot about “es”, “hab” and “woid” since these verbs
 are irregular.
+
+I need to make a special comment about the verb “woid”. It means “to know”, but there is other verb with the same translation that is “gnoh”. The difference between “gnoh” and “woid” is that “gnoh” has a broader meaning than “woid”. “Gnoh” can be translated to “saber” and “conocer” (spanish), “wissen” and “kennen” (german), “savoir” and “connaître” (french), while “woid” only can be translated to “saber” (spanish/portuguese), “wissen” (german) or “savoir” (french). Taking the spanish words as reference: “saber” (both “woid” and “gnoh”) means that you have the knowing of a fact or information, like in “he knows when to leave” or “I know chinese”; “conocer” (only “gnoh”!) is for expressing the familiarity with someone, some place or something, like in “they know Oliver” or “I know Chile”.
 
 PRESENT
 -------
 
 You already know the conjugation of the verb “es” in the present, but
-costs nothing repeat them:
+it's no bother to repeat them:
 
 **Som {som} –** *(I)* am
 
