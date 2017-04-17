@@ -3286,7 +3286,7 @@ it's no bother to repeat them:
 
 **Sont {sont} –** *(they)* are
 
-The verb “ste” is pronounced {ste} because {st} is not a viable
+The verb “ste” is pronounced as {ste} because {st} is not a viable
 pronounce.
 
 The pronouns were omitted, but you are entirely free to use them too.
@@ -3335,8 +3335,8 @@ Now let's see the conjugations of the verbs “hab” and “woid”:
 
 The conjugation of woid is not compulsory.
 
-The conjugation of the verbs in the present is made with the following
-terminations:
+The conjugation of verbs in the present is made with the following
+endings:
 
 **1**^**st**^** **[]{#anchor-225}**person singular:** -m *(when after
 the sound of vowel or {y})*, -o *(in other cases)*. If the stem of the verb ends
@@ -3356,7 +3356,7 @@ the accentuation)
 **3**^**rd**^** person plural:** -(e)nt, -e (use the one compatible with the
 accentuation)
 
-Let's more one example:
+Let's see an example:
 
 **I love you –** te lieubho {te lyÖbo}
 
@@ -3375,7 +3375,7 @@ lyÖbt nos}
 
 **They love me –** ies lieubhent me {yes lyÖbënt me}
 
-As oftern the pronouns are easily identified (if they are nominative,
+As the pronouns often are easily identified (whether they are nominative,
 accusative, etc) you are free to change the order of them in the
 sentence, but maintain the good sense for avoiding misunderstandings.
 You may say too:
@@ -3383,7 +3383,7 @@ You may say too:
 lieubhs me, []{#anchor-231}io []{#anchor-232}lieubho te, tu lieubhs me,
 te []{#anchor-233}lieubho io, me lieubhs tu.
 
-More an example to you understand it well:
+Another example to you understand it well:
 
 ***(I)***** learn sambahsa –** euco sambahsa {Öko sambA:sa}
 
@@ -3402,26 +3402,26 @@ BRIEF EXPLANATION ABOUT THE NASAL INFIX
 
 I will talk about the nasal infix with more details in an appropriate
 chapter, but as I need right now that you have a notion about this
-subject, here a quick explanation.
+subject, I'll show you a quick explanation.
 
 A verb with nasal infix is that one which have an *un*stressed “e”
-between consonants, which *must* be “m” or “n”. In all the other verbal
+between the consonants “m” or “n”. In all verbal
 tenses, with the exception of a form of imperative that uses the own
-stem form of the verb, this kind of verb will suffer aa alteration,
+stem form of the verb, this kind of verb will suffer an alteration,
 which basically is a lost of the unstressed “e” and, maybe, some other
 modifications that I will explain in the appropriate chapter.
 
 Look how it works:
 
-**Linekw –** linkw
+**Linekw →** linkw
 
-**Pregen –** pregn
+**Pregen →** pregn
 
 PAST TENSE
 ----------
 
 There are two verbal tenses in the past for the verb “es”, the simple
-past and the imperfect, while the first one informs about a punctual
+past and the imperfect, while the first one informs about an action that takes place in a punctual
 time in the past, the second one deals with situations that happened
 continuously in the past and ended.
 
@@ -3456,7 +3456,7 @@ Imperfect past
 Try see these verbs from “imperfect past” like “I used to be”, “you used
 to be”, “she was being”, “we were being”.
 
-As the verb “hab” as the verb “woid” only have the simple past.
+Both “hab” and “woid” only have the simple past.
 
 **Hiebim {hyEbim} –** *(I)* had
 
@@ -3484,7 +3484,7 @@ As the verb “hab” as the verb “woid” only have the simple past.
 
 The conjugation of the verb “wois” is not compulsory.
 
-The conjugation of the verbs in the past is made per the following
+The conjugation of the verbs in the past is made by the following
 terminations:
 
 **1**^**st**^** **[]{#anchor-240}**person singular:** -im
@@ -3501,8 +3501,7 @@ compatible with the accentuation)
 **3**^**rd**^** person plural:** -eer *(it's -r when the verb finishes
 with a accentued vowel)*
 
-Between the stem of the verb and the termination of the conjugation may
-be interessant the use of the -s-, when the stem finishes with the sound
+Between the stem of the verb and the ending of the conjugation, it would be interesting to use of the -s-, when the stem ends with the sound
 of vowel, but it's not mandatory! Look an example below:
 
 []{#anchor-241}**ghyah {gya:} –** to gape
@@ -3524,7 +3523,7 @@ An example to you understand:
 
 ***(They)***** browed –** broveer {brovEër}
 
-“Brovista” is not possible because of the “a” would change the
+“Brovista” is not possible because the “a” would change the
 accentuation of the word.
 
 Apropos, “brov” also means the substantive “eyebrow”.
@@ -3536,23 +3535,23 @@ I know that is kinda ridiculous repeat it, but it's in the case still
 exists doubts. You may say “io buim”, “wey brovam”, “tu ees”, etc, using
 the pronouns. It's the last time I notify you this possibility, my
 conjugations are made without the pronouns, but it doesn't mean that
-they may not be usen! I say the same for any verbal tense.
+they may not be used! I say the same for any verbal tense.
 
 ### ACTUALLY THERE ARE TWO WAYS OF REPRESENTING THE PAST
 
-What you just saw is the simple past, which the actions started and
+What you've just saeen is the simple past, which the actions started and
 ended in the past and ***didn't** let consequences in the present*. The
-other form is the perfect present, which the actions still occurs in the
-present or, although the actions finished in the past, *they left some
+other form is the perfect present, in which the actions still occurs in the
+present or, although the actions were finished in the past, *they left some
 consequence in the present*; the present perfect is made through the
 verb “habe” + the participle in passive past (as I'll only teach you the
 participles in future chapters, I'll limit me to show you examples here,
-you don't need to know how to made them now, but I know that you at
+you don't need to know how to made them now, but I want that you at
 least know how to identify them).
 
-Observe the examples below to you understand the differences (notice
+Look the examples below to you understand the differences *(notice
 that the (a)s are in the simple past while the (b)s are in the present
-perfect):
+perfect)*:
 
 **(1a) Is gwivit in Rome unte oct yars –** he lived in Rome for eight
 years
@@ -3570,11 +3569,11 @@ met the governor\
 
 In (1a) the person lived in Rome in the past, but currently he lives in
 other place or he is no more alive; in (1b) he has lived in Rome and
-still is there. In (2a) kinda implies the governor don't have his
+still is there. In (2a) kinda implies the governor doesn't have his
 position nowadays; in (2b) we know the governor still is alive and still
 has his position. In (3a) I lost my keys in the past, but I already have
 found them or it is no more important currently; in (3b) I've lost my
-keys, I didn't find them and I suffer the consequences like don't be
+keys, I didn't find them and I still suffer the consequences like I don't be
 able to enter into my own house.
 
 INFINITIVE
@@ -3594,7 +3593,7 @@ Verbs finished in an unstressed “e” don't change:
 
 **Accepte {ak(t)sEpt(ë)} –** Accepte *(accepet)*
 
-For verbs with the nasal infix, the unstressed “e” is removed and is
+For verbs with the nasal infix, the unstressed “e” is removed and it's
 added the termination -es.
 
 For verbs with “ei”{ey} or “eu”{ö} have these parts replaced
@@ -3633,7 +3632,7 @@ You've meet an example of the kind:
 
 But verbs that denotes movement you must use the preposition “ad”, which
 you will know with more details in a future chapter. That happens
-because sambahsa infinitives behave like substantives, except that they
+because sambahsa infinitives behave like substantives, except those ones that
 don't use any article.
 
 **Ia ihsit *****ad***** vide sien son {ya I:sit ad vid syen son} –** she
@@ -3692,7 +3691,7 @@ The conjugations of the three main verbs:
 
 **Woidsient {woydsyEnt} –** *(they)* will know
 
-The conjugation of the verbs in the future is made in two forms:
+The conjugation of the verbs in the future is made in two ways:
 
 In the first one you use the verbal form in the 2^nd^ person singular
 plus the particle “ie” and the conjugations of present, look an example
@@ -3740,8 +3739,8 @@ it's the nie-.
 
 ### THE NEAR FUTURE
 
-For an event that is close to occur, we use the auxiliar “vah…”. It
-works in the following way, we add to this auxiliary the appropriate
+For an event that is close to occur, we use the auxiliar vah-. It
+works in the following way: we add to this auxiliary the appropriate
 conjugation and then we put the verb in the infinitive. I am going to
 use the verb “orbat” (to work) in this example.
 
@@ -3774,7 +3773,7 @@ SUBJUNCTIVE
 
 It indicates desire or expectancy.
 
-Only the verb “es” have the complete conjugation in this mode.
+Only the verb “es” has the complete conjugation in this mode.
 
 **Io sia {yo sya} –** []{#anchor-258}*(that I)* be
 
@@ -3788,7 +3787,7 @@ Only the verb “es” have the complete conjugation in this mode.
 
 **Siant {syant} –** *(that they)* be
 
-All the other verbs only have the singular. The terminations are:
+All the other verbs only have the singular. The endings are:
 
 **1**^**st**^** **[]{#anchor-259}**person singular:** -a
 
@@ -3796,7 +3795,7 @@ All the other verbs only have the singular. The terminations are:
 
 **3**^**rd**^** person singular:** -a
 
-Per this termination you can make a negative imperative with the
+Per this ending you can make a negative imperative with the
 prohibitive adverb “mae” {may}.
 
 **Mae kaupas {may kAopas} –** “Don’t buy!” or “Thou shalt not buy!
@@ -3907,7 +3906,7 @@ of the present.
 
 ### BUT WHAT ABOUT VERBS THAT ALREADY FINISH WITH “IE”?
 
-Regarding these, replace “ie” for “icie”. Let's see the verb “edifie”
+Regarding these ones, replace “ie” for “icie”. Let's see the verb “edifie”
 {edIfye}, which means “to edify”.
 
 []{#anchor-266}***(I)***** would edify –** edificiem {edifitsyEm}
@@ -3929,8 +3928,8 @@ Depending of the kind of verb, the stem may suffer changes, all of them
 will be explained in this subchapter. Although I will talk a lot here
 about participles, you don't need worry about them, it's still not
 necessary to know how create them, it's enough to know that they are
-nominal forms of the verb (like the past passive participle “eaten” that
-comes from the verb “to eat”).
+nominal forms of the verb *(like the past passive participle “eaten” that
+comes from the verb “to eat”)*.
 
 ### NASAL INFIXES
 
@@ -4105,9 +4104,9 @@ sieygeer
 
 **Past participle:** aurt / aur(e)n
 
-### VON WAHL RULES
+### THE VON WAHL RULES
 
-The final of these verbs are modified in the past tense and past
+The ending of these verbs are modified in the past tense and past
 participle:
 
 **Original –** after the modification
@@ -4122,8 +4121,8 @@ participle:
 
 **-ct –** -x
 
-Verbs finished in -v follow the same procediment of -t, but only for
-their past participle. If the -v comes after "o" or "u", it falls, otherwise, it will
+Verbs ending in -v follow the same procediment of -t, but only for
+their past participle. If the -v comes after "o" or "u", it falls, otherwise it will
 be replaced for -w.
 
 **Solv –** solwt
@@ -4199,7 +4198,7 @@ permissat, permisseer
 
 ### ENDING WITH A STRESSED VOWEL
 
-Verbs ended with a stressed vowel, or with a -h just after te vowel,
+Verbs ending with a stressed vowel, or with a -h just after the vowel,
 follow the pattern below:
 
 **Gwah –** to go to
@@ -4235,16 +4234,14 @@ The accentuation must stay in the same syllable for all persons in the
 present tense.
 
 In all the verbal moods, with exception of the nasal inffixes, the
-unstressed “e” between two consonants, set that is at the end the word,
+unstressed “e” between two consonants, when this range is at the end of the word,
 can be dropped if the junction of these two consonants doesn't change
 the pronounciation of the first consonant.
 
 VERBAL AFFIXES
 --------------
 
-Decidir abordar esse assunto só agora porque eu precisava que você
-conhecesse gerúndios e pronomes reflexivos, pois eles serão usados nos
-exemplos.
+In the examples below I will use words in the gerund and I will make use of reflexive pronouns, don't worry about them, only focus in the verbal affixe and how they change the verbs. Later I will talk about gerund and reflexive pronouns.
 
 **bi- –** to begin to *(*[]{#anchor-272}*inchoative)*
 
@@ -4333,7 +4330,7 @@ videogames
 
 ### OLD FORMS OF THE IMPERATIVE
 
-In the 2^nd^ person singular of the imperative, a option may be the use
+In the 2^nd^ person singular of the imperative, an option may be the use
 of the suffix -di to the stem of the verb. Don't forget in changing “eu”
 and “ei” for respectively “u” and “i” and observe the nasal infix.
 
@@ -4341,8 +4338,8 @@ and “ei” for respectively “u” and “i” and observe the nasal infix.
 
 **Ihdi! –** go! *instead* “eih(e)!”
 
-A imperative in the 3^rd^ persons is possible suffixing the -u to the
-conjugated verb, it it doesn't change the accentuation.
+An imperative in the 3^rd^ persons is possible by suffixing the -u to the
+conjugated verb, if it doesn't change the accentuation.
 
 **Is maurdher nehct –** the murderer perishs
 
@@ -4353,29 +4350,29 @@ conjugated verb, it it doesn't change the accentuation.
 **I slougs behrntu gwaur bermens! –** let the servants carry heavy
 burdens!
 
-It's possible to use the stem of the verb with the final -e and a
+It's possible to use the stem of the verb with the ending -e and a
 subject in the sentence:
 
 **Gwive is roy! –** long live the king!
 
 ### PARTICIPLE IN THE FUTURE
 
-To make the participle it's used the sintetic form of the future plus
-the termination -nd.
+To make the participle, it's used the sintetic form of the future plus
+the ending -nd.
 
 **gwehmsie + nd = **[]{#anchor-276}**gwehmsiend –** []{#anchor-277}*what
 or who* will be coming
 
-The near future is marked with the termination “tur”, for making it:
+The near future is marked with the ending “tur”, for making it:
 
--   Add -ur for the verbs in participle that follow the Von Wahl rules,
-    or that ends with “v”.
+-   Add -ur to the verbs in the participle that follow the Von Wahl rules,
+    or those ones that end with “v”.
 
 **Cedd –** cessur (going to yield)
 
 **Emov –** emotur (going to emote)
 
--   Add -ur for the 3^rd^ person singular in the present.
+-   Add -ur to the 3^rd^ person singular in the present.
 
 **Baht –** bahtur (going to speak)
 
@@ -4458,7 +4455,7 @@ You use the suffix -ye. The imperfect tense is made with ee-.
 
 **Kwohrye- sien itner –** *it indicates that the action was stopped for
 a time (for example: for the agent to rest) and it continues this action
-later. It not would be like in “rekwehr- sien itner”, which indicates
+later. It wouldn't be like in “rekwehr- sien itner”, which indicates
 that all the action is being remade.*
 
 ### THE PERFECT
@@ -4500,7 +4497,7 @@ DATIVE
 ADVERBS
 =======
 
-Adverbs are words that qualifies a verb, like in “traveled quietly” and
+Adverbs are words that qualifies verbs and adjectives, like in “traveled quietly” and
 “ate a lot”, where the verbs “traveled” and “ate” are qualified by the
 adverbs “quietly” and “a lot”. For making a adverb you have to add the
 suffix -ye (with hyphen!!!). Look some examples:
@@ -4632,11 +4629,11 @@ Look the sentences below, look at the use of the word “that”:
 
 \(4) He is so lazy *that* his parents put wheels in his bed
 
-Although thy are the same word, they have different functions.
+Although they are the same word, they have different functions.
 
 The “that”s of the sentences (1) and (2) are relative pronouns, because
 they are related to some substantive used before, in the case of the
-sentence (1) is “horse” and in the sentence (2) is “daughter”.
+sentence (1) it's “horse” and in the sentence (2) it's “daughter”.
 
 The “that”s of the sentences (3) and (4) are integrant conjunctions,
 because they start a new sentence.
@@ -4680,7 +4677,7 @@ THE RELATIVE PRONOUNS “YO(S)”, “YA” AND “YOD”
 ---------------------------------------------
 
 I thought a lot if I really should bring this subject here, because, as
-you’ll see, pratically you’ll not use them, but as this is a *complete*
+you’ll see, maybe you will never use them, but as this is a *complete*
 grammar, I felt in the obligation of explaining them.
 
 Basically the relation is:
@@ -4712,8 +4709,7 @@ speaks, is sambahsa
 If we remove the “quod Latif baht” (“which Latif speaks”), the sentence
 would lose its original meaning.
 
-You would question me: “but I could use there relative pronouns a lot
-that you say be rarely used, because I make a lot of sentences where
+You would question me: “but I could use a lot these relative pronouns that you say be rarely used, because I make a lot of sentences where
 they fit”.
 
 But the detail is that you could use the pronouns qui/qua/quod in the
@@ -4810,8 +4806,8 @@ The “si” doesn’t confirm the thought of who asks, in other words.
 AVOIDING REPETITIONS
 ====================
 
-In a conversation, may occur we need to use a noun already used just
-before, to avoid the repetition of words sambahsa offers basically the
+In a conversation, may occur the necessity of refering to a substantive already used just
+before, to avoid the repetition of words, sambahsa offers basically the
 same resources as english. Look the examples:
 
 If you like tea, I can give you *some*
@@ -4903,7 +4899,7 @@ to the word and of its accentuational patterns)*.
 PASSIVE PRESENT
 ---------------
 
-Of the passive participles, sambahsa uses only the past, but it’s
+From the passive participles, sambahsa uses only the past, but it’s
 possible to use the passive present in composed words. The suffix is
 -men with the stem of the verb in the present.
 
@@ -4926,7 +4922,7 @@ why.
 
 ### OTHER WAY OF EXPRESSING THE PAST TENSE, THE PRESENT PERFECT
 
-It’s the same as in English but the Sambahsa tense can refer to actions that don't 
+It’s the same as in english but sambahsa tenses can refer to actions that don't 
 last anymore, even if they still have consequences.
 
 **Ho edden –** I’ve eaten
@@ -4970,18 +4966,17 @@ a thin snow-layer
 CONJUNCTIONS AND OTHER INVARIABLE WORDS
 =======================================
 
-As in this chapter as in the next chapter, the one about the
-prepositions, I’ll work in the following way: I’ll show some direct
-translations of the words, nut in the examples I may represent these
+Both in this chapter an in the next one, the chapter about the prepositions, I’ll work in the following way: I’ll show some direct
+translations of the words, but in the examples I may represent these
 invariable words from sambahsa by words or expressions of the english
 language that I didn’t show in the direct translation. How? I’ll talk
-about the invariable word “yeji”, which is translated as “according to”,
-but in the examples I did not use this translation! I did it
+about the invariable word “schowi”, which is translated as “therefore, consequently”,
+but in the examples I did not exactly use this translation! I did it
 deliberately with the goal of showing you that you have to learn the
 idea behind the words, not merely their direct translations!
 
 Don’t be afraid with the size of this chapter, I only aimed to put all
-the invariable words here, in what way to this grammar be a good
+the invariable words here, in order to this grammar be a good
 reference material.
 
 **Aiw(o) {Äw(o)} –** ever
@@ -6736,10 +6731,10 @@ STYLE
 
 Different of the national languages, which have native speakers inserted
 in a determined social context, sambahsa is to be spoken between people
-of different backgrounds. An mongolian will find difficulties in
+of different backgrounds. A mongolian will find difficulties in
 understanding a person who speaks in the german way.
 
-You must beaware to don't translate a sentence like “It's necessary to repair the house” to “id est necessar repare id dom”, the correct translation is “est necessar repare id dom”. Work on to avoid transporting characteristics from english to sambahsa. 
+You must beaware to don't translate a sentence like “It's necessary to repair the house” to “id est necessar repare id dom”, the correct translation is “est necessar repare id dom”. Work on to avoid transporting characteristics from english to sambahsa. Another example: translate “it's good to see you” to “est khauris ghate vos” instead of “est khauris vide vos”.
 
 Do you know what is idiotism? It's is a linguistic term used to describe
 terms that are only used in a determined language, if they were directly
@@ -6776,11 +6771,11 @@ greek and latin.
 Other sources are borrowed words of, at least, two linguistic branchs,
 from West Europe until East Asia.
 
-There is no reason to worry about new words, sambahsa already have a
+There is no reason to worry about new words, sambahsa already has a
 great lexicon and new words will come from the absortion of neologisms.
 If it's not possible a translation from the existent lexicon in
 sambahsa, can be used the word in its original form, the terms from the
-computer science area are a good example of this. Words that imply a
+computer science area are a good example of it. Words that imply a
 specific cultural item, like a martial arts of a people or a typical
 dish, will be used the own word. It's similar what would happen in
 english, for example, the word 武術 *(wushu)* was translated in the
@@ -6790,7 +6785,7 @@ other different sounds.
 
 As you can see, naturally that the new words have to be adapted to the
 orthography of sambahsa, which due its flexibility tries at best
-maintain the words in their form and original pronounce.
+maintain the words in their original form and original pronounce.
 
 COMMON MISTAKES AND DOUBTS
 ==========================
@@ -6920,11 +6915,10 @@ This last chapter has as goal expand a bit more your vocabulary, it's
 obvious that I'll not teach all words, because this book would have to
 be also a dictionay for this task be possible, but I want that you
 finish this book with a reasonable vocabulary, in order to you can
-initiate the reading of the texts with a bit of comfort.
+initiate the reading of texts with a bit of comfort.
 
 There are several subchapters that treats several areas, like human body
-and computers, but it will be just basic concepts, there is no a
-pretence here in to list the names in sambahsa of all muscles and bones
+and computers, but it will be just basic concepts, there is no pretension here in to list the names in sambahsa of all muscles and bones
 of the human body, similarly that all names of Information Technology;
 you'll have to search the words in a dictionary or, in the case of very
 specific terms, in dictionaries about a specific area like dicionaries
@@ -6939,7 +6933,7 @@ an insect of the order Diptera instead of that action that airplanes do.
 Resumming: through the subchapter where the word is found you can deduce
 in what context this word can be used.
 
-Actually for you expand your vocabulary – and consolidate your
+In order to you expand your vocabulary – and consolidate your
 knowledges of grammar – it's essential that you read, listen and
 practise the language.
 
