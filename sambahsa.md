@@ -186,23 +186,13 @@ minimal of infrastructure the english language is taught; unlike
 english, no auxiliary language had the support of a State and companies
 to propagate it on the world. We know that currently a work will be much better exposed if it is made available in english.
 
-For example, the original version of this grammar, which is in brazilian
-portuguese, only will be useful for lusophones (brazilians, portugueses,
-mozambicans, etc) and **maybe** to a very few of curious people who had
-decided to learn portuguese; but this version in english is useful to
-russophones, hispanophones, francophones, nipophones, sinophones,
-germanophones, italophones and many others who have a good knowledge of
-english, because probably they live in a country where the english is
-taught in the schools. But I hope that these people translate this grammar to their respective languages.
-
-Some may think that I am contradicting everything that was previously said 
-and I am praising the english language, but it’s not the
-case, I am only being honest, I only recognize the advances of the
-current model as well as I pointed some of its deficiencies. It’s important to learn english
+It’s important to learn english
 just as it's important to learn spanish, russian, esperanto, mandarin, portuguese, etc, because although we defend the using of an auxiliary language as lingua
 franca would be much more efficient, the actual international
 language is the polyglotism, if you want to be something near to a true
-“citizen of the world”, be a polyglot! But an auxiliary language surely would help us immensely. 
+“citizen of the world”, be a polyglot!
+
+But an auxiliary language surely would help us immensely. A neutral language that can be learned in matter of months would greatly reduce language barriers.
 
 BUT WHY LEARN SAMBAHSA?
 -----------------------
