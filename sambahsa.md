@@ -44,19 +44,14 @@ https://www.reddit.com/r/vexillology/comments/3jlf0k/flag\_of\_indoeuropean\_spe
 **This is a beta version of the grammar. It already can be used, but
 know that there are things to be improved and even corrected.**
 
-THIS GRAMMAR IS UNDER TRANSLATION FROM BRAZILIAN PORTUGUESE TO ENGLISH,
-THE TRANSLATION ABSOLUTELY IS NOT PERFECT YET! WAITING FOR AVAILABLE
-PEOPLE TO MAKE A REVISION.
+THIS GRAMMAR WAS TRANSLATED FROM BRAZILIAN PORTUGUESE TO ENGLISH! WAITING FOR AVAILABLE NATIVE SPEAKERS TO MAKE A REVISION.
 
 For the people who will revise my translation, I thank you very much, my
 english definitively is not good, but I hope that I didn't leave much
 work for you. If you find something very strange, please warn me, maybe
 it is strange in the original work too :P !!!
 
-**Pay attention here (!!!): this grammar still is in its beta version,
-so please DON'T start the revision for now, I still will make a LOT of
-changes and additions, wait until I release the final version of the
-grammar, then you may start the revision.**
+**Pay attention here (!!!): this grammar still is in its beta version, so I still will make some changes and additions, just keep it in mind. But you can start the revision if you want.**
 
 ACKNOWLEDGEMENTS
 
@@ -186,53 +181,45 @@ lose its hegemony. And personally I think that english is a very
 beautiful language.
 
 Despite all the critics made, english still is the most widespread
-language in the globe, in practically all schools of the world with a
+language in the globe; in practically all schools of the world with a
 minimal of infrastructure the english language is taught; unlike
 english, no auxiliary language had the support of a State and companies
-to propagate it on the world. When I started this grammar I only knew
-portuguese, my mother tongue, and I had some reasonable knowledge of english and
-esperanto; when I meet sambahsa there were only a grammar in french, the
-mother tongue of the creator of sambahsa, and in english. Thanks to the
-english I could start my studies of sambahsa and then make this grammar.
-I work in favor to auxiliary languages like sambahsa and esperanto
-because I judge languages like them as much more efficient than national
-languages, but we know that, currently, a work will be much better exposed
-if it is made in english.
+to propagate it on the world. We know that currently a work will be much better exposed if it is made available in english.
 
 For example, the original version of this grammar, which is in brazilian
 portuguese, only will be useful for lusophones (brazilians, portugueses,
 mozambicans, etc) and **maybe** to a very few of curious people who had
 decided to learn portuguese; but this version in english is useful to
 russophones, hispanophones, francophones, nipophones, sinophones,
-germanophones, italophones and many others who has a good knowledge of
+germanophones, italophones and many others who have a good knowledge of
 english, because probably they live in a country where the english is
 taught in the schools. But I hope that these people translate this grammar to their respective languages.
 
-Some may think that I am contradicting everything what was said in the previous
-sub-chapters and I am praising the english language, but it’s not the
-case, I am only being realistic, I only recognize the advances of the
-current model as well as I pointed some of its deficiencies, I still
-defend the use of auxiliary languages. It’s important to learn english
-just as it's important to learn spanish, russian, esperanto, mandarin,
-etc, because although we defend that use an auxiliary language as lingua
+Some may think that I am contradicting everything that was previously said 
+and I am praising the english language, but it’s not the
+case, I am only being honest, I only recognize the advances of the
+current model as well as I pointed some of its deficiencies. It’s important to learn english
+just as it's important to learn spanish, russian, esperanto, mandarin, portuguese, etc, because although we defend the using of an auxiliary language as lingua
 franca would be much more efficient, the actual international
 language is the polyglotism, if you want to be something near to a true
-“citizen of the world”, be a polyglot! But an auxiliary language would help immensely.
+“citizen of the world”, be a polyglot! But an auxiliary language surely would help us immensely. 
 
 BUT WHY LEARN SAMBAHSA?
 -----------------------
 
 Before I meet sambahsa I've already known other auxiliary languages *(not only esperanto)*, but
-I was not fully satisfied with them, not because they are inefficient, but they have certain aspects, due their simplicity, that
+I was not fully satisfied with them, not because they are inefficient, but they have certain aspects, due their enormous simplicity, that
 displeased me.
 
 Sambahsa has success in having the regularity – and facility – of an
 auxiliary language and the naturality and native beauty of a national
-language. Sambahsa is as good as portuguese or english for making poetry
+language. Sambahsa is as good as english or portuguese for making poetry or music
 and the imported proper nouns from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
 standards of the language, the “problems” of importing these proper
 nouns will be the same that occurs in any national language, like english.
+
+Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
 
 For not having more than 100 years as other auxiliary languages, sambahsa doesn't
 have a community with thousand of speakers yet, but this scenario can
@@ -3375,7 +3362,7 @@ lyÖbt nos}
 
 **They love me –** ies lieubhent me {yes lyÖbënt me}
 
-As the pronouns often are easily identified (whether they are nominative,
+Since the pronouns are often easy to identify (whether they are nominative,
 accusative, etc) you are free to change the order of them in the
 sentence, but maintain the good sense for avoiding misunderstandings.
 You may say too:
