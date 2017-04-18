@@ -340,7 +340,7 @@ significant, but have their mark in sambahsa:
 **Malay –** kye *(also from slav; from malay-indonesian comes “ke” and
 from russian with some slavic languages comes “k(o)”) *
 
-**Escandinan –** leik, lyt, tiel
+**Scandinavian –** leik, lyt, tiel
 
 **Sanskrit –** bahsa, nagor
 
