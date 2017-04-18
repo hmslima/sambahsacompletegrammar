@@ -187,7 +187,7 @@ english, no auxiliary language had the support of a State and companies
 to propagate it on the world. We know that currently a work will be much better exposed if it is made available in english.
 
 It’s important to learn english
-just as it's important to learn spanish, russian, esperanto, mandarin, portuguese, etc, because although we defend the using of an auxiliary language as lingua
+just as it's important to learn spanish, russian, esperanto, mandarin, portuguese, etc, because although we defend that the using of an auxiliary language as lingua
 franca would be much more efficient, the actual international
 language is the polyglotism, if you want to be something near to a true
 “citizen of the world”, be a polyglot!
