@@ -71,15 +71,15 @@ Dr. Olivier Simon, it was launched in the internet on July of 2007, its
 base is the proto-indo-european language, language spoken about 5000
 years ago, whose daughter languages widespread from Southern Russia up
 to the British Isles and to India. Sambahsa counts with many
-contributions from another languages, especially arabic, but also
+contributions from other languages, especially arabic, but also
 chinese, indonesian and many others.
 
 For being an auxiliary language, sambahsa is much more easier than any
 national language like german or spanish, but sambahsa is a bit more
-difficult if compared to other auxiliary languages because it is a bit complicated at the beginning, but after that, the learning process
+challenger if compared to other auxiliary languages because it is a bit complicated at the beginning, but after that, the learning process
 is incredibly simple.
 
-With what the language looks alike? The interesting of sambahsa is that
+With what the language looks alike? The interesting of sambahsa is that it is so natural that
 you don't see it as a constructed language, but as a national language
 like any other. As Dave MacLeod has said in his preface for the book
 *The Grammar Of Sambahsa-Mundialect In English*, “I always imagined
@@ -90,7 +90,7 @@ by its Persian, Turkish and Arab neighbors, as well as various countries
 from the east. At times it feels a bit like Bulgarian, at other times
 like Persian, and sometimes similar to German as well”.
 
-It's not official, but may be said that sambahsa has a flag for
+It's not official, it but may be said that sambahsa has a flag for
 representing it. Actually the flag just after this paragraph was made to represent all
 speakers of indo-european languages, but the sambahsa movement kinda has
 adopted the flag for itself.
@@ -101,7 +101,7 @@ height="5.554cm"}
 
 The brown color represents the ground, since many indo-european
 languages derive their words for “person” from words related to clay,
-like the word “earthling”. The white color was chosen because of it
+like the word “earthling”. The white color was chosen because it
 contrasts the better. The reason the symbol is the wheel is because it
 is an important inovation made by humans, and, anyway, it's an important
 symbol for almost all indo-europeans anyhow.
@@ -131,7 +131,7 @@ WHY LEARN AN AUXILIARY LANGUAGE?
 
 You as me: “but we already have english as an international language,
 why learn an artificial language?”. Before answer this question, I must
-remember that I am speaking about a language for a world context, if
+remember that we are speaking here about a language for a world context, if
 I'll work in China or, at least, stay in touch with chineses, I will
 have to learn mandarin or cantonese, it's obvious. What I am talking
 about here is: if I enter in a room where there are a paquistanese, a
@@ -153,7 +153,7 @@ between different people, the scenario is different.
 I like to say that two persons communicate with each other through the
 []{#anchor-1}language of a determined country it is like calculate using
 roman numerals. It's perfectly possible calculate with roman numerals,
-peoples did that for centuries (!!), but it's much more efficient to
+peoples did that for centuries, but it's much more efficient to
 calculate with indo-arabic numerals, that in our case would be a
 language that you learn in months instead one you learn in years and is
 fully of traps. I said “language of a determined country” because
@@ -176,7 +176,7 @@ My answer for this question is a loud “**NO**”! English is considered as
 official language in countries of all the continents, not to mention
 that the United States and England are great exporters of culture, it’s
 because of it and other factors that many people support the idea that
-english still will be used as lingua franca even when the United States
+english still will be used as lingua franca even if the United States
 lose its hegemony. And personally I think that english is a very
 beautiful language.
 
@@ -207,7 +207,7 @@ language. Sambahsa is as good as english or portuguese for making poetry or musi
 and the imported proper nouns from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
 standards of the language, the “problems” of importing these proper
-nouns will be the same that occurs in any national language, like english.
+nouns will be the same that occurs in any national language like English or Portuguese.
 
 Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
 
@@ -225,10 +225,6 @@ if it is compared to other auxiliary languages, but it's like Robert
 Winter said in his “Sambahsa: Guide to Pronouns and Articles”,
 *“sambahsa is right on the limit of the degree of difficulty that is
 practical for an international auxiliary language”*.
-
-The differential of sambahsa is that, even being an auxiliary language,
-it behaves well as a natural language *(I don't like this term, but it
-was the description that I thought to explain it)*.
 
 Sambahsa do is easy, you only have to know what are you priorities
 of study, *you have to know how to study*! Doesn't make sense decorate
@@ -441,9 +437,9 @@ orthography is a bit complex, but still regular.
 
 For represent the sounds there is the *Sambahsa Phonetic Transcription*
 (SPT), an alphabet whose words are always between curly brackets { } in
-all of this grammar, the letters in UPPERCASE inside the brackets
+all this grammar, the letters in UPPERCASE inside the brackets
 represent the accentuated syllables and a colon (:) informs that the
-vowel before that is lengthened. Be aware that the explanations about
+vowel before this is lengthened. Be aware that the explanations about
 pronunciation are based in the General American English.
 
 Initially the SPT was made between square brackets \[ \], but I've
@@ -457,7 +453,7 @@ this alphabet always will lie inside slashes / / or square brackets \[
 you have access to the sounds of the IPA, you have a secure source of
 how the sambahsa sounds are pronounced. **But throughout the grammar,
 outside the “alphabet and pronunciation” chapter, I'll only practically
-use SPT!**
+use SPT! Actually you don't need to learn IPA, but it would be a very useful resource for you.**
 
 The difference between slashes and square brackets in IPA is that the
 slashes indicate a more simple transcription while square brackets
@@ -471,17 +467,15 @@ known while SPT only applies to sambahsa? There are two reasons:
 -   Sambahsa was made for people of all the world, one letter of SPT can
     encompass several similar sounds of IPA, thus there wont unnecessary
     effort to people of diverse backgrounds pronounce sambahsa words.
-    For example: {r} refers, preferably, the sounds /ʀ/ and /r/, but it
-    also can refers to the sound /ɾ/, which occurs in the american
-    english.
+    For example: {r} represents, preferably, the sounds /ʀ/ and /r/, but it also can represent the sound /ɾ/; {o} represents the sounds /o/ and /ɔ/..
 
 Before we go on, some observations:
 
 -   Probably many sounds here will be new for you. Don't worry, all the
     sounds not found in the english language will be explained with all
     details as possible.
--   This grammar is useful for all who knows english, but the phonetic
-    descriptions were based on the english of the United States of America.
+-   Keep in mind that the phonetic
+    descriptions were based on the english of the United States of America, more precisely the General American.
 -   The United States of America is a continental country and has some
     linguistic variation. So, if you find that the phonetic description
     of a word is unfamiliar, maybe I am referring to the way of speaking
@@ -528,7 +522,7 @@ or “**a**rm”, whose “a” is /ɑː/. It's like the “a” in the french w
 
 **{e} –** /e/ – something like the first part of “a” in “l**a**ke”, “ai”
 in “p**ai**d” or “ei” in “r**ei**n”, whose sound actually is /eɪ/, but
-without the second part /…ɪ/. It's like the “é” in the french word
+without the semivowel /…ɪ/. It's like the “é” in the french word
 “beaut**é**” or the “ee” in the standard german “S**ee**le”.
 
 **{ë} –** /ə/ – like “a” in “**a**gain” or “u” in
@@ -556,7 +550,7 @@ without the second part /…ɪ/. It's like the “é” in the french word
 
 **{o} –** /o/ or /ɔ/ – the /o/ sound is something like the fist part of
 “o” in “g**o**at”, whose sound actually is /o[]{#anchor-8}ʊ/, but
-without the second part /…ʊ/. It's like the “eau” in the french word
+without the semivowel /…ʊ/. It's like the “eau” in the french word
 “rés**eau**” or the “o” in the standard german word “**o**der”. The /ɔ/
 sound is found in “o” of “n**o**rth”.
 
@@ -1189,7 +1183,7 @@ Sellamat! It's with this word, “sellamat” {selamAt}, that we say
 “hello”, you also may say “salut” {salUt}, which have the same function.
 
 In this chapter I'll show you some sentences, maybe you'll deduce the
-elements of each one by youself, but, anyway, in the posterior chapters
+elements of each one by youself, but, anyway, in posterior chapters,
 I'll unravel each sentence's element, so don't worry if you don't
 understand something in this chapter.
 
@@ -1303,7 +1297,7 @@ pronoun, and you use “tu” with close friends, family and kids.
 
 Notice that, even in the singular, the pronoun “yu” make use of the verb
 “ste”, because sambahsa works as in french or russian, the courtesy
-pronoun, “yu”, is in the plural, even when in the singular. An example
+pronoun, “yu”, stays in the plural, even when referring to only one person. An example
 from french: “Vous êtes un ami/des amis”; an example from russian:
 “[]{#anchor-84}Вы остаётесь моим(и) другом/друзями” (you remain my
 friend(s)).
@@ -1413,13 +1407,15 @@ you wanted to say)
 **Ne ho pretet hol / Ne ho preten hol {ne ho prEtët hol / ne ho prEtën
 hol} –** I haven’t understood everything (what you wanted to say)
 
+**Aun sibia {Aon sIbja} –** changing the subject; on a different note
+
 Good, at least you can start and finish a conversartion, continue
 studying and you'll be able to maintain a conversation.
 
 THE DECLINATION CASES
 =====================
 
-Sambahsa has a interesting caracteristic, it has a system of declination
+Sambahsa has an interesting caracteristic, it has a system of declination
 cases which are: *nominative*, *accusative*, *dative* and *genitive*.
 These cases refers to the pronouns and articles. But what they are and
 how they are used?
@@ -1977,7 +1973,7 @@ as in the words “vasyo” (everything) and “alyo” (another):
 
 For euphonics effects or literary proposals, like poetry, you can use
 these declinations in other words, for example the indefinite article
-“un”, but often only apply these declinations to the words “vasyo” and
+“un”, but these declinations often only are applied to the words “vasyo” and
 “alyo”. Remember however that those "euphonic" declensions can be used
 only if they are compatible with the accentuation of the word
 
@@ -1992,7 +1988,7 @@ possession.
 **Henrique's book –** Henriques buk
 
 **Matheus' house –** Matheus*io*s dom *(notice that I've used the
-complete termination because of “Matheus” already finishes with “s”)*
+complete termination because “Matheus” already finishes with “s”)*
 
 **Woman's son –** gwens son\
 **America's beauty –** Americas beauteit
@@ -2632,15 +2628,15 @@ gwAur}
 
 **Another book –** alyo buk {Alyo buk}
 
-DO YOU IS A BIT CONFUSE WITH SO MANY “MUCHS” AND “FEWS”?
+ARE YOU A BIT CONFUSE WITH SO MANY “MUCHS” AND “FEWS”?
 --------------------------------------------------------
 
 You must observe what is adjective, what is adverb and what is both,
-this is very important! Let's see the implications of that:
+it is very important! Let's see the implications of that:
 
 “Baygh” may not be used before an adjective followed by a substantive, a
 sentence like “baygh smulk magvi” would mean what? “many small children”
-or “very small children”? Remember that “baygh” can serve as adjective
+or “very small children”? Remember that “baygh” can be used as adjective
 as adverb, so there is the doubt of what word it qualifies. In such
 cases the ideal is to use a more specific word, one that is only an
 adjective or only an adverb. *“Baygh” exists to avoid the repetition of
@@ -3013,22 +3009,26 @@ pronouns or other words, like “anghen” *(person)*, “ject” *(thing)* and
 
 **Sem- {sem} – **some
 
-**-quid {kid} –** any *(complete uncertainly, it’s pejorative)*
+**-quid {kid} –** any *(complete uncertainly, often it’s pejorative)*
 
 > **Is lehct quodquid –** he’s telling anything at all
 
-**-gvonc {gvonk} –** it is between “some” and “any”
+**-gvonc {gvonk} –** it is between “some” and “any”. *It's freely inspired by the -cumque from Latin, it's also like the -unque from Italian (like in “chiunque” and “dovunque”), the -conque from French (like in “quiconque”), the -gen from German (like in “wegen”).*
 
 > **Ne has clus id dwer. Quelgvonc ghehdiet entre id dom –** you haven't
-> closed the door. Any-/Someone could enter the house
+> closed the door. Anyone/Someone could enter the house
+
+> **Ne has tu dar mathen od mien intelligence est dar staurer quem quodgvonc eins? –** haven't you learnt yet that my intelligence is still mightier than any sword?
 
 **-kwe {kwë} –** when suffixed to interrogative pronouns corresponds to
-the english -ever
+the english -ever *(but with an idea of totality in a sentence)*
 
 > **Ir gwelsa brungend quodkwe spalt iom armurs –** their shafts taking
 > advantage of any split of the armours
 
-**-libt {libd} –** any *(in the sense of “whichever you want”)*
+> **Querkwe gwahm, io incontre prients –** whereever I go, I encounter friends
+
+**-libt {libd} –** any *(in the sense of “whichever you want” or “at one's pleasure”)*
 
 > **Cheus quodlibt fustan {tcös kwOdlibt fustAn} – **Choose any skirt
 > *(the one you prefer)*
@@ -3217,7 +3217,7 @@ THE VERBS
 
 Ah, the verbs…
 
-With the exception of three main verbs, “ses” {ses}, “habe” {hab} and “woide”
+With the exception of three main verbs, “es” {ses}, “hab” {hab} and “woid”
 {woyd}, all the other verbs are regular, you only need pay attention to
 some cases, predicted by the ortographic rules.
 
@@ -3393,6 +3393,8 @@ Look how it works:
 **Linekw →** linkw
 
 **Pregen →** pregn
+
+You may question: but why Sambahsa has this characteristic? Sambahsa behaves like a natural language, if you analize it well, it's more pleasant to speak with the things in this way, people naturally would want to drop this unstressed “e”. Without this rule, the language could be a bit easer, but it wouldn't be much comfortable to speak.
 
 PAST TENSE
 ----------
@@ -4541,7 +4543,7 @@ meals are harmful for health
 GERUND
 ======
 
-In order to make the gerund it’s used the active participle plus the
+In order to make the gerund, it’s used the active participle plus the
 suffix -ye (with hyphen!). It’s very simple, but english speakers must
 pay a bit of attention here, because you already saw that the sentence
 “I am eating” is translated as “som eddend”, but no “som eddend-ye”!
@@ -5214,6 +5216,10 @@ It's synonyms of “bfuyi”
 ***Gwahsim id mercat, dind gwahsim kyrk –** I went to market, then I went
 to church*
 
+**Dexios {dEksjos} –** briskly
+
+**Id Caroline snohg dexios inter ia enflammen vracks ed intercepit oino iom feugend vecels –** the Caroline (a warship) sneaked skillfully between the flamed wrecks and intercepted one of the fleeing vessels
+
 **Diu {dyu} – **for a long time, long (temporal adverb)
 
 **Unte baygh diu, ho esen her –** during a long time, I've been here.
@@ -5279,6 +5285,10 @@ God or not
 
 **Fujatan eem trigimat –** Suddenly I turned thirty.
 
+**Gairn {gärn} –** of goodwill
+
+**Is commander reservit id access ibs “inner kyals” (kam is gairn kiel ia) sibswo –** the commander reserved the access to the “inner rooms” (as he liked to call them) to himself
+
 **Gontro {gOntro} (gon + tro) –** aside *(adverb of movement)*
 
 **Reusch gontro! –** rush to the side
@@ -5304,6 +5314,10 @@ price.
 
 **Id probleme tom prabhils est od pauk ghi anghens brunge ia –** The problem
 with these rules is that (indeed) few people benefit from them.
+
+**Gwaru {gwAru} –** seriously, heavily *(when referring to a wound)*
+
+**Id ecosysteme os Amazonia buit gwaru taraght ab illegal reuydens –** the ecosystem of Amazonia was heavily upset by illegal exploitations
 
 **Hatta {hAta} –** even (adv.)
 
@@ -5344,18 +5358,22 @@ justice ed pace tienxia –** Whereas recognition of the inherent dignity
 and of the equal and inalienable rights of all members of the human
 family is the foundation of freedom, justice and peace in the world.
 
-**Intant {intAnt} –** in the meantime
-
-**Bet intant, kwehr quodlibt –** But in the meantime, do what you want.
-
 **Inkaptos {inkAptos} –** from the beginning/start
 
 **Sayg mi quanto wakyit inkaptos –** Tell me everything that happened from
 the beginning.
 
+**Intant {intAnt} –** in the meantime
+
+**Bet intant, kwehr quodlibt –** But in the meantime, do what you want.
+
 **Iter {Itër} –** once again, once more, anew
 
 **Som con mien família iter –** I'm once again with my family.
+
+**In unisson {in unisOn} –** in unison
+
+**I brasileirs obswihr is corrumepen president in unisson –** all together/like a single man, the Brazilians booed at the corrupted president
 
 **Ja {ja} –** already
 
@@ -5526,6 +5544,10 @@ at the least seven weeks in order to plan adequately.
 
 **Naturelika kamo uces bahsas –** Naturally I enjoy learning
 languages.
+
+**Nepunei {nepÜney} –** with impunity
+
+**“Niem permitte od quoy serve iom Demon-Roy safernt nepunei unte mien land, Castelian”, grohm Beruh –** “I won't allow that those who serve the Demon-King travel unpunished through my country, Castelian”, did Beruh roar
 
 **Neti {nEti} –** not … anymore, nevermore, never again, no more
 
@@ -6998,11 +7020,15 @@ for)
 
 **Deik {deyk} –** to show, to indicate
 
-**Desire {dezIr} –** desejar, cobiçar
+**Desire {dezIr} –** to desire
 
 **Destrug {dëstrUg} –** to destroy
 
 **Deulg {dölg} –** to owe
+
+**Disradh {disrAd} –** to advise Y against X
+
+> ***Disradho te ad ne namor ciom yuwen –*** *I advise you to don't date that youth*
 
 **Drehnk {dre:nk} –** to drink* (alcohol)*
 
@@ -7037,7 +7063,7 @@ decision”)*
 
 **Fortrehc {fortrE:k} –** to depart, to go off *(for a travel)*
 
-**Gahab {gahAb} –** spare *(an enemy)*
+**Gahab {gahAb} –** to spare *(an enemy)*
 
 **Gehn {dje:n} (+ acc) –** to father, to create *(for literary purposes
 you can say “bringhes do luce”)*
@@ -7859,7 +7885,7 @@ tower, system unit, cabinet, base unit
 
 **Desktop {dësktOp} –** desktop
 
-**Diaporama {dyaporAma} –** apresentação de slides
+**Diaporama {dyaporAma} –** diaporama, slide show, slide presentation
 
 **Digital {didjitAl} –** digital
 
@@ -7867,7 +7893,7 @@ tower, system unit, cabinet, base unit
 
 **Disayner {dizAynër} –** designer
 
-**Diskette {diskEt} –** disquete
+**Diskette {diskEt} –** diskette, floppy disk, floppy disc
 
 **Diskwehr {diskwE:r} –** to undo
 
