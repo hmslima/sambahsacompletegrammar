@@ -647,8 +647,7 @@ in other words, speak {i} with a puckered lips.
 
 **{v} **– /v/ – like “v” in “**v**ein”.
 
-**{w} –** /w/ – like “w” in “**w**ater”, but it's *not* like “w” in
-“sho**w**”, which is [ʊ̯]. It's a semivowel.
+**{w} –** /w/ – like “w” in “**w**ater”, you also may pronounce it as the “w” in “sho**w**”, whose sound is [ʊ̯]. It's a semivowel.
 
 **{y} –** /j/ – like “y” in “**y**ou” or the first part of “u” in
 “t**u**be” /t**j**u:b/. It's a semivowel.
