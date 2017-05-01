@@ -77,7 +77,7 @@ chinese, indonesian and many others.
 For being an auxiliary language, sambahsa is much more easier than any
 national language like german or spanish, but sambahsa is a bit more
 challenger if compared to other auxiliary languages because it is a bit complicated at the beginning, but after that, the learning process
-is incredibly simple.
+is incredibly simple and the advantages of its complexity will make all the effort worth it.
 
 With what the language looks alike? The interesting of sambahsa is that it is so natural that
 you don't see it as a constructed language, but as a national language
@@ -176,7 +176,7 @@ My answer for this question is a loud “**NO**”! English is considered as
 official language in countries of all the continents, not to mention
 that the United States and England are great exporters of culture, it’s
 because of it and other factors that many people support the idea that
-english still will be used as lingua franca even if the United States
+english still will be used as lingua franca for a good amount of time even if the United States
 lose its hegemony. And personally I think that english is a very
 beautiful language.
 
@@ -220,13 +220,13 @@ language
 IS SAMBAHSA DIFFICULT?
 ----------------------
 
-It's undeniable that in the **beginning** sambahsa is more challenging
+It's undeniable that in the **beginning** – and only at the beginning – Sambahsa is a bit more challenging
 if it is compared to other auxiliary languages, but it's like Robert
 Winter said in his “Sambahsa: Guide to Pronouns and Articles”,
 *“sambahsa is right on the limit of the degree of difficulty that is
 practical for an international auxiliary language”*.
 
-Sambahsa do is easy, you only have to know what are you priorities
+Sambahsa undoubtedly is easy, you only have to know what are you priorities
 of study, *you have to know how to study*! Doesn't make sense decorate
 all declinative cases from dative if you use them a very few times (and
 maybe only a few of them, even if you only use sambahsa in all days of your
@@ -239,6 +239,18 @@ having two or three invariable words for each one of the same type in
 our language. Really sambahsa doesn't economize in its invariable words,
 a prolix language like sambahsa pays the price of demanding a bit more
 of study, but, by contrast, it allows the best expression of the thought.
+
+People complains that Sambahsa has difficult sounds to learn, but all languages have different sounds to be learned, even other auxiliary language that tries to be the simplest. Soon after some of the the languages most studied by americans and their sounds that don't exist in the General American English (the sounds in italic are used in sambahsa).
+
+> **Spanish *(European Castilian)* –** [β], *[x]*, [ɲ], [ɣ]
+
+> **German –** *[ç]*, *[ʁ]*, *[x]*, [ʏ], *[y]*, *[ø]*, [œ]
+
+> **French –** [ɲ], *[ʁ]*, [ɥ], [œ], *[ø]*, *[y]*, [ɑ̃], [ɛ̃], [œ̃], [ɔ̃]
+
+Maybe Sambahsa could have simpler sounds (simple for who?) or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you that you can be pronouncing all of them in a week.
+
+Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting a word like “biaur” than “aunbell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
 
 **Everything has a price:** many auxiliary languages try the possible to be the simplest ones adopting, for example, very simple orthographies: one
 letter, one sound; all nouns having only one ending, all adjectives having
@@ -647,7 +659,7 @@ in other words, speak {i} with a puckered lips.
 
 **{v} **– /v/ – like “v” in “**v**ein”.
 
-**{w} –** /w/ – like “w” in “**w**ater”, you also may pronounce it as the “w” in “sho**w**”, whose sound is [ʊ̯]. It's a semivowel.
+**{w} –** /w/ – like “w” in “**w**ater”. If this {w} comes after a vowel and you find difficult to pronouce it, you also may pronounce it as the “w” in “sho**w**”, whose sound actually is [ʊ̯] ({o} in SPT). It's a semivowel.
 
 **{y} –** /j/ – like “y” in “**y**ou” or the first part of “u” in
 “t**u**be” /t**j**u:b/. It's a semivowel.
@@ -2452,7 +2464,7 @@ basically the standard form.
 
 **Div {div}***** (god)***** –** divs {divs} *(gods)*
 
-**Kwaun {kwaun} *****(dog)***** –** kwauns {kwAons} *(gods)*
+**Kwaun {kwAon} *****(dog)***** –** kwauns {kwAons} *(gods)*
 
 **Land {land} *****(country)***** –** lands {landz} *(countries)*
 
@@ -2467,7 +2479,7 @@ Word finished with -um have its final replaced by -a.
 For words finished with -es or -os, , it's replaced these terminations
 respectively for -si e -sa.
 
-**Daumos {dAwmos} *****(marvel)***** –** daumsa {dAwmsa} *(marvels)*
+**Daumos {dAomos} *****(marvel)***** –** daumsa {dAomsa} *(marvels)*
 
 **Elkos {Elkos} *****(ulcer)***** –** elksa (Elksa) *(ulcers)*
 
@@ -2599,7 +2611,7 @@ necessary the article)*
 
 **All both –** amb(o)
 
-**Either… or… –** auter… au… {Awtër…. aw…}
+**Either… or… –** auter… au… {Aotër… Ao…}
 
 **Wheter, if *****(before the choose of two)***** –** kweter {kwEtër}
 
@@ -7332,7 +7344,7 @@ present)*
 **Sisen {sIzën} –** to let to + infinitive verb* (like in “he let me to
 use the emblem of his house”)*
 
-**Smauter {smAwtër} –** to watch
+**Smauter {smAotër} –** to watch
 
 **Snumeb {snÜmëb} –** ro marry (a man)
 
