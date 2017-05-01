@@ -7390,6 +7390,8 @@ something like a roof)*; to tolerate
 **Tehrb {te:rb} –** to have to *(in the sense of “I have to do the
 dinner” or “I have to work”)*
 
+**Tekhnass {teqnAs} –** to manage to, to handle *(the situation)*, to get by
+
 **Tengie {tëndjI:} –** to look like
 
 **Teup {töp} –** to hide (oneself)
