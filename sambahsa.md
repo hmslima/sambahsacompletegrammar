@@ -250,7 +250,7 @@ People complains that Sambahsa has difficult sounds to learn, but all languages 
 
 Maybe Sambahsa could have simpler sounds (simple for who?) or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you that you can be pronouncing all of them in a week.
 
-Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting a word like “biaur” than “aunbell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
+Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
 
 **Everything has a price:** many auxiliary languages try the possible to be the simplest ones adopting, for example, very simple orthographies: one
 letter, one sound; all nouns having only one ending, all adjectives having
@@ -1040,7 +1040,7 @@ it's very similar to the /ɾ/ of “be**tt**er”, but you must hold your tongue
 **“s” {s} *****({z} when between vowels)***** –** “son” {son} *(son)
 and* “decision” {dëtsiziOn} *(decision)*
 
-**“x” {ks} –** /k͡s/ – it may turn {gz}, if it facilitates the
+**“x” {ks} –** /ks/ – it may turn {gz}, if it facilitates the
 pronunciation.
 
 **“z” {dz} –** /d͡z/ – like in “[]{#anchor-42}zangir” {dzAndjir}
