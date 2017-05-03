@@ -95,9 +95,8 @@ representing it. Actually the flag just after this paragraph was made to represe
 speakers of indo-european languages, but the sambahsa movement kinda has
 adopted the flag for itself.
 
-![**Author:
-**YeahBitchMagnetsOh](Pictures/2000000700003E040000295897E5DB05.svm){width="8.334cm"
-height="5.554cm"}
+![Sambahsa flag](/flag.png)
+**Author:** YeahBitchMagnetsOh]
 
 The brown color represents the ground, since many indo-european
 languages derive their words for “person” from words related to clay,
@@ -2071,29 +2070,29 @@ understand now?
 OTHER PREPOSITIONS OF POSSESSION
 --------------------------------
 
-**Mien {myen} –** my
+**Mien {myen} –** my, mine
 
-**Tien {tyen} –** your *(singular)*
+**Tien {tyen} –** your, yours *(singular)*
 
 **Eys {eys} –** his
 
-**Ays {ays} –** her
+**Ays {ays} –** her, hers
 
 **Ids {Idz} –** its *(neutral)*
 
-**Els {elz} –** his / her *(undeterminate)*
+**Els {elz} –** his / her *(also “hers”)* *(undeterminate)*
 
-**Nies {nyes} –** our
+**Nies {nyes} –** our, ours
 
-**Noster {nOstër} –** our
+**Noster {nOstër} –** our, ours
 
-**Vies {vyes} –** your []{#anchor-143}*(plural)*
+**Vies {vyes} –** your, yours []{#anchor-143}*(plural)*
 
-**Voster {vOstër} –** your *(plural)*
+**Voster {vOstër} –** your, yours *(plural)*
 
-**Ir {ir} –** their *(masculine, feminine, neutral and undeterminate)*
+**Ir {ir} –** their, theirs *(masculine, feminine, neutral and undeterminate)*
 
-**Sien {syen} –** his, her, its, their. *Used when it refers to the subject of the sentence.*
+**Sien {syen} –** his, her, its, their, hers, theirs. *Used when it refers to the subject of the sentence.*
 
 **Uns {uns} –** of a(n)
 
@@ -2541,7 +2540,7 @@ SOME, FEW, MANY AND OTHERS
 
 **Nothing at all –** []{#anchor-198}khich {qitc}
 
-**No-one, nobody –** []{#anchor-199}neanghen {neAnghën}, nimen {nImën}
+**No-one, nobody –** []{#anchor-199}neanghen {neAngën}, nimen {nImën}
 
 **Some –** sem {sem}
 
@@ -2606,6 +2605,8 @@ SOME, FEW, MANY AND OTHERS
 necessary the article)*
 
 **Another –** alyo {Alyo} *(it's not necessary the article)*
+
+**Others –** alyanghen {alyAngën}
 
 **Both –** bo
 
@@ -6912,6 +6913,33 @@ While “yakin” is an adjective, “weidwos” is an adverb.
 Always pay attention in the dictionary to the gramatical
 classificationof the words.
 
+# ABOUT MINOR GRAMMATICAL ISSUES
+
+## NAMES OF LANGUAGES AND NATIONALITIES
+
+Look the following text: “Did you know that Spanish is spoken by more than five hundred million people? But there are only forty-seven million Spaniards”.
+
+This very same text in Portuguese: “Você sabia que o espanhol é falado por mais de quinhentos milhões de pessoas? Mas só existem quarenta e sete milhões de espanhóis”.
+
+Notice that in English the first letter of the name of the language was written in capital letter and didn't received a definite article, the gentile was also written in capital letter. But in Portuguese both the name of the language and its gentile always has its first letter written in lowercase, and the name of the language receives article.
+
+Which model Sambahsa follows? Both are valid, write in the way you think is better.
+
+## WORDS RELATED TO NUMBERS LESSER THAN TWO
+
+What's correct, “1,5 liter” or “1,5 liters”?  In Sambahsa both are correct.
+
+## VERBAL CONCORDANCE OF THE VERB “ES”
+
+Look the following sentences:
+
+(1) – Id bratriya est i Purts ios Desert
+(2) – Id bratriya sont i Purts ios Desert
+
+Which one would be the correct in this case, “est” or “sont”? To which sentence the verb “es” preferably agrees, “Id bratriya” or “i Purts ios Desert”? In such cases, if there is an element in the plural, the verb to be used will be in the plural, therefore the correct would be (2).
+
+Yeah, I know that the best way to write this sentence would be “id bratriya est composen ab i Purts ios Desert”, but I've forced a more informal sentence in order to show you what to do in situations like that.
+
 VOCABULARY
 ==========
 
@@ -8428,6 +8456,8 @@ ionizing dose)*
 **Kilogramme {kilogrAm} (kg) –** kilogram
 
 **Kweitergwis {kwEytërgwis} –** illuminance
+
+**Liter {lItër} –** liter
 
 **Longe {londj} –** length
 
