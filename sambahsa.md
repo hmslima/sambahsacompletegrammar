@@ -2606,7 +2606,7 @@ necessary the article)*
 
 **Another –** alyo {Alyo} *(it's not necessary the article)*
 
-**Others –** alyanghen {alyAngën}
+**Another person, someone else –** alyanghen {alyAngën}
 
 **Both –** bo
 
