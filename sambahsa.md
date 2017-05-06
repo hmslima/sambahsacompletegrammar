@@ -6944,6 +6944,8 @@ Yeah, I know that the best way to write this sentence would be “id bratriya es
 
 Words have layers of meanings, like the word “fortuitous”, which means “coincidental” or “unplanned”, but some people think that it means “coincidentaly fortunate” or “unplannedly fortunate”, although a fortuitous thing can be unfortunate.
 
+If you see something like “milder”, which means “mitigate”, don't assume that it means “to militate” or “to provide reasons for” because it actually means “to alleviate”.
+
 When you're consulting the dictionary, be careful with this kind of situation in order to the message doesn't be passed or received wrongly. Of course that, in the dictionaries, always there will the effort to make more-explicative dictionaries, but in doubt consult an English dictionary for making sure about the meaning of the word.
 
 VOCABULARY
