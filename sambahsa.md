@@ -6940,6 +6940,12 @@ Which one would be the correct in this case, “est” or “sont”? To which s
 
 Yeah, I know that the best way to write this sentence would be “id bratriya est composen ab i Purts ios Desert”, but I've forced a more informal sentence in order to show you what to do in situations like that.
 
+# WORDS AND THEIR MEANINGS
+
+Words have layers of meanings, like the word “fortuitous”, which means “coincidental” or “unplanned”, but some people think that it means “coincidentaly fortunate” or “unplannedly fortunate”, although a fortuitous thing can be unfortunate.
+
+When you're consulting the dictionary, be careful with this kind of situation in order to the message doesn't be passed or received wrongly. Of course that, in the dictionaries, always there will the effort to make more-explicative dictionaries, but in doubt consult an English dictionary for making sure about the meaning of the word.
+
 VOCABULARY
 ==========
 
@@ -6989,6 +6995,8 @@ sense)*
 
 **Adore {adOr} –** to like, to love; to worship
 
+**Al {al} –** to raise *(in the sense of “I raise hens”)*
+
 **Annem {Anëm} –** to breath
 
 **Antwehrd {antwE:rd}–** to answer
@@ -7020,6 +7028,8 @@ your friend)*; to say, to tell *(“…” **iey is =** “…” said he)*
 **Beud {böd} –** to appeal to *(someone)*, to make* (someone) *pay
 attention* (to = dative)*, to demand* (something)*
 
+**Beuw {böw} –** to make grow, to make become; to cultivate *(a particular culture)*
+
 **Bih {bi:} –** to become
 
 **Brinegh {brInëg} –** to bring
@@ -7038,6 +7048,8 @@ attention* (to = dative)*, to demand* (something)*
 for)
 
 **Credeih {krëdE:y} –** to believe
+
+**Cultive {kultIv} –** to cultive
 
 **Curr {kur} –** to run
 
@@ -7067,7 +7079,7 @@ for)
 
 **Disradh {disrAd} –** to advise Y against X
 
-> ***Disradho te ad ne namor ciom yuwen –*** *I advise you to don't date that youth*
+> ***Tib disradho namore ciom yuwen –** I advise you to don't date that youngster*
 
 **Drehnk {dre:nk} –** to drink* (alcohol)*
 
@@ -7170,7 +7182,9 @@ second movie takes place in China”)*
 
 **Kaup {kAop} –** to buy
 
-**Kaur {kAor} –** to care (for = "de")
+**Kaur {kAor} –** to care *(kaur de = “to care for”)*
+
+**Keul {köl} –** to highlight; to cultivate *(a land)*
 
 **Keung {köng} –** to hesitate, to delay
 
@@ -8363,6 +8377,8 @@ ANIMALS
 **Ornd {ornd} –** eagle
 
 **Ow {ow} –** sheep
+
+**Paymen {pAymën} –** *(animal)* breeder
 
 **Pelpel {pElpël} –** butterfly
 
