@@ -95,7 +95,7 @@ representing it. Actually the flag just after this paragraph was made to represe
 speakers of indo-european languages, but the sambahsa movement kinda has
 adopted the flag for itself.
 
-![Sambahsa flag](/flag.png)
+![Sambahsa flag](/flag.png){width="8.33cm" height="5.55cm"}
 **Author:** YeahBitchMagnetsOh]
 
 The brown color represents the ground, since many indo-european
@@ -247,7 +247,7 @@ People complains that Sambahsa has difficult sounds to learn, but all languages 
 
 > **French –** [ɲ], *[ʁ]*, [ɥ], [œ], *[ø]*, *[y]*, [ɑ̃], [ɛ̃], [œ̃], [ɔ̃]
 
-Maybe Sambahsa could have simpler sounds (simple for who?) or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you that you can be pronouncing all of them in a week.
+Maybe Sambahsa could have simpler sounds (simple for who?) or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you can be pronouncing all of them in a week.
 
 Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
 
@@ -909,6 +909,12 @@ twice to indicate the lengthened of its pronounce? Instead to write
 **The answer is:** No! This would produce a different sound, “baasa”
 would be pronounced as {baAza}
 
+If the letter “h” is after a diphthong, like in “credeih”, which means “to believe”, you lengthen the pronunciation of the main vowel then you release the semivowel.
+
+**eih {e:y} –** to go
+**addeih {adE:y} –** to add
+**wehrgeih {we:rdjE:y} –** to play, to run
+
 “gh”, “bh” e “dh” respectively correspond to {g}, {b} and {d}, the “h”
 in these letters serves to indicate that they will not suffer any kind
 of modification.
@@ -1247,7 +1253,7 @@ The next cases are fairly interesting:
 undetermined pronouns are used when it's not known the genre or it's not
 desired to say the genre. **Pay attention:** from now, all pronouns or
 articles that I *don't* indicate as *neutral* or *undetermined*, will
-have the masculine genre or the feminine genre. Are we understood?
+have the masculine genre or the feminine genre, but I can specify whether the word is related to a male or female being if it's really necessary, when the word itself can't informe to which gender it is related. Are we understood?
 
 To make clear what is *neutral* and what is *undetermined*, look the
 examples:
@@ -1267,6 +1273,10 @@ can argue about dioecious plants)*, so it's *neutral*
 **Daughter –** feminine
 
 **Child –** as the genre is not specified, it's *undetermined*
+
+**Spirit – *like in “the spirit of my father”* –** neutral
+
+**Spirit – *like in “the spirit spoke to me”* –** it can be *masculine*, *feminine* or *undetermined*
 
 **Android –** you decide, it depends of the context and point of view of
 each one, it can be *neutral*, *undetermined* or even have a genre.
@@ -1685,7 +1695,7 @@ Basically is the direct object of a sentence.
 DATIVE CASE
 -----------
 
-It's the indirect object of a sentence. **Attention: **often, everything
+It's the indirect object of a sentence. **Attention: **often everything
 after a preposition is treaten as it is in the accusative case, no
 dative!
 
@@ -2762,7 +2772,7 @@ For numbers like 20, 30, 40, …, 90 you use the suffix -gim
 
 **90 – nevgim {nEvdjim} –** ninety
 
-There the numbers 100, 1000, 1000000 and 1000000000:
+Here are the numbers 100, 1000, 1000000 and 1000000000:
 
 **100 – cent(om) {tsent / tsëntOm} –** one hundred
 
@@ -7087,7 +7097,7 @@ for)
 
 **Edd {ed} –** eat
 
-**Eih {E:y} –** to go
+**Eih {e:y} –** to go
 
 **Eiskw {Eyskw} –** to seek, to intend, to want
 
@@ -8303,7 +8313,7 @@ or state)*
 
 **Webtyohc {wëbtyO:k} –** feed *(substantive)*
 
-**Wehrgeih {we:rdjE:i} –** play, run (transitive)
+**Wehrgeih {we:rdjE:y} –** play, run (transitive)
 
 **Windows portfeuyl {windOws portfÖyl} –** Briefcase *(from Microsoft
 Windows)*
