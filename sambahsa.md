@@ -1274,12 +1274,14 @@ can argue about dioecious plants)*, so it's *neutral*
 
 **Child –** as the genre is not specified, it's *undetermined*
 
-**Spirit – *like in “the spirit of my father”* –** neutral
+**Ectoplasm – *like in “the ectoplasm was exteriorized by the medium”* –** it's *neutral*, because “ectoplasm” here is considered as a substance
 
-**Spirit – *like in “the spirit spoke to me”* –** it can be *masculine*, *feminine* or *undetermined*
+**Ectoplasm – *like in “the ectoplasm spoke to me”* –** it can be *masculine*, *feminine* or *undetermined*
 
 **Android –** you decide, it depends of the context and point of view of
 each one, it can be *neutral*, *undetermined* or even have a genre.
+
+In case of doubt whether the word must be considered as *neutral* or *undetermined*, use the *undetermided* form.
 
 We've known the basic pronouns and their verbs, now let's see more
 pronouns and verbs in the plural, let's use the word “prient” {pryent},
