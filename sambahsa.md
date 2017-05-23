@@ -6413,11 +6413,10 @@ Henrique ne hat ghohden dake ia buks. *Vice to*, Olivier hat ei yist ia
 odt-documents
 
 
-“GE”, “NU”, “TAR”, “TUN”
+THE ENCLITICS
 ========================
 
-They're not easy words to be translated, but this chapter will teach
-you how to use them.
+Some of these words are not easy to be translated, but this chapter will teach you how to use them.
 
 The word “tun” is the demonstrative of “kun” or “quando”.
 
@@ -6444,6 +6443,22 @@ An excellent example with “nu” and “tar”:
 temos! –** if, therefore, the light that is in thee be darkness, how 
 great is that darkness!
 
+The enclitic “pet” reinforces identity, often translated as our “very”.
+
+**Henrique weict in idpet centre ios citad –** Henrique lives in the very center of the city
+    To write “…in idswo centre…” would be strange because it means “… in the center itself …”
+
+**Id brev hieb gwohmt unte idpet dwer ios laboratorium –** the letter had come through the very door of the laboratory
+
+**Est un prientlik geront quospet ghalv buit trohven medsu eys bustan –** it's a friendly old man whose very skull was found in the middle of his garden
+
+When “pet” is used after a verb, it has the sense of capacity or precision.
+
+**Sei yu plais steighte con me do mien fiaker, duco-pet vos ad eys baytel –** if you accept to get in with me into my cab, I *(can)* drive you to his home
+
+**I reuschus leuds eent ipet parents ias magv –** the people who had rushed were *(precisely)* the parents of the child *(after that child had an accident)*
+
+The enclitic affix -schi already was explained and the enclitic affix -smee will be explained soon.
 
 USEFUL AFFIXES
 ==============
