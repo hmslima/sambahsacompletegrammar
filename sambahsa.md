@@ -6452,11 +6452,25 @@ The enclitic “pet” reinforces identity, often translated as our “very”.
 
 **Est un prientlik geront quospet ghalv buit trohven medsu eys bustan –** it's a friendly old man whose very skull was found in the middle of his garden
 
-When “pet” is used after a verb, it has the sense of capacity or precision.
+**I reuschus leuds eent ipet parents ias magv –** the people who had rushed were *(precisely)* the parents of the child *(after that child had an accident)*
+    ipet = i (the pronoun) + pet
+
+When “pet” is used after a verb, it has the sense of “to be in the capacity of”.
 
 **Sei yu plais steighte con me do mien fiaker, duco-pet vos ad eys baytel –** if you accept to get in with me into my cab, I *(can)* drive you to his home
 
-**I reuschus leuds eent ipet parents ias magv –** the people who had rushed were *(precisely)* the parents of the child *(after that child had an accident)*
+With adverbs of time and space the word “kye”, as an enclitic, reinforces the adverb.
+
+**… ed terkye id sinister masse uns bina forstilb ids ghebel uper id strad –** … and just at that point, a certain sinister block of building thrust forward its gable on the street
+
+**Ed mehnte ghi od is nos duxit tei stet querkye staht id dwer?! –** and where do you think he carried us but to that place with the door?!
+
+**“Nunkye”, bahsit alter, antwehrdte mi: “quois gnohte yu me?” –** “And now”, said the other, you answer me: “how did you know me?”
+    *Notice that “antwehrdte” and “gnohte yu” refer to one person, not to a group as it may look at a first moment. It's becauste it's used the pronoun of cortesy “yu”, indeed you only can know it by the context.*
+
+**Tunkye eet circum nev saat ios aghyern, ed id prest nebule ios saison –** it was by this time about nine in the morning, and the first fog of the season
+
+**Gheskye ia ne eevevis iom pon quasi dwo munts –** it was nearly two months since she had seen him till yesterday
 
 The enclitic affix -schi already was explained and the enclitic affix -smee will be explained soon.
 
