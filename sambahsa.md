@@ -6453,7 +6453,7 @@ The enclitic “pet” reinforces identity, often translated as our “very”.
 **Est un prientlik geront quospet ghalv buit trohven medsu eys bustan –** it's a friendly old man whose very skull was found in the middle of his garden
 
 **I reuschus leuds eent ipet parents ias magv –** the people who had rushed were *(precisely)* the parents of the child *(after that child had an accident)*
-    ipet = i (the pronoun) + pet
+    ipet = i (the definite article) + pet
 
 When “pet” is used after a verb, it has the sense of “to be in the capacity of”.
 
