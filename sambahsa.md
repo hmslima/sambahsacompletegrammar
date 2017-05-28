@@ -2626,7 +2626,8 @@ necessary the article)*
 
 **Either… or… –** auter… au… {Aotër… Ao…}
 
-**Wheter, if *****(before the choose of two)***** –** kweter {kwEtër}
+**Wheter, if *****(before the choose of two)***** –** kweter
+{kwEtër}
 
 **Nether… nor… –** neter… ni… {nEtër… ni…}
 
@@ -2774,7 +2775,8 @@ For numbers like 20, 30, 40, …, 90 you use the suffix -gim
 
 **90 – nevgim {nEvdjim} –** ninety
 
-Here are the numbers 100, 1000, 1000000 and 1000000000:
+Here are the numbers 100, 1000, 
+and 1000000000:
 
 **100 – cent(om) {tsent / tsëntOm} –** one hundred
 
@@ -2902,6 +2904,16 @@ the “pwol”. Look one more example:
 **Pwolpenkt – **4,5
 
 About punctuations in numbers, sambahsa is different from english, the fractioned numbers don't receive a dot, but a comma; a number like “two and a half” is transcribed as 2,5 in sambahsa. Numbers superior to 999 don't reveice any punctuation, so “one million” wont be transcribed as 1,000,000, but as 1000000.
+
+Math operations:
+
+**2 + 2 = 4 –** dwo plus dwo egal (ad) quar
+
+**2 − 2 = 0 –** dwo minus/ex dwo egal (ad) zero
+
+**2 ⨯ 2 = 4 –** dwo kers dwo egal (ad) quar
+
+**2 ÷ 2 = 1 –** dwo dividen ab dwo egal (ad) oin
 
 TIME
 ====
@@ -5481,6 +5493,16 @@ good father, I promise.
 
 *“Nuntos” has the same meaning and often is most used, since the “kongcio” seems be antiquated.* 
 
+**Kwecto {kwEcto} –** apparently, as it seems
+
+***Id phial, quei poskwo dahsim mien attention, kwecto pwolpohld med un cruorrudh liqueur –** the phial, to which I next turned my attention, might have been about half-full of a blood-red liquor*
+
+***Hatta eys prientias kwecto kihr ep un samliko catholicitat os suabuhsa –** even his friendships seemed to be founded in a similar catholicity of good-nature*
+
+**Kweid {kweyd} –** even if, though
+
+***Iaschi EU lands maghe bihe tenten ab bringhes wahid-ye securitara responses ei probleme os terrorisme, kweid biht limitet id bungos iom civil lures –** the EU countries themselves may be tempted to bring security-only responses to the problem of terrorism, even (under the price of) if the function of the civil freedoms gets limited*
+
 **Kweter {kwEtër} –** *"whether", indicates the choice or the doubt
 between two options.*
 
@@ -6000,6 +6022,10 @@ Indo-european gods into Sambahsa.*
 **Due id seuy, khako linkwes mien dom – **Because of (due to) the rain, 
 I can't leave my house.
 
+**En {en} –** here is/are + acc
+
+***En id antwehrd –** here is the answer*
+
 **Ender {Endër} –** beneath, underneath *(doesn't imply contact)*
 
 **Ter est un kwaun ender id meja –** There is a dog beneath the table.
@@ -6108,6 +6134,10 @@ middle of which the Lion and the Unicorn were fighting.
 **3.729.500 leuds gwiveer dien 1sto Januar 2015 in Kartvelia (mustathna
 Abkhasia ed Sud-Iristan) –** 3.729.500 people were living on the 1st of
 January 2015 in Georgia (not counting Abkhazia and South Ossetia)
+
+**Na {na} –** in continuation to
+
+***J. K. Rowling scripsit alya Harry Potter books na “The Philosopher's Stone” –** J. K. Rowling wrote other Harry Potter books in continuation to “The Philosopher's Stone”*
 
 **Nespekent {nëspEkënt} –** despite
 
@@ -6413,10 +6443,10 @@ Henrique ne hat ghohden dake ia buks. *Vice to*, Olivier hat ei yist ia
 odt-documents
 
 
-THE ENCLITICS
+ENCLITICS AND PROCLITICS
 ========================
 
-Some of these words are not easy to be translated, but this chapter will teach you how to use them.
+Some of these words are not easy to be translated, but this chapter will teach you how to use them. Enclitics are words put after another word while proclitics are words put before another word.
 
 The word “tun” is the demonstrative of “kun” or “quando”.
 
@@ -6425,7 +6455,7 @@ Asia id trit part ios gnoht mundios tun –** Herodot extends this name to
 the continental hinterland, making thus of Asia the third part of the
 known world then* (at that time)*
 
-“nu” can work in opposition to “de”. Basically it means “namely”.
+“nu” can work in opposition to “de”. Basically it means “namely” and its a proclitic.
 
 **Un public wesnum est un contracto conclus ab un contragend magh, nu id
 Stat, ia regional au local autoritats –** a public procurement is a
@@ -6471,6 +6501,14 @@ With adverbs of time and space the word “kye”, as an enclitic, reinforces th
 **Tunkye eet circum nev saat ios aghyern, ed id prest nebule ios saison –** it was by this time about nine in the morning, and the first fog of the season
 
 **Gheskye ia ne eevevis iom pon quasi dwo munts –** it was nearly two months since she had seen him till yesterday
+
+The proclitic “proe” is often translated as “already”.
+
+**Kun id nam os Hyde buit swohrt, Ustad Utterson proe-akowsicit, bet kun is chohx id klor, is khiek etidwoie –** when Hyde's name was uttered, Mr. Utterson was already listening, but when he checked the bit of wood, he no longer doubted it
+
+**Mien kerd hat tem aghnuet quem ioschi proe-plangiem –** I came away with that upon my heart, that I could have wept too
+
+**… proeghi tetyohc pelu dwogimtias –** … a thing that had befallen many scores of times
 
 The enclitic affix -schi already was explained and the enclitic affix -smee will be explained soon.
 
