@@ -2626,10 +2626,10 @@ necessary the article)*
 
 **Either… or… –** auter… au… {Aotër… Ao…}
 
-**Wheter, if *****(before the choose of two)***** –** kweter
+**Whether, if *****(before the choose of two)***** –** kweter
 {kwEtër}
 
-**Nether… nor… –** neter… ni… {nEtër… ni…}
+**Neither… nor… –** neter… ni… {nEtër… ni…}
 
 **Neither, none of both –** neuter {nÖtër}
 
@@ -2713,7 +2713,7 @@ beautiful, but there are other countries that are more beautiful)*
 NUMBERS
 =======
 
-There the numbers from 0 to 10:
+Here are the numbers from 0 to 10:
 
 **0 – zero {dzEro} –** zero
 
@@ -2914,6 +2914,12 @@ Math operations:
 **2 ⨯ 2 = 4 –** dwo kers dwo egal (ad) quar
 
 **2 ÷ 2 = 1 –** dwo dividen ab dwo egal (ad) oin
+
+Score or result of votation, like the result of a soccer game where Barcelona scored two gols and Real Mardid scored one.
+
+**Dwo contra oin pro Barcelona –** two to one to Barcelona
+
+**Oin contra dwo pro Real Madrid –** one to two to Real Madrid
 
 TIME
 ====
@@ -6137,7 +6143,7 @@ January 2015 in Georgia (not counting Abkhazia and South Ossetia)
 
 **Na {na} –** in continuation to
 
-***J. K. Rowling scripsit alya Harry Potter books na “The Philosopher's Stone” –** J. K. Rowling wrote other Harry Potter books in continuation to “The Philosopher's Stone”*
+***J. K. Rowling scripsit alya Harry Potter buks na “The Philosopher's Stone” –** J. K. Rowling wrote other Harry Potter books in continuation to “The Philosopher's Stone”*
 
 **Nespekent {nëspEkënt} –** despite
 
