@@ -206,11 +206,11 @@ language. Sambahsa is as good as english or portuguese for making poetry or musi
 and the imported proper nouns from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
 standards of the language, the “problems” of importing these proper
-nouns will be the same that occurs in any national language like English or Portuguese.
+nouns will be the same that occurs in any national language like English or Portuguese. For example: it irritates me when I have to call Windows *(the operational system of Microsoft)* “Vindozo” or to call Coca-Cola “Koka-Kolao” when I use Esperanto, when I use Sambahsa I haven't to do any of theese changes because the very orthography of the language support these words in the way they are. 
 
 Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
 
-For not having more than 100 years as other auxiliary languages, sambahsa doesn't
+But for not having more than 100 years as other auxiliary languages, sambahsa doesn't
 have a community with thousand of speakers yet, but this scenario can
 change, every auxiliary language started with only one person, but can
 exist thousands of speakers if more people get interested for the
@@ -219,17 +219,17 @@ language
 IS SAMBAHSA DIFFICULT?
 ----------------------
 
-It's undeniable that in the **beginning** – and only at the beginning – Sambahsa is a bit more challenging
+It's undeniable that in the **beginning – and only at the beginning –** Sambahsa is a bit more challenging
 if it is compared to other auxiliary languages, but it's like Robert
 Winter said in his “Sambahsa: Guide to Pronouns and Articles”,
 *“sambahsa is right on the limit of the degree of difficulty that is
 practical for an international auxiliary language”*.
 
-Sambahsa undoubtedly is easy, you only have to know what are you priorities
+**Sambahsa undoubtedly is easy**, you only have to know what are you priorities
 of study, *you have to know how to study*! Doesn't make sense decorate
-all declinative cases from dative if you use them a very few times (and
+all declinative cases from dative if you use them a very few times *(and
 maybe only a few of them, even if you only use sambahsa in all days of your
-life)! Also it's necessary have in mind that it's not because it is an
+life)*! Also it's necessary have in mind that it's not because it is an
 easy language you will be writing philosophical treatises in three
 weeks, but maybe you can do it in six or eight months.
 
@@ -247,7 +247,7 @@ People complains that Sambahsa has difficult sounds to learn, but all languages 
 
 > **French –** [ɲ], *[ʁ]*, [ɥ], [œ], *[ø]*, *[y]*, [ɑ̃], [ɛ̃], [œ̃], [ɔ̃]
 
-Maybe Sambahsa could have simpler sounds (simple for who?) or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you can be pronouncing all of them in a week.
+Maybe Sambahsa could have simpler sounds *(simple for who?)* or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you can be pronouncing all of them in a week.
 
 Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
 
@@ -281,7 +281,7 @@ Just below there is a list of languages that had contributed for the sambahsa
 vocabulary, the percentage of borrowed words and some examples between
 parentheses:
 
-**Indo-European –** 44,28 % *(skadh, paursk, potnia) *
+**Proto-Indo-European –** 44,28 % *(skadh, paursk, potnia) *
 
 **Latin –** 15 % *(facil, question, caise) *
 
@@ -308,6 +308,8 @@ parentheses:
 **Chinese –** 0,71 % *(gienxin, yui, saan)*
 
 **Other languages or families –** 6,86 %
+
+About the words that came from Proto-Indo-European, it's important to say that some words can not be guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European divided into many linguistic families, but words in comomn among these languages may not necessarily have their origin in Proto-Indo-European. For example, the words “long” and “pisk” are found in the Romance languages *(“longo” and “peixe” in the case of Portuguese)* and German languages *(“long” and “fish” in the case of English)*, but it's uncertain whether their origin was in Proto-Indo-European, linguistic families continued to exchange words when Proto-Indo-European split up.
 
 How some words can have “multiple origins”:
 
