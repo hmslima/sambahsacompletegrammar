@@ -309,7 +309,7 @@ parentheses:
 
 **Other languages or families –** 6,86 %
 
-About the words that came from Proto-Indo-European, it's important to say that some words can not be guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European divided into many linguistic families, but words in comomn among these languages may not necessarily have their origin in Proto-Indo-European. For example, the words “long” and “pisk” are found in the Romance languages *(“longo” and “peixe” in the case of Portuguese)* and German languages *(“long” and “fish” in the case of English)*, but it's uncertain whether their origin was in Proto-Indo-European, linguistic families continued to exchange words when Proto-Indo-European split up.
+About the vocabulary that came from the reconstructed words of Proto-Indo-European, it's important to say that some words can not be guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European divided into many linguistic families, but words in comomn among these languages may not necessarily have their origin in Proto-Indo-European. For example, the words “long” and “pisk” are found in the Romance languages *(“longo” and “peixe” in the case of Portuguese)* and German languages *(“long” and “fish” in the case of English)*, but it's uncertain whether their origin was in Proto-Indo-European, linguistic families continued to exchange words when Proto-Indo-European split up.
 
 How some words can have “multiple origins”:
 
@@ -2365,6 +2365,8 @@ green
 **Ia me hat kalen zani –** she has called me adulterous
 
 **Tod anon kwehrt/beuwt me sieug –** this food makes me sick
+
+Seizing the opportunity, let me teach you how to say “Anna called John (as) Robert”. Well, it's exactly like in English: *Anna kiel John (ka) “Robert”*. I suggest you to use the “ka” in order to avoid equivocal appositions.
 
 I'll use the first example, “[]{#anchor-190}ho pict mien dom do glend”,
 to explain more about this kind of situation. We couldn't have written
@@ -8915,6 +8917,10 @@ A Starter to Sambahsa
 RICE, Stephen L. **Sambahsa\_Phrasebook**
 
 WINTER, Robert. **Sambahsa: Guide to Pronouns and Articles**.
+
+**Many and many talks with Olivier Simon**.
+
+LIMA, Henrique Matheus da Silva. **Manual de Alfabeto Fonético Internacional**. 2017.
 
 OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **FrontPage**. Available in:
 &lt;http://sambahsa.pbworks.com/w/page/10183084/FrontPage&gt;. Acesso
