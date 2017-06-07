@@ -206,7 +206,7 @@ language. Sambahsa is as good as english or portuguese for making poetry or musi
 and the imported proper nouns from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
 standards of the language, the “problems” of importing these proper
-nouns will be the same that occurs in any national language like English or Portuguese. For example: it irritates me when I have to call Windows *(the operational system of Microsoft)* “Vindozo” or to call Coca-Cola “Koka-Kolao” when I use Esperanto, when I use Sambahsa I haven't to do any of theese changes because the very orthography of the language support these words in the way they are. 
+nouns will be the same that occurs in any national language like English or Portuguese. For example: particularly it irritates me when I have to call Windows *(the operational system of Microsoft)* “Vindozo” or to call Coca-Cola “Koka-Kolao” when I use Esperanto, when I use Sambahsa I haven't to do any of theese changes because the very orthography of the language support these words in the way they are. 
 
 Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
 
@@ -6511,6 +6511,16 @@ With adverbs of time and space the word “kye”, as an enclitic, reinforces th
 **Tunkye eet circum nev saat ios aghyern, ed id prest nebule ios saison –** it was by this time about nine in the morning, and the first fog of the season
 
 **Gheskye ia ne eevevis iom pon quasi dwo munts –** it was nearly two months since she had seen him till yesterday
+
+The enclitic “wert” indicates reported speech.
+
+**Sambahsa estwert baygh interessant –** Sambahsa - it is said - is very interesting
+
+**Sekwent qui ghieng pri iens unte ir mingo promenades, bowert sieyg neid –** it was reported by those who encountered them in their Sunday walks, that they said nothing
+
+**Sekwent tom mertikwol, ia bent comwert hieb haben meis dekhschat quem gvol –** well, the child was not much the worse, more frightened, according to the Sawbones
+
+**Iswert liek stets meis confinit-se in id practis uper id laboratorium, quer is hatta swohp yando –** the doctor, it appeared, now more than ever confined himself to the cabinet over the laboratory, where he would sometimes even sleep (in the preceding sentence of the translation, what we know about the doctor is reported by his butler)
 
 The proclitic “proe” is often translated as “already”.
 
