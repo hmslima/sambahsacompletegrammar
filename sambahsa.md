@@ -67,17 +67,17 @@ INTRODUCTION
 ============
 
 **Sambahsa Mundialect** is an auxiliary language created by the french
-Dr. Olivier Simon, it was launched in the internet on July of 2007, its
-base is the proto-indo-european language, language spoken about 5000
+Dr. Olivier Simon and launched in the internet on July of 2007, its
+base is Proto-Indo-European, language spoken about 5000
 years ago, whose daughter languages widespread from Southern Russia up
 to the British Isles and to India. Sambahsa counts with many
 contributions from other languages, especially arabic, but also
 chinese, indonesian and many others.
 
-For being an auxiliary language, sambahsa is much more easier than any
+By being an auxiliary language, sambahsa is much more easier than any
 national language like german or spanish, but sambahsa is a bit more
-challenger if compared to other auxiliary languages because it is a bit complicated at the beginning, but after that, the learning process
-is incredibly simple and the advantages of its complexity will make all the effort worth it.
+challenging if it's compared to other auxiliary languages because Sambahsa is a bit complicated at the beginning, but after that, the learning process
+is incredibly simple and the advantages of its complexity will make all the effort be worth.
 
 With what the language looks alike? The interesting of sambahsa is that it is so natural that
 you don't see it as a constructed language, but as a national language
@@ -105,11 +105,11 @@ contrasts the better. The reason the symbol is the wheel is because it
 is an important inovation made by humans, and, anyway, it's an important
 symbol for almost all indo-europeans anyhow.
 
-The movement that supports sambahsa is not linked to any kind of
+The “movement” that supports sambahsa is not linked to any kind of
 thought: people from all kinds, ethnicity, places, believes, genres, sexual orientations, social classes and
-ideologies may use the language as they please.
+ideologies may use this language as they please.
 
-As was said, this grammar is free, because it is under the license
+As has been said, this grammar is free, because it is under the license
 Creative Commons CC-BY 4.0, you may modify it as you want and even use
 it for commercial purposes. You may also use this book to make your own
 version of the sambahsa's grammar and even sell it in the market of your
@@ -135,7 +135,7 @@ I'll work in China or, at least, stay in touch with chineses, I will
 have to learn mandarin or cantonese, it's obvious. What I am talking
 about here is: if I enter in a room where there are a paquistanese, a
 russian, a brazilian, an argentinian and a japanese, all of them only
-could have a communication if they know a common language, because only a very few people have time and disposition to learn five different
+can have a communication if they know a common language, because only a very few people have time and disposition to learn five different
 languages; in current days it's expected that all these people speak
 english for making possible a communication. This is the X of the
 question.
@@ -153,8 +153,8 @@ I like to say that two persons communicate with each other through the
 []{#anchor-1}language of a determined country it is like calculate using
 roman numerals. It's perfectly possible calculate with roman numerals,
 peoples did that for centuries, but it's much more efficient to
-calculate with indo-arabic numerals, that in our case would be a
-language that you learn in months instead one you learn in years and is
+calculate with indo-arabic numerals, which in our case would be a
+language that you learn in months instead one that you learn in years and is
 fully of traps. I said “language of a determined country” because
 people learn – in the international communication scope – the english
 variant from United States of America or England, but never the english
@@ -164,7 +164,7 @@ Other negative point in using the language of another country as
 international language is that, somewhat, it corroborates the supremacy of
 this country. In the modern times was used french because France was
 the most influential nation of Europe, since the XX century we use
-english because the anglophone countries acquire great economic and
+english because the anglophone countries have acquired great economic and
 military power. Do some decades hence we will have to communicate with
 each other in mandarin or in the language of the country that “rules”
 the world?
@@ -191,7 +191,7 @@ franca would be much more efficient, the actual international
 language is the polyglotism, if you want to be something near to a true
 “citizen of the world”, be a polyglot!
 
-But an auxiliary language surely would help us immensely. A neutral language that can be learned in matter of months would greatly reduce language barriers.
+But an auxiliary language surely would help us immensely. A neutral language that can be learned in matter of months would greatly reduce language barriers. Why not be more efficient in the scope of the international communication?
 
 BUT WHY LEARN SAMBAHSA?
 -----------------------
@@ -203,10 +203,9 @@ displeased me.
 Sambahsa has success in having the regularity – and facility – of an
 auxiliary language and the naturality and native beauty of a national
 language. Sambahsa is as good as english or portuguese for making poetry or music
-and the imported proper nouns from other languages don't need, in most
+and the imported proper nouns and names of “exotic” things from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
-standards of the language, the “problems” of importing these proper
-nouns will be the same that occurs in any national language like English or Portuguese. For example: particularly it irritates me when I have to call Windows *(the operational system of Microsoft)* “Vindozo” or to call Coca-Cola “Koka-Kolao” when I use Esperanto, when I use Sambahsa I haven't to do any of theese changes because the very orthography of the language support these words in the way they are. 
+standards of the language, the “difficulties” in importing these words will be the same that occurs in any national language like English or Portuguese. For example: particularly it irritates me when I have to call Windows *(the operational system of Microsoft)* “Vindozo” or to call Coca-Cola “Koka-Kolao” when I use Esperanto, when I use Sambahsa I haven't to do any of these changes because the very orthography of the language support these words in the way they are. 
 
 Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
 
@@ -235,11 +234,11 @@ weeks, but maybe you can do it in six or eight months.
 
 People also say that the language is excessively prolix, sometimes
 having two or three invariable words for each one of the same type in
-our language. Really sambahsa doesn't economize in its invariable words,
+our language. Indeed sambahsa doesn't economize in its invariable words,
 a prolix language like sambahsa pays the price of demanding a bit more
-of study, but, by contrast, it allows the best expression of the thought.
+of study, but, by contrast, it allows the best expression of the thought. Frankly, without realizing you will get used to these words, I say this from experience.
 
-People complains that Sambahsa has difficult sounds to learn, but all languages have different sounds to be learned, even other auxiliary language that tries to be the simplest. Soon after some of the the languages most studied by americans and their sounds that don't exist in the General American English (the sounds in italic are used in sambahsa).
+People complains that Sambahsa has difficult sounds to learn, but all languages have different sounds to be learned, even other auxiliary language that tries to be the simplest. Soon after there are some of the the languages most studied by americans and their sounds that don't exist in the General American English (the sounds in italic are used in sambahsa).
 
 > **Spanish *(European Castilian)* –** [β], *[x]*, [ɲ], [ɣ]
 
@@ -251,7 +250,7 @@ Maybe Sambahsa could have simpler sounds *(simple for who?)* or less “extra so
 
 Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
 
-**Everything has a price:** many auxiliary languages try the possible to be the simplest ones adopting, for example, very simple orthographies: one
+**Everything has a price:** many auxiliary languages try the possible to be the simplest by adopting very simple orthographies: one
 letter, one sound; all nouns having only one ending, all adjectives having
 only one ending, etc. The advantage of not having a too complex
 orthography is that the learning curve is very low, but the disadvantage
@@ -260,7 +259,7 @@ of other languages, which will have to be drastically modified *(as in
 orthography as in pronounce)* in order to make them fit to the language's
 rules. Other problem of a simple orthography is the little freedom for
 the creation of poetry and music. I am not saying that very simple
-auxiliary languages are ugly, since it's very subjective and a person
+auxiliary languages are ugly, since this is very subjective and a person
 with a crystalline voice and talent can create the best song of the
 world through the simplest and “ugliest” language. What I am saying is
 that it's paid a price for the excess of simplification, and the
@@ -309,7 +308,7 @@ parentheses:
 
 **Other languages or families –** 6,86 %
 
-About the vocabulary that came from the reconstructed words of Proto-Indo-European, it's important to say that some words can not be guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European divided into many linguistic families, but words in comomn among these languages may not necessarily have their origin in Proto-Indo-European. For example, the words “long” and “pisk” are found in the Romance languages *(“longo” and “peixe” in the case of Portuguese)* and German languages *(“long” and “fish” in the case of English)*, but it's uncertain whether their origin was in Proto-Indo-European, linguistic families continued to exchange words when Proto-Indo-European split up.
+About the vocabulary that came from the reconstructed words of Proto-Indo-European, it's important to say that some words can not be guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European divided into many linguistic families, but words in common among these languages may not necessarily have their origin in Proto-Indo-European. For example, the words “long” and “pisk” are found in the Romance languages *(“longo” and “peixe” in the case of Portuguese)* and German languages *(“long” and “fish” in the case of English)*, but it's uncertain whether their origin was in Proto-Indo-European, linguistic families continued to exchange words when Proto-Indo-European split up.
 
 How some words can have “multiple origins”:
 
@@ -330,7 +329,7 @@ albanian “potir”.
 More examples of words of languages whose contribuition is not very
 significant, but have their mark in sambahsa:
 
-**Portuguese –** banan, mingo,
+**Portuguese –** banan, mingo, namor
 
 **Spanish –** chocolat, ghitarr(a), salg, vanilia
 
@@ -359,7 +358,7 @@ I structured the grammar in the following way: I avoid the presentation
 of a new content that demands the previous knowledge of other
 no-mentioned subject, for example: if for learning the future verbal
 tense it's necessary to know the infinitive, I will teach the infinitive
-before; if for learning the declination is necessary some basic grammar
+before the future tense; if for learning the declination is necessary some basic grammar
 knowledge, I will bring back those teachings from middle school's
 classes. I believe that this way is the less annoying for the beginner.
 
@@ -384,7 +383,7 @@ made.
 It can seem strange, but I started this grammar when I was in the
 beginning of my studies in the language, in my second or third week of
 learning, not when I already had a good mastering over sambahsa. I had
-two reasons to do that: the act of made a grammar demands a great
+two reasons to do that: the act of making a grammar demands a great
 responsibility, what boosted me in my studies, thanks to this work I
 could learn things more quickly, that was a very interesting exercise;
 the second reason is that the person who knows the first difficulties of
@@ -428,7 +427,7 @@ tips that are useful for any language, not only sambahsa:
     time you will absorb the grammar rules while acquire vocabulary.
     When, in a text, you don't know how certain grammatical construction
     was made, you come back to the grammar.
--   Use the language since the first day. Even that only in your mind,
+-   Use the language since the first day. Even only in your mind,
     give a “good morning” in sambahsa, create simple sentences for daily
     situations. Try to use the language in the beginning as possible,
     even you don't know the most basic prepositions.
@@ -440,7 +439,7 @@ Maybe you take fright because of the size of this chapter, indeed it is
 a bit big if compared to other grammars in their chapters of alphabet
 and pronunciation, but it's for a good reason. In the study of a
 language, the first thing you have to learn are the sounds, it's
-important that, by learning a new word, you store it in you memory with
+important that, by learning a new word, you store the words in you memory with
 the correct pronunciation, that's why I will not spare explanations in
 this chapter.
 
@@ -448,7 +447,7 @@ The alphabet is composed by 26 latin letters, they are: a, b, c, d, e,
 f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z. The
 orthography is a bit complex, but still regular.
 
-For represent the sounds there is the *Sambahsa Phonetic Transcription*
+For representing the sounds there is the *Sambahsa Phonetic Transcription*
 (SPT), an alphabet whose words are always between curly brackets { } in
 all this grammar, the letters in UPPERCASE inside the brackets
 represent the accentuated syllables and a colon (:) informs that the
@@ -465,8 +464,7 @@ this alphabet always will lie inside slashes / / or square brackets \[
 \] in this grammar. I will use the IPA to explain the SPT, because if
 you have access to the sounds of the IPA, you have a secure source of
 how the sambahsa sounds are pronounced. **But throughout the grammar,
-outside the “alphabet and pronunciation” chapter, I'll only practically
-use SPT! Actually you don't need to learn IPA, but it would be a very useful resource for you.**
+outside the “alphabet and pronunciation” chapter, I practically will only use SPT! Actually you don't need to learn IPA, but it would be a very useful resource for you.**
 
 The difference between slashes and square brackets in IPA is that the
 slashes indicate a more simple transcription while square brackets
@@ -478,9 +476,7 @@ known while SPT only applies to sambahsa? There are two reasons:
 -   SPT is easer to type in computers, what facilitates when someone
     wanna explain the pronunciation in internet or in any typed work.
 -   Sambahsa was made for people of all the world, one letter of SPT can
-    encompass several similar sounds of IPA, thus there wont unnecessary
-    effort to people of diverse backgrounds pronounce sambahsa words.
-    For example: {r} represents, preferably, the sounds /ʀ/ and /r/, but it also can represent the sound /ɾ/; {o} represents the sounds /o/ and /ɔ/..
+    encompass several similar sounds of IPA. For example: {r} represents, preferably, the sounds /ʀ/ and /r/, but it also can represent the sound /ɾ/; {o} represents the sounds /o/ and /ɔ/..
 
 Before we go on, some observations:
 
@@ -829,7 +825,7 @@ Before we go on, it's important to know how our language is pronounced!
 WE ARE NOT FINISHED YET, SOME CONVENTIONS
 -----------------------------------------
 
-**Before we go on, a warning: **don't worry, initially, with the more
+**Before we go on, a warning: **don't worry with the more
 complex grammar rules, because I'll show you the pronunciaton of each
 example in almost all parts of this grammar, so you'll naturally learn the
 pronunciation. *Don't decore anything, understand it*! My advice is:
@@ -1185,7 +1181,7 @@ IF YOU FOUND SOME SOUNDS VERY DIFFICULT
 
 I did my best to teach you each sound, but if you really can't learn
 some of them – but I believe you can – it's not the end of the world!!!
-If you can't pronounce sounds like /x/ e /ç/, no-one you put you in a
+If you can't pronounce sounds like /x/ or /ç/, no-one you put you in a
 jail if you use /ʃ/ and /h/ in their places. If you can't pronounce the
 japanese “r”, use our “r”. The good news is that the difficult sounds
 are rarely used, with the exception of the vowels not found in
@@ -5729,6 +5725,12 @@ necessary to their mutual control.
 iom –** I shall buy your present, but if your father doesn't pay me, I'll
 have an argument with him. 
 
+**Sekwent {sEkwënt} –** following, according to
+
+***Sekwent ids Constitution, official bahsa Ukraines est ukrainsk –** according to its constitution, the official language of Ukraine is Ukrainian*
+
+***Sekwent id Tyrk statistic institut, id population ios landios mikdier 74,7 millions leuden in 2011 –** according to the Turkish statistical institute, the country's population amounted to 74,7 million people in 2011*
+
 **Seni {sEni} –** apart, separately, asunder
 
 **Crohscim seni ud mien braters ed swesters** – I grew up separately from
@@ -5858,11 +5860,11 @@ used as a means of transportation.
 
 **Yed, is postalion ne gwohmit. –** Yet, the postman didn't come.
 
-**Yeji {yEji} – **according to
+**Yeji {yEji} –** according to
 
-**Yeji me, id compagnie vaht bihe muflis, ne kauro / Yeji me, id
-compagnie vaht muflisasce, ne kauro –** In my opinion, the company
-is going into bankrupcy, I don't care.
+***Yeji id Traiteit os Amritsar, is Radja os Jammu, Gulab Singh, bihsit is nov wanak os Kashmir –** pursuant to the Amritsar Traiteit, the Ralah of Jammu, Gulab Singh, became the new ruler of Kashmir*
+
+***Strehcend uper circa 9,6 millions km², China est tienxia dwot plautsto Stat yeji id land superficie –** spanning over around 9,6 millions km², China is the second or third largest country of the world according to land surface*
 
 **Yeji Einstein, dwo jects sont aunfin, id universe ed mensc cacavania
 –** According to Einstein, two things are endless, the universe and 
@@ -6188,6 +6190,8 @@ including all the memories of his life until then.
 **Presaygo id future per mien cristall ball –**I foretell the future 
 through my cristal ball.
 
+***Dec kilometers per hor –** ten kilometers per hour*
+
 **(Per)ambh {(për)Amb} –** around
 
 ***Piends sont ambh nos –** Enemies are around us*
@@ -6216,6 +6220,8 @@ riding in full daylight ? (notice the use of the durative -neu-, I'll talk about
 
 **Tolko tib pos io arrive –** I (will) talk to you after I (will) arrive.
 
+***Ho corregen werd pos werd –** I've corrected word by word*
+
 **Pre {pre} –** before (in time)
 
 **Tolko tib pre linkwo –** I talk to you before I leave.
@@ -6236,6 +6242,8 @@ a blue-clad rider who was galopped before him from the right to the left.
 **Eiskwo un wogh pro miena safers – **I want a car for my travels.
 
 **El behrger mohrit pro vies gwits –** The saviour died for your lives.
+
+***Dec kilometers pro hor –** ten kilometers per hour*
 
 **Prod {prod} –** ahead (of)
 
