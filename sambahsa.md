@@ -205,7 +205,7 @@ auxiliary language and the naturality and native beauty of a national
 language. Sambahsa is as good as english or portuguese for making poetry or music
 and the imported proper nouns and names of “exotic” things from other languages don't need, in most
 cases, to have its spelling or pronounce changed to adequate the
-standards of the language, the “difficulties” in importing these words will be the same that occurs in any national language like English or Portuguese. For example: particularly it irritates me when I have to call Windows *(the operational system of Microsoft)* “Vindozo” or to call Coca-Cola “Koka-Kolao” when I use Esperanto, when I use Sambahsa I haven't to do any of these changes because the very orthography of the language support these words in the way they are. 
+standards of the language, the “difficulties” in importing these words will be the same that occurs in any national language like English or Portuguese.
 
 Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
 
@@ -1197,7 +1197,7 @@ Sellamat! It's with this word, “sellamat” {selamAt}, that we say
 “hello”, you also may say “salut” {salUt}, which have the same function.
 
 In this chapter I'll show you some sentences, maybe you'll deduce the
-elements of each one by youself, but, anyway, in posterior chapters,
+elements of each one by youself, but, anyway, in posterior chapters
 I'll unravel each sentence's element, so don't worry if you don't
 understand something in this chapter.
 
@@ -1320,7 +1320,7 @@ Notice that, even in the singular, the pronoun “yu” make use of the verb
 pronoun, “yu”, stays in the plural, even when referring to only one person. An example
 from french: “Vous êtes un ami/des amis”; an example from russian:
 “[]{#anchor-84}Вы остаётесь моим(и) другом/друзями” (you remain my
-friend(s)).
+friend(s)). Only the context can informe whether the “yu” is in singular or plural.
 
 Other important observation about the second person of plural “yu”. You
 already know that, in most cases, it's not necessary the use of the pronoun, but in future
@@ -1337,7 +1337,7 @@ always have to appear.
 It's important that you know how to say the verb “there be”, in the
 sense of existence. It's is pretty similar to english, I'll use the noun
 “anghen” {Angën}, which means “person”, and the adverb “her” {her},
-which means “here”, in the following example:
+which means “here”, in the following examples:
 
 **Sont anghens her {sont Angëns her} –** []{#anchor-85}there are persons
 here
@@ -1382,6 +1382,8 @@ made, everything will be explained in the next chapters.
 
 **Kam leitte yu? {kam leyt yu} –** how are you?
 
+**Sellgumt {selgUmt} –** welcome
+
 **Leito {lEyto} –** fine
 
 **Chao {tcAo} –** []{#anchor-88}good bye
@@ -1421,11 +1423,17 @@ don’t speak much Sambahsa.
 
 **Mien nam est … {myen nam est} –** my name is…
 
+**Quetos yu? {kEtos yu} –** where do you come from?
+
 **Io ne prete {yo ne prEt} –** I don't understand ([]{#anchor-91}what
 you wanted to say)
 
 **Ne ho pretet hol / Ne ho preten hol {ne ho prEtët hol / ne ho prEtën
-hol} –** I haven’t understood everything (what you wanted to say)
+hol} –** I haven’t understood everything *(what you wanted to say)*
+
+**Maghte yu hehlpe me? {magt yu he:lp me} –** can you help me?
+
+**Ye quod saat? {ye kwod saAt} –** what time?
 
 **Aun sibia {Aon sIbja} –** changing the subject; on a different note
 
@@ -1436,7 +1444,7 @@ THE DECLINATION CASES
 =====================
 
 Sambahsa has an interesting caracteristic, it has a system of declination
-cases which are: *nominative*, *accusative*, *dative* and *genitive*.
+cases that are: *nominative*, *accusative*, *dative* and *genitive*.
 These cases refers to the pronouns and articles. But what they are and
 how they are used?
 
@@ -1446,8 +1454,7 @@ the sentence below:
 **The man buys the car:** In this case “the man” is the *subject* of the
 sentence because it's him who is *doing* the action, which in
 this case is the buying; and “the car” is the *direct object* of the
-sentence, because of it's the car that is*suffering* the action, it's being affected
-directly by the verb. Look the sentences below:
+sentence, because of it's the car that is*suffering* the action, it's being *directly affected* by the verb. Look the sentences below:
 
 **I eat tomato –** “I” ([]{#anchor-92}subject), “tomato”
 ([]{#anchor-93}direct object)
@@ -1581,7 +1588,7 @@ apply, it can be translated as “this”, “that”, “these” and “those�
 
 The pronoun “ego” is the emphatized form of “io”. When we use “ego”
 instead “io”, we want to say that there is a certain relevance in the
-“I” is doing, or suffering, this or that action.
+“I” that is doing or suffering this or that action.
 
 I'll ask you to stop here for a while and study the pronouns (only the
 personal pronouns!), because I will use them a lot from here.
@@ -2053,7 +2060,7 @@ the word “sbei”.
 DIFFERENCE OF USE OF PREPOSITION OF POSSESSION AND GENITIVE CASE
 ----------------------------------------------------------------
 
-Maybe you're a bit confuse and ask youself why the penultimate example
+Maybe you're a bit confuse and wonder why the penultimate example
 was not translated as “id mohrt *i*os Louis”. There is a simple
 difference between a preposition of possession and a pronoun in the
 genitive case.
@@ -2148,15 +2155,13 @@ below:
 
 Can you understand how the language works? In the sambahsa logic you
 don't speak “the secreatry” or “the man”, but “she secretary” and “he
-man”. Have in mind that the articles suffers the declination as well as
-the pronouns. For animals we don't use the article “id”, but the article
-“el”, animals have gender too, they are not things!
+man”. Bear in mind that the articles suffers the declination as well as
+the pronouns.
 
 ***The***** dog loves *****the***** woman – ***el* kwaun lieubht *iam*
 gwen {el kwAon liöbt yam gwen}
 
-The same applies to an article as an indirect object, it is in the dative
-case:
+Articles suffer declination:
 
 ***The***** *****(female)***** manager sent *****the***** e-mail
 *****for the***** *****(male)***** president –** *ia* manager yisit *id*
@@ -2176,7 +2181,7 @@ The indefinide article is “un”.
 HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
 ========================================
 
-It's good to teach you right now this two very basic conjuctions,
+It's good to teach you right now this two very basic conjunctions,
 because until we reach the chapter about conjuctions, maybe we will
 have seen some examples with them.
 
@@ -2207,8 +2212,8 @@ qualifies adjectives and verbs, like in “very fast”, where the adverb
 “very” qualifies the adjective “fast”. Are we understood?
 
 The construction of adjectives is similar to english, basically you have
-to put the adjective just before the noun. Let's meet before some
-adjectives and nouns we'll use in our examples:
+to put the adjective just before the noun. Let's know some
+adjectives and nouns that we'll use in our examples:
 
 **Veut {vöt} –** old
 
@@ -2321,8 +2326,8 @@ correct Ѵ}**
 []{#anchor-178}**Es baygh bayasen –** you're very fearful **{correct
 Ѵ}**
 
-Sometimes may be not interessant to use a affix for using a substantive
-as adjective, but a preposition like “os” or "es" may be a good alternative.
+Sometimes may be not interesting to use an affix for transforming a substantive
+in an adjective, but a preposition like “os” or "es" may be a good alternative.
 
 []{#anchor-179}**Kamo anon es kwaun –** []{#anchor-180}I like food of
 dog
@@ -2336,7 +2341,7 @@ although the food is for dogs, and “… []{#anchor-185}tableus RPG” gives
 the impression that the RPG have a characteristic of table, although the
 game normally is played on the table.
 
-The most interessant way of expressing the ideas of the two last
+The most interesting way of expressing the ideas of the two last
 examples is:
 
 **Kamo kwaun-anon –** I like dog food
@@ -2366,12 +2371,12 @@ Seizing the opportunity, let me teach you how to say “Anna called John (as) Ro
 
 I'll use the first example, “[]{#anchor-190}ho pict mien dom do glend”,
 to explain more about this kind of situation. We couldn't have written
-“[]{#anchor-191}ho pict mien dom glend” because thus the “glend” would
+“[]{#anchor-191}ho pict mien dom glend” because the “glend” would
 be in the accusative and the translation would be something like “I've
 painted my green of house”, it wouldn't make sense, and remember that
 the sambahsa adjectives come before the substantive. Also we couldn't
 write “[]{#anchor-192}ho pict mien glend dom”, because the translation
-is “I've painted my green house”, which, although is gramatically
+is “I've painted my green house”, which, although it's gramatically
 perfect, definitivaly shows the wrong idea.
 
 I think it's pertinent to make some observations about these last
@@ -2400,7 +2405,7 @@ object.
 COMPARISONS
 -----------
 
-The comparison is made suffixing the -er to adjective (or -ter in the
+The comparison is made suffixing the -er to the adjective (or -ter in the
 case the word finishes with a vowel), but only use this ending when
 the accentuation of the word is not altered, in other case use the word
 “meis”, which means “more”; “quem” means “than”.
@@ -2479,7 +2484,7 @@ basically the standard form.
 
 **Land {land} *****(country)***** –** lands {landz} *(countries)*
 
-Word finished with -um have its final replaced by -a.
+Words finished with -um have its final replaced by -a.
 
 **Territorium {te(r)ritOryum} *****(territory)***** –** territoria
 {te(r)ritOrya} *(territories)*
@@ -2487,7 +2492,7 @@ Word finished with -um have its final replaced by -a.
 **Collegium {kolEdjyum} *****(college)***** –** collegia {kol(l)Edjya}
 *(colleges)*
 
-For words finished with -es or -os, , it's replaced these terminations
+For words finished with -es or -os, , these terminations are replaced
 respectively for -si e -sa.
 
 **Daumos {dAomos} *****(marvel)***** –** daumsa {dAomsa} *(marvels)*
