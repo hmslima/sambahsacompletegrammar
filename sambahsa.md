@@ -2505,7 +2505,7 @@ respectively for -si e -sa.
 
 There will situations that it's not possible to add a -s at the end of
 the word for pronunciation issues, in these cases it's added the
-terminations -i *(*[]{#anchor-197}*animated beings)* or -a *(unanimated
+terminations -i *(for animated beings)* or -a *(for unanimated
 beings)*.
 
 **Magv {magv} *****(child)***** – **magvi {mAgvi} *(children)*
@@ -2714,6 +2714,8 @@ superior category of beauty)*
 
 **Brasilu est destull bell –** Brazil is quite beautiful *(it is
 beautiful, but there are other countries that are more beautiful)*
+
+You can also translate “destull” as “kinda”.
 
 NUMBERS
 =======
@@ -2959,7 +2961,7 @@ The days of the week:
 
 **Sabd {sabd} –** Saturday
 
-Here the months:
+Here are the months:
 
 **Januar {januAr} –** January
 
@@ -3270,12 +3272,12 @@ some cases, predicted by the ortographic rules.
 
 It's common, in other languages, the verbs be represented in their
 infinitive form, like in dictionaries for example, but in sambahsa the
-standard form of presentation is in the form of *stem*. I want it to be clear from now on, the translations from sambahsa to english will be
+standard form of presentation is in the form of *stem*. I want it clear from now on, the translations from sambahsa to english will be
 provided in the infinitive form, even when the verbs are in their
-original form (only the stem). For example: the word “sedd” is translated to “to sit” (infinitive of english), but “sedd” is not the infinitive form of the word, its infinitive form is “sedde”. Don't worry because I'll
+original form (only the stem). For example: the word “sedd” is translated to “to sit” (infinitive in english), but “sedd” is not the infinitive form of the word, its infinitive form is “sedde”. Don't worry because I'll
 warn you when the verb be in the infinitive, I only want that you know
 that when I show you something like “linekw = to leave”, don't think that
-“linekw” already is the verb in the infinitive form. Are we understood?
+“linekw” already is the Sambahsa verb in the infinitive form. Are we understood?
 
 Let's meet the irregular verbs:
 
@@ -3290,7 +3292,15 @@ infinitive form of them are respectively “ses”, “habe” and “woide”. 
 don't need to worry a lot about “es”, “hab” and “woid” since these verbs
 are irregular.
 
-I need to make a special comment about the verb “woid”. It means “to know”, but there is other verb with the same translation that is “gnoh”. The difference between “gnoh” and “woid” is that “gnoh” has a broader meaning than “woid”. “Gnoh” can be translated to “saber” and “conocer” (spanish), “wissen” and “kennen” (german), “savoir” and “connaître” (french), while “woid” only can be translated to “saber” (spanish/portuguese), “wissen” (german) or “savoir” (french). Taking the spanish words as reference: “saber” (both “woid” and “gnoh”) means that you have the knowing of a fact or information, like in “he knows when to leave” or “I know chinese”; “conocer” (only “gnoh”!) is for expressing the familiarity with someone, some place or something, like in “they know Oliver” or “I know Chile”.
+I need to make a special comment about the verb “woid”. It means “to know”, but there is other verb with the same translation that is “gnoh”. The difference between “gnoh” and “woid” is that “gnoh” has a broader meaning than “woid”. “Gnoh” can be translated to “saber” and “conocer” (spanish), “wissen” and “kennen” (german), “savoir” and “connaître” (french), while “woid” only can be translated to “saber” (spanish/portuguese), “wissen” (german) or “savoir” (french).
+
+Taking the spanish words as reference: “saber” means that you have the knowing of a fact or information, like in “he knows when to leave” or “I know chinese”; “conocer” is for expressing the familiarity with someone, some place or something, like in “they know Oliver” or “I know Chile”. In a resume:
+
+**Woid –** “saber” / “wissen” / “savoir”
+
+**Kehgn –** “conocer” / “kennen” / “connaître”
+
+**Gnoh –** woid + kehgn
 
 PRESENT
 -------
@@ -3329,7 +3339,7 @@ Look the very same conjugation from above, but with the pronouns:
 **Ies/Ias/Ia/I sont {yes/yas/ya/i sont} –** they are
 
 From now I'll omit the pronouns in the conjugations, but know you may
-use them.
+use them! It's just a personal choice of mine.
 
 Now let's see the conjugations of the verbs “hab” and “woid”:
 
@@ -3428,8 +3438,8 @@ I will talk about the nasal infix with more details in an appropriate
 chapter, but as I need right now that you have a notion about this
 subject, I'll show you a quick explanation.
 
-A verb with nasal infix is that one which have an *un*stressed “e”
-between the consonants “m” or “n”. In all verbal
+A verb with nasal infix has an *un*stressed “e”
+together the consonants “m” or “n”. In all verbal
 tenses, with the exception of a form of imperative that uses the own
 stem form of the verb, this kind of verb will suffer an alteration,
 which basically is a lost of the unstressed “e” and, maybe, some other
@@ -3606,7 +3616,7 @@ INFINITIVE
 ----------
 
 You were expecting that I would talk about the future tense, weren't? I
-will talk about the future tense in other opportunity because of I will
+will talk about the future tense in other opportunity because I will
 need the infinitive to explain it.
 
 **Ses {ses} –** to be
@@ -3622,7 +3632,7 @@ Verbs finished in an unstressed “e” don't change:
 For verbs with the nasal infix, the unstressed “e” is removed and it's
 added the termination -es.
 
-For verbs with “ei”{ey} or “eu”{ö} have these parts replaced
+Verbs with “ei”{ey} or “eu”{ö} have these parts replaced
 respectively for “i” and “u” and is added the termination -es.
 
 **Linekw {lInëkw}** – linkwes {lInkwës} *(to leave)*
@@ -3650,7 +3660,7 @@ Let's see a practical example:
 
 ### THE USE OF THE PREPOSITION “AD” WITH VERBS IN THE INFINITIVE
 
-You've meet an example of the kind:
+You've known an example of the following kind:
 
 **Ghohdim kaupe un wogh {gO:dim kAop un wog} –** I could buy a car
 
