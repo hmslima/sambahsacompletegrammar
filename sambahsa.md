@@ -3777,7 +3777,7 @@ it's the nie-.
 
 For an event that is close to occur, we use the auxiliar vah-. It
 works in the following way: we add to this auxiliary the appropriate
-conjugation and then we put the verb in the infinitive. I am going to
+conjugation of the present and then we put the verb in the infinitive. I am going to
 use the verb “orbat” (to work) in this example.
 
 []{#anchor-256}***(I)***** am **[]{#anchor-257}**going to work –** vahm
@@ -4145,7 +4145,7 @@ sieygeer
 The ending of these verbs are modified in the past tense and past
 participle:
 
-**Original –** after the modification
+**Original –** after modification
 
 **-d –** -s
 
@@ -4546,8 +4546,7 @@ suffix -ye (with hyphen!!!). Look some examples:
 
 **Enpace-ye –** peacefully
 
-It’s can be said that the -ye is like the -ly of english. But, in the
-same way as english, not all adverbs ends with the same ending, because
+It’s can be said that the -ye is like the -ly of english. But, as in english, not all adverbs ends with the same termination, because
 some words are adverbs by itselves, look some examples:
 
 **Tik –** only
@@ -4797,7 +4796,7 @@ make a question in the same way you do in english.
 NEGATION
 ========
 
-To answer a question in a negative form, you can simply say “no”.
+In order to answer a question in a negative way, you can simply say “no”.
 
 To create a negative verb, it’s enough to put the “ne” before the verb.
 
@@ -4911,7 +4910,7 @@ the present for making sentences like:
 
 **Woid –** woidend
 
-In theory the participles can be used as substantives, but actually it
+In theory, the participles can be used as substantives, but actually it
 never occurs, what happens is the use of endings like -(e)nt and -(a)nt,
 like in “president”, “studyent” and “immigrant”.
 
@@ -5004,7 +5003,7 @@ CONJUNCTIONS AND OTHER INVARIABLE WORDS
 
 Both in this chapter an in the next one, the chapter about the prepositions, I’ll work in the following way: I’ll show some direct
 translations of the words, but in the examples I may represent these
-invariable words from sambahsa by words or expressions of the english
+invariable Sambahsa words per words or expressions of the english
 language that I didn’t show in the direct translation. How? I’ll talk
 about the invariable word “schowi”, which is translated as “therefore, consequently”,
 but in the examples I did not exactly use this translation! I did it
@@ -5893,6 +5892,8 @@ cycliste travels 20 kmin the first hour, 16 in the second one, and so on.
 SOME DOUBTS THAT CAN APPEAR
 ---------------------------
 
+I've tried to explain the conjunctions well in the examples, I've even used very similar examples in order to evidence the differences, but some doubts can remain. In this subchapter I try to predict some of them and I try to answer them.
+
 ### WHAT'S THE DIFFERENCE BETWEEN “BET” AND “MEN”?
 
 While “bet”, the most common, presents a real opposition, “men” doesn't
@@ -6405,10 +6406,7 @@ a toy.
 SOME DOUBTS THAT CAN APPEAR
 ---------------------------
 
-I tried to explain well the prepositions in the examples, I even used
-very similar examples I order to evidence the differences, but some
-doubts can remain. In this subchapter I try to predict some of them and
-I try to answer them.
+I've tried to explain the prepositions well in the examples, I've even used very similar examples in order to evidence the differences, but some doubts can remain. In this subchapter I try to predict some of them and I try to answer them.
 
 
 ### DIFFERENCE BETWEEN “MED” AND “PER”
@@ -6862,12 +6860,12 @@ compounded word.
 STYLE
 =====
 
-Different of the national languages, which have native speakers inserted
+Different from the national languages, which have native speakers inserted
 in a determined social context, sambahsa is to be spoken between people
 of different backgrounds. A mongolian will find difficulties in
-understanding a person who speaks in the german way.
+understanding a person who speaks in the german way, regardless how the Sambahsa of this second person is grammatically correct and how his pronunciation is good.
 
-You must beaware to don't translate a sentence like “It's necessary to repair the house” to “id est necessar repare id dom”, the correct translation is “est necessar repare id dom”. Work on to avoid transporting characteristics from english to sambahsa. Another example: translate “it's good to see you” to “est khauris ghate vos” instead of “est khauris vide vos”.
+You must beaware to don't translate a sentence like “It's necessary to repair the house” to “id est necessar repare id dom”, the correct translation is “est necessar repare id dom”. Work on to avoid transporting characteristics from english to sambahsa.
 
 Do you know what is idiotism? It's is a linguistic term used to describe
 terms that are only used in a determined language, if they were directly
@@ -6891,24 +6889,24 @@ of speaking that are proper of americans or british.
 
 **What I am trying to say is:** talk in a simple way, but without lose
 the personality that the language allows us to have and the richness
-that it offer us.
+that it offers us.
 
 CHOOSING NEW WORDS
 ==================
 
 The primary source is, surely, what was reconstructed from the ancestor
-indo-european. As not all words were reconstructed, many of them can be
+(Proto-)Indo-European. As not all words were reconstructed, many of them can be
 obtained from indo-european ancient languages like sanskrit, ancient
 greek and latin.
 
-Other sources are borrowed words of, at least, two linguistic branchs,
+Other sources are borrowed words from, at least, two linguistic branchs,
 from West Europe until East Asia.
 
 There is no reason to worry about new words, sambahsa already has a
 great lexicon and new words will come from the absortion of neologisms.
 If it's not possible a translation from the existent lexicon in
 sambahsa, can be used the word in its original form, the terms from the
-computer science area are a good example of it. Words that imply a
+computer science area are a good example about it. Words that imply a
 specific cultural item, like a martial arts of a people or a typical
 dish, will be used the own word. It's similar what would happen in
 english, for example, the word 武術 *(wushu)* was translated in the
@@ -6920,17 +6918,16 @@ As you can see, naturally that the new words have to be adapted to the
 orthography of sambahsa, which due its flexibility tries at best
 maintain the words in their original form and original pronounce.
 
-COMMON MISTAKES AND DOUBTS
+COMMON MISTAKES AND QUESTONS
 ==========================
 
-In all this grammar I tried to explain all the details of the language,
-but always may exist something that someone have not understood. So I've
+In all this grammar I've tried to explain all the details of the language,
+but something that was not understood by someone may always exist. So I've
 created this chapter for listing all the mistakes and doubts I had
-throughout my learning of sambahsa, I hope that this chapter be useful
+throughout my learning in sambahsa, I hope that this chapter be useful
 for you.
 
-Obviously that will be added here, in future versions of this grammar,
-doubts of other people.
+Obviously that, in future versions of this grammar, questions of other people will be added here.
 
 WHAT REALLY MEANS THE VERB “LEIT”
 ---------------------------------
@@ -7087,12 +7084,12 @@ initiate the reading of texts with a bit of comfort.
 
 There are several subchapters that treats several areas, like human body
 and computers, but it will be just basic concepts, there is no pretension here in to list the names in sambahsa of all muscles and bones
-of the human body, similarly that all names of Information Technology;
+of the human body or all the names concerning Information Technology;
 you'll have to search the words in a dictionary or, in the case of very
 specific terms, in dictionaries about a specific area like dicionaries
 of medical terms.
 
-Also is important pay attention in which subchapter the words are found
+Also it's important to pay attention in which subchapter the words are found
 in order to you don't have unnecessary doubts about the actual meaning
 of the words. I wanna avoid situations like you see the word “musch”,
 whose translation is “fly”, and you think that it means the verb “to
@@ -7109,7 +7106,7 @@ VERBS
 -----
 
 *Although the english words are in the infinitive form, the presented
-sambahsa words are in their stem form. Exemple: the **infinitive** verb
+sambahsa verbs are in their stem form. Exemple: the **infinitive** verb
 “to add” is “addihes” in sambahsa, not “addeih”. Are we understood?*
 
 **Acquiseih {akizE:y} –** to acquire *(like, for example, in a legal
