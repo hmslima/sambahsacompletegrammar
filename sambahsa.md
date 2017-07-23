@@ -4726,10 +4726,12 @@ Basically the relation is:
 The relative pronouns yo(s)/ya/yod are to make independent sentences,
 how? Look the example below:
 
-**Latif, yo gwivt in Afghanistan, baht Sambahsa –** Latif, who lives in
+**Latif, gwivt-yo in Afghanistan, baht Sambahsa –** Latif, who lives in
 Afghanistan, speaks sambahsa
 
-Notice that even we remove the “yo gwivt in Afghanistan” (“who lives in
+*They actually are enclitics, you'll know more about them in a appropriate chapter, it's enough to know that they must be suffixed – with hyphen – just after the verb.*
+
+Notice that even we remove the “gwivt-yo in Afghanistan” (“who lives in
 Afghanistan”), the sentence wouldn’t lose its meaning, once “Latif baht
 Sambahsa” still pass the same message? We can understand the relative
 pronouns yo(s)/ya/yod insert an information merely additional that –
@@ -6836,6 +6838,10 @@ within of a compounded word
 **Drehnknic –** drunkard
 
 **-nica –** pejorative *(feminine)*
+
+**-on –** precision *(with hyphen)*
+
+***Segim mien diemens. Bet ye tod-on momento, ies Orks vols ed exkardkiesch ir simitars ed dagas –** I cut my bonds. But at this very moment, the Orcs turned around and pulled out their scimitars and daggers*
 
 **-os –*** *on a verb it means “game of”
 
