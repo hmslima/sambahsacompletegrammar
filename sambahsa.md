@@ -1,4 +1,4 @@
-Version: 1.80 Beta
+Version: 2.00 Beta
 
 Sambahsa Mundialect
 
@@ -8,29 +8,34 @@ Henrique Matheus da Silva Lima
 
 Revision: Dr. Olivier Simon
 
-**Version:** 1.80 Beta
+**Version:** 1.97 Beta
 
 IMPORTANT NOTES ABOUT LEGAL ISSUES
 
-This grammar is licensed under the Creative Commons CC-BY 4.0 license,
-in other words, you may distribute, remix, adapt and create derivative
-works, even for commercial purposes; Its only obligation is to attribute
-due credit for the original creation.
+This grammar is licensed under the Creative Commons CC-BY 4.0 license.
 
 ![](Pictures/200000070000091900000335273053DC.svm){width="2.328cm"
 height="0.82cm"}
 
+**You are free to:**
+
+**Share –** copy and redistribute the material in any medium or format
+**Adapt –** remix, transform, and build upon the material for any purpose, even commercially.
+	You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+	You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+	Here is the link for more information: https://creativecommons.org/licenses/by/4.0/deed.en
+
 The sambahsa language authorship is of Dr. Olivier Simon, the language's
 use is free for anyone. For the elaboration of this grammar, *The Grammar Of Sambahsa-Mundialect In English*
 by Dr. Olivier Simon was used. Some subchapters of this grammar are practically
-a translation of Olivier's book. Dr. Simon has given me permission to do so, even 
-considering the license of this book. I've also utilised many
+a transcription of Olivier's book. Dr. Simon has given me permission to do so, even 
+considering the license of this book. I've also utilized many
 examples from *The Grammar Of Sambahsa-Mundialect In English* and others
 that Dr. Simon made for me.
 
-It's very important to inform the reader that the language itself is not under a Creative
-Commons license or anything like it, the language is under the traditional Copyright license in which Dr. Olivier Simon has all property rights. As was said, the language is
-free, you can translate your works, or produce original works, without
+It's very important to inform the reader that **the language itself is not under a Creative
+Commons license or anything like it**, the language is under the traditional Copyright license in which Dr. Olivier Simon has all property rights. As was said, **the language is
+free**, you can translate your works, or produce original works, without
 the need of Dr. Olivier Simon's permission, even it is for commercial
 purposes; in other words, you can write books in sambahsa and sell them
 without problems. Enjoy this beautiful language.
@@ -46,19 +51,14 @@ know that there are things to be improved and even corrected.**
 
 THIS GRAMMAR WAS TRANSLATED FROM BRAZILIAN PORTUGUESE TO ENGLISH! WAITING FOR AVAILABLE NATIVE SPEAKERS TO MAKE A REVISION.
 
-For the people who will revise my translation, I thank you very much, my
-english definitively is not good, but I hope that I didn't leave much
-work for you. If you find something very strange, please warn me, maybe
-it is strange in the original work too :P !!!
-
-**Pay attention here (!!!): this grammar still is in its beta version, so I still will make some changes and additions, just keep it in mind. But you can start the revision if you want.**
-
 ACKNOWLEDGEMENTS
 
 []{#anchor}I thank to Dr. Olivier Simon for making himself available for
 answering my questions and giving me many examples, many examples of
 this grammar are from him. I must thank him twice, because he had all the
 patience in the world for me. He is almost the coauthor of this book.
+
+I thank to Cale Short for making the revision of the English of some few texts of this grammar.
 
 Also a thanks to Sylvain Auclair, Martín Rincón Botero and Justin
 Gagnon, who helped me a lot.
@@ -246,9 +246,9 @@ People complains that Sambahsa has difficult sounds to learn, but all languages 
 
 > **French –** [ɲ], *[ʁ]*, [ɥ], [œ], *[ø]*, *[y]*, [ɑ̃], [ɛ̃], [œ̃], [ɔ̃]
 
-Maybe Sambahsa could have simpler sounds *(simple for who?)* or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like the [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you can be pronouncing all of them in a week.
+Maybe Sambahsa could have simpler sounds *(simple for who?)* or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you can be pronouncing all of them in a week.
 
-Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: the adjective “beautiful” is “bell” in Sambahsa while “ugly” is “biaur” in Sambahsa; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
+Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: in Sambahsa the adjective “beautiful” is “bell” while “ugly” is “biaur”; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
 
 **Everything has a price:** many auxiliary languages try the possible to be the simplest by adopting very simple orthographies: one
 letter, one sound; all nouns having only one ending, all adjectives having
@@ -273,7 +273,7 @@ unnecessarily difficult.
 
 []{#anchor-2}*Arrested for having dog, arrested for not having dog*.
 
-THE SAMBAHSA VOCABULARY
+THE SAMBAHSA'S VOCABULARY
 -----------------------
 
 Just below there is a list of languages that had contributed for the sambahsa
@@ -3231,6 +3231,8 @@ didn1t existed
 **Ye id dien kun is mohr, vasyi buir trauric –** On the day he died,
 everybody were sad
 
+*As relative pronouns, there is no difference between “kun” and “quan(do)”, but only “quan(do)” may be used in the interrogative form.*
+
 **Yando {yAndo} –** sometimes
 
 **Ops {ops} –** often
@@ -3240,6 +3242,8 @@ everybody were sad
 **Yant {yant} –** as soon as
 
 **Tun {tun} –** then
+
+*“Tun” is equivalent to the Sambahsa expressions: “ye tod tid”, “in tod condition”, etc*
 
 **Semper {sEmpër} –** always
 
@@ -4729,7 +4733,8 @@ how? Look the example below:
 **Latif, gwivt-yo in Afghanistan, baht Sambahsa –** Latif, who lives in
 Afghanistan, speaks sambahsa
 
-*They actually are enclitics, you'll know more about them in a appropriate chapter, it's enough to know that they must be suffixed – with hyphen – just after the verb.*
+*They actually are 
+s, you'll know more about them in a appropriate chapter, it's enough to know that they must be suffixed – with hyphen – just after the verb.*
 
 Notice that even we remove the “gwivt-yo in Afghanistan” (“who lives in
 Afghanistan”), the sentence wouldn’t lose its meaning, once “Latif baht
@@ -5273,6 +5278,10 @@ It's synonyms of “bfuyi”
 
 ***Gwahsim id mercat, dind gwahsim kyrk –** I went to market, then I went
 to church*
+
+***Iran speht ithan crisces sien financial ressurces –** Iran hopes to increase this way its financial resources*
+
+*It's synonyms of “poskwo” and “pos to”*
 
 **Dexios {dEksjos} –** briskly
 
@@ -6487,18 +6496,37 @@ The word “tun” is the demonstrative of “kun” or “quando”.
 Asia id trit part ios gnoht mundios tun –** Herodot extends this name to
 the continental hinterland, making thus of Asia the third part of the
 known world then* (at that time)*
+**Id Occidental nam ios land gwehmt sigwra ex id Medieval Chinese pronunciation tom khanjis, quod tun buit launto do id bahsa Indonesias ka “Jepang”, ed dind ab Portughesche nauts –** the Occidental name of the country surely comes from the Medieval Chinese pronounciation of those hanzis, which was then borrowed into Indonesian as “Jepang”, and afterwards by Portuguese sailors
 
-“nu” can work in opposition to “de”. Basically it means “namely” and its a proclitic.
+“nu” can work in opposition to “de”. Basically it means “namely” and its a proclitic. Actually “nu” hasn’t a real meaning, it’s used to bring an additional information.
 
 **Un public wesnum est un contracto conclus ab un contragend magh, nu id
 Stat, ia regional au local autoritats –** a public procurement is a
 contract concluded by a contracting authority, namely/that is to say the
 State, the regional or local authorities (etc …)
 
+**Central ed Eust Asia nu est befolct ab mongoloids. Indonesia de superpont uni aborigine substrat malays populations –** Central & East Asia is populated *(on its side)* by mongoloids. Indonesia ((on its side)* superposes malay populations to an aborigine substrate
+
+    *uni = un + i = ad un (dative singular)*
+
+When you have to use some clitic, but you haven’t a word with the convenient accentuation that supports the clitic, you can use “nu” as a support, like in “nughi” *(nu + ghi)* or with the relative pronouns “yos”, “ya”, “yod”, “yel” *(for example: nu- yos, nu-yel)*.
+
+**Chanda ex Zambia, nu-yos suabaht Sambahsa, gnoht maung bahsas –** Chanda from Zambia, who speaks well Sambahsa, knows many languages
+
 “ge” and “tar” are like “ghi”, but as, sometimes, the repetition of the
 particle “ghi” occurs very repeatedly, it's used these two particles.
 “ge” emphasizes personal pronouns and articles, while “tar” emphasizes
 interrogative pronouns.
+
+**Ia gehnsiet un son, ed ei dahsies id nam Jesus; is ge salvsiet sien popule ex idsa synts –** she will conceive a son, whom she will give the name Jesus; it’s him who will save his people from its sins
+
+**Yed, isge ieg kam weysmee –** however, he did like we (did)
+
+*-ge is put together to a personal pronoun, in this sentence of the example -ge is here to emphasize the opposition with “wey-smee”*
+
+**Quod tar tengicit is? –** what did he (really) look like?
+
+*Often “tar” and “ge” are not directly translated to another language, especially “tar”*
 
 An excellent example with “nu” and “tar”:
 
