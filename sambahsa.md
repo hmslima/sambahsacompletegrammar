@@ -1,4 +1,4 @@
-Version: 2.00 Beta
+**ATTENTION:** Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the text, which is in the original .odt file, this file sambahsa.md only will be used to show the changes made by the contributors, the real changes will be made in the .odt file that you can download from this github page: https://github.com/hmslima/sambahsacompletegrammar
 
 Sambahsa Mundialect
 
