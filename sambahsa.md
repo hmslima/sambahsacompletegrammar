@@ -8,7 +8,7 @@ Henrique Matheus da Silva Lima
 
 Revision: Dr. Olivier Simon
 
-**Version:** 1.97 Beta
+**Version:** 2.00 Beta
 
 IMPORTANT NOTES ABOUT LEGAL ISSUES
 
@@ -116,7 +116,7 @@ ideologies may use this language as they please.
 As has been said, this grammar is free, because it is under the license
 Creative Commons CC-BY 4.0, you may modify it as you want and even use
 it for commercial purposes. You may also use this book to make your own
-version of the sambahsa's grammar and even sell it in the market of your
+version of Sambahsa's grammar and even sell it in the market of your
 city, if you want. Your only obligation is to attribute the due credit
 to original author, I hope it's not much to ask. But just remember that this license doesn't apply to the language itself.
 
