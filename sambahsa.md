@@ -5315,6 +5315,8 @@ gonna investigate discretely, but meanwhile, that must remain between us.
 **Ne weiko in tod dom esdi i payghent me –** I don't live in that house even
 if they pay me.
 
+**I men Chineses name ir land Zhōngguó, quo hat dahn id Sambahsa Giungkwok, esdi tod nam est neter nudt in id official nam ios Popules Respublic China, ni in tod ios Respublic China (Taywan) –** Chinese do call their country Zhōngguó, what has given the Sambahsa Giungkwok, even if this name is neither used in the official name of the People's Republic of China, nor in Taiwan's one
+
 **Eni {Eni} –** within, inside
 
 ***El kwaun est eni id dom –** The dog is inside the house.*
@@ -5534,7 +5536,7 @@ good father, I promise.
 
 ***Hatta eys prientias kwecto kihr ep un samliko catholicitat os suabuhsa –** even his friendships seemed to be founded in a similar catholicity of good-nature*
 
-**Kweid {kweyd} –** even if, though
+**Kweid {kweyd} –** even if, though *(pass the idea of: under the price of/it is necessary that)*
 
 ***Iaschi EU lands maghe bihe tenten ab bringhes wahid-ye securitara responses ei probleme os terrorisme, kweid biht limitet id bungos iom civil lures –** the EU countries themselves may be tempted to bring security-only responses to the problem of terrorism, even (under the price of) if the function of the civil freedoms gets limited*
 
