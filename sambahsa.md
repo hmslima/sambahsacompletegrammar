@@ -5315,7 +5315,8 @@ gonna investigate discretely, but meanwhile, that must remain between us.
 **Ne weiko in tod dom esdi i payghent me –** I don't live in that house even
 if they pay me.
 
-**I men Chineses name ir land Zhōngguó, quo hat dahn id Sambahsa Giungkwok, esdi tod nam est neter nudt in id official nam ios Popules Respublic China, ni in tod ios Respublic China (Taywan) –** Chinese do call their country Zhōngguó, what has given the Sambahsa Giungkwok, even if this name is neither used in the official name of the People's Republic of China, nor in Taiwan's one
+**I men Chineses name ir land Zhōngguó, quo hat dahn id Sambahsa Giungkwok, esdi tod nam est neter nudt in id official nam ios Popules Respublic China, ni in tod ios Respublic China (Taywan). China de gwehmt ex id nam ios megil cesar Qin Shi Huangdi (246-210 pre JC) –** Chinese do call their country Zhōngguó, what has given the Sambahsa Giungkwok, even if this name is neither used in the official name of the People's Republic of China, nor in Taiwan's one. “China” comes from the name of the great emperor Qin Shi Huangdi (246-210 B.C.)
+    If you didn’t understand the use of “… men (…) de …”, in the chapter “Enclitics and Proclitics” there is an explanation.
 
 **Eni {Eni} –** within, inside
 
@@ -6504,17 +6505,6 @@ the continental hinterland, making thus of Asia the third part of the
 known world then* (at that time)*
 **Id Occidental nam ios land gwehmt sigwra ex id Medieval Chinese pronunciation tom khanjis, quod tun buit launto do id bahsa Indonesias ka “Jepang”, ed dind ab Portughesche nauts –** the Occidental name of the country surely comes from the Medieval Chinese pronounciation of those hanzis, which was then borrowed into Indonesian as “Jepang”, and afterwards by Portuguese sailors
 
-“nu” can work in opposition to “de”. Basically it means “namely” and its a proclitic. Actually “nu” hasn’t a real meaning, it’s used to bring an additional information.
-
-**Un public wesnum est un contracto conclus ab un contragend magh, nu id
-Stat, ia regional au local autoritats –** a public procurement is a
-contract concluded by a contracting authority, namely/that is to say the
-State, the regional or local authorities (etc …)
-
-**Central ed Eust Asia nu est befolct ab mongoloids. Indonesia de superpont uni aborigine substrat malays populations –** Central & East Asia is populated *(on its side)* by mongoloids. Indonesia ((on its side)* superposes malay populations to an aborigine substrate
-
-    *uni = un + i = ad un (dative singular)*
-
 When you have to use some clitic, but you haven’t a word with the convenient accentuation that supports the clitic, you can use “nu” as a support, like in “nughi” *(nu + ghi)* or with the relative pronouns “yos”, “ya”, “yod”, “yel” *(for example: nu- yos, nu-yel)*.
 
 **Chanda ex Zambia, nu-yos suabaht Sambahsa, gnoht maung bahsas –** Chanda from Zambia, who speaks well Sambahsa, knows many languages
@@ -6586,6 +6576,23 @@ The proclitic “proe” is often translated as “already”.
 **Mien kerd hat tem aghnuet quem ioschi proe-plangiem –** I came away with that upon my heart, that I could have wept too
 
 **… proeghi tetyohc pelu dwogimtias –** … a thing that had befallen many scores of times
+
+The set “… men (…) de …” or “… nu (…) de …” shows an opposition between two sentences:
+
+**Olivier men weict in France; Henrique de in Brasilu –** Olivier lives *(on his side)* in France; Henrique *(for what regards him)* in Brazil
+
+**Central ed Eust Asia nu est befolct ab mongoloids. Indonesia de superpont uni aborigine substrat malays populations –** Central & East Asia is populated *(on its side)* by mongoloids. Indonesia ((on its side)* superposes malay populations to an aborigine substrate
+
+    *uni = un + i = ad un (dative singular)*
+
+“… men (…) de …” and “… nu (…) de …” have the very same role.
+
+But when “nu” is used alone, that’s to say, it’s not used in conjunction with “de”, it’s an adverb that means “namely”.
+
+**Un public wesnum est un contracto conclus ab un contragend magh, nu id
+Stat, ia regional au local autoritats –** a public procurement is a
+contract concluded by a contracting authority, namely/that is to say the
+State, the regional or local authorities (etc …)
 
 The enclitic affix -schi already was explained and the enclitic affix -smee will be explained soon.
 
