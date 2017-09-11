@@ -6360,6 +6360,8 @@ starts from the city and runs to the sea.
 
 **Trans tod fluv –** Beyond the river.
 
+**Trans destruge doms, hurcan Irma hat nicen leuds –** beyond the destruction of houses, the hurricane Irma has killed people
+
 **Ud {ud} –** from, of
 
 **Un brev ud Clara –** A letter from Clara
