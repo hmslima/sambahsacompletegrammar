@@ -6269,7 +6269,7 @@ a blue-clad rider who was galopped before him from the right to the left.
 
 **El shamyu snahsit pri me –** The shark was swimming along me.
 
-**Pro {pro} –** for (the benefit of)
+**Pro {pro} –** for (the benefit of), to, per
 
 **Kieupim un cavall pro te –** I bought a horse for you.
 
@@ -6278,6 +6278,8 @@ a blue-clad rider who was galopped before him from the right to the left.
 **El behrger mohrit pro vies gwits –** The saviour died for your lives.
 
 ***Dec kilometers pro hor –** ten kilometers per hour*
+
+***To est nearyo pro me –** that's Greek to me / it's double Dutch*
 
 **Prod {prod} –** ahead (of)
 
