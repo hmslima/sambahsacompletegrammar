@@ -7,3 +7,5 @@ This project aims to create a friendly complete grammar book about Sambahsa Mund
 The book still is in its beta phase, but it already can be used since most of the rules are exposed with many examples. You find the most current version in the file [sambahsa.md](/sambahsa.md), but maybe you find better to read the version in pdf that you can find in the [release's page](https://github.com/hmslima/sambahsacompletegrammar/releases).
 
 Although my updates and contributions of others are made in the sambahsa.md file, I also put all the updates in an .odt file in order to create a well formatted .pdf file.
+
+**ATTENTION:** Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the text, which is in the original .odt file, this file sambahsa.md only will be used to show the changes made by the contributors, the real changes will be made in the .odt file that you can download from this github page: https://github.com/hmslima/sambahsacompletegrammar
