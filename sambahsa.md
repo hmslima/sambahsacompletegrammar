@@ -2182,6 +2182,16 @@ The indefinide article is “un”.
 
 **A girl –** un bent {un bent}
 
+The Sambahsa word “sem” is not an indefinite article, but I’ll explain about it now. It’s like our “some”, same as in English it doesn’t change its number when the substantive is in the plural, look:
+
+**Sem apel {sem Apël} –** some apple
+
+**Sem apels {sem Apëls} –** some apples
+
+But if this “sem” is as a substantive, thus it must receive an appropriate ending. Just after there is a complex sentence, of course that you don’t need to understand it now, I only want that you see how this “sem” can behave as a substantive.
+
+**Sems credeihnt est neid global warmen –** some *(people)* believe there is no global warming
+
 HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
 ========================================
 
