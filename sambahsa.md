@@ -1590,9 +1590,11 @@ need be in a hurry!!!!!!
 **To {to} –** generic pronoun*, when the sense of approximation doesn't
 apply, it can be translated as “this”, “that”, “these” and “those”*
 
-The pronoun “ego” is the emphatized form of “io”. When we use “ego”
-instead “io”, we want to say that there is a certain relevance in the
-“I” that is doing or suffering this or that action.
+**Quo {kwo} –** the same as “to”, but this one can be translated to “what”.
+
+    *Please see the subchapter “How work generic pronouns like “to” and “quo”?” from the chapter “Common mistakes and questions”.*
+
+    The pronoun “ego” is the emphatized form of “io”. When we use “ego” instead “io”, we want to say that there is a certain relevance in the “I” that is doing or suffering this or that action.
 
 I'll ask you to stop here for a while and study the pronouns (only the
 personal pronouns!), because I will use them a lot from here.
@@ -1701,7 +1703,9 @@ Basically is the direct object of a sentence.
 
 **Nei –** nei {ney}
 
-**To – **to
+**To –** to
+
+**Quo –** quo
 
 DATIVE CASE
 -----------
@@ -1804,7 +1808,9 @@ Don't be in a hurry to learn the pronouns from below!
 
 **Nei –** nim {nim}
 
-**To – **ad to
+**To –** ad to
+
+**Quo –** ad quo
 
 GENITIVE CASE
 -------------
@@ -1899,6 +1905,8 @@ Don't be in a hurry to learn the pronouns from below!
 **Nei –** nim {nim}
 
 **To –** os to
+
+**Quo –** os quo
 
 Let's see some examples
 
@@ -6989,6 +6997,24 @@ throughout my learning in sambahsa, I hope that this chapter be useful
 for you.
 
 Obviously that, in future versions of this grammar, questions of other people will be added here.
+
+
+
+HOW WORK GENERIC PRONOUNS LIKE “TO” AND “QUO”?
+==========================
+
+Words like “to” and “quo” are generic pronouns that especially refer to already said things, they are for neutral singular nominative/accusative. They don’t suffer declination.
+
+**Henrique hat creet un nov automatic dictionar. Tod suawehrct!**
+Here “tod” refers to “automatic dictionar”.
+
+**Henrique hat creet un nov automatic dictionar. To est un khauris khabar!**
+Here “to” sto the previous sentence, to the fact that Henrique has created a new dictionary.
+
+**Est her un annunce quod correspondt quo tu paurskes**
+Here “quod” refers to “annunce” and “quo” refers to something that was not said in the sentence.
+
+Is it possible more generic pronouns? In theory would be possible pronouns like “cio” and “eno”, but they almost are never used.
 
 WHAT REALLY MEANS THE VERB “LEIT”
 ---------------------------------
