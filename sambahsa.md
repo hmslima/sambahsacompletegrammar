@@ -1588,7 +1588,7 @@ need be in a hurry!!!!!!
 **Nei {ney} –** none* (undetermined / plural)*
 
 **To {to} –** generic pronoun*, when the sense of approximation doesn't
-apply, it can be translated as “this”, “that”, “these” and “those”*
+apply, it can be translated as “this” and “that”
 
 **Quo {kwo} –** the same as “to”, but this one can be translated to “what”.
 
@@ -7006,12 +7006,20 @@ HOW WORK GENERIC PRONOUNS LIKE “TO” AND “QUO”?
 Words like “to” and “quo” are generic pronouns that especially refer to already said things, they are for neutral singular nominative/accusative. They don’t suffer declination.
 
 **Henrique hat creet un nov automatic dictionar. Tod suawehrct!**
+
 Here “tod” refers to “automatic dictionar”.
 
 **Henrique hat creet un nov automatic dictionar. To est un khauris khabar!**
+
 Here “to” sto the previous sentence, to the fact that Henrique has created a new dictionary.
 
-**Est her un annunce quod correspondt quo tu paurskes**
+**“To hat duren pior diu!!!!” sieyg is ob impatience.**
+
+Here “to” refers to the situation that created this impatience.
+
+**El prient: “Volo kaupe un ieftin deluxe auto, bet ne trehvo semject interessant in id journal”. 
+Serter: Est her un annunce quod correspondt quo tu paurskes**
+
 Here “quod” refers to “annunce” and “quo” refers to something that was not said in the sentence.
 
 Is it possible more generic pronouns? In theory would be possible pronouns like “cio” and “eno”, but they almost are never used.
