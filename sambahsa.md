@@ -1812,6 +1812,16 @@ Don't be in a hurry to learn the pronouns from below!
 
 **Quo –** ad quo
 
+If you forget the dative form of the pronoun, you can use the preposition “ad”. Some examples below:
+
+**mi =** ad me
+
+**tib =** ad te
+
+**tal =** ad tel
+
+**quei =** ad quod
+
 GENITIVE CASE
 -------------
 
@@ -1907,6 +1917,8 @@ Don't be in a hurry to learn the pronouns from below!
 **To –** os to
 
 **Quo –** os quo
+
+You ask me: *may I, for example, substitute “ios” for “os is”, “ias” for “as ia”, “tal” for “os tel”, “quos” for “os quod” and so on?* It’s preferable that you don't do that.
 
 Let's see some examples
 
