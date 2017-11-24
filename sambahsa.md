@@ -1245,6 +1245,8 @@ linked to the pronoun “I”. Let's to the next sentences:
 
 **Wey smos americans {wey smos amerikAns} –** we are americans
 
+**Sambahsa est facil {sambA:sa est fAcil} –** Sambahsa is easy
+
 The next cases are fairly interesting:
 
 **Id est gohd {id est go:d} –** it is good *(neutral)*
@@ -2049,10 +2051,99 @@ only have to apply in the direct object. About the declination in the
 genitive, I'll teach it after you learn the verbs, I think it's better
 in this way.
 
+THE ARTICLES
+============
+
+DEFINITE ARTICLES
+-----------------
+
+A characteristic of sambahsa that stand out is its definite articles,
+the words are the same of the pronouns. How? Look the translations
+below:
+
+**The man –** is wir {is wir}
+
+**The woman –** ia gwen {ya gwen}
+
+**The dog –** el kwaun {el kwAon}
+
+**The person –** el anghen {el Angën} *or* el person {el përsOn}
+
+**The person –** is anghen *(masculine person)*
+
+**The country –** id land {id land}
+
+**The people *****(from a determined culture)***** – **id folk {id folk}
+
+**The people *****(low social class)***** –** id popule {id pOpül}
+
+Can you understand how the language works? In the sambahsa logic you
+don't speak “the secreatry” or “the man”, but “she secretary” and “he
+man”. Bear in mind that the articles suffers the declination as well as
+the pronouns.
+
+***The***** dog loves *****the***** woman – ***el* kwaun lieubht *iam*
+gwen {el kwAon liöbt yam gwen}
+
+    You could not translate “The dog loves the woman” as “el kwaun lieubht ia gwen” because the definite article that is linked to the substantive “woman” must suffer the declination to accusative.
+
+Another example, but involving the dative case too:
+
+***The***** *****(female)***** manager sent *****the***** e-mail
+*****for the***** *****(male)***** president –** *ia* manager yisit *id*
+blixbrev *ei* president.
+
+INDEFINITE ARTICLE
+------------------
+
+The indefinite article is “un”.
+
+**A apple –** un apel {un Apël}
+
+**A wall –** un mur {un mur}
+
+**A boy –** un pwarn {un pwarn}
+
+**A girl –** un bent {un bent}
+
+The Sambahsa word “sem” is not an indefinite article, but I’ll explain about it now. It’s like our “some”, same as in English it doesn’t change its number when the substantive is in the plural, look:
+
+**Sem apel {sem Apël} –** some apple
+
+**Sem apels {sem Apëls} –** some apples
+
+But if this “sem” is as a substantive, thus it must receive an appropriate ending. Just after there is a complex sentence, of course that you don’t need to understand it now, I only want that you see how this “sem” can behave as a substantive.
+
+**Sems credeihnt est neid global warmen –** some *(people)* believe there is no global warming
+
+HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
+========================================
+
+It's good to teach you right now this two very basic conjunctions,
+because until we reach the chapter about conjunctions, maybe we will
+have seen some examples with them.
+
+The conjunction “and” is translated as “ed” for sambahsa.
+
+**He and I – **is ed io
+
+As “or” you need to pay a bit more of attention. Often you'll use “au”:
+
+**He or me – **is au io {is Ao yo}
+
+But when we deal with two clauses, we use the conjunction “we” *(don't
+get confused with the english pronoun!)*. I'll use a complex sentence, but
+only look at how the conjunction is used:
+
+[]{#anchor-144}My child, you must choose: to play in the park *or* to
+swim in the pool
+
+Mien purt, dehlcs chuses: likes in id park *we* snahe in id piscine
+
 **POSSESSION** 
 ===============
 
-There the prepositions of possession:
+Here are the prepositions of possession:
 
 **Masculine in the singular –** os
 
@@ -2070,16 +2161,33 @@ There the prepositions of possession:
 
 **Undetermined in the plural –** em
 
-Look an example:
+Look some examples:
 
 **The death of Louis –** id mohrt os Louis {id mo:rt os lU:is}
 
-When diverse elements are owners of something, it's interesting to use
-the word “sbei”.
+**The house of Paul and Peter –** id dom om Paulo ed Peter
 
-**The house of Paul and Peter –** Paul ed Peter sbei dom
+    *“Ed” is the conjunction “and”, after I explain about conjunctions.*
+    
+**The son of Julia –** is son as Julia {is son as jUlya}
 
-“Ed” is the conjunction “and”, after I explain about conjunctions.
+**The doll of Lara and Carla –** id pupp am Lara ed Carla {id pup am lAra ed kArla}
+
+When diverse elements are owners of something, you also may use the word “sbei” {sbey}, thus “id dom om Paulo ed Peter” and “id pupp am Lara ed Carla” may be rewritten as:
+
+“Paul ed Peter sbei dom”
+
+“Lara ed Carla sbei pupp”
+
+Other possibility is the use of declinations:
+
+**The death of Louis –** id Louisios mohrt {id luIzyos mo:rt}
+
+**The house of Paul and Peter –** Id Paulos ed Peters dom {id pAolos ed pEtërs dom}
+
+We could not say “Id Pauloios ed Peterios dom” because this manner would change the accentuation of the word, thus would be {paolOyos} and {petEryos}.
+
+I've showed you these two last examples with declination because I have the obligation in teaching everything, but would be better you prefer “id mohrt os Louis” and “id dom om Paulo ed Peter”/“Paulo ed Peter sbei dom” because of they are simpler. The pronunciation of “Louisios”{luIzyos}*(or {luIyos} if we take the French pronunciation of the name “Louis”)* is simply bizarre. In the other example some people could not notice that Paulo is owner of the house too. Prefer the simplest mode, let the declinations for more appropriate moments.
 
 DIFFERENCE OF USE OF PREPOSITION OF POSSESSION AND GENITIVE CASE
 ----------------------------------------------------------------
@@ -2151,90 +2259,19 @@ thing. *
 I'll teach you how to use the pronoun “sien” after I teach you the
 verbs”.
 
-THE ARTICLES
-============
+We may combine these pronouns with the declinations in order to translate that situations when we use the preposition “of” with some possessive pronouns.
 
-DEFINITE ARTICLES
------------------
+**… of my men –** … mienen wirs {miEnën wirs}
 
-A characteristic of sambahsa that stand out is its definite articles,
-the words are the same of the pronouns. How? Look the translations
-below:
+**… of your son –** … tien(io)s son {tiEn(yo)s son}
 
-**The man –** is wir {is wir}
+**… of our daughters –** … niesen dugters {nyEzën dUgtërs}
 
-**The woman –** ia gwen {ya gwen}
+**… of our daughter –** … nies(ia)s dugter {nyEz(ya)s dUgtër}
 
-**The dog –** el kwaun {el kwAon}
+    ***Example:** the house of your son → id dom tiens son*
 
-**The person –** el anghen {el Angën} *or* el person {el përsOn}
-
-**The person –** is anghen *(masculine person)*
-
-**The country –** id land {id land}
-
-**The people *****(from a determined culture)***** – **id folk {id folk}
-
-**The people *****(low social class)***** –** id popule {id pOpül}
-
-Can you understand how the language works? In the sambahsa logic you
-don't speak “the secreatry” or “the man”, but “she secretary” and “he
-man”. Bear in mind that the articles suffers the declination as well as
-the pronouns.
-
-***The***** dog loves *****the***** woman – ***el* kwaun lieubht *iam*
-gwen {el kwAon liöbt yam gwen}
-
-Articles suffer declination:
-
-***The***** *****(female)***** manager sent *****the***** e-mail
-*****for the***** *****(male)***** president –** *ia* manager yisit *id*
-blixbrev *ei* president.
-
-INDEFINITE ARTICLE
-------------------
-
-The indefinide article is “un”.
-
-**A apple –** un apel {un Apël}
-
-**A wall –** un mur {un mur}
-
-**A girl –** un bent {un bent}
-
-The Sambahsa word “sem” is not an indefinite article, but I’ll explain about it now. It’s like our “some”, same as in English it doesn’t change its number when the substantive is in the plural, look:
-
-**Sem apel {sem Apël} –** some apple
-
-**Sem apels {sem Apëls} –** some apples
-
-But if this “sem” is as a substantive, thus it must receive an appropriate ending. Just after there is a complex sentence, of course that you don’t need to understand it now, I only want that you see how this “sem” can behave as a substantive.
-
-**Sems credeihnt est neid global warmen –** some *(people)* believe there is no global warming
-
-HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
-========================================
-
-It's good to teach you right now this two very basic conjunctions,
-because until we reach the chapter about conjuctions, maybe we will
-have seen some examples with them.
-
-The conjuction “and” is translated as “ed” for sambahsa.
-
-**He and I – **is ed io
-
-As “or” you need to pay a bit more of attention. Often you'll use “au”:
-
-**He or me – **is au io {is Ao yo}
-
-But when we deal with two clauses, we use the conjuction “we” *(don't
-get confused with the english pronoun!)*. I'll use a complex sentense, but
-only look at how the conjuction is used:
-
-[]{#anchor-144}My child, you must choose: to play in the park *or* to
-swim in the pool
-
-Mien purt, dehlcs chuses: likes in id park *we* snahe in id piscine
+Of course that you may say something like “id dom os tien son” oo “id pupp am nies dugters”.
 
 ADJECTIVES
 ==========
