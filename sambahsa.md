@@ -2166,8 +2166,6 @@ Look some examples:
 **The death of Louis –** id mohrt os Louis {id mo:rt os lU:is}
 
 **The house of Paul and Peter –** id dom om Paulo ed Peter
-
-    *“Ed” is the conjunction “and”, after I explain about conjunctions.*
     
 **The son of Julia –** is son as Julia {is son as jUlya}
 
@@ -2181,13 +2179,15 @@ When diverse elements are owners of something, you also may use the word “sbei
 
 Other possibility is the use of declinations:
 
-**The death of Louis –** id Louisios mohrt {id luIzyos mo:rt}
+**The death of Louis –** Louisios mohrt {id luIzyos mo:rt}
 
-**The house of Paul and Peter –** Id Paulos ed Peters dom {id pAolos ed pEtërs dom}
+**The house of Paul and Peter –** Paulos ed Peters dom {id pAolos ed pEtërs dom}
 
-We could not say “Id Pauloios ed Peterios dom” because this manner would change the accentuation of the word, thus would be {paolOyos} and {petEryos}.
+We could not say “Pauloios ed Peterios dom” because this manner would change the accentuation of the word, thus would be {paolOyos} and {petEryos}.
 
-I've showed you these two last examples with declination because I have the obligation in teaching everything, but would be better you prefer “id mohrt os Louis” and “id dom om Paulo ed Peter”/“Paulo ed Peter sbei dom” because of they are simpler. The pronunciation of “Louisios”{luIzyos}*(or {luIyos} if we take the French pronunciation of the name “Louis”)* is simply bizarre. In the other example some people could not notice that Paulo is owner of the house too. Prefer the simplest mode, let the declinations for more appropriate moments.
+    You don’t need the definite article like “id Louisios mohrt” or “id Paulos ed Peters dom” because the substantives already are ‘defined’ by the genitive.
+
+I've showed you these two last examples with declination because I have the obligation in teaching everything, but would be better you prefer “id mohrt os Louis” and “id dom om Paulo ed Peter”/“Paulo ed Peter sbei dom” because of they are simpler. The pronunciation of “Louisios”{luIzyos}*(or {luIyos} if we take the French pronunciation of the name “Louis”)* is simply bizarre, although, grammatically speaking, we may use this word. In the other example some people could not notice that Paulo is owner of the house too. Prefer the simplest mode, let the declinations for more appropriate moments.
 
 DIFFERENCE OF USE OF PREPOSITION OF POSSESSION AND GENITIVE CASE
 ----------------------------------------------------------------
