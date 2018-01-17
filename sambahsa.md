@@ -516,10 +516,12 @@ Before we go on, some observations:
 -   If the IPA wont be clear for you, I put some words from our
     english language transcribed in these alphabets to you comprehend
     them well.
+    
+I’ll do my best to explain you the sounds, but since even within USA the English language may vary, it’s more safe you take a IPA chart with sounds (you can find one in Wikipedia) to know how they look like.    
 
 **{a} –** /a/ – something like the first part of “i” in “h**i**de” or
-“br**i**de”, whose sound actually is /a[]{#anchor-3}ɪ/,
-[]{#anchor-4}[]{#anchor-5}but without the second part /…ɪ/.
+“br**i**de”, whose sound actually is [aɪ̯],
+[]{#anchor-4}[]{#anchor-5}but without the second part […ɪ̯].
 []{#anchor-6}Pay attention that {a} is not like the “a” in “f**a**ther”
 or “**a**rm”, whose “a” is /ɑː/. It's like the “a” in the french word
 “p**a**tte” or in the eastern andalusian spanish “m**a**dres”
@@ -705,17 +707,17 @@ For you don't being lost, firstly I show the word, then the transcription to IPA
 
 **Men –** [mɛn] – {män}
 
-**Man –** [mæn] – {män} ({ä} should be /ɛ/, but I think that I can representate /æ/ as {ä})
+**Man –** [mæn] – {män} ({ä} should be /ɛ/, but I think that I can represent /æ/ as {ä})
 
 **Black –** [blæk] – {bläk}
 
-**Flower –** [ˈflaʊ̯ɚ] – {flAoë} ({ë} should be /ə/, but I think that I can representate /ë/ as [ɚ])
+**Flower –** [ˈflaʊ̯ɚ] – {flAoë} ({ë} should be /ə/, but I think that I can represent /ë/ as [ɚ])
 
 **Fire –** [ˈfaɪ̯ɚ] – {fAyë}
 
 **Breathe –** [bɹiːð] (the sound /ð/ doesn't exist In sambahsa)
 
-**Two –** [tʰuː] – {tu:} – (SPT, as broad IPA transcription, can't representate diacritics)
+**Two –** [tʰuː] – {tu:} – (SPT, as broad IPA transcription, can't represent diacritics)
 
 **The –** [ðə] or [ðiː] 
 
@@ -795,7 +797,7 @@ For you don't being lost, firstly I show the word, then the transcription to IPA
 
 **Yellow –** [ˈjɛloʊ̯] – {yÄlOo}
 
-**Star –** [stɑːɹ] – {sta:r}
+**Star –** [stɑːɹ] – {sta:r} (we can consider /ɑ/ as {a})
 
 **Thought –** [θɔːt] – {§o:t}
 
@@ -805,7 +807,7 @@ For you don't being lost, firstly I show the word, then the transcription to IPA
 
 **Price –** [pɹ̥aɪ̯s] – {prays}
 
-**Lot –** [lɑːt] – {la:t} (we can consider /ɑ/ as {a})
+**Lot –** [lɑːt] – {la:t}
 
 **Red –** [ɹɛd] – {räd}
 
@@ -815,7 +817,7 @@ sounds, like /r/, /ɾ/, /ʁ/, /ʀ/ and /ɹ/.
 A LAST VISIT TO THE ALPHABET AND THE NAME OF THE LANGUAGE
 ---------------------------------------------------------
 
-Now that you alread know SPT, let's go back to the alphabet for you know
+Now that you already know SPT, let's go back to the alphabet for you know
 how each letter is pronounced:
 
 a {a}, b {be}, c {tse}, d {de}, e {e}, f {ef}, g {dje}, h {hatc}, i {i},
@@ -829,10 +831,10 @@ Before we go on, it's important to know how our language is pronounced!
 WE ARE NOT FINISHED YET, SOME CONVENTIONS
 -----------------------------------------
 
-**Before we go on, a warning: **don't worry with the more
-complex grammar rules, because I'll show you the pronunciaton of each
+**Before we go on, a warning:** don't worry with the more
+complex pronunciation rules, because I'll show you the pronunciation of each
 example in almost all parts of this grammar, so you'll naturally learn the
-pronunciation. *Don't decore anything, understand it*! My advice is:
+pronunciation. *Don't memorize anything, understand it*! My advice is:
 read this part once or twice – at most – then go on with your studies.
 Does the orthography is too difficult? No, but it can be boring at
 the beginning for those who are starting and it is not, in my personal
@@ -4117,7 +4119,7 @@ unstressed “e”, loses the nasal infix.
 
 ### VERBS WITH “EH” + CONSONANT
 
-Verbs with a vowel “eh” followed by a consonant, the “eh” becomes “oh”
+In verbs with a vowel “eh” followed by a consonant, the “eh” becomes “oh”
 when in the past tense and past participle.
 
 **Ghehd –** to be able to, can
@@ -4156,17 +4158,29 @@ khisseer
 
 **Past participle:** khisst / khissen
 
-**Neic –** to kill
+**Beud –** to appeal to, to make (someone) pay attention (to = dat.), to demand (something)
 
 **Present:** neico, neics, neict, neicmos, yu neicte, neice(nt)
 
-**Infintive:** nices {nItsës}
+**Infinitive:** budes {büdz}
 
-**Past tense:** io nic, tu nic…
+**Past tense:** io bud, tu bud…
 
-**Or:** nicim, nicst(a) / nicist, nicit, nicam, nicat, niceer
+***Or:*** *budim, budst(a) / budist, budit, budam, budat, budeer*
 
-**Past participle:** nict / nicen
+**Past participle:** budt / buden
+
+**Credeih –** to believe
+
+**Present:** credeihm, credeihs, credeiht, credeihm(o)s, yu credeihte, credeihnt
+
+**Infinitive:** credihes {krëdI:s}
+
+**Past tense:** io credih, tu credih…
+
+***Or:*** *credihsim, credihst(a), credihsit, credihsam, credihsat, credihr*
+
+**Past participle:** crediht / credihn
 
 ### VERBS WITH “A”
 
