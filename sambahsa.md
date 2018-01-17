@@ -4160,7 +4160,7 @@ khisseer
 
 **Beud –** to appeal to, to make (someone) pay attention (to = dat.), to demand (something)
 
-**Present:** neico, neics, neict, neicmos, yu neicte, neice(nt)
+**Present:** beudo, beuds, beudt, beudmos, yu beudte, beude(nt)
 
 **Infinitive:** budes {büdz}
 
