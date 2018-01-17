@@ -12,5 +12,7 @@ The book still is in its beta phase, but it already can be used. You find the mo
 
 * English is not my primary language, a revision of the translation to English is more than welcome. But keep in mind that the grammar still is in beta phase, so some texts may be changed.
 
+* Check whether there is some mistake in the grammar
+
 * Giving suggestions for making the grammar more didatic
 
