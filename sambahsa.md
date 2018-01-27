@@ -1,4 +1,4 @@
-**ATTENTION:** Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the text, which is in the original .odt file, this file sambahsa.md only will be used to show the changes made by the contributors, the real changes will be made in the .odt file that you can download from this github page: https://github.com/hmslima/sambahsacompletegrammar
+***ATTENTION:*** *Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the text, which is in the original .odt file, this file sambahsa.md only will be used to show the changes made by the contributors, the real changes will be made in the .odt file that you can download from this github page: https://github.com/hmslima/sambahsacompletegrammar*
 
 Sambahsa Mundialect
 
@@ -8,7 +8,7 @@ Henrique Matheus da Silva Lima
 
 Revision: Dr. Olivier Simon
 
-**Version:** 2.00 Beta
+**Version:** 0.200 Beta
 
 IMPORTANT NOTES ABOUT LEGAL ISSUES
 
@@ -2991,6 +2991,8 @@ Math operations:
 
 **2 − 2 = 0 –** dwo minus/ex dwo egal (ad) zero
 
+**2 − 3 = −1 –** dwo minus/ex tri egal (ad) minus oin
+
 **2 ⨯ 2 = 4 –** dwo kers dwo egal (ad) quar
 
 **2 ÷ 2 = 1 –** dwo dividen ab dwo egal (ad) oin
@@ -3000,6 +3002,11 @@ Score or result of votation, like the result of a soccer game where Barcelona sc
 **Dwo contra oin pro Barcelona –** two to one to Barcelona
 
 **Oin contra dwo pro Real Madrid –** one to two to Real Madrid
+
+For indicating age, you use the suffix -at:
+
+**Som dwogim sixat –** I am twenty six years old
+**Cid monument est milat –** that monument is one thousand years old
 
 TIME
 ====
