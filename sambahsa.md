@@ -2997,7 +2997,7 @@ Math operations:
 
 **2 ÷ 2 = 1 –** dwo dividen ab dwo egal (ad) oin
 
-Score or result of votation, like the result of a soccer game where Barcelona scored two gols and Real Mardid scored one.
+Score or result of voting, like the result of a soccer game where Barcelona scored two gols and Real Mardid scored one.
 
 **Dwo contra oin pro Barcelona –** two to one to Barcelona
 
