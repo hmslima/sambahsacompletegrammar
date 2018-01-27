@@ -106,7 +106,7 @@ The brown color represents the ground, since many indo-european
 languages derive their words for “person” from words related to clay,
 like the word “earthling”. The white color was chosen because it
 contrasts the better. The reason the symbol is the wheel is because it
-is an important inovation made by humans, and, anyway, it's an important
+is an important innovation made by humans, and, anyway, it's an important
 symbol for almost all indo-europeans anyhow.
 
 The “movement” that supports sambahsa is not linked to any kind of
@@ -3011,7 +3011,7 @@ For indicating age, you use the suffix -at:
 TIME
 ====
 
-To indicate the day of a month, we put the “dien” vefore the cardinal
+To indicate the day of a month, we put the “dien” before the cardinal
 number of the date,
 
 []{#anchor-212}Dien quar jul mil septcent septgim six, ia Uniet Stats
