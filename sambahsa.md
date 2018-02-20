@@ -2273,7 +2273,30 @@ We may combine these pronouns with the declinations in order to translate that s
 
     ***Example:** the house of your son → id dom tiens son*
 
+# NAMES OF PLACES WITH CATEGORIA
+
 Of course that you may say something like “id dom os tien son” oo “id pupp am nies dugters”.
+
+When we talk about names of places that include their category, like “City of Prescott” or “Mount Everest”, normally we decide the position of the category names through the use of the national languages, for example:
+
+**City of Prescott –** citad Prescott
+**Mount Everest –** Mont Everest
+**Rock of Gibraltar –** Perwnt Gibraltar
+**Casterly Rock –** Casterly Rock
+**Liancourt Rocks –** Perwnts ios Liancourt *(this is interesting because, although its original names are “Dokdo” and “Takeshima”, in the West it has a different name. Since the name comes from French (“Rochers Liancourt”, due the french whaling ship that sank in that region in 1849), we say “Perwnts ios Liancourt” instead of “Liancourt Rocks”)*
+
+See the examples below:
+
+**Lieubho brigvs, in mien safers ho kohgnet maung brigvs: Brigv JK, Millennium Brigv, Brigv Alexandre III, Charles/Karluv Brigv, Kintai Brigv ed Brigv os Rialto –** I love bridges, in my travels I've known many bridges: JK Bridge, Millennium Bridge, Pont Alexandre III, Charles Bridge, Kintai Bridge and Rialto Bridge.
+
+**Brigv JK =** Ponte Juscelino Kubitschek
+**Millennium Brigv =** Millennium Bridge
+**Brigv Alexandre III =** Pont Alexandre-III
+**Charles/Karluv Brigv =** Karlův most
+**Kintai Brigv =** 錦帯橋 Kintai-kyō
+**Brigv os Rialto =** Ponte di Rialto
+
+In Sambahsa we don't use the genitive when the name refers to the whole place because it would be appelation, we don't say “id citad os Montréal” but “id citad Montréal”, but we have to say “id tribunal os Montréal” because Montreal is not a tribunal. Other example is the translation of “Palace of Versailles” *(“Château de Versailles” in the original)*, which is “Chateau os Versailles” in Sambahsa.
 
 ADJECTIVES
 ==========
