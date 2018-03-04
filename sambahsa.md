@@ -8,7 +8,7 @@ Henrique Matheus da Silva Lima
 
 Revision: Dr. Olivier Simon
 
-**Version:** 0.200 Beta
+**Version:** 0.220 Beta
 
 IMPORTANT NOTES ABOUT LEGAL ISSUES
 
@@ -4046,6 +4046,10 @@ of the present.
 ***(You)***** would eat –** yu eddiete {yu edyEt}
 
 ***(They)***** would eat –** eddient {edyEnt}
+
+There is no problem if the verb ends in -ye:
+
+**Sudye {sUdy(ë)} (to sue) →** sudyiet {sudyEt} (*he/she/it* would sue)
 
 ### BUT WHAT ABOUT VERBS THAT ALREADY FINISH WITH “IE”?
 
