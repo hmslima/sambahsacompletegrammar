@@ -4,7 +4,9 @@
 
 This project aims to develop a friendly complete grammar book for Sambahsa Mundialect available in various languages, the original book is in Brazilian Portuguese, revisers for the translated books are very welcome.
 
-**ATTENTION:** Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the texts, which are in the original .odt files, the MD files only will be used to show the changes made by the contributors, the real changes will be made in the .odt files that you can download from the [ODT folder](https://github.com/hmslima/sambahsacompletegrammar/tree/master/ODT).
+**ATTENTION 1:** Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the texts, which are in the original .odt files, the MD files only will be used to show the changes made by the contributors, the real changes will be made in the .odt files that you can download from the [ODT folder](https://github.com/hmslima/sambahsacompletegrammar/tree/master/ODT).
+
+**ATTENTION 2:** The ODF files use two fonts that maybe are not installed in your system, they are *Great Vibes* and *Lingua Franca*, so I suggest that you install the fonts in the [fonts folder](https://github.com/hmslima/sambahsacompletegrammar/tree/master/fonts).
 
 ## HOW TO CONTRIBUTE
 
