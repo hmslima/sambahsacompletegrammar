@@ -1,6 +1,8 @@
 ***ATTENTION:*** *Since the formartting capacities of MarkDown are very limited and text formatting matters a lot, in order to preserve all the original formatting of the text, which is in the original .odt file, this file sambahsa.md only will be used to show the changes made by the contributors, the real changes will be made in the .odt file that you can download from this github page: https://github.com/hmslima/sambahsacompletegrammar*
 
-Sambahsa Mundialect
+Sambahsa
+
+Mundialect
 
 Complete Grammar
 
@@ -8,330 +10,372 @@ Henrique Matheus da Silva Lima
 
 Revision: Dr. Olivier Simon
 
-**Version:** 0.220 Beta
+  --------------------------- ----------------------------------------------------------------------------------------------
+  **Version:** 19.03.2 Beta 
+  --------------------------- ----------------------------------------------------------------------------------------------
 
 IMPORTANT NOTES ABOUT LEGAL ISSUES
 
 This grammar is licensed under the Creative Commons CC-BY 4.0 license.
 
-![](Pictures/200000070000091900000335273053DC.svm){width="2.328cm"
-height="0.82cm"}
-
-**You are free to:**
+You are free to:
 
 **Share –** copy and redistribute the material in any medium or format
 
-**Adapt –** remix, transform, and build upon the material for any purpose, even commercially.
+**Adapt –** remix, transform, and build upon the material for any
+purpose, even commercially.
 
-You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner,
+but not in any way that suggests the licensor endorses you or your use.
 
-You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+You may not apply legal terms or technological measures that legally
+restrict others from doing anything the license permits.
 
-Here is the link for more information: https://creativecommons.org/licenses/by/4.0/deed.en
+Here is the link for more information:
 
-The sambahsa language authorship is of Dr. Olivier Simon, the language's
-use is free for anyone. For the elaboration of this grammar, *The Grammar Of Sambahsa-Mundialect In English*
-by Dr. Olivier Simon was used. Some subchapters of this grammar are practically
-a transcription of Olivier's book. Dr. Simon has given me permission to do so, even 
-considering the license of this book. I've also utilized many
-examples from *The Grammar Of Sambahsa-Mundialect In English* and others
-that Dr. Simon made for me.
+<https://creativecommons.org/licenses/by/4.0/deed.en>
 
-It's very important to inform the reader that **the language itself is not under a Creative
-Commons license or anything like it**, the language is under the traditional Copyright license in which Dr. Olivier Simon has all property rights. As was said, **the language is
-free**, you can translate your works, or produce original works, without
-the need of Dr. Olivier Simon's permission, even it is for commercial
-purposes; in other words, you can write books in sambahsa and sell them
-without problems. Enjoy this beautiful language.
+For the elaboration of this grammar, *The Grammar Of Sambahsa-Mundialect
+In English* by Dr. Olivier Simon was used. Some subchapters of this
+grammar are practically a transcription of Olivier's book. Dr. Simon has
+given me permission to do so, even considering the license of this book.
+I've also utilized many examples from *The Grammar Of
+Sambahsa-Mundialect In English* and others that Dr. Simon made for me.
 
-The author of the image used in the cover of this book, who named
-himself as YeahBitchMagnetsOh in the Reddit communities, has permitted
-the use of his image in this book. Here is the electronic address from
-where the image was downloaded.
-https://www.reddit.com/r/vexillology/comments/3jlf0k/flag\_of\_indoeuropean\_speakers/
+It's very important to inform the reader that **the language itself is
+not under a Creative Commons license or anything like it**, the language
+is under the traditional Copyright license in which Dr. Olivier Simon
+has all property rights. But **the language is free**, you can translate
+your works or produce original works without the need of Dr. Olivier
+Simon's permission, *even it is for commercial purposes*; in other
+words, you can write books in Sambahsa and sell them without any worry.
+Enjoy this beautiful language.
 
-**This is a beta version of the grammar. It already can be used, but
-know that there are things to be improved and even corrected.**
+This grammar was translated from Brazilian Portuguese to English. We are
+waiting for available native speakers to make a revision of the English
+text.
 
-THIS GRAMMAR WAS TRANSLATED FROM BRAZILIAN PORTUGUESE TO ENGLISH! WAITING FOR AVAILABLE NATIVE SPEAKERS TO MAKE A REVISION.
+ACKNOWLEDGMENTS
 
-ACKNOWLEDGEMENTS
+I thank to Dr. Olivier Simon for making himself available for answering
+my questions and giving me many examples. I must thank him twice,
+because he had all the patience in the world for me. He is almost the
+coauthor of this book.
 
-[]{#anchor}I thank to Dr. Olivier Simon for making himself available for
-answering my questions and giving me many examples, many examples of
-this grammar are from him. I must thank him twice, because he had all the
-patience in the world for me. He is almost the coauthor of this book.
-
-I thank to Cale Short for making the revision of the English of some few texts of this grammar.
+I thank to Cale Short for making the revision of the English of some few
+parts of this grammar.
 
 Also a thanks to Sylvain Auclair, Martín Rincón Botero and Justin
 Gagnon, who helped me a lot.
 
-INTRODUCTION
-============
+[]{#anchor}INTRODUCTION
+=======================
 
-**Sambahsa Mundialect** is an auxiliary language created by the french
-Dr. Olivier Simon and launched in the internet on July of 2007, its
-base is Proto-Indo-European, language spoken about 5000
-years ago, whose daughter languages widespread from Southern Russia up
-to the British Isles and to India. Sambahsa counts with many
-contributions from other languages, especially arabic, but also
-chinese, indonesian and many others.
+**Sambahsa Mundialect** is an auxiliary language created by the French
+Dr. Olivier Simon that was launched in the internet on July of 2007, its
+base is Proto-Indo-European, a language spoken about 5000 years ago,
+whose daughter languages widespread from Southern Russia up to the
+British Isles and India, languages like English and Spanish have
+Proto-Indo-European as their ancestor. Sambahsa counts with many
+contributions from other languages, especially Arabic, but also Chinese,
+Indonesian and many others.
 
-By being an auxiliary language, sambahsa is much more easier than any
-national language like german or spanish, but sambahsa is a bit more
-challenging if it's compared to other auxiliary languages because Sambahsa is a bit complicated at the beginning, but after that, the learning process
-is incredibly simple and the advantages of its complexity will make all the effort be worth.
+By being an auxiliary language, Sambahsa is much more easier than any
+national language like Spanish or German, but Sambahsa is a bit more
+challenging if it's compared to other auxiliary languages because
+Sambahsa is a bit complicated at the beginning, but after that, the
+learning process shows itself incredibly simple and the advantages of
+its complexity will make all the effort be worth, especially for
+expressing the thought and translation.
 
-With what the language looks alike? The interesting of sambahsa is that it is so natural that
-you don't see it as a constructed language, but as a national language
-like any other. As Dave MacLeod has said in his preface for the book
-*The Grammar Of Sambahsa-Mundialect In English*, “I always imagined
-Sambahsa to be an example of a language that could have existed
-somewhere around present-day Armenia, where a kingdom using a descendant
-of Proto-Indo-European using it has been influenced over the centuries
-by its Persian, Turkish and Arab neighbors, as well as various countries
-from the east. At times it feels a bit like Bulgarian, at other times
-like Persian, and sometimes similar to German as well”.
+With what the language looks alike? The interesting aspect of Sambahsa
+is that it is so natural that you don't see it as a constructed
+language, but as a national language like any other. As Dave MacLeod has
+said in his preface for the book *The Grammar Of Sambahsa-Mundialect In
+English*, “I always imagined Sambahsa to be an example of a language
+that could have existed somewhere around present-day Armenia, where a
+kingdom using a descendant of Proto-Indo-European using it has been
+influenced over the centuries by its Persian, Turkish and Arab
+neighbors, as well as various countries from the east. At times it feels
+a bit like Bulgarian, at other times like Persian, and sometimes similar
+to German as well”.
 
-It's not official, it but may be said that sambahsa has a flag for
-representing it. Actually the flag just after this paragraph was made to represent all
-speakers of indo-european languages, but the sambahsa movement kinda has
-adopted the flag for itself.
+Sambahsa has a flag to represent it.
 
-![Sambahsa flag](/flag.png){width="8.33cm" height="5.55cm"}
-**Author:** YeahBitchMagnetsOh]
+![](https://github.com/hmslima/sambahsacompletegrammar/blob/master/images/sambahsa_flag.png){width="8.334cm"
+height="5.584cm"}
 
-The brown color represents the ground, since many indo-european
+The brown color represents the ground, since many Indo-European
 languages derive their words for “person” from words related to clay,
 like the word “earthling”. The white color was chosen because it
-contrasts the better. The reason the symbol is the wheel is because it
-is an important innovation made by humans, and, anyway, it's an important
-symbol for almost all indo-europeans anyhow.
+contrasts the better. The double circles represent the wheel because it
+is an important innovation made by humans, the square represents the
+vehicle (car, chariot…), the “T”s represent the thill, the lines
+represent the axe and the bigger circle represents the Sun as well as
+the Circle of Life.
 
-The “movement” that supports sambahsa is not linked to any kind of
-thought: people from all kinds, ethnicity, places, believes, genres, sexual orientations, social classes and
-ideologies may use this language as they please.
+The “movement” that supports Sambahsa is not linked to any kind of
+thought: people from all kinds, ethnicity, places, believes, genres,
+sexual orientations, social classes and ideologies may use this language
+as they please.
 
-As has been said, this grammar is free, because it is under the license
-Creative Commons CC-BY 4.0, you may modify it as you want and even use
-it for commercial purposes. You may also use this book to make your own
-version of Sambahsa's grammar and even sell it in the market of your
-city, if you want. Your only obligation is to attribute the due credit
-to original author, I hope it's not much to ask. But just remember that this license doesn't apply to the language itself.
+[]{#anchor-1}WHY LEARN AN AUXILIARY LANGUAGE?
+---------------------------------------------
 
-The objective of this grammar is to teach everything what is important to the student in the most possible friendly way, if it is not
-possible in this current version you're reading, we hope to
-reach something near in future versions. Notice that this is a
-“*complete* grammar”, this “complete” is not a mere decoration like in
-other grammars, it means that I’ll approach all points to you finish
-this grammar knowing (almost) everything, so don’t be afraid if you
-think, for example, that the chapter about phonetics is overly large. We
-can't create the perfect grammar, but we will try to do the best.
-
-WHY LEARN AN AUXILIARY LANGUAGE?
---------------------------------
-
-You as me: “but we already have english as an international language,
+You ask me: “but we already have English as an international language,
 why learn an artificial language?”. Before answer this question, I must
-remember that we are speaking here about a language for a world context, if
-I'll work in China or, at least, stay in touch with chineses, I will
-have to learn mandarin or cantonese, it's obvious. What I am talking
-about here is: if I enter in a room where there are a paquistanese, a
-russian, a brazilian, an argentinian and a japanese, all of them only
-can have a communication if they know a common language, because only a very few people have time and disposition to learn five different
-languages; in current days it's expected that all these people speak
-english for making possible a communication. This is the X of the
-question.
+remember that we are speaking here about a language for a world context,
+if I'll work in China or, at least, stay in touch with Chineses, I will
+have to learn Mandarin, it's pretty obvious! What I am talking about
+here is: if I enter in a room where there are a Paquistanese, a Russian,
+a Brazilian, an Argentinian and a Japanese, all of them only can have a
+communication if they know a common language, because only a very few
+people have time and disposition to learn five different languages; in
+current days it's expected that all these people speak English for
+making possible a communication. This is the heart of the matter.
 
-The problem with a national language – no matter whether it is english,
-spanish, french or mandarin – is that it's spent much time *(also money
-in many cases)* learning it. Of course that for those who likes to learn
-languages or will live in a foreign country, it's a **fabulous**
-investment, even learning a “less important” language is a good
-investment if it pleases you and it may be a professional differential
-in the future. But when the matter is a language that serve as bridge
-between different people, the scenario is different.
+The problem with a national language – no matter whether it is English,
+Spanish, French or Mandarin – is that it's spent much time *(and also
+money in many cases)* learning it. Of course that for those who likes to
+learn languages or will live in a foreign country, it's a **fabulous**
+investment, even learning a “less important” language is valid if it
+pleases you and it may be a professional differential for you in the
+future. But when the matter is a language that serves as bridge between
+different people, the scenario is different.
 
-I like to say that two persons communicate with each other through the
-[]{#anchor-1}language of a determined country it is like calculate using
-roman numerals. It's perfectly possible calculate with roman numerals,
-peoples did that for centuries, but it's much more efficient to
-calculate with indo-arabic numerals, which in our case would be a
-language that you learn in months instead one that you learn in years and is
-fully of traps. I said “language of a determined country” because
-people learn – in the international communication scope – the english
-variant from United States of America or England, but never the english
+I like to say that when two people communicate with each other through
+the []{#anchor-2}language of a determined country, it's like calculate
+using roman numerals. It's perfectly possible calculate with roman
+numerals, peoples did that for centuries, but it's much more efficient
+to calculate with Hindo-Arabic numerals, which in our case would be a
+language that you learn in months instead one that you learn in years
+and is fully of traps. I said “language of a determined country” because
+people learn – in the international communication scope – the English
+variant from United States of America or England, but never the English
 from Jamaica.
 
 Other negative point in using the language of another country as
-international language is that, somewhat, it corroborates the supremacy of
-this country. In the modern times was used french because France was
+international language is that, somewhat, it corroborates the supremacy
+of this country. In the modern times was used French because France was
 the most influential nation of Europe, since the XX century we use
-english because the anglophone countries have acquired great economic and
-military power. Do some decades hence we will have to communicate with
-each other in mandarin or in the language of the country that “rules”
-the world?
+English because the anglophone countries have acquired great economic
+and military power. Do some decades hence we will have to communicate
+with each other in Mandarin or in the language of the country that
+“rules” the world?
 
-### SO ARE YOU AGAINST THE ENGLISH LANGUAGE?
+### []{#anchor-3}SO ARE YOU AGAINST THE ENGLISH LANGUAGE?
 
-My answer for this question is a loud “**NO**”! English is considered as
-official language in countries of all the continents, not to mention
-that the United States and England are great exporters of culture, it’s
-because of it and other factors that many people support the idea that
-english still will be used as lingua franca for a good amount of time even if the United States
-lose its hegemony. And personally I think that english is a very
-beautiful language.
+*My* answer for this question is a loud “**NO**”(!), although some other
+people may have negative views regarding the language originated in
+England. English is considered as official language in countries of all
+the continents, not to mention that the United States and England are
+great exporters of culture, it’s because of it and other factors that
+many people support the idea that English still will be used as lingua
+franca for a good amount of time even if the United States lose its
+hegemony. And personally I think that English is a very beautiful
+language.
 
-Despite all the critics made, english still is the most widespread
-language in the globe; in practically all schools of the world with a
-minimal of infrastructure the english language is taught; unlike
-english, no auxiliary language had the support of a State and companies
-to propagate it on the world. We know that currently a work will be much better exposed if it is made available in english.
+Despite all the critics made, English still is the most widespread
+language in the globe, in practically all schools of the world with a
+minimal of infrastructure the English language is taught; unlike
+English, no auxiliary language had the support of a State and companies
+to propagate it on the globe. We know that currently a work will be much
+better exposed if it is made available in English, which ironically
+includes this grammar.
 
-It’s important to learn english
-just as it's important to learn spanish, russian, esperanto, mandarin, portuguese, etc, because although we defend that the using of an auxiliary language as lingua
-franca would be much more efficient, the actual international
-language is the polyglotism, if you want to be something near to a true
-“citizen of the world”, be a polyglot!
+It’s important to learn English just as it's important to learn Spanish,
+Russian, Esperanto, Mandarin, Portuguese, etc, because although we
+defend that the using of an auxiliary language as *lingua franca* would
+be much more efficient, in reality, the actual international language is
+the polyglotism, if you want to be something near to a true “citizen of
+the world”, be a polyglot! But an auxiliary language surely would help
+us immensely. A neutral language that can be learned in matter of months
+would greatly reduce language barriers. Why not be more efficient in the
+scope of the international communication?
 
-But an auxiliary language surely would help us immensely. A neutral language that can be learned in matter of months would greatly reduce language barriers. Why not be more efficient in the scope of the international communication?
+[]{#anchor-4}BUT WHY LEARN SAMBAHSA?
+------------------------------------
 
-BUT WHY LEARN SAMBAHSA?
------------------------
-
-Before I meet sambahsa I've already known other auxiliary languages *(not only esperanto)*, but
-I was not fully satisfied with them, not because they are inefficient, but they have certain aspects, due their enormous simplicity, that
+Before I meet Sambahsa I've already known other auxiliary languages, but
+I was not fully satisfied with them, not because they are inefficient,
+but they have certain aspects, due their enormous simplicity, that
 displeased me.
 
 Sambahsa has success in having the regularity – and facility – of an
-auxiliary language and the naturality and native beauty of a national
-language. Sambahsa is as good as english or portuguese for making poetry or music
-and the imported proper nouns and names of “exotic” things from other languages don't need, in most
-cases, to have its spelling or pronounce changed to adequate the
-standards of the language, the “difficulties” in importing these words will be the same that occurs in any national language like English or Portuguese.
+auxiliary language and the naturalness and native beauty of a national
+language. Sambahsa is as good as English or Portuguese for making poetry
+or music and the imported proper nouns and names of “exotic” things from
+other languages don't need, in most cases, to have its spelling or
+pronounce drastically changed to adequate the rigid orthography of the
+language, the “difficulties” in importing these words will be the same
+that occurs in any national language like English or Portuguese.
 
-Sambahsa is also a finished language, it means that you don't have to worry whether what you've learned today will change in five years. What you write today in sambahsa will be understood even in a century.
+Sambahsa is also a finished language, it means that you don't have to
+worry whether what you've learned today will change in five years. What
+you write today in Sambahsa will be understood even in a century!
 
-But for not having more than 100 years as other auxiliary languages, sambahsa doesn't
-have a community with thousand of speakers yet, but this scenario can
-change, every auxiliary language started with only one person, but can
-exist thousands of speakers if more people get interested for the
-language
+But for not having more than 100 years as other more known auxiliary
+languages, Sambahsa doesn't have a community with thousand of speakers
+yet, but this scenario can change, every auxiliary language started with
+only one person, but can exist thousands of speakers if more people get
+interested for the language
 
-IS SAMBAHSA DIFFICULT?
-----------------------
+[]{#anchor-5}IS SAMBAHSA DIFFICULT?
+-----------------------------------
 
-It's undeniable that in the **beginning – and only at the beginning –** Sambahsa is a bit more challenging
-if it is compared to other auxiliary languages, but it's like Robert
-Winter said in his “Sambahsa: Guide to Pronouns and Articles”,
-*“sambahsa is right on the limit of the degree of difficulty that is
-practical for an international auxiliary language”*.
+It's undeniable that in the **beginning** **– and only at the beginning
+–** Sambahsa is a bit more challenging if it is compared to other
+auxiliary languages, but it's like Robert Winter said in his “Sambahsa:
+Guide to Pronouns and Articles”, *“Sambahsa is right on the limit of the
+degree of difficulty that is practical for an international auxiliary
+language”*.
 
-**Sambahsa undoubtedly is easy**, you only have to know what are you priorities
-of study, *you have to know how to study*! Doesn't make sense decorate
-all declinative cases from dative if you use them a very few times *(and
-maybe only a few of them, even if you only use sambahsa in all days of your
-life)*! Also it's necessary have in mind that it's not because it is an
-easy language you will be writing philosophical treatises in three
-weeks, but maybe you can do it in six or eight months.
+**Sambahsa undoubtedly is EASY**, you only have to know what are you
+priorities of study, *you have to know how to study and what to study*!
+Doesn't make sense decorate all declension cases from dative if you use
+them a very few times *(and maybe only a few of them, even if you only
+use Sambahsa in all days of your life)*! Also it's necessary have in
+mind that it's not because it is an easy language that you will be
+writing philosophical treatises in three weeks, but maybe you can do it
+in six or eight months.
 
 People also say that the language is excessively prolix, sometimes
-having two or three invariable words for each one of the same type in
-our language. Indeed sambahsa doesn't economize in its invariable words,
-a prolix language like sambahsa pays the price of demanding a bit more
-of study, but, by contrast, it allows the best expression of the thought. Frankly, without realizing you will get used to these words, I say this from experience.
+having two or three invariable words for each one of the same type of
+our language. Indeed Sambahsa doesn't economize in its invariable words,
+a prolix language like Sambahsa pays the price of demanding a bit more
+of study, but, by contrast, it allows the best expression of the
+thought. Frankly, without realizing you will get used to these words, I
+say this from experience.
 
-People complains that Sambahsa has difficult sounds to learn, but all languages have different sounds to be learned, even other auxiliary language that tries to be the simplest. Soon after there are some of the the languages most studied by americans and their sounds that don't exist in the General American English (the sounds in italic are used in sambahsa).
+People complains that Sambahsa has difficult sounds to learn, but all
+languages have different sounds to be learned, even other auxiliary
+language that tries to be the simplest. Soon after there are some of the
+the languages most studied by Americans and their sounds that don't
+exist in the General American English *(the sounds in italic are used in
+Sambahsa)*.
 
-> **Spanish *(European Castilian)* –** [β], *[x]*, [ɲ], [ɣ]
+**Spanish *****(European Castilian)***** –** \[β\], *\[x\]*, \[ɲ\],
+\[ɣ\]
 
-> **German –** *[ç]*, *[ʁ]*, *[x]*, [ʏ], *[y]*, *[ø]*, [œ]
+**German –** *\[ç\]*, *\[ʁ\]*, *\[x\]*, \[ʏ\], *\[y\]*, *\[ø\]*, \[œ\]
 
-> **French –** [ɲ], *[ʁ]*, [ɥ], [œ], *[ø]*, *[y]*, [ɑ̃], [ɛ̃], [œ̃], [ɔ̃]
+**French –** \[ɲ\], *\[ʁ\]*, \[ɥ\], \[œ\], *\[ø\]*, *\[y\]*, \[ɑ̃\],
+\[ɛ̃\], \[œ̃\], \[ɔ̃\]
 
-Maybe Sambahsa could have simpler sounds *(simple for who?)* or less “extra sounds”, but wouldn't the language be poorer? Even Esperanto has sounds that defies the Americans like [x] of the letter “ĥ”. The sounds are easily learnable and I'll show you that you can be pronouncing all of them in a week.
+Maybe Sambahsa could have simpler sounds *(simple for who?)* or less
+“extra sounds”, but wouldn't the language be poorer? Even Esperanto has
+sounds that defies the Americans like \[x\] of the letter “ĥ”. The
+sounds are easily learnable and I'll show you that you can be
+pronouncing all of them in a week.
 
-Other complaint is that Sambahsa build its vocabulaty upon loanwords instead compound words, I explain: in Sambahsa the adjective “beautiful” is “bell” while “ugly” is “biaur”; someone could say that, for example, an affix that inverts the meaning of the word would be more interesting because it would eliminate the need of memorizing hundreds of words. Indeed it's a resource with its advantages, but, on the other hand, sentences with compound sentences take a time to be analized, so, after analizing the pros and cons, it's more interesting  and practical a word like “biaur” than “antibell”. And frankly, until you master the grammar, you will have memorized all the most relevant words.
+And look that, learning these “difficult sounds” you’ll end learning the
+sounds of other languages, what means that if you want to learn French
+or German in the future you’ll already have mastered their pronunciation
+even before learning them!
 
-**Everything has a price:** many auxiliary languages try the possible to be the simplest by adopting very simple orthographies: one
-letter, one sound; all nouns having only one ending, all adjectives having
-only one ending, etc. The advantage of not having a too complex
-orthography is that the learning curve is very low, but the disadvantage
-is that from this simplicity it's created a little problem with importation of words
-of other languages, which will have to be drastically modified *(as in
-orthography as in pronounce)* in order to make them fit to the language's
-rules. Other problem of a simple orthography is the little freedom for
-the creation of poetry and music. I am not saying that very simple
-auxiliary languages are ugly, since this is very subjective and a person
-with a crystalline voice and talent can create the best song of the
-world through the simplest and “ugliest” language. What I am saying is
-that it's paid a price for the excess of simplification, and the
-contrary is true too, it's paid a price to avoid all these problems of
-the simple languages. The question is, what is the price you are willing
-to pay?
+Other complaint is that Sambahsa bases its vocabulary upon loanwords
+instead compound words, I explain: in Sambahsa the adjective “beautiful”
+is “bell” while “ugly” is “biaur”; someone could say that, for example,
+an affix that inverts the meaning of the word would be more interesting
+because it would eliminate the need of memorizing hundreds of words.
+Indeed it's a resource with its advantages, but, on the other hand,
+sentences with compound sentences take a time to be analyzed, so, after
+analyzing the pros and cons, it's more interesting and practical a word
+like “biaur” than “antibell”. And frankly, until you master the grammar,
+you will have memorized all the most relevant words.
+
+**Everything has a price:** many auxiliary languages try the possible to
+be the simplest by adopting extremely reduced vocabularies, supposedly
+uncomplicated grammatical rules and very simple orthographies. It's true
+that all of this simplicity makes the learning curve very low, but the
+disadvantage is that from this simplicity it makes relatively poor
+languages, what I find awkward. Let's see the opposite, a more rich
+vocabulary is great for content makers *(writers, poets, musicians)*, a
+grammar allows better expression of the thoughts. Even the orthography
+is something to be observed, very simplified orthographies make
+problematic the importation of words of other languages, which will have
+to be drastically modified *(not only in orthography, but also in
+pronounce)* in order to make them fit to the language's rules. I am not
+saying that very simple auxiliary languages are ugly, since this is very
+subjective and a person with a crystalline voice and talent can create
+the best song of the world through the simplest and “ugliest” language.
+What I am saying is that it's paid a price for the excess of
+simplification, and the contrary is true too, it's paid a price to avoid
+all these problems of the simple languages. The question is, what is the
+price you are willing to pay? Know that Sambahsa goes the more complex
+way.
 
 Many complain that very simple auxiliary languages offers little poetic
 freedom, others will say that more complex auxiliary languages are
 unnecessarily difficult.
 
-[]{#anchor-2}*Arrested for having dog, arrested for not having dog*.
+Y[]{#anchor-6}ou are damned if you do and damned if you don't
 
-THE SAMBAHSA'S VOCABULARY
------------------------
+[]{#anchor-7}THE SAMBAHSA'S VOCABULARY
+--------------------------------------
 
-Just below there is a list of languages that had contributed for the sambahsa
-vocabulary, the percentage of borrowed words and some examples between
-parentheses:
+Just below there is a list of languages that had contributed for the
+Sambahsa vocabulary, the percentage of borrowed words and some examples
+between parentheses:
 
-**Proto-Indo-European –** 44,28 % *(skadh, paursk, potnia) *
+**Proto-Indo-European –** 44.28 % *(skadh, paursk, potnia) *
 
 **Latin –** 15 % *(facil, question, caise) *
 
-**Germanic family –** 9,5 % *(apter, buk, rogv) *
+**Germanic family –** 9.5 % *(apter, buk, rogv) *
 
-**French –** 6,21 % *(journal, adresse, place) *
+**French –** 6.21 % *(journal, adresse, place) *
 
-**Greek –** 4,64 % *(pharmacia, ieftin, papier) *
+**Greek –** 4.64 % *(pharmacia, ieftin, papier) *
 
-**Romance family –** 3,95 % *(important, visite, torte) *
+**Romance family –** 3.95 % *(important, visite, torte) *
 
-**Arabic –** 3,42 % *(lakin, mutawassit, hatta) *
+**Arabic –** 3.42 % *(lakin, mutawassit, hatta) *
 
-**English –** 1,45 % *(film, sport, wagon) *
+**English –** 1.45 % *(film, sport, wagon) *
 
-**Slavic family –** 1,28 % *(lige, grance, vessel) *
+**Slavic family –** 1.28 % *(lige, grance, vessel) *
 
 **Italian –** 1 % *(autostrad, valise, dusch) *
 
-**Indo-iranian/Persian –** 0,92 % *(naft, ris, hevd) *
+**Indo-iranian/Persian –** 0.92 % *(naft, ris, hevd) *
 
-**German –** 0,78 % *(dank, postamt, vurst) *
+**German –** 0.78 % *(dank, postamt, vurst) *
 
-**Chinese –** 0,71 % *(gienxin, yui, saan)*
+**Chinese –** 0.71 % *(gienxin, yui, saan)*
 
-**Other languages or families –** 6,86 %
+**Other languages or families –** 6.86 %
 
-About the vocabulary that came from the reconstructed words of Proto-Indo-European, it's important to say that some words can not be guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European divided into many linguistic families, but words in common among these languages may not necessarily have their origin in Proto-Indo-European. For example, the words “long” and “pisk” are found in the Romance languages *(“longo” and “peixe” in the case of Portuguese)* and German languages *(“long” and “fish” in the case of English)*, but it's uncertain whether their origin was in Proto-Indo-European, linguistic families continued to exchange words when Proto-Indo-European split up.
+About the vocabulary that came from the reconstructed words of
+Proto-Indo-European, it's important to say that some words can not be
+guaranteed as “common Proto-Indo-European pure”, Proto-Indo-European
+divided into many linguistic families, but words in common among these
+languages may not necessarily have their origin in Proto-Indo-European.
+For example, the words “long” and “pisk” are found in the Romance
+languages *(“longo” and “peixe” in the case of Portuguese)* and German
+languages *(“long” and “fish” in the case of English)*, but it's
+uncertain whether their origin was in Proto-Indo-European, linguistic
+families continued to exchange words when Proto-Indo-European split up.
 
-How some words can have “multiple origins”:
+Some words can have “multiple origins”:
 
-**Amlak –** means “asset(s)” *(finance)*, it corresponds to the arabic
-“أملاك”, to the turkish “emlak” and to the persian “املاک”.
+**Amlak –** means “asset(s)” *(finance)*, it corresponds to the Arabic
+“أملاك”, to the Turkish “emlak” and to the Persian “املاک”.
 
-**Schut –** means “hornless”, it corresponds to the romanian “Șut”, to
-the bulgarian/serbo-croatian “šut” and to the ao albanian “shut”.
+**Schut –** means “hornless”, it corresponds to the Romanian “Șut”, to
+the Bulgarian/Serbo-croatian “šut” and to the ao Albanian “shut”.
 
 **Geong –** means “palace-fortress”, it corresponds to the character
-“城”, which is read as *chéng* inmandarim pinyin, *jō* in japanese goon,
-*seong* in korean and *thành* in vietnamese.
+“城”, which is read as *chéng* in Mandarim pinyin, *jō* in Japanese
+goon, *seong* in Korean and *thành* in Vietnamese.
 
-**Potire –** means “pitcher”, it corresponds to the old greek “ποτήρ”,
-to the serbo-croatian “путир”, to the russian “потир” and to the
-albanian “potir”.
+**Potire –** means “pitcher”, it corresponds to the Old Greek “ποτήρ”,
+to the Serbo-croatian “путир”, to the Russian “потир” and to the
+Albanian “potir”.
 
 More examples of words of languages whose contribuition is not very
-significant, but have their mark in sambahsa:
+significant, but have their mark in Sambahsa:
 
 **Portuguese –** banan, mingo, namor
 
@@ -339,165 +383,183 @@ significant, but have their mark in sambahsa:
 
 **Baltic –** biaur, tik
 
-**Malay –** kye *(also from slav; from malay-indonesian comes “ke” and
-from russian with some slavic languages comes “k(o)”) *
+**Malay –** kye *(also from slav; from Malay-Indonesian comes “ke” and
+from Russian with some Slavic languages comes “k(o)”) *
 
 **Scandinavian –** leik, lyt, tiel
 
+**Swahili –** pori, kulambu, mwembi
+
 **Sanskrit –** bahsa, nagor
 
-**Universal –** mama
+***Universal***** –** mama
 
-**Celtic –** sapoun, brigv *(also from germanic)*, brugs *(also from
-italian) *
+**Celtic –** sapoun, brigv *(also from Germanic)*, brugs *(also from
+Italian) *
 
 **Arawak –** tabak
 
 **Nahuatl –** tomat
 
-METHODOLOGY OF TEACHING
-=======================
+[]{#anchor-8}METHODOLOGY OF TEACHING
+====================================
 
 I structured the grammar in the following way: I avoid the presentation
 of a new content that demands the previous knowledge of other
 no-mentioned subject, for example: if for learning the future verbal
 tense it's necessary to know the infinitive, I will teach the infinitive
-before the future tense; if for learning the declination is necessary some basic grammar
-knowledge, I will bring back those teachings from middle school's
-classes. I believe that this way is the less annoying for the beginner.
+before the future tense; if for learning the declension is necessary
+some basic grammar knowledge, I will bring back those teachings from
+middle school's classes. I believe that this way is the less annoying
+for the beginner.
 
 This book was made in the way that it serves the student without any
 previous knowledge, in other words, I am assuming you don't know another
 language and you even don't know certain basic grammar terms. Thus a
 student can read this grammar without the necessity of consulting other
-books, except dictionaries. *The goal of this grammar is to be accessible
-to everyone*!
+books, except dictionaries. *The goal of this grammar is to be
+accessible to everyone!*
 
 **What I am going to say is important, so pay attention!** When you
 study, don't be in a hurry for decorating all cases in the accusative or
-all the list of prepositions once, take it easy (!), since you will use some
-words more times than other ones. No grammar was made to be read just
-once, but many times. Now that you are starting, read the chapters only once,
-twice at most, then go on to the next chapter. After finishing the
-reading of the grammar, start reading texts, they will help you to
-increase your vocabulary and improve you grammar knowledge, since you
-will have to consult the grammar for understanding how that sentence was
-made.
+all the list of prepositions once, take it easy (!), since you will use
+some words more times than other ones. *No grammar was made to be read
+just once, but many times*. Now that you are starting, read the chapters
+only once, twice at most, then go on to the next chapter, *but I admit
+that there will be certain matters that you’ll have to master before go
+on*. After finishing the reading of the grammar, start reading texts,
+they will help you to increase your vocabulary and improve you grammar
+knowledge, since you will have to consult the grammar for understanding
+how that sentence or another was made.
 
 It can seem strange, but I started this grammar when I was in the
 beginning of my studies in the language, in my second or third week of
-learning, not when I already had a good mastering over sambahsa. I had
+learning, not when I already had a good mastering over Sambahsa. I had
 two reasons to do that: the act of making a grammar demands a great
 responsibility, what boosted me in my studies, thanks to this work I
 could learn things more quickly, that was a very interesting exercise;
 the second reason is that the person who knows the first difficulties of
-a beginner is other beginner, if I had decided to make this grammar much time
-after, maybe I could forget certain difficulties that I had and I wouldn't
-address them in this grammar.
+a beginner is other beginner, if I had decided to make this grammar much
+time after, maybe I could forget certain difficulties that I had and I
+wouldn't address them in this grammar.
 
-ACTUALLY YOU DON'T NEED TO LEARN EVERYTHING
--------------------------------------------
+[]{#anchor-9}YOU DON'T NEED TO LEARN EVERYTHING
+-----------------------------------------------
 
 One of the goals of this grammar is being the most complete as possible,
 in other words, the goal is to cover the most basic until the elements
 that will only rarely appear in the most erudite literature. There will
-be things here like optional forms of the indicative of present, that rarely
-are used, but this grammar has the obligation of presenting it. Focus only
-in what is necessary for you!
+be things here like the optional forms of the indicative of present,
+that rarely are used, but this grammar has the obligation of presenting
+it. Focus only in what is necessary for you!
 
 The language also has a very rich phonology, there are sounds that
-doesn't exist in english, but can be learned in a short time. I made the
+doesn't exist in English, but can be learned in a short time. I made the
 possible to explain the sounds, since per comparisons with other
 languages until per what movements of tongue and mouth are made. But if
 you really have difficulty with some sounds, there is no problem, you
-can use a similar sound, very improbably someone wont understand
-you, but endeavor a bit for learning all sounds, it'll be a learning
-that will serve for other languages as you will see.
+can use a similar sound, very improbably someone wont understand you,
+but endeavor a bit for learning all sounds, it'll be a learning that
+will serve for other languages as you will see.
 
-TIPS FOR STUDYING A LANGUAGE
-----------------------------
+[]{#anchor-10}TIPS FOR STUDYING A LANGUAGE
+------------------------------------------
 
 In these years studying languages I've learned some things, they are
-tips that are useful for any language, not only sambahsa:
+tips that are useful for any language, not only Sambahsa:
 
 -   When you read, listen, write or say a word, directly associate this
     word to its idea. I'll explain: some people, when read “nebh”,
-    associate this word to the english word “cloud” and then they make
+    associate this word to the English word “cloud” and then they make
     association to a cloud. Don't do this, train your mind to don't need
     an intermediate, try to directly associate the word to the idea or
     object.
+
+    WRONG: “kerd” → “heart” → ♥
+
+    CORRECT: “kerd” → ♥
+
 -   Don't stick to the grammar, read the grammar once or twice then go
     to the texts, you have to see the language in the practice. With the
     time you will absorb the grammar rules while acquire vocabulary.
     When, in a text, you don't know how certain grammatical construction
     was made, you come back to the grammar.
--   Use the language since the first day. Even only in your mind,
-    give a “good morning” in sambahsa, create simple sentences for daily
+-   Use the language since the first day, even it is only in your mind.
+    Say a “good morning” in Sambahsa, create simple sentences for daily
     situations. Try to use the language in the beginning as possible,
     even you don't know the most basic prepositions.
 
-ALPHABET AND PRONUNCIATION
-==========================
+[]{#anchor-11}ALPHABET AND PRONUNCIATION
+========================================
 
 Maybe you take fright because of the size of this chapter, indeed it is
 a bit big if compared to other grammars in their chapters of alphabet
 and pronunciation, but it's for a good reason. In the study of a
 language, the first thing you have to learn are the sounds, it's
-important that, by learning a new word, you store the words in you memory with
-the correct pronunciation, that's why I will not spare explanations in
-this chapter.
+important that, by learning a new word, you store the words in you
+memory with the correct pronunciation, that's why I will not spare
+explanations in this chapter.
 
-The alphabet is composed by 26 latin letters, they are: a, b, c, d, e,
+The alphabet is composed by 26 Latin letters, they are: a, b, c, d, e,
 f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z. The
 orthography is a bit complex, but still regular.
 
-For representing the sounds there is the *Sambahsa Phonetic Transcription*
-(SPT), an alphabet whose words are always between curly brackets { } in
-all this grammar, the letters in UPPERCASE inside the brackets
-represent the accentuated syllables and a colon (:) informs that the
-vowel before this is lengthened. Be aware that the explanations about
-pronunciation are based in the General American English.
+For representing the sounds of Sambahsa we have the *Sambahsa Phonetic
+Transcription* (SPT), an alphabet whose words are always between curly
+brackets { } in all this grammar, the letters in UPPERCASE inside the
+brackets represent the accentuated syllables and a colon (:) informs
+that the vowel before this is lengthened. Be aware that the explanations
+about pronunciation are based in the General American English from USA.
 
 Initially the SPT was made between square brackets \[ \], but I've
-choosen curly brackets { } because the square brackets already are used
+chosen curly brackets { } because the square brackets already are used
 by the other system of phonetic transcription that I'll talk soon after.
 
 In addiction there is something called *International Phonetic Alphabet*
-(IPA), it's like the SPT, but IPA is used for all languages while SPT is only for sambahsa. The letters of
-this alphabet always will lie inside slashes / / or square brackets \[
-\] in this grammar. I will use the IPA to explain the SPT, because if
-you have access to the sounds of the IPA, you have a secure source of
-how the sambahsa sounds are pronounced. **But throughout the grammar,
-outside the “alphabet and pronunciation” chapter, I practically will only use SPT! Actually you don't need to learn IPA, but it would be a very useful resource for you.**
+(IPA), it's like the SPT, but IPA is used for all languages while SPT is
+exclusive for Sambahsa. The letters of this alphabet always will lie
+inside slashes / / or square brackets \[ \] in this grammar. I will use
+the IPA to explain the SPT, because if you have access to the sounds of
+the IPA *(it's pretty easy to find multimedia charts of IPA letters
+through the internet!)*, you'll have a secure source of how the Sambahsa
+sounds are pronounced. **But throughout the grammar, outside the
+“alphabet and pronunciation” chapter, I practically will only use SPT!
+Actually you don't even need to learn IPA, but it would be a very useful
+resource for you.**
 
 The difference between slashes and square brackets in IPA is that the
 slashes indicate a more simple transcription while square brackets
 indicate a more precise transcription.
 
-You ask me: why we don't only use IPA if this one is official and more
-known while SPT only applies to sambahsa? There are two reasons:
+You ask me: “why we don't only use IPA if this one is official and more
+known while SPT only applies to Sambahsa?”. There are two reasons:
 
--   SPT is easer to type in computers, what facilitates when someone
+-   SPT is easier to type in computers, what facilitates when someone
     wanna explain the pronunciation in internet or in any typed work.
--   Sambahsa was made for people of all the world, one letter of SPT can
-    encompass several similar sounds of IPA. For example: {r} represents, preferably, the sounds /ʀ/ and /r/, but it also can represent the sound /ɾ/; {o} represents the sounds /o/ and /ɔ/..
+-   The most important: Sambahsa was made for people of all the world,
+    one letter of SPT can encompass several similar sounds of IPA. For
+    example: {r} represents, preferably, the sounds /ʀ/ and /r/, but it
+    also can represent the sound /ɾ/. Another example: the {o}
+    represents the sounds /o/ and /ɔ/.
 
 Before we go on, some observations:
 
 -   Probably many sounds here will be new for you. Don't worry, all the
-    sounds not found in the english language will be explained with all
+    sounds not found in the English language will be explained with all
     details as possible.
--   Keep in mind that the phonetic
-    descriptions were based on the english of the United States of America, more precisely the General American.
+-   Once again: keep in mind that the phonetic descriptions were based
+    on the English of the United States of America, more precisely the
+    General American variation.
 -   The United States of America is a continental country and has some
     linguistic variation. So, if you find that the phonetic description
     of a word is unfamiliar, maybe I am referring to the way of speaking
-    of other part of the United States. That's why IPA is very useful here, you can know the exact sound.
+    of other part of the United States. That's why IPA is very useful
+    here, you can know the exact sound.
 -   Sambahsa is very rich in what concerns to sounds, if you find that
     some sound is very complicate, you can use a similar sound in its
-    place if you think that the meaning of the word will not be twisted
-    and make confusion in the conversation. The important is that you
-    use sambahsa!
+    place if you think that the meaning of the word will neither be
+    twisted and nor make confusion in the conversation. The important is
+    that you use Sambahsa!
 -   You don't need to use IPA if you don't want, since all the sounds
     will be explained. The IPA is there for serving as additional
     resource for you.
@@ -513,20 +575,22 @@ Before we go on, some observations:
         book I will use only SPT! The IPA is only a secure guide for you
         learning SPT!
 
--   If the IPA wont be clear for you, I put some words from our
-    english language transcribed in these alphabets to you comprehend
-    them well.
-    
-I’ll do my best to explain you the sounds, but since even within USA the English language may vary, it’s more safe you take a IPA chart with sounds (you can find one in Wikipedia) to know how they look like.    
+-   If the IPA wont be clear for you, I put some words from our English
+    language transcribed in these alphabets to you comprehend them well.
+
+I’ll do my best to explain you the sounds, but since even within USA the
+English language may vary, it’s more safe you take a IPA chart with
+sounds (you can find one in Wikipedia) to know how they look like.
 
 **{a} –** /a/ – something like the first part of “i” in “h**i**de” or
-“br**i**de”, whose sound actually is [aɪ̯],
-[]{#anchor-4}[]{#anchor-5}but without the second part […ɪ̯].
-[]{#anchor-6}Pay attention that {a} is not like the “a” in “f**a**ther”
-or “**a**rm”, whose “a” is /ɑː/. It's like the “a” in the french word
-“p**a**tte” or in the eastern andalusian spanish “m**a**dres”
+“br**i**de”, whose sound actually is \[a[]{#anchor-12}ɪ̯\],
+[]{#anchor-13}[]{#anchor-14}but without the second part
+\[…[]{#anchor-15}ɪ̯\]. []{#anchor-16}Pay attention that {a} is not like
+the “a” in “f**a**ther” or “**a**rm”, whose “a” is /ɑː/. It's like the
+“a” in the French word “p**a**tte” or in the eastern andalusian Spanish
+“m**a**dres”
 
-**{ä} –** /ɛ/ – like “e” in “dr**e**ss” and “m**e**t” or “ae” in
+**{ä} –** /ɛ/ – like “e” in “dr**e**ss” and “m**e**t” or “ea” in
 “br**ea**d”.
 
 **{b} –** /b/ – like “b” in “**b**ad”.
@@ -537,11 +601,10 @@ or “**a**rm”, whose “a” is /ɑː/. It's like the “a” in the french w
 
 **{e} –** /e/ – something like the first part of “a” in “l**a**ke”, “ai”
 in “p**ai**d” or “ei” in “r**ei**n”, whose sound actually is /eɪ/, but
-without the semivowel /…ɪ/. It's like the “é” in the french word
-“beaut**é**” or the “ee” in the standard german “S**ee**le”.
+without the semivowel /…ɪ/. It's like the “é” in the French word
+“beaut**é**” or the “ee” in the standard German “S**ee**le”.
 
-**{ë} –** /ə/ – like “a” in “**a**gain” or “u” in
-“syr**u**p”.
+**{ë} –** /ə/ – like “a” in “**a**gain” or “u” in “syr**u**p”.
 
 **{f} –** /f/ – like “f” in “**f**ather”.
 
@@ -552,7 +615,8 @@ without the semivowel /…ɪ/. It's like the “é” in the french word
 **{i} –** /i/ – like “y” in “happ**y**”, “ey” in “mon**ey**” or “ie” in
 “part**ie**s”.
 
-**{j} –** /[]{#anchor-7}ʒ/ – like “s” “vi**s**ion” or “a**s**ian” or “g” in “bei**g**e”
+**{j} –** /[]{#anchor-17}ʒ/ – like “s” “vi**s**ion” or “a**s**ian” or
+“g” in “bei**g**e”
 
 **{k} –** /k/ – like “c” in “**c**ut”, “ck” in “ba**ck**” or “k” in
 “spea**k**”
@@ -564,42 +628,59 @@ without the semivowel /…ɪ/. It's like the “é” in the french word
 **{n} –** /n/ – like “n” in “**n**ight”
 
 **{o} –** /o/ or /ɔ/ – the /o/ sound is something like the fist part of
-“o” in “g**o**at”, whose sound actually is /o[]{#anchor-8}ʊ/, but
-without the semivowel /…ʊ/. It's like the “eau” in the french word
-“rés**eau**” or the “o” in the standard german word “**o**der”. The /ɔ/
+“o” in “g**o**at”, whose sound actually is /o[]{#anchor-18}ʊ/, but
+without the semivowel /…ʊ/. It's like the “eau” in the French word
+“rés**eau**” or the “o” in the standard German word “**o**der”. The /ɔ/
 sound is found in “o” of “n**o**rth”.
 
-**{ö} –** /ø/ – like the “ö” from german or the “eux” french.
-[]{#anchor-9}[]{#anchor-10}[]{#anchor-11}Don't you know german neither
-french? []{#anchor-12}There is no problem, I teach you how to make this
+**{ö} –** /ø/ – like the “ö” from German or the “eux” French.
+[]{#anchor-19}[]{#anchor-20}[]{#anchor-21}Don't you know German neither
+French? []{#anchor-22}There is no problem, I teach you how to make this
 sound. It's how you make the {e} sound, but with the mouth in the form
-you make the {o} sound, in other words, speak /e/ with the lips puckered.
+you make the {o} sound, in other words, speak /e/ with the lips
+puckered.
 
 **{p} –** /p/ – like “p” in “**p**each”.
 
-**{q} –** /x/ – like the german “ach-laut”, like “j” in the spanish
-word “**j**ota”  or like “ch” in the scots word “lo**ch**”. Don't you know german neither spanish? There is no
-problem, I teach you how to make this sound. It's like the {h} sound,
-but you put the back of your tongue against your soft palate as you do with {k} and {g}; think in a
-vintage kettle.
+**{q} –** /x/ – like the German “ach-laut”, like “j” in the Spanish word
+“**j**ota” or like “ch” in the Scots word “lo**ch**”. Don't you know
+German neither Spanish? There is no problem, I teach you how to make
+this sound. It's like the {h} sound, but you put the back of your tongue
+against your soft palate as you do with {k} and {g}; think in a vintage
+kettle.
 
-**{r} –** /[]{#anchor-13}ʀ/ – in situations like in “radh”, “prete” and
-“accurat”, where after “r” there is a vowel, you can pronunciate it as
-the “r” in “**r**ed” /ɹ/ or “tt” in “le**tt**er” /ɾ/. Actually sambahsa admits a wide variety of sounds
-– includding our “r” (!!!!!) –, but *if* it’s for elect an official
-sound, it should be the uvular “r” (/ʀ/) from german.
-[]{#anchor-14}Don't you know german? []{#anchor-15}There is no problem, I
-teach you how to make this sound. Do the following exercise, gargle
-a bit of water *(or any other liquid)* in order to you understand how to vibrate your uvula. The /ʀ/ sound is made by the trill of the uvula.
+**{r} –** /[]{#anchor-23}ʀ/ – in situations like in “**r**adh”,
+“p**r**ete” and “accu**r**at”, where after “r” there is a vowel, you can
+pronounce it as the “r” in “**r**ed” /ɹ/ or “tt” in “le**tt**er” /ɾ/.
+Actually Sambahsa admits a wide variety of sounds – including our “r”
+(!!!!!) –, but *if* it’s for elect an official sound, it should be the
+uvular “r” (/ʀ/) from German. []{#anchor-24}Don't you know German?
+[]{#anchor-25}There is no problem *(even because you don’t is obliged to
+learn this sound!)*, I teach you how to make this sound. Do the
+following exercise, gargle a bit of water *(or any other liquid)* in
+order to you understand how to vibrate your uvula. The /[]{#anchor-26}ʀ/
+sound is made by the trill of the uvula.
 
-**{r} –** /[]{#anchor-16}ʁ/ – in situations like in “irk”, “amor” and
-“absorb”, where just after “r” there is a consonant (not a vowel!) or this “r” is the
-last letter of the word, this consonant assumes the sound \[ʁ\]. The /ʁ/
-is very similar the sound /h/ of “**h**orse”, but there are two
-differences: you must vibrate your vocal cords and the place of articulation of /[]{#anchor-17}ʁ/ is the uvula – while
-the place of articulation of /h/ is the glottis *(which for some people is the same that it doesn't have a place of articulation)* –, in other words, you
-must put the back of your tongue against the uvula. If it still is difficult for you, let's try an exercise: when you make the sound /h/ you don't vibrate your vocal cords, the vibration of the vocal cords are important, it's that what differentiates the sounds /t/ *(voiceless, without vibration)* and /d/ *(voiced, with vibration)*, /k/ *(voiceless)* and /g/ *(voiced)*, /s/ *(voiceless)* and /z/ *(voiced)*, /f/ *(voiceless)* and /v/ *(voiced)*; OK, try to make the sound /h/ be voiced, in order to make the sound /ɦ/ *(/ɦ/ is just the voiced version of /h/ if you didn't understand)*; when you be able to make the sound /ɦ/, then make this sound with the back of the tongue against the uvula, thus you're be making the sound /ʁ/.Just below some
-examples in IPA:
+**{r} –** /[]{#anchor-27}ʁ/ – in situations like in “i**r**k”,
+“amo**r**” and “abso**r**b”, where just after “r” there is a consonant
+(not a vowel!) or this “r” is the last letter of the word, this
+consonant assumes the sound \[ʁ\]. The /ʁ/ is very similar the sound /h/
+of “**h**orse”, but there are two differences: you must vibrate your
+vocal cords and the place of articulation of /[]{#anchor-28}ʁ/ is the
+uvula – while the place of articulation of /h/ is the glottis *(which
+for some people is the same that it doesn't have a place of
+articulation)* –, in other words, you must put the back of your tongue
+against the uvula. If it still is difficult for you, let's try an
+exercise: when you make the sound /h/ you don't vibrate your vocal
+cords, the vibration of the vocal cords are important, it's that what
+differentiates the sounds /t/ *(voiceless, without vibration)* and /d/
+*(voiced, with vibration)*, /k/ (voiceless) and /g/ *(voiced)*, /s/
+*(voiceless)* and /z/ *(voiced)*, /f/ *(voiceless)* and /v/ *(voiced)*;
+OK, try to make the sound /h/ be voiced, in order to make the sound /ɦ/
+*(/ɦ/ is just the voiced version of /h/ if you didn't understand)*; when
+you be able to make the sound /ɦ/, then make this sound with the back of
+the tongue against the uvula, thus you're be making the sound /ʁ/. Just
+below some examples in IPA:
 
 spar – /spaʁ/
 
@@ -653,172 +734,188 @@ biaur – /bj'aʊʁ/
 
 **{u} –** /u/ – like “oo” in “l**oo**se”.
 
-**{ü} –** /y/ – like the french “u” or the german “ü”.
-[]{#anchor-18}[]{#anchor-19}Don't you know german neither french?
-[]{#anchor-20}There is no problem, I teach you how to make this sound.
+**{ü} –** /y/ – like the French “u” or the German “ü”.
+[]{#anchor-29}[]{#anchor-30}Don't you know German neither French?
+[]{#anchor-31}There is no problem, I teach you how to make this sound.
 It's very simple, speak the {u} sound, notice the movements you do with
 your mouth; now speak the sound {i}, but with the mouth movement of {u},
 in other words, speak {i} with a puckered lips.
 
 **{v} **– /v/ – like “v” in “**v**ein”.
 
-**{w} –** /w/ – like “w” in “**w**ater”. If this {w} comes after a vowel and you find difficult to pronouce it, you also may pronounce it as the “w” in “sho**w**”, whose sound actually is [ʊ̯] ({o} in SPT). It's a semivowel.
+**{w} –** /w/ – like “w” in “**w**ater”. If this {w} comes after a vowel
+and you find difficult to pronounce it, you may pronounce it as the “w”
+in “sho**w**”, whose sound actually is \[ʊ̯\] ({o} in SPT). It's a
+semivowel.
 
 **{y} –** /j/ – like “y” in “**y**ou” or the first part of “u” in
 “t**u**be” /t**j**u:b/. It's a semivowel.
 
-**{x} –** /ç/ – like the german “ich-laut” or, perhaps, “h” in
-“**h**uman”. []{#anchor-21}Don't you know german? []{#anchor-22}There is
-no problem, I teach you how to make this sound. Put the back of your tongue against your hard palate, in the same way you make with the sound {y}, then you try to pronounce this sound like you would do with {s}.
+**{x} –** /ç/ – like the German “ich-laut” *(maybe it's like the “h” in
+“**h**uman”, but it depends a lot of the English variation you speak…)*.
+[]{#anchor-32}Don't you know German? []{#anchor-33}There is no problem,
+I teach you how to make this sound. Put the back of your tongue against
+your hard palate, in the same way you make with the sound {y}, then you
+try to pronounce this sound like you would do with {s}.
 
 **{z} –** /z/ – like “z” in “**z**ap”.
 
 **{§} –** /θ/ – like “th” in “bir**th**day” or “**th**in”, but *not*
-like in “**th**is” or “wor**th**” whose sound is /ð/.
+like in “**th**is” whose sound is /ð/.
 
-**{tc} –** /[]{#anchor-23}t͡ʃ/ – like “ch” in “whi**ch**” or “**ch**eap”
+**{tc} –** /[]{#anchor-34}t͡ʃ/ – like “ch” in “whi**ch**” or “**ch**eap”
 
-**{dj} –** /[]{#anchor-24}d͡ʒ/ – like “g” in “hu**g**e” or “j” in
+**{dj} –** /[]{#anchor-35}d͡ʒ/ – like “g” in “hu**g**e” or “j” in
 “**j**ump”
 
-**{ng} –** /nj/ or /[]{#anchor-25}ŋ/ – like “ng” in “thi**ng**” or
-“ki**ng**”, whose sound is /[]{#anchor-26}ŋ/, but *not* like the “n” in
+**{ng} –** /nj/ or /[]{#anchor-36}ŋ/ – like “ng” in “thi**ng**” or
+“ki**ng**”, whose sound is /[]{#anchor-37}ŋ/, but *not* like the “n” in
 “thi**n**” or “ki**n**”.
 
 **{nk} –** /ŋk/
 
-I suggest you to learn the SPT very well before move on. Because it's a very important part, I suggest you to make an exception and read
-this chapter more than twice, I need that you know it very well.
+I suggest you to learn the SPT very well before move on. Because it's a
+very important part, I suggest you to make an exception and read this
+chapter more than twice, I need that you know it very well.
 
-SOME ENGLISH WORDS IN IPA AND SPT
----------------------------------
+[]{#anchor-38}SOME ENGLISH WORDS IN IPA AND SPT
+-----------------------------------------------
 
 Do you remember that I promised the transcription of some words of ours
-to IPA and SPT? If you've reached here without understanding very well both
-alphabets, let's see whether with the list below you understand them.
-Deliberately I've inserted some words whose sounds don’t exist in
-sambahsa, I did it to make you pay attention to the differences
-between the two languages, in these cases there wont a transcription to
-SPT.
+to IPA and SPT? If you've reached here without understanding very well
+both alphabets, let's see whether with the list below you understand
+them. Deliberately I've inserted some words whose sounds don’t exist in
+Sambahsa, I did it to make you pay attention to the differences between
+the two languages, in these cases there wont a transcription to SPT.
 
-It's important to highlight that the SPT was not made to transcribe words of other languages that are not sambahsa (!!!), what we're going to do here is just a fun for you acquiring more intimacy with the SPT.
+It's important to highlight that the SPT was not made to transcribe
+words of other languages that are not Sambahsa (!!!), what we're going
+to do here is just a fun for you acquiring more intimacy with the SPT.
 
-For you don't being lost, firstly I show the word, then the transcription to IPA, which is between square brackets or slashes, and then the transcription in SPT, which is between curly brackets.
+For you don't being lost, firstly I show the word, then the
+transcription to IPA, which is between square brackets, and then the
+transcription in SPT, which is between curly brackets.
 
-**Men –** [mɛn] – {män}
+**Men –** \[mɛn\] – {män}
 
-**Man –** [mæn] – {män} ({ä} should be /ɛ/, but I think that I can represent /æ/ as {ä})
+**Man –** \[mæn\] – {män} *({*ä*} should be /*ɛ*/, but I think that I
+can represent /*æ*/ as {*ä*})*
 
-**Black –** [blæk] – {bläk}
+**Black –** \[blæk\] – {bläk}
 
-**Flower –** [ˈflaʊ̯ɚ] – {flAoë} ({ë} should be /ə/, but I think that I can represent /ë/ as [ɚ])
+**Flower –** \[ˈflaʊ̯ɚ\] – {flAoë} *({*ë*} should be /*ə*/, but I think
+that I can represent /*ë*/ as \[*ɚ*\])*
 
-**Fire –** [ˈfaɪ̯ɚ] – {fAyë}
+**Fire –** \[ˈfaɪ̯ɚ\] – {fAyë}
 
-**Breathe –** [bɹiːð] (the sound /ð/ doesn't exist In sambahsa)
+**Breathe –** \[bɹiːð\] *(the sound /*ð*/ doesn't exist In Sambahsa)*
 
-**Two –** [tʰuː] – {tu:} – (SPT, as broad IPA transcription, can't represent diacritics)
+**Two –** \[tʰuː\] – {tu:} – *(SPT, as broad IPA transcription, can't
+represent diacritics)*
 
-**The –** [ðə] or [ðiː] 
+**The –** \[ðə\] or \[ðiː\]
 
-**Understand –** [ˌʌndɚˈstænd] – {ondëstÄnd} (we can consider /ʌ/ as {o})
+**Understand –** \[ˌʌndɚˈstænd\] – {ondëstÄnd} *(we can consider /*ʌ*/
+as {*o*})*
 
-**Letter –** [ˈlɛɾɚ] – {lÄrë}
+**Letter –** \[ˈlɛɾɚ\] – {lÄrë}
 
-**Turn –** [tʰɚn] – {tën}
+**Turn –** \[tʰɚn\] – {tën}
 
-**Good –** [gʊd] – {gud} – (we can consider /ʊ/ as {u})
+**Good –** \[gʊd\] – {gud} – *(we can consider /*ʊ*/ as {*u*})*
 
-**Until –** [ənˈtʰɪɫ] – {äntIl} – (we can consider /ɪ/ as {i} and /ɫ/ as {l})
+**Until –** \[ənˈtʰɪɫ\] – {äntIl} – *(we can consider /*ɪ*/ as {*i*} and
+/*ɫ*/ as {*l*})*
 
-**Very –** [ˈvɛɹi] – {vÄri} (we can represent /ɹ/ as {r})
+**Very –** \[ˈvɛɹi\] – {vÄri} *(we can represent /*ɹ*/ as {*r*})*
 
-**Cheek –** [t͡ʃiːk] – {tci:k}
+**Cheek –** \[t͡ʃiːk\] – {tci:k}
 
-**Divide –** [dɪˈvaɪ̯d] – {divAyd}
+**Divide –** \[dɪˈvaɪ̯d\] – {divAyd}
 
-**Thing –** [θɪŋ] – {§ing} 
+**Thing –** \[θɪŋ\] – {§ing}
 
-**Thin –** [θɪn] – {§in}
+**Thin –** \[θɪn\] – {§in}
 
-**North –** [nɔːɹθ] – {nor§}
+**North –** \[nɔːɹθ\] – {nor§}
 
-**Father –** [ˈfɑːðɚ]
+**Father –** \[ˈfɑːðɚ\]
 
-**Situation –** [ˌsɪt͡ʃuːˈeɪ̯ʃn̩] – {sItcu:eycn}
+**Situation –** \[ˌsɪt͡ʃuːˈeɪ̯ʃn̩\] – {sItcu:eycn}
 
-**Have –** [hæv] – {häv}
+**Have –** \[hæv\] – {häv}
 
-**Battleship –** [ˈbæɾɫ̩ˌʃɪp] – {bÄrlcip}
+**Battleship –** \[ˈbæɾɫ̩ˌʃɪp\] – {bÄrlcip}
 
-**Ring –** [ɹɪŋ] – {ring}
+**Ring –** \[ɹɪŋ\] – {ring}
 
-**Pleasure –** [ˈpl̥ɛʒɚ] – {pläjë}
+**Pleasure –** \[ˈpl̥ɛʒɚ\] – {pläjë}
 
-**Emotion –** [ɪˈmoʊ̯ʃn̩] – {imOocn}
+**Emotion –** \[ɪˈmoʊ̯ʃn̩\] – {imOocn}
 
-**Shy –** [ʃaɪ̯] – {cay}
+**Shy –** \[ʃaɪ̯\] – {cay}
 
-**Human –** [ˈhjuːmən] or [ˈçuːmən] – {hyU:mën} or {xU:mën}
+**Human –** \[ˈhjuːmən\] or \[ˈçuːmən\] – {hyU:mën} or {xU:mën}
 
-**Beautiful –** [ˈbjuːɾɪfɫ̩] – {byU:rufl} 
+**Beautiful –** \[ˈbjuːɾɪfɫ̩\] – {byU:rufl}
 
-**Enough –** [ɪˈnʌf] – {inOf}
+**Enough –** \[ɪˈnʌf\] – {inOf}
 
-**Kid –** [kʰɪd] – {kid}
+**Kid –** \[kʰɪd\] – {kid}
 
-**Feel –** [fiːɫ] – {fi:l}
+**Feel –** \[fiːɫ\] – {fi:l}
 
-**Sang –** [sæŋ] – {säng}
+**Sang –** \[sæŋ\] – {säng}
 
-**Sink –** [sɪŋk] – {singk}
+**Sink –** \[sɪŋk\] – {singk}
 
-**Jam –** [d͡ʒæm] – {djäm}
+**Jam –** \[d͡ʒæm\] – {djäm}
 
-**Hurry –** [ˈhʌɹi] or [ˈhɚ.i] – {hOri} or {hËi}
+**Hurry –** \[ˈhʌɹi\] or \[ˈhɚ.i\] – {hOri} or {hËi}
 
-**Has –** [hæz] – {häz}
+**Has –** \[hæz\] – {häz}
 
-**Square –** [skwɛɹ] – {skwär}
+**Square –** \[skwɛɹ\] – {skwär}
 
-**Twenty –** [ˈtw̥ɛnti] or [ˈtw̥ɛ̃ɾ̃i] – {twËnti} (sambahsa doens't have nasal vowels)
+**Twenty –** \[ˈtw̥ɛnti\] or \[ˈtw̥ɛ̃ɾ̃i\] – {twËnti} *(Sambahsa doesn't
+have nasal vowels)*
 
-**Horse –** [hɔːɹs] – {ho:rs}
+**Horse –** \[hɔːɹs\] – {ho:rs}
 
-**Milk –** [mɪɫk] – {milk}
+**Milk –** \[mɪɫk\] – {milk}
 
-**Queen –** [kw̥iːn] – {kwi:n}
+**Queen –** \[kw̥iːn\] – {kwi:n}
 
-**Girl –** [gɚɫ] – {gël}
+**Girl –** \[gɚɫ\] – {gël}
 
-**When –** [wɛn] or [ʍɛn] – {wän}
+**When –** \[wɛn\] or \[ʍɛn\] – {wän}
 
-**True –** [tɹ̥uː] – {tru:}
+**True –** \[tɹ̥uː\] – {tru:}
 
-**Yellow –** [ˈjɛloʊ̯] – {yÄlOo}
+**Yellow –** \[ˈjɛloʊ̯\] – {yÄlOo}
 
-**Star –** [stɑːɹ] – {sta:r} (we can consider /ɑ/ as {a})
+**Star –** \[stɑːɹ\] – {sta:r} *(we can consider /*ɑ*/ as {*a*})*
 
-**Thought –** [θɔːt] – {§o:t}
+**Thought –** \[θɔːt\] – {§o:t}
 
-**Choice –** [t͡ʃɔɪ̯s] – {tcoys}
+**Choice –** \[t͡ʃɔɪ̯s\] – {tcoys}
 
-**Go –** [goʊ̯] – {gOo}
+**Go –** \[goʊ̯\] – {gOo}
 
-**Price –** [pɹ̥aɪ̯s] – {prays}
+**Price –** \[pɹ̥aɪ̯s\] – {prays}
 
-**Lot –** [lɑːt] – {la:t}
+**Lot –** \[lɑːt\] – {la:t}
 
-**Red –** [ɹɛd] – {räd}
+**Red –** \[ɹɛd\] – {räd}
 
 It’s good to remember that the letter {r} from SPT can assume various
-sounds, like /r/, /ɾ/, /ʁ/, /ʀ/ and /ɹ/.
+sounds, like /r/, /ɾ/, /ʁ/, /ʀ/ or /ɹ/.
 
-A LAST VISIT TO THE ALPHABET AND THE NAME OF THE LANGUAGE
----------------------------------------------------------
+[]{#anchor-39}A LAST VISIT TO THE ALPHABET AND THE NAME OF THE LANGUAGE
+-----------------------------------------------------------------------
 
-Now that you already know SPT, let's go back to the alphabet for you know
-how each letter is pronounced:
+Now that you already know SPT, let's go back to the alphabet for you
+know how each letter is pronounced:
 
 a {a}, b {be}, c {tse}, d {de}, e {e}, f {ef}, g {dje}, h {hatc}, i {i},
 j {jye}, k {ka}, l {el}, m {em}, n {en}, o {o}, p {pe}, q {ku}, r {er},
@@ -828,30 +925,27 @@ Before we go on, it's important to know how our language is pronounced!
 
 **Sambahsa Mundialect –** {sambA:sa mundyAlëkt}
 
-WE ARE NOT FINISHED YET, SOME CONVENTIONS
------------------------------------------
+[]{#anchor-40}WE ARE NOT FINISHED YET, SOME CONVENTIONS
+-------------------------------------------------------
 
-**Before we go on, a warning:** don't worry with the more
-complex pronunciation rules, because I'll show you the pronunciation of each
-example in almost all parts of this grammar, so you'll naturally learn the
-pronunciation. *Don't memorize anything, understand it*! My advice is:
-read this part once or twice – at most – then go on with your studies.
-Does the orthography is too difficult? No, but it can be boring at
-the beginning for those who are starting and it is not, in my personal
-opinion, obligatory at the beginning since I'll dispose the
+**Before we go on, a warning: **don't worry with the more complex
+pronunciation rules, because I'll show you the pronunciation of each
+example in almost all parts of this grammar, so you'll naturally learn
+the pronunciation. *Don't memorize anything, understand it*! My advice
+is: read this part once or twice – at most – then go on with your
+studies. Does the orthography is too difficult? No, but it can be boring
+at the beginning for those who are starting and it is not, in my
+personal opinion, obligatory at the beginning since I'll dispose the
 pronunciation with the examples.
-
-Since here until the final of the **ALPHABET AND PRONUNCIATION**
-chapter, the text will be almost a transcription of a chapter of the book *The
-Grammar Of Sambahsa-Mundialect In English*, of Dr. Olivier Simon.
 
 The vowels are represented by V, they are: “a”, “e”, “i”, “o”, “u”. The
 semivowels are “w” and “y”, they are represented by C, as well as the
-consonants. The letters "w" and “y” can assume the function of vowels when they're not related to any other vowel.
+consonants. The letters “w” and “y” assume the function of vowels when
+they're not related to any other vowel.
 
-### THE LETTER “e”:
+### []{#anchor-41}THE LETTER “e”:
 
-When it is the stressed []{#anchor-27}syllable or the first letter of
+When it is the stressed []{#anchor-42}syllable or the first letter of
 the word, it's pronounced as {e}.
 
 **incandescent {inkandEsënt} –** incandescent
@@ -864,47 +958,55 @@ It's not pronounced when alone in the final of a word…
 
 **claviature {klavyatÜr} –** keyboard
 
-[]{#anchor-28}**clientele {klyentEl} – **customers
+[]{#anchor-43}**clientele {klyentEl} – **customers
 
 … or at the end of a word before the letters “s” and “t”.
 
-**crimes {krims} – **crimes
+**crimes {krims} –** crimes
 
-**survivet {survIvd} –** *(he/she/it)* survives
+But look that, the word “mecanismes”, which means “mechanism”, would be
+pronounced as {mëkanIsmës} because {mëkanIsms} is unpronounceable.
+
+**accuset {akÜzt} –** (he/she) accuses
 
 In some cases the loss of “e” can create a confusion or make the word
 unpronounceable, in these cases “e” assumes the sound {ë}.
 
-[]{#anchor-29}**storgnet {stOrnyët} –** stunned
+**resignet {rëzInyët} –** resigned
 
 *Why do “gn” of “storgnet” is pronounced as {ny}? I explain it later.*
 
-All words ending with “quet” and “ques” are pronounced, respectively,
-as {kët} e {kës}.
+All words ending with “quet” and “ques” are pronounced, respectively, as
+{kët} e {kës}.
 
 In all the other cases “e” has the {ë} sound, like in “kohlen”, which is
 pronounced as {kO:lën}.
 
-*Why do the pronounce of “o” is lengthened in this word? I am going
-to answer you.*
+*Why do the pronounce of “o” is lengthened in this word? I am going to
+answer you.*
 
-### THE LETTER “h”:
+### []{#anchor-44}THE LETTER “h”:
 
-The {h} sound appears when "h" is at the beginning of a word or between vowels.
+The {h} sound appears when “h” is at the beginning of a word or between
+vowels.
 
 **habe {hab} –** have
 
-**rahat {rahAt} –** rest
+**hellen {hElën} –** Greek
 
-[]{#anchor-30}When the letter “h” is after a vowel and it is not followed
-by other vowel, the letter “h” serves to indicate that the
+**alcohol {alkohOl} –** alcohol
+
+[]{#anchor-45}When the letter “h” is after a vowel and it is not
+followed by other vowel, the letter “h” serves to indicate that the
 pronunciation of the vowel must be lengthened.
 
-[]{#anchor-31}**kohlen {kO:lën} –** hiden
+[]{#anchor-46}**kohlen {kO:lën} –** hiden
 
 **bahsa {bA:sa} –** language
 
 **bah {ba:} –** to say, to speak
+
+**hehlp {he:lp} –** help
 
 Maybe you ask me: “don't would be much more simple to write the vowel
 twice to indicate the lengthened of its pronounce? Instead to write
@@ -913,126 +1015,151 @@ twice to indicate the lengthened of its pronounce? Instead to write
 **The answer is:** No! This would produce a different sound, “baasa”
 would be pronounced as {baAza}
 
-If the letter “h” is after a diphthong, like in “credeih”, which means “to believe”, you lengthen the pronunciation of the main vowel then you release the semivowel.
+If the letter “h” is after a diphthong, like in “credeih”, which means
+“to believe”, you lengthen the pronunciation of the main vowel then you
+release the semivowel.
 
 **eih {e:y} –** to go
+
 **addeih {adE:y} –** to add
+
 **wehrgeih {we:rdjE:y} –** to play, to run
 
 “gh”, “bh” e “dh” respectively correspond to {g}, {b} and {d}, the “h”
 in these letters serves to indicate that they will not suffer any kind
 of modification.
 
-VOWELS
-------
+[]{#anchor-47}VOWELS
+--------------------
 
-**“eau” {o:} –** /o:/ like in “bureau” {bürO:} *(bureau, office)*
+**“eau” {o:} –** /o:/ like in *“*plateau” {platO:} *(plateau)*
 
-**“aa” {aA} –** /a'a/ – like in “saat” {saAt} *(hour, clock, watch)*
+**“aa” {aA} –** /a'a/ – like in “jaal” {jaAl} *(plagiarism)*
 
-**“ae”, “ae” {ay} –** /aj/ – like “[]{#anchor-32}yoinkjiae” {yoynkjiAy}
+**“ae”, “ae” {ay} –** /aj/ – like “[]{#anchor-48}yoinkjiae” {yoynkjiAy}
 *(musical scale)*
 
-**“ai” {ä} –** like in “caise” {käz} *(queijo)*
+**“ai” {ä} –** like in “affaire” {afÄr}* (affair)*
 
-**“au” {Ao} –** \[aʊ̯\] – like in “Australia” *{aostrAlya} (Australia)*
+**“au” {Ao} –** \[aʊ̯\] – like in “augos” {Aogos} *(strength , power)*
 
-**“ea” {Ea} *****(***[]{#anchor-33}***at the end of a word****)***** –**
+**“ea” {Ea} *****(***[]{#anchor-49}***at the end of a word****)***** –**
 /'ea/ – like in “wakea” {wakEa} *(definitely)*
 
 **“ea” {ëa} *****(at the end of a word)***** –** /əa/ – like in “ocean”
-{ots(ë)An} *(ocean) Notice that as the sounds {ë} and {a} are similar, in
-practice the “e”, in this case, normally ends being absorbed, in other
-words, it is not pronounced. In this case, any final consonant - except "s" - shifts the stress on "a", and leads to that pronunciation different from "wakea".*
+{ots(ë)An} *(ocean) Notice that as the sounds {ë} and {a} are similar,
+in practice the “e”, in this case, normally ends being absorbed, in
+other words, it is not pronounced. In this case, any final consonant –
+except “s” – shifts the stress on “a”, and leads to that pronunciation
+different from “wakea”.*
 
 **“ee” {Eë} –** /eə/ – like in “eet” {Eët} *(*(he/she/it)* was)*
 
 **“eo” {Eo} –** \[eʊ̯\] – like in “fianceo” {fyantsEo} *(fiance)*
 
-**“eu” {ö} –** like in “Europe” {örOp} *(Europa)*
+**“eu” {ö} –** like in “Europe” “eust” {öst} *(east)*
 
 **“ie” {i:} *****(when alone at the end of a word***** –** like in
-“publie” {publI:} *(publish)*
+“allie” {alI:} *(to ally)*
 
 **“ie” {ye} *****(in all the other casees)***** –** /je/ – like in
-“publiet” {publyEt} *(published)*
+“alliet” {alyEt} *(allied)*
 
 **“iu” {yu} –** /ju/ – like “iu” in “siuk” {syuk} *(dry)*
 
-**“oe”, “oi”, e “oy” {oy} –** /oj/ – like in “[]{#anchor-34}choengju”
-{tcOyngju} *(rice wine)*
+**“oe”, “oi”, e “oy” {oy} –** /oj/ – like in “[]{#anchor-50}oeti” {Oyti}
+*(waterbird)*
 
-**“oo” {oO} –** /o'o/ – like “boot” {boOt} *(boat)*
+**“oo” {oO} –** /o'o/ – like “moor” {moOr} *(moor)*
 
-**“ou” {u:} –** /u:/ – like in “courage” {ku:rAdj} *(courage)*
+**“ou” {u:} –** /u:/ – like in “bouquete” {bu:kEt} *(bunch o(f
+flowers))*
 
-**“ue” {ü:} –** like in “continue” {kontinÜ:} *(continue)*
+**“ue” {ü:} –** like in “evacue” {evakÜ:} *(to evacuate)*
 
-**“ui” {wi} **– /wi/ – like in “[]{#anchor-35}tuich” {twitc} *(empty)*
+**“ui” {wi} **– /wi/ – like in “tsui” {tswi} *(scorch)*
 
-**“uy” {uy} –** /uj/ – like in “[]{#anchor-36}lastruym” {lastrUym}
-*(hold *(boat)*)*
+**“uy” {uy} –** /uj/ – like in “garuy” {garUy} *(maize stem)*
 
-**“u” {u} *****(“u” has the sound {u}, but it would be {ü} if there is
-the letter “e” between the two following letters)***** –** like in “bur”
-{bur} *(ashes)*, but “bureau” is {bürO:}.
+**“u” {u} – **like in “urg” {urg} *(urge)*
 
-SEMIVOWELS
-----------
+**“u” – *****(but it ****will**** be {ü} if there is the letter “e”
+between the two following letters)***** –** like in “urgence” {urdjEns}
+*(urgence)*.
+
+[]{#anchor-51}SEMIVOWELS
+------------------------
 
 “w” and “y” respectively are {w} and {y} when combined to vowel, but
-when isolates the letter “w” is pronounced like a short {u}, more precisely [ŭ] or [ʊ̆], and the letter “y” is like
-{ü}.
+when isolates the letter “w” is pronounced like a short {u}, more
+precisely \[ŭ\] or \[ʊ̆\], and the letter “y” is like {ü}.
 
-[]{#anchor-37}**sehkwnt {sE:kunt} –** (they) follow
+**grandwn {grAndun} –** hail (sb)
 
-**type {tüp} –** guy; type
+**hydra {hÜdra} –** hydra
 
 But when the letter “y” finds itself at the final of a word or followed
 by a -s, “y” e “ys” respectively will have the sounds {i} and {is}.
 
-**baby {bAbi} – **baby
+**baby {bAbi} –** baby
 
 **babys {bAbis} –** babies
 
-CONSONANTS
-----------
+**yunghy {yUngi} –** young sailor
 
-**“sch” {c} –** like in “[]{#anchor-38}muraischmusch” {muräcmUc} *(mush
-fly)*
+**Tethys {tE§is} –** Tethys (npr)
 
-**“ch” {tc} *****(it's {k} when before a consonant)***** –** like in
-“cheus” {tcös} *(choose)* and “Christ” {krist} *(Christ)*.
+[]{#anchor-52}CONSONANTS
+------------------------
+
+**“sch” {c} –** like in *“*vrehsch” {vre:c} *(to thresh)*
+
+**“ch” {tc} *****(when before a ****vowel****)***** – **“ginchu”
+{djIntcu} *(lipstick)*
+
+**“ch” {k } *****(when before a consonant)***** –** like in “Christ”
+{krist} *(Christ)*.
 
 **“gn” {ny} –** /nj/ – like in “gnoh” {nyo:} *(to know)*
 
-**“kh” {q} –** like in “khiter” {qItër} *(evil)*
+**“kh” {q} –** like in “kheiss” {qeys} *(to feel)*
 
 **“ph” {f} –** like in “philosophia” {filozOfya} *(philosophy)*
 
-**“qu” {kw} *****(when before “a”, “o” e “u”, or {k} when before “e”,
-“i” e “y”)***** –** \[kw\] or \[kʷ\] – like in “quod” {kwod} *(what)*
-and “quis” {kis} *(who)*.
+**“qu” {kw} *****(when before “a”, “o” ****and ****“u”****) *****–
+**\[kw\] or \[kʷ\] – like in “quod” {kwod} *(what)*
 
-**“sc” {sk} *****(it's {s} when before “e”, “i” e “y”)***** –** “scutt”
-{skut} *(shake)* and “science” {syents} *(science)*
+**“qu” {k} *****(****when before “e”, “i” ****and**** “y”)***** –** like
+in “quis” {kis} *(who)*.
 
-**“sh” {x} –** like in “[]{#anchor-39}shienciu” {xyEntsyu} *(overgrown)*
+**“sc” {sk} *****(when before “a”, “o” ****and**** “u”****) *****–
+**like in “scafold” {skafOLd} *(scaffold)*
+
+**“sc” {s} *****(when before “e”, “i” ****and**** “y”)***** –** like in
+“science” {syents} *(science)*
+
+**“sh” {x} –** like in “[]{#anchor-53}shienciu” {xyEntsyu} *(overgrown)*
 
 **“ss” {s} –** like in “permission” {përmisyOn} *(permission)*
 
-**“th” {§} *****(it's{t} when combined with {s}, {c} or {j} *****) –**
-like in “[]{#anchor-40}thamf” {§amf} *(stench)* and
-“[]{#anchor-41}esthetic” {estEtik} (*aesthetical)*.
+**“th” {§} –** like in “canther” {kAn§ër} *(kantharos)*
 
-**“c” {k} *****(it's {ts} (/t͡s/) when before “e”, “i” e “y”)***** –**
-like in “condition” {kondityOn} *(condition)* and “petrificit”
-{pëtrifItsit} *(petrified)*
+**“th” {t} *****(****when combined to**** {s}, {c} ou {j})***** –** like
+in “anesthesia” {anëstEzya} *(anaesthetics)*
 
-**“g” {g} *****(it's {dj} when before “e”, “i” e “y”)***** –** like in
-“gulf” {gulf} *(gulf)* and “large” {lardj} *(large)*.
+**“c” {k} *****(when before “a”, “o” ****and**** “u”)***** –** like in
+“peruca” {përUka} *(wig)*
 
-**“j” {j} –** always {j}.
+**“c” {ts} – /t͡s/ *****(when before “e”, “i” ****and**** “y”)***** –**
+like in “cereal” {tsëreAl} *(cereal)*
+
+**“g” {g} *****(when before “a”, “o” ****and ****“u”)***** –** like in
+“gordos” {gOrdos} *(enclosure)*
+
+**“g” {dj} *****(when before “e”, “i” ****and**** “y”)***** –** like
+inlike in “gep” {djep} *(pocket)*
+
+**“j” {j} –** like in “jins” {jins} *(jeans)*
 
 **“r” {r} –** as there are people from different backgrounds, it's
 admited a wide variety of manners of how this sound is made, including
@@ -1040,66 +1167,77 @@ our “r”! The recommended form – but it's not compulsory – it's the way
 spoken in Luxembourg or Saarland, /ʀ/. However this sound can take other
 forms:
 
-**“rr” /r(r)/ and “rh” /r(h)/ –** like the spanish “rr” (/r/). Don't you know spanish? There is no problem, I teach you how to make this sound. It's made by the trill of the tongue in the alveolar ridge, but know that the movement of the tongue is more made by the airflow than the tongue itself. It's like the /ɾ/ of “be**tt**er”, but you have multiple vibrations of the tongue instead of a single vibration of /ɾ/.
+**“rr” /r(r)/ and “rh” /r(h)/ –** like the Spanish “rr” (/r/). Don't you
+know Spanish? There is no problem, I teach you how to make this sound.
+It's made by the trill of the tongue in the alveolar ridge, but know
+that the movement of the tongue is more made by the airflow than the
+tongue itself. It's like the /ɾ/ of “be**tt**er”, but you have multiple
+vibrations of the tongue instead of a single vibration of /ɾ/.
 
-**“rl” –** like the japanese “r” (/ɺ/), it may also be pronounced as
-/rl/ or /ʁl/. Don't you know japanese? There is no problem, I explain it:
-it's very similar to the /ɾ/ of “be**tt**er”, but you must hold your tongue during a tiny bit of time in order to the air pass at the laterals of your tongue instead of the center of the tongue.
+**“rl” –** like the Japanese “r” (/ɺ/), it may also be pronounced as
+/rl/ or /ʁl/. Don't you know Japanese? There is no problem, I explain
+it: it's very similar to the /ɾ/ of “be**tt**er”, but you must hold your
+tongue during a tiny bit of time in order to the air pass at the
+laterals of your tongue instead of the center of the tongue.
 
-**“s” {s} *****({z} when between vowels)***** –** “son” {son} *(son)
-and* “decision” {dëtsiziOn} *(decision)*
+**“s” {s} –** like in “sofa” {sOfa} *(sofa)*
 
-**“x” {ks} –** /ks/ – it may turn {gz}, if it facilitates the
-pronunciation.
+**“s” {z} *****(****when between vowels****)***** –** like in “firasat”
+{firazAt} *(face, general outlook)*
 
-**“z” {dz} –** /d͡z/ – like in “[]{#anchor-42}zangir” {dzAndjir}
-*(chain)*
+**“x” {ks} – /ks/ –** like in “xiongbu” {ksyOngbu} *(chest)*
 
-MORE OBSERVATIONS
------------------
+{ks} may become {gz} if it facilitates the pronunciation for you.
+
+**“z” {dz} –** /d͡z/ – like in “[]{#anchor-54}zoo” {dzOo} *(zoo)*
+
+[]{#anchor-55}MORE REMARKS
+--------------------------
 
 Some letters, especially those at the end of the word, may be modified
-by the neighbor sounds. Like in the case of “hands” {handz} (hands).
+by the neighbor sounds. Like in the case of “hands” {handz} *(hands)*.
 
-Some consonantes, as well as the vowel {ë}, may be omitted. The word
+Some consonants, as well as the vowel {ë}, may be omitted. The word
 “franceois” officially is {frantsëOys}, but it may be {fransOys} because
-of {t} is inside a consonanl group and the unstressed vowel {ë} is close
-to the stressed vowel {o}.
+of {t} is inside a consonantal cluster and the unstressed vowel {ë} is
+close to the stressed vowel {o}.
 
 If the verbal form starts with {s*C*}, oi- may be added before this word
 for euphonic reasons. For example “skap”, which becomes “oiskap”.
 
-STRESS ACCENT IN SAMBAHSA
--------------------------
+[]{#anchor-56}STRESS ACCENT IN SAMBAHSA
+---------------------------------------
 
-[]{#anchor-43}Start analyzing the word since the last syllable
+[]{#anchor-57}Start analyzing the word since the last syllable
 
-### ALWAYS RECEIVES ACCENTUATION
+### []{#anchor-58}ALWAYS RECEIVES ACCENTUATION
 
-Vowels before the letter “h” or a double consonant (rr”, “ll”, “tt” …),
-by double consonant also is understood the “ck”{k(k)}. The same is
-said about a syllable before a final -e. There some examples:
+Vowels before the letter “h” or a double consonant (rr”, “ll”, “tt”…),
+by double consonant also is understood the “ck”{k(k)}. The same is said
+about a syllable before a final -e. There some examples:
 
-[]{#anchor-44}**Prodah –** {prodA:} *(hand over *(a criminal)*)\
-*[]{#anchor-45}*F*[]{#anchor-46}*or you ro understand: if the word would
-“proda”, *[]{#anchor-47}*the pronunciation would be {prOda}*
+**Prodah –** {prodA:} *(to hand over)*
 
-[]{#anchor-48}**Recess –** {rëtsEs} *(recess)*
+**[]{#anchor-59}*F*[]{#anchor-60}*or you to have a better understanding:
+if the word were “proda”, *[]{#anchor-61}*the pronunciation would be
+{prOda}*
 
-F[]{#anchor-49}or you ro understand: if the word would “reces”, the
-pronunciation would be {rEtsës}
+**Access**[]{#anchor-62}** –** {aktsEs} *(to access)*
 
-[]{#anchor-50}**Frontdeck –** {frondEk} *(foredeck)*
+F[]{#anchor-63}or you to have a better understanding: if the word were
+“acces”, the pronunciation would be {Aktsës}
 
-F[]{#anchor-51}or you ro understand: if the word would “frontdec”, the
-pronunciation would be {frOndëk}
+**S**[]{#anchor-64}**chebeck –** {cëbEk} *(female monkey)*
+
+F[]{#anchor-65}or you to have a better understanding: if the word were
+“schebeck”, the pronunciation would be {cEbëk}
 
 **Taslime –** {taslIm} *(surrender)*
 
-The first of two closed vowels, with exception of “i” and “u” as
+The first of two closed vowels, with the exception of “i” and “u” as
 semivowels.
 
-**Armee – **{armEë} *(army)*
+**Tranchee – **{trantcEë} *(trench)*
 
 **Australia –** {aostrAlya} *(Australia)*
 
@@ -1108,33 +1246,33 @@ pronunciation {wi})*, oCel *(where C is the only consonant)*.
 
 **Hotel –** {hotEl} *(hotel)*
 
-[]{#anchor-52}**Suadin – **{swadIn} *(fair weather)*
+[]{#anchor-66}**Suadin – **{swadIn} *(fair weather)*
 
 **Reling –** {rEling} *(railing)*
 
 **Kierey –** {kyerEy} *(ram) *
 
 The vowels “a”, “o” and “u” when before a consonant or semivowel, with
-exception of a sole “s”.
+the exception of a sole “s”.
 
-**Cadaloc – **{kadalOk} *(anywhere)*
+**Udtwac – **{udtwAk} *(to trim)*
 
-**Naval –** {navAl} *(naval)*
+**Gandul –** {gandUl} *(lazy)*
 
-**Dayluk –** {daylUk} *(continent)*
+**Kayak –** {kayAk} *(kayak)*
 
-### []{#anchor-53}NEVER IS ACCENTUATED
+### []{#anchor-67}[]{#anchor-68}NEVER IS ACCENTUATED
 
 Prefixes.
 
-[]{#anchor-54}***For*****trehc –** {fortrE:k} *(away; to depart for a
+[]{#anchor-69}***For*****trehc –** {fortrE:k} *(away; to depart for a
 trip)*
 
 *Re*cess
 
 ***Be*****vid** – {bëvId} *(to show, to prove)*
 
-**For- –** prefix[]{#anchor-55} that means something far
+**For- –** prefix[]{#anchor-70} that means something far
 
 **Re- –** prefix that means repetition
 
@@ -1146,9 +1284,9 @@ The letter “w” when used as vowel.
 
 A word finishing in -(i)um, -ule e -s.
 
-[]{#anchor-56}**Schives –** {civz} *(to shift)*
+[]{#anchor-71}**Schives –** {civz} *(to shift)*
 
-[]{#anchor-57}**Territorium –** {territOryum} *(territory)*
+[]{#anchor-72}**Territorium –** {territOryum} *(territory)*
 
 **Insule –** {Insül} *(island)*
 
@@ -1156,17 +1294,17 @@ A alone vowel or semivowel at the end of a word.
 
 **Okwi –** {Okwi} *(eyes)*
 
-**Baby –** {bAbi} *(baby)*
+**Perry –** {pEri} *(perry)*
 
 The vowels “e”, “i” and “y” at the end of a word followed by a semivowel
 – with the exception of “ey” – or two or diverse consonants, but not the
 double ones.
 
-[]{#anchor-58}**Seghel – **{sEgël} *(sail)*
+**L**[]{#anchor-73}**ambhel – **{lAmbël} *(hilt)*
 
-**Tolkit –** {tOlkit} *(*(he/she/it)* talked)*
+**Kibrit –** {kIbrit} *(match for fire)*
 
-**Khitert –** {qItërt} *(evil *(noun)*)*
+**Ouvert –** {U:vërt} *(overt)*
 
 In compound words the stressed syllable stays the same of the original
 word.
@@ -1182,72 +1320,71 @@ word.
 These rules don't necessarily apply to proper nouns and the use of
 hyphen preserves the accentuation in both sides.
 
-IF YOU FOUND SOME SOUNDS VERY DIFFICULT
----------------------------------------
+[]{#anchor-74}IF YOU FOUND SOME SOUNDS VERY DIFFICULT
+-----------------------------------------------------
 
 I did my best to teach you each sound, but if you really can't learn
 some of them – but I believe you can – it's not the end of the world!!!
 If you can't pronounce sounds like /x/ or /ç/, no-one you put you in a
 jail if you use /ʃ/ and /h/ in their places. If you can't pronounce the
-japanese “r”, use our “r”. The good news is that the difficult sounds
-are rarely used, with the exception of the vowels not found in
-the english language.
+Japanese “r”, use our “r”. The good news is that the difficult sounds
+are rarely used, with the exception of the vowels not found in the
+English language.
 
-The advantage of learning the phonetics of sambahsa is that you master
+The advantage of learning the phonetics of Sambahsa is that you master
 the phonetics of many other languages.
 
-SELLAMAT!
-=========
+[]{#anchor-75}SELLAMAT!
+=======================
 
 Sellamat! It's with this word, “sellamat” {selamAt}, that we say
 “hello”, you also may say “salut” {salUt}, which have the same function.
 
 In this chapter I'll show you some sentences, maybe you'll deduce the
-elements of each one by youself, but, anyway, in posterior chapters
+elements of each one by yourself, but, anyway, in posterior chapters
 I'll unravel each sentence's element, so don't worry if you don't
 understand something in this chapter.
 
-Different from english and most of the auxiliary languages, the sambahsa
+Different from English and most of the auxiliary languages, the Sambahsa
 verbs are conjugated. All verbs are regular, with the exception of the
-verbs “to be”, “to have” and “to know”, but they are not difficult.
+verbs for “to be”, “to have” and “to know”, but they are not difficult.
 Let's start with some basic sentences:
 
-**Som **[]{#anchor-59}[]{#anchor-60}**John {som **[]{#anchor-61}**djOn}
-–** []{#anchor-62}I am John
+**Som **[]{#anchor-76}[]{#anchor-77}**John {som **[]{#anchor-78}**djOn}
+–** []{#anchor-79}I am John
 
-**Io som **[]{#anchor-63}**John {yo som djOn}***** *****–**
-[]{#anchor-64}I am John
+**Io som **[]{#anchor-80}**John {yo som djOn}***** *****–**
+[]{#anchor-81}I am John
 
-**Ego som **[]{#anchor-65}**John {Ego som djOn}***** *****–** I am John
+**Ego som **[]{#anchor-82}**John {Ego som djOn}***** *****–** I am John
 *(more emphasis at “I”)*
 
-Notice that, in the same way as occurs in the spanish language, in most
-cases you may omit the pronoun, because the own verb indicates the
-used pronoun. You've just met the verb correspondent to “to be” when
-linked to the pronoun “I”. Let's to the next sentences:
+Notice that, in the same way as occurs in the Spanish language, in most
+cases you may omit the pronoun, because the own verb indicates the used
+pronoun. You've just met the verb correspondent to “to be” when linked
+to the pronoun “I”. Let's to the next sentences:
 
-**Es **[]{#anchor-66}**Robert {es **[]{#anchor-67}**rObërt } –**
-[]{#anchor-68}you are Robert
+**Es **[]{#anchor-83}**Robert {es **[]{#anchor-84}**rObërt } –**
+[]{#anchor-85}you are Robert
 
-**Es **[]{#anchor-69}**Linda {es **[]{#anchor-70}**lInda} –**
-[]{#anchor-71}you are Linda
+**Es **[]{#anchor-86}**Linda {es **[]{#anchor-87}**lInda} –**
+[]{#anchor-88}you are Linda
 
-**Tu es **[]{#anchor-66}**Robert {tu es **[]{#anchor-67}**rObërt } –**
-[]{#anchor-68}you are Robert
+**Tu es **[]{#anchor-89}**Robert {tu es **[]{#anchor-90}**rObërt } –**
+[]{#anchor-91}you are Robert
 
-**Tu es **[]{#anchor-69}**Linda {tu es **[]{#anchor-70}**lInda} –**
-[]{#anchor-71}you are Linda
+**Tu es Linda {tu es lInda} –** you are Linda
 
 **Is est Robert {is est rObërt} –** he are Robert
 
 **Ia est Linda {ya est lInda} –** she are Linda
 
-[]{#anchor-72}**Smos **[]{#anchor-73}**americans {smos
-**[]{#anchor-74}**amerikAns} –** []{#anchor-75}we are americans
+[]{#anchor-92}**Smos **[]{#anchor-93}**Americans {smos
+**[]{#anchor-94}**amërikAns} –** []{#anchor-95}we are Americans
 
-**Wey smos americans {wey smos amerikAns} –** we are americans
+**Wey smos Americans {wey smos amërikAns} –** we are Americans
 
-**Sambahsa est facil {sambA:sa est fAcil} –** Sambahsa is easy
+**Sambahsa est facil {sambA:sa est fAtsil} –** Sambahsa is easy
 
 The next cases are fairly interesting:
 
@@ -1259,7 +1396,10 @@ The next cases are fairly interesting:
 undetermined pronouns are used when it's not known the genre or it's not
 desired to say the genre. **Pay attention:** from now, all pronouns or
 articles that I *don't* indicate as *neutral* or *undetermined*, will
-have the masculine genre or the feminine genre, but I can specify whether the word is related to a male or female being if it's really necessary, when the word itself can't informe to which gender it is related. Are we understood?
+have either the masculine genre or the feminine genre, but I can specify
+whether the word is related to a male or female being if it's really
+necessary, when the word itself can't inform to which gender it is
+related. Are we understood?
 
 To make clear what is *neutral* and what is *undetermined*, look the
 examples:
@@ -1274,45 +1414,50 @@ is *neutral*
 **Grandfather –** masculine
 
 **Tree –** even it is a living creature, it has not genre *(although you
-can argue about dioecious plants)*, so it's *neutral*
+can argue about dioecious plants…)*, so it's *neutral*
 
 **Daughter –** feminine
 
 **Child –** as the genre is not specified, it's *undetermined*
 
-**Ectoplasm – *like in “the ectoplasm was exteriorized by the medium”* –** it's *neutral*, because “ectoplasm” here is considered as a substance
+**Ectoplasm – *****like in “the ectoplasm was exteriorized by the
+medium”***** –** it's *neutral*, because “ectoplasm” here is considered
+as a substance
 
-**Ectoplasm – *like in “the ectoplasm spoke to me”* –** it can be *masculine*, *feminine* or *undetermined*
+**Ectoplasm – *****like in “the ectoplasm spoke to me”***** –** it can
+be *masculine*, *feminine* or *undetermined*
 
 **Android –** you decide, it depends of the context and point of view of
 each one, it can be *neutral*, *undetermined* or even have a genre.
 
-In case of doubt whether the word must be considered as *neutral* or *undetermined*, use the *undetermided* form.
+In case of doubt whether the word must be considered as *neutral* or
+*undetermined*, use the undetermined* *form.
 
 We've known the basic pronouns and their verbs, now let's see more
 pronouns and verbs in the plural, let's use the word “prient” {pryent},
 which means “friend”, and “gohd” {go:d}, which means “good”, in our
 examples:
 
-**Smos prients {smos pryents} –** []{#anchor-76}we are friends
+**Smos prients {smos pryents} –** []{#anchor-96}we are friends
 
 **Wey smos prients {wey smos pryents} –** we are friends
 
-**Ste prients {ste pryents} –** []{#anchor-77}you are friends
+**Ste prients {ste pryents} –** []{#anchor-97}you are friends
 
 **Yu ste prients {yu ste pryents} –** you are friends
 
-[]{#anchor-78}[]{#anchor-79}**Yu ste prient {yu ste pryent} –** you are
+[]{#anchor-98}[]{#anchor-99}**Yu ste prient {yu ste pryent} –** you are
 friend *(notice that this one is in the singular)*
 
 **Tu es prient {tu es pryent} –** you are friend *(equal to the sentence
 just above, but this is informal)*
 
 **Ies sont prients {yes sont pryents} –**
-[]{#anchor-80}[]{#anchor-81}they are friends *(all of masculine genre)*
+[]{#anchor-100}[]{#anchor-101}they are friends *(all of masculine
+genre)*
 
 **Ias sont prients {yas sont pryents} –**
-[]{#anchor-82}[]{#anchor-83}they are friends *(all of feminine genre)*
+[]{#anchor-102}[]{#anchor-103}they are friends *(all of feminine genre)*
 
 **Ia sont gohd {ya sont go:d} –** they are goods *(neutral)*
 
@@ -1324,38 +1469,40 @@ situation, with people you have no intimacy, therefore a courtesy
 pronoun, and you use “tu” with close friends, family and kids.
 
 Notice that, even in the singular, the pronoun “yu” make use of the verb
-“ste”, because sambahsa works as in french or russian, the courtesy
-pronoun, “yu”, stays in the plural, even when referring to only one person. An example
-from french: “Vous êtes un ami/des amis”; an example from russian:
-“[]{#anchor-84}Вы остаётесь моим(и) другом/друзями” (you remain my
-friend(s)). Only the context can informe whether the “yu” is in singular or plural.
+“ste”, because Sambahsa works as in French or Russian, the courtesy
+pronoun, “yu”, stays in the plural, even when referring to only one
+person. An example from French: “Vous êtes un ami/des amis”; an example
+from Russian: “[]{#anchor-104}Вы остаётесь моим(и) другом/друзями” (you
+remain my friend(s)). Only the context can inform whether the “yu” is in
+singular or plural.
 
 Other important observation about the second person of plural “yu”. You
-already know that, in most cases, it's not necessary the use of the pronoun, but in future
-examples you'll notice that the pronunciation of the third person of
-singular and the second person of plural are very similar, look:
+already know that, in most cases, it's not necessary the use of the
+pronoun, but in future examples you'll notice that the pronunciation of
+the third person of singular and the second person of plural are very
+similar, look:
 
 **Is lieubht me {is liÖb*****t***** me} –** he loves me
 
 **Yu lieubhte me {yu liÖb*****t***** me} –** you love me
 
-Did you imagine if didn't exist the pronoun there? That's why the pronoun “yu”
-always have to appear.
+Did you imagine if didn't exist the pronoun there? That's why the
+pronoun “yu” always have to appear.
 
 It's important that you know how to say the verb “there be”, in the
-sense of existence. It's is pretty similar to english, I'll use the noun
+sense of existence. It's is pretty similar to English, I'll use the noun
 “anghen” {Angën}, which means “person”, and the adverb “her” {her},
 which means “here”, in the following examples:
 
-**Sont anghens her {sont Angëns her} –** []{#anchor-85}there are persons
-here
+**Sont anghens her {sont Angëns her} –** []{#anchor-105}there are
+persons here
 
 **Ter sont anghens her {ter sont Angëns her} –** there are persons here
 
 Yes, you may use or not the “ter” if you want.
 
-USEFUL WORDS AND SENTENCES
-==========================
+[]{#anchor-106}USEFUL WORDS AND SENTENCES
+=========================================
 
 There is no problem whether you don't know how certain sentences were
 made, everything will be explained in the next chapters.
@@ -1372,13 +1519,13 @@ made, everything will be explained in the next chapters.
 
 **Sell dien {sel dyen} –** good morning
 
-**Sell **[]{#anchor-86}**posmiddien {sel posmiddyEn} –** good afternoon
+**Sell **[]{#anchor-107}**posmiddien {sel posmiddyEn} –** good afternoon
 
 **Sell vesper {sel vEspër} –** good evening
 
 **Sell noct {sel nokt} –** good night
 
-**Dank {dank} –** []{#anchor-87}thank you
+**Dank {dank} –** []{#anchor-108}thank you
 
 **Mersie {mërsI:} –** thank you
 
@@ -1390,11 +1537,11 @@ made, everything will be explained in the next chapters.
 
 **Kam leitte yu? {kam leyt yu} –** how are you?
 
-**Sellgumt {selgUmt} –** welcome
+[]{#anchor-109}**Sellgumt {selgUmt} –** welcome
 
 **Leito {lEyto} –** fine
 
-**Chao {tcAo} –** []{#anchor-88}good bye
+**Chao {tcAo} –** []{#anchor-110}good bye
 
 **Khuda hafiz {qUda hAfidz} –** good bye
 
@@ -1418,11 +1565,11 @@ made, everything will be explained in the next chapters.
 
 **Tabrick {tabrIk} –** congratulations
 
-**Sell appetite {sel apëtIt} –** []{#anchor-89}good appetite
+**Sell appetite {sel apëtIt} –** []{#anchor-111}good appetite
 
 **Marba {mArba} –** pleased to meet you
 
-[]{#anchor-90}**Ne bahm maung Sambahsa {ne ba:m mAong sambA:sa} –** I
+[]{#anchor-112}**Ne bahm maung Sambahsa {ne ba:m mAong sambA:sa} –** I
 don’t speak much Sambahsa.
 
 **Kam yarat ste yu? {kam yarAt ste yu} –** how old are you?
@@ -1433,67 +1580,68 @@ don’t speak much Sambahsa.
 
 **Quetos yu? {kEtos yu} –** where do you come from?
 
-**Io ne prete {yo ne prEt} –** I don't understand ([]{#anchor-91}what
-you wanted to say)
-
-**Ne ho pretet hol / Ne ho preten hol {ne ho prEtët hol / ne ho prEtën
-hol} –** I haven’t understood everything *(what you wanted to say)*
+**Io ne prete {yo ne prEt} –** I don't understand
+*(*[]{#anchor-113}*what you wanted to say)*
 
 **Maghte yu hehlpe me? {magt yu he:lp me} –** can you help me?
 
 **Ye quod saat? {ye kwod saAt} –** what time?
 
+**Ne ho pretet hol / Ne ho preten hol {ne ho prEtët hol / ne ho prEtën
+hol} –** I haven’t understood everything *(what you wanted to say)*
+
 **Aun sibia {Aon sIbja} –** changing the subject; on a different note
 
-Good, at least you can start and finish a conversartion, continue
+Good, at least you can start and finish a conversation, continue
 studying and you'll be able to maintain a conversation.
 
-THE DECLINATION CASES
-=====================
+[]{#anchor-114}THE DECLENSION CASES
+===================================
 
-Sambahsa has an interesting caracteristic, it has a system of declination
-cases that are: *nominative*, *accusative*, *dative* and *genitive*.
-These cases refers to the pronouns and articles. But what they are and
-how they are used?
+Sambahsa has an interesting characteristic, it has a system of
+declension cases that are: *nominative*, *accusative*, *dative* and
+g*enitive*. These cases refers to the pronouns and articles. But what
+they are and how they are used?
 
-Before let's remember those english classes of your school time, look
+Before let's remember those English classes of your school time, look
 the sentence below:
 
 **The man buys the car:** In this case “the man” is the *subject* of the
-sentence because it's him who is *doing* the action, which in
-this case is the buying; and “the car” is the *direct object* of the
-sentence, because of it's the car that is*suffering* the action, it's being *directly affected* by the verb. Look the sentences below:
+sentence because it's him who is *doing* the action, which in this case
+is the buying; and “the car” is the *direct object* of the sentence,
+because it's the car that is *suffering* the action, it's being
+*directly affected* by the verb. Look the sentences below:
 
-**I eat tomato –** “I” ([]{#anchor-92}subject), “tomato”
-([]{#anchor-93}direct object)
+**I eat tomato –** “I” ([]{#anchor-115}subject), “tomato”
+([]{#anchor-116}direct object)
 
 **He loves Mary –** “he” (subject), “Mary” (direct object)
 
 **People walk on the streets –** “people” (subject). Ops, this sentence
-doesn't have a []{#anchor-94}direct object!
+doesn't have a []{#anchor-117}direct object!
 
 **They gave me a message:** we have one more element in this sentence,
-it's the indirect object. We can easily recognize the subject, which is
-“they”, but which one is the direct object and which one is the indirect
-object? Remember, the direct object is the one that directly suffers the action; what is
-being given, the person or the message? The message! The direct object
-is “a message”. The indirect object is that is *beneficed* by the
-action, which is being *indirectly* affected by the verb, which, in this
-case, is “me”. Look the sentences below:
+it's the *indirect object*. We can easily recognize the subject, which
+is “they”, but which one is the direct object and which one is the
+indirect object? Remember, the direct object is the one that directly
+suffers the action; what is being given, the person or the message? The
+message! The direct object is “a message”. The indirect object is that
+is *benefit* by the action, which is being *indirectly* affected by the
+verb, which, in this case, is “me”. Look the sentences below:
 
 **I've sent you the documents –** “I” (subject), “you” (indirect
 object), “documents” (direct object)
 
-**She bought a dog for him –** “she”(subject), “dog” (direct object),
-“him” (indirect object)
+**She bought him a dog –** “she”(subject), “dog” (direct object), “him”
+(indirect object)
 
-[]{#anchor-95}Now we can see the cases. I want to warn you that I'll only
-show you the cases for now, just for you recognize them by sight, I will
-only show explanations in sentences after I explain the verbs, when
+[]{#anchor-118}Now we can see the cases. I want to warn you that I'll
+only show you the cases for now, just for you recognize them by sight, I
+will only show explanations in sentences after I explain the verbs, when
 we'll be more comfortable to make sentences.
 
-NOMINATIVE CASE
----------------
+[]{#anchor-119}NOMINATIVE CASE
+------------------------------
 
 Basically it is the subject of a sentence.
 
@@ -1507,19 +1655,19 @@ Basically it is the subject of a sentence.
 
 **Id {id} –** it *(neutral)*
 
-**El {el} –** he / she / it []{#anchor-96}*(undetermined)*
+**El {el} –** he / she / it []{#anchor-120}*(undetermined)*
 
 **Wey {wey} –** we
 
 **Yu {yu} –** yu
 
-**Ies {yes} –** they []{#anchor-97}[]{#anchor-98}*(masculine)*
+**Ies {yes} –** they []{#anchor-121}[]{#anchor-122}*(masculine)*
 
-**Ias {yas}–** they []{#anchor-99}[]{#anchor-100}*(feminine)*
+**Ias {yas}–** they []{#anchor-123}[]{#anchor-124}*(feminine)*
 
 **Ia {ya} –** they *(neutral)*
 
-**I {i} –** they []{#anchor-101}*(undetermined)*
+**I {i} –** they []{#anchor-125}*(undetermined)*
 
 PAY ATTENTION!!!!!!!! From the words below, just worry to initially
 learn the underlined ones. The others you can learn over time, you don't
@@ -1537,17 +1685,17 @@ need be in a hurry!!!!!!
 
 **Ta {ta} –** these *(neutral)*
 
-**Tel {tel} –** this []{#anchor-102}*(undetermined)*
+**Tel {tel} –** this []{#anchor-126}*(undetermined)*
 
-**Ti {Ti} –** these* *[]{#anchor-103}*(undetermined)*
+**Ti {Ti} –** these* *[]{#anchor-127}*(undetermined)*
 
-**Cis {tsis} –** that []{#anchor-104}*(masculine)*
+**Cis {tsis} –** that []{#anchor-128}*(masculine)*
 
-**Cies {tsyes} –** those []{#anchor-105}*(masculine)*
+**Cies {tsyes} –** those []{#anchor-129}*(masculine)*
 
 **Cia {tsya} –** that *(feminine)*
 
-**Cias {tsyas} –** those []{#anchor-106}*(feminine)*
+**Cias {tsyas} –** those []{#anchor-130}*(feminine)*
 
 **Cid {tsid} –** that *(neutral)*
 
@@ -1565,13 +1713,13 @@ need be in a hurry!!!!!!
 
 **Qua {kwa} –** who *(feminine / singular)*
 
-**Quas {kwas} –** who []{#anchor-107}*(feminine / plural)*
+**Quas {kwas} –** who []{#anchor-131}*(feminine / plural)*
 
 **Quod {kwod} –** what *(neutral)*
 
 **Qua –** what *(neutral)*
 
-**Quel {kel} –** who []{#anchor-108}*(undetermined)*
+**Quel {kel} –** who []{#anchor-132}*(undetermined)*
 
 **Qui {ki} –** who *(undetermined)*
 
@@ -1583,7 +1731,7 @@ need be in a hurry!!!!!!
 
 **Nias {nyas} –** none *(feminine / plural)*
 
-**Neid {neyd} –** []{#anchor-109}none, nothing *(neutral / singular)*
+**Neid {neyd} –** []{#anchor-133}none, nothing *(neutral / singular)*
 
 **Nia {nya} –** none, nothing *(neutral / plural*
 
@@ -1592,13 +1740,17 @@ need be in a hurry!!!!!!
 **Nei {ney} –** none* (undetermined / plural)*
 
 **To {to} –** generic pronoun*, when the sense of approximation doesn't
-apply, it can be translated as “this” and “that”
+apply, it can be translated as “this” and “that”*
 
-**Quo {kwo} –** the same as “to”, but this one can be translated to “what”.
+**Quo {kwo} **– the same as “to”, but this one can be translated to
+“what”.
 
-    *Please see the subchapter “How work generic pronouns like “to” and “quo”?” from the chapter “Common mistakes and questions”.*
+Please see the subchapter “How work generic pronouns like “to” and
+“quo”?” from the chapter “Common mistakes and questions”.
 
-    The pronoun “ego” is the emphatized form of “io”. When we use “ego” instead “io”, we want to say that there is a certain relevance in the “I” that is doing or suffering this or that action.
+The pronoun “ego” is the emphasized form of “io”. When we use “ego”
+instead “io”, we want to say that there is a certain relevance in the
+“I” that is doing or suffering this or that action.
 
 I'll ask you to stop here for a while and study the pronouns (only the
 personal pronouns!), because I will use them a lot from here.
@@ -1606,10 +1758,10 @@ personal pronouns!), because I will use them a lot from here.
 About the other cases, it's enough read them once or twice at most, you
 don't need record everything now! Follow the same method of study you
 made with the nominative case, focus on the personal pronouns and in
-those I indicate.
+those that I indicate.
 
-ACCUSATIVE CASE
----------------
+[]{#anchor-134}ACCUSATIVE CASE
+------------------------------
 
 Basically is the direct object of a sentence.
 
@@ -1639,7 +1791,7 @@ Basically is the direct object of a sentence.
 
 **I –** i {i}
 
-[]{#anchor-110}Don't be in a hurry to learn the pronouns from below!
+[]{#anchor-135}Don't be in a hurry to learn the pronouns from below!
 
 **So –** tom {tom}
 
@@ -1707,15 +1859,15 @@ Basically is the direct object of a sentence.
 
 **Nei –** nei {ney}
 
-**To –** to
+**To – **to
 
 **Quo –** quo
 
-DATIVE CASE
------------
+[]{#anchor-136}DATIVE CASE
+--------------------------
 
-It's the indirect object of a sentence. **Attention: **often everything
-after a preposition is treaten as it is in the accusative case, no
+It's the indirect object of a sentence. **Attention: **everything after
+a preposition is often treated as it is in the accusative case, no
 dative!
 
 **Nominative case –** dative case
@@ -1812,11 +1964,12 @@ Don't be in a hurry to learn the pronouns from below!
 
 **Nei –** nim {nim}
 
-**To –** ad to
+**To – **ad to
 
 **Quo –** ad quo
 
-If you forget the dative form of the pronoun, you can use the preposition “ad”. Some examples below:
+If you forget the dative form of the pronoun, you can use the
+preposition “ad”. Some examples below:
 
 **mi =** ad me
 
@@ -1824,10 +1977,10 @@ If you forget the dative form of the pronoun, you can use the preposition “ad�
 
 **tal =** ad tel
 
-**quei =** ad quod
+quei = ad quod
 
-GENITIVE CASE
--------------
+[]{#anchor-137}GENITIVE CASE
+----------------------------
 
 It's the case of the possessor. Firstly let's see the list of genitives
 then let's understand them
@@ -1922,7 +2075,9 @@ Don't be in a hurry to learn the pronouns from below!
 
 **Quo –** os quo
 
-You ask me: *may I, for example, substitute “ios” for “os is”, “ias” for “as ia”, “tal” for “os tel”, “quos” for “os quod” and so on?* It’s preferable that you don't do that.
+You ask me: *may I, for example, substitute “ios” for “os is”, “ias” for
+“as ia”, “tal” for “os tel”, “quos” for “os quod” and so on?* It's
+preferable that you don't do that.
 
 Let's see some examples
 
@@ -1930,54 +2085,54 @@ Let's see some examples
 
 **Id hand al person {id hand al përsOn} –** the hand of the person
 
-**Id augos cios wir – {id Aogos tsyos wir}** the power of that man
+**Id augos cios wir – {id Aogos tsyos wir}** **–** the power of that man
 
 **Ia quitances tos munt {ya kitAntsës tos munt} –** the bills of this
 month
 
-DECLINATIONS
-============
+[]{#anchor-138}DECLENSIONS
+==========================
 
 Used as a complement in diverse words.
 
-SINGULAR
---------
+[]{#anchor-139}SINGULAR
+-----------------------
 
-[]{#anchor-111}[]{#anchor-112}[]{#anchor-113}**Nominative masculine –**
+[]{#anchor-140}[]{#anchor-141}[]{#anchor-142}**Nominative masculine –**
 -o(s)
 
-[]{#anchor-114}[]{#anchor-115}**Accusative masculine –** -o / -um
+[]{#anchor-143}[]{#anchor-144}**Accusative masculine –** -o / -um
 
-[]{#anchor-116}[]{#anchor-117}**Dative masculine –** -i
+[]{#anchor-145}[]{#anchor-146}**Dative masculine –** -i
 
-[]{#anchor-118}[]{#anchor-119}**Genitive masculine –** -(io)s
+[]{#anchor-147}[]{#anchor-148}**Genitive masculine –** -(io)s
 
-[]{#anchor-120}[]{#anchor-121}**Nominative feminine –** -a
+[]{#anchor-149}[]{#anchor-150}**Nominative feminine –** -a
 
-[]{#anchor-122}[]{#anchor-123}**Accusative feminine –** -u
+[]{#anchor-151}[]{#anchor-152}**Accusative feminine –** -u
 
-[]{#anchor-124}[]{#anchor-125}**Dative feminine –** -i
+[]{#anchor-153}[]{#anchor-154}**Dative feminine –** -i
 
-[]{#anchor-126}[]{#anchor-127}**Genitive feminine –** -(ia)s
+[]{#anchor-155}[]{#anchor-156}**Genitive feminine –** -(ia)s
 
-[]{#anchor-128}[]{#anchor-129}**Nominative neutral –** -o / -um
+[]{#anchor-157}[]{#anchor-158}**Nominative neutral –** -o / -um
 
-[]{#anchor-130}[]{#anchor-131}**Accusative neutral –** -o / -um
+[]{#anchor-159}[]{#anchor-160}**Accusative neutral –** -o / -um
 
-[]{#anchor-132}[]{#anchor-133}**Dative neutral –** -i
+[]{#anchor-161}[]{#anchor-162}**Dative neutral –** -i
 
-[]{#anchor-134}[]{#anchor-135}**Genitive neutral –** -(io)s
+[]{#anchor-163}[]{#anchor-164}**Genitive neutral –** -(io)s
 
-[]{#anchor-136}**Nominative undetermined –** -is
+[]{#anchor-165}**Nominative undetermined –** -is
 
-[]{#anchor-137}**Accusative undetermined –** -em
+[]{#anchor-166}**Accusative undetermined –** -em
 
-[]{#anchor-138}**Dative undetermined –** -i
+[]{#anchor-167}**Dative undetermined –** -i
 
-[]{#anchor-139}**Genitive undetermined –** -(e)s
+[]{#anchor-168}**Genitive undetermined –** -(e)s
 
-PLURAL
-------
+[]{#anchor-169}PLURAL
+---------------------
 
 **Nominative masculine –** -i
 
@@ -1985,7 +2140,7 @@ PLURAL
 
 **Dative masculine –** -ims
 
-[]{#anchor-140}**Genitive masculine –** -(e)n
+[]{#anchor-170}**Genitive masculine –** -(e)n
 
 **Nominative feminine –** -as
 
@@ -1999,7 +2154,7 @@ PLURAL
 
 **Accusative neutral –** -a
 
-[]{#anchor-141}**Dative neutral –** -ims
+[]{#anchor-171}**Dative neutral –** -ims
 
 **Genitive neutral –** -(e)n
 
@@ -2011,8 +2166,37 @@ PLURAL
 
 **Genitive undetermined –** -(e)n
 
-But, how the declinations are used? Sometimes their use is compulsory,
-as in the words “vasyo” (everything) and “alyo” (another):
+[]{#anchor-172}IN TABLES
+------------------------
+
+Let's see these same declensions in other perspective:
+
+  ------------ ---------- ----------- ---------- --------------
+               Singular
+               Neutral
+  Accusative   -um
+               -o
+  Nominative   
+  Dative       -i
+  Genitive     -s
+  -ios         -ias
+  ------------ ---------- ----------- ---------- --------------
+
+  ------------ --------- ----------- -------------- ----------
+               Plural
+               Neutral
+  Nominative   -a
+  Accusative   -ens
+  Dative       -ims
+  Genitive     -n
+  -en
+  ------------ --------- ----------- -------------- ----------
+
+[]{#anchor-173}EXPLANATION
+--------------------------
+
+But, how the declensions are used? Sometimes their use is compulsory, as
+in the words “vasyo” (everything) and “alyo” (another):
 
 **Vasyas gwens –** all the women
 
@@ -2024,13 +2208,13 @@ as in the words “vasyo” (everything) and “alyo” (another):
 
 **Alya stuls –** another chairs
 
-**Vasyo est correcto –** everything is correct
+“Vasy-” only exists in the plural.
 
 For euphonics effects or literary proposals, like poetry, you can use
-these declinations in other words, for example the indefinite article
-“un”, but these declinations often only are applied to the words “vasyo” and
-“alyo”. Remember however that those "euphonic" declensions can be used
-only if they are compatible with the accentuation of the word
+these declensions in other words, for example the indefinite article
+“un”, but these declensions often only are applied to the words “vasyo”
+and “alyo”. Remember however that those “euphonic” declensions can be
+used only if they are compatible with the accentuation of the word
 
 The sentence “un bell pwarn” {un bel pwarn}, which means “a pretty boy”,
 may be written as “uno bello pwarn” {Uno bElo pwarn}.
@@ -2045,21 +2229,22 @@ possession.
 **Matheus' house –** Matheus*io*s dom *(notice that I've used the
 complete termination because “Matheus” already finishes with “s”)*
 
-**Woman's son –** gwens son\
+**Woman's son –** gwens son
+
 **America's beauty –** Americas beauteit
 
-There is no mistery in the use of the declination in the accusative, you
-only have to apply in the direct object. About the declination in the
+There is no mystery in the use of the declension in the accusative, you
+only have to apply in the direct object. About the declension in the
 genitive, I'll teach it after you learn the verbs, I think it's better
 in this way.
 
-THE ARTICLES
-============
+[]{#anchor-174}THE ARTICLES
+===========================
 
-DEFINITE ARTICLES
------------------
+[]{#anchor-175}DEFINITE ARTICLES
+--------------------------------
 
-A characteristic of sambahsa that stand out is its definite articles,
+A characteristic of Sambahsa that stand out is its definite articles,
 the words are the same of the pronouns. How? Look the translations
 below:
 
@@ -2079,15 +2264,17 @@ below:
 
 **The people *****(low social class)***** –** id popule {id pOpül}
 
-Can you understand how the language works? In the sambahsa logic you
-don't speak “the secreatry” or “the man”, but “she secretary” and “he
-man”. Bear in mind that the articles suffers the declination as well as
+Can you understand how the language works? In the logic of Sambahsa you
+don't speak “the secretary” or “the man”, but “she secretary” and “he
+man”. Bear in mind that the articles suffers the declension as well as
 the pronouns.
 
 ***The***** dog loves *****the***** woman – ***el* kwaun lieubht *iam*
 gwen {el kwAon liöbt yam gwen}
 
-    You could not translate “The dog loves the woman” as “el kwaun lieubht ia gwen” because the definite article that is linked to the substantive “woman” must suffer the declination to accusative.
+You could not translate “The dog loves the woman” as “el kwaun lieubht
+*ia* gwen” because the definite article that is linked to the
+substantive “woman” must suffer the declension to accusative.
 
 Another example, but involving the dative case too:
 
@@ -2095,8 +2282,8 @@ Another example, but involving the dative case too:
 *****for the***** *****(male)***** president –** *ia* manager yisit *id*
 blixbrev *ei* president.
 
-INDEFINITE ARTICLE
-------------------
+[]{#anchor-176}INDEFINITE ARTICLE
+---------------------------------
 
 The indefinite article is “un”.
 
@@ -2108,42 +2295,49 @@ The indefinite article is “un”.
 
 **A girl –** un bent {un bent}
 
-The Sambahsa word “sem” is not an indefinite article, but I’ll explain about it now. It’s like our “some”, same as in English it doesn’t change its number when the substantive is in the plural, look:
+The Sambahsa word “sem” is not an indefinite article, but I’ll explain
+about it now. It’s like our “some”, same as in English it doesn’t change
+its number when the substantive is in the plural, look:
 
 **Sem apel {sem Apël} –** some apple
 
 **Sem apels {sem Apëls} –** some apples
 
-But if this “sem” is as a substantive, thus it must receive an appropriate ending. Just after there is a complex sentence, of course that you don’t need to understand it now, I only want that you see how this “sem” can behave as a substantive.
+But if this “sem” is as a substantive, thus it must receive an
+appropriate ending. Just after there is a complex sentence, of course
+that you don’t need to understand it now, I only want that you see how
+this “sem” can behave as a substantive.
 
-**Sems credeihnt est neid global warmen –** some *(people)* believe there is no global warming
+**Sems credeihnt est neid global warmen –** some (people) believe there
+is no global warming
 
-HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
-========================================
+[]{#anchor-177}HOW TO SAY THE CONJUNCTIONS “AND” AND “OR”
+=========================================================
 
 It's good to teach you right now this two very basic conjunctions,
 because until we reach the chapter about conjunctions, maybe we will
 have seen some examples with them.
 
-The conjunction “and” is translated as “ed” for sambahsa.
+The conjunction “and” is translated as “ed” for Sambahsa.
 
 **He and I – **is ed io
 
-As “or” you need to pay a bit more of attention. Often you'll use “au”:
+With “or” you need to pay a bit more of attention. Often you'll use
+“au”:
 
 **He or me – **is au io {is Ao yo}
 
 But when we deal with two clauses, we use the conjunction “we” *(don't
-get confused with the english pronoun!)*. I'll use a complex sentence, but
-only look at how the conjunction is used:
+get confused with the English pronoun!)*. I'll use a complex sentence,
+but only look at how the conjunction is used:
 
-[]{#anchor-144}My child, you must choose: to play in the park *or* to
+[]{#anchor-178}My child, you must choose: to play in the park *or* to
 swim in the pool
 
 Mien purt, dehlcs chuses: likes in id park *we* snahe in id piscine
 
-**POSSESSION** 
-===============
+[]{#anchor-179}**POSSESSION** 
+==============================
 
 Here are the prepositions of possession:
 
@@ -2159,7 +2353,7 @@ Here are the prepositions of possession:
 
 **Neutral in the plural –** om
 
-[]{#anchor-142}**Undetermined in the singular –** es
+[]{#anchor-180}**Undetermined in the singular –** es
 
 **Undetermined in the plural –** em
 
@@ -2167,35 +2361,52 @@ Look some examples:
 
 **The death of Louis –** id mohrt os Louis {id mo:rt os lU:is}
 
-**The house of Paul and Peter –** id dom om Paulo ed Peter
-    
+**The house of Paul and Peter –** id dom om Paul ed Peter {id dom om
+pAol ed pEtër}
+
 **The son of Julia –** is son as Julia {is son as jUlya}
 
-**The doll of Lara and Carla –** id pupp am Lara ed Carla {id pup am lAra ed kArla}
+**The doll of Lara and Carla –** id pupp am Lara ed Carla {id pup am
+lAra ed kArla}
 
-When diverse elements are owners of something, you also may use the word “sbei” {sbey}, thus “id dom om Paulo ed Peter” and “id pupp am Lara ed Carla” may be rewritten as:
+When diverse elements are owners of something, you also may use the word
+“sbei” {sbey}, thus “id dom om Paul ed Peter” and “id pupp am Lara ed
+Carla” may be rewritten as:
 
 “Paul ed Peter sbei dom”
 
 “Lara ed Carla sbei pupp”
 
-Other possibility is the use of declinations:
+Other possibility is the use of declensions:
 
-**The death of Louis –** Louisios mohrt {id luIzyos mo:rt}
+**Louis' death –** Louisios mohrt {luIzyos mo:rt}
 
-**The house of Paul and Peter –** Paulos ed Peters dom {id pAolos ed pEtërs dom}
+**Paul and Peter's house –** Paul(io)s ed Peters dom {id pAol(yo)s ed
+pEtërs dom}
 
-We could not say “Pauloios ed Peterios dom” because this manner would change the accentuation of the word, thus would be {paolOyos} and {petEryos}.
+We could not say “Paul*io*s ed Peter*io*s dom” because this manner would
+change the accentuation of the word, thus would be {paolOyos} and
+{petEryos}.
 
-    You don’t need the definite article like “id Louisios mohrt” or “id Paulos ed Peters dom” because the substantives already are ‘defined’ by the genitive.
+You don’t need the definite article like “*id* Louisios mohrt” or “*id*
+Paulos ed Peters dom” because the substantives already are ‘defined’ by
+the genitive.
 
-I've showed you these two last examples with declination because I have the obligation in teaching everything, but would be better you prefer “id mohrt os Louis” and “id dom om Paulo ed Peter”/“Paulo ed Peter sbei dom” because of they are simpler. The pronunciation of “Louisios”{luIzyos}*(or {luIyos} if we take the French pronunciation of the name “Louis”)* is simply bizarre, although, grammatically speaking, we may use this word. In the other example some people could not notice that Paulo is owner of the house too. Prefer the simplest mode, let the declinations for more appropriate moments.
+I've showed you these two last examples with declension because I have
+the obligation in teaching everything, but would be better you prefer
+“id mohrt os Louis” and “id dom om Paul ed Peter”/“Paul ed Peter sbei
+dom” because of they are simpler. The pronunciation of
+“Louisios”{luIzyos}*(or {luIyos} if we take the French pronunciation of
+the name “Louis”)* is simply bizarre, although, grammatically speaking,
+we may use this word. In the other example some people could not notice
+that Paul is owner of the house too. Prefer the simplest mode, let the
+declensions for more appropriate moments.
 
-DIFFERENCE OF USE OF PREPOSITION OF POSSESSION AND GENITIVE CASE
-----------------------------------------------------------------
+[]{#anchor-181}DIFFERENCE OF USE OF PREPOSITION OF POSSESSION AND GENITIVE CASE
+-------------------------------------------------------------------------------
 
-Maybe you're a bit confuse and wonder why the penultimate example
-was not translated as “id mohrt *i*os Louis”. There is a simple
+Maybe you're a bit confuse and []{#anchor-182}wonder why the penultimate
+example was not translated as “id mohrt *i*os Louis”. There is a simple
 difference between a preposition of possession and a pronoun in the
 genitive case.
 
@@ -2218,8 +2429,8 @@ inappropriate sentences for you to understand:
 “Id apel os dru” would be translated to “the apple of tree”. Do you
 understand now?
 
-OTHER PREPOSITIONS OF POSSESSION
---------------------------------
+[]{#anchor-183}OTHER PREPOSITIONS OF POSSESSION
+-----------------------------------------------
 
 **Mien {myen} –** my, mine
 
@@ -2231,19 +2442,21 @@ OTHER PREPOSITIONS OF POSSESSION
 
 **Ids {Idz} –** its *(neutral)*
 
-**Els {elz} –** his / her *(also “hers”)* *(undeterminate)*
+**Els {elz} –** his / her *(also “hers”)* *(undetermined)*
 
 **Nies {nyes} –** our, ours
 
 **Noster {nOstër} –** our, ours
 
-**Vies {vyes} –** your, yours []{#anchor-143}*(plural)*
+**Vies {vyes} –** your, yours []{#anchor-184}*(plural)*
 
 **Voster {vOstër} –** your, yours *(plural)*
 
-**Ir {ir} –** their, theirs *(masculine, feminine, neutral and undeterminate)*
+**Ir {ir} –** their, theirs *(masculine, feminine, neutral and
+undetermined)*
 
-**Sien {syen} –** his, her, its, their, hers, theirs. *Used when it refers to the subject of the sentence.*
+**Sien {syen} –** his, her, its, their, hers, theirs. *Used when it
+refers to the subject of the sentence.*
 
 **Uns {uns} –** of a(n)
 
@@ -2261,7 +2474,9 @@ thing. *
 I'll teach you how to use the pronoun “sien” after I teach you the
 verbs”.
 
-We may combine these pronouns with the declinations in order to translate that situations when we use the preposition “of” with some possessive pronouns.
+We may combine these pronouns with the declensions in order to translate
+that situations when we use the preposition “of” with some possessive
+pronouns.
 
 **… of my men –** … mienen wirs {miEnën wirs}
 
@@ -2271,35 +2486,62 @@ We may combine these pronouns with the declinations in order to translate that s
 
 **… of our daughter –** … nies(ia)s dugter {nyEz(ya)s dUgtër}
 
-    ***Example:** the house of your son → id dom tiens son*
+**Example:** the house of your son → id dom tiens son
 
-# NAMES OF PLACES WITH CATEGORIA
+Of course that you may say something like “id dom os tien son” oo “id
+pupp am nies dugters”.
 
-Of course that you may say something like “id dom os tien son” oo “id pupp am nies dugters”.
+[]{#anchor-185}NAMES OF PLACES WITH CATEGORY
+============================================
 
-When we talk about names of places that include their category, like “City of Prescott” or “Mount Everest”, normally we decide the position of the category names through the use of the national languages, for example:
+When we talk about names of places that include their category, like
+“City of Prescott” or “Mount Everest”, normally we decide the position
+of the category names through the use of the national languages, for
+example:
 
 **City of Prescott –** citad Prescott
+
 **Mount Everest –** Mont Everest
+
 **Rock of Gibraltar –** Perwnt Gibraltar
+
 **Casterly Rock –** Casterly Rock
-**Liancourt Rocks –** Perwnts ios Liancourt *(this is interesting because, although its original names are “Dokdo” and “Takeshima”, in the West it has a different name. Since the name comes from French (“Rochers Liancourt”, due the french whaling ship that sank in that region in 1849), we say “Perwnts ios Liancourt” instead of “Liancourt Rocks”)*
+
+**Liancourt Rocks –** Perwnts ios Liancourt *(this is interesting
+because, although its original names are “Dokdo” and “Takeshima”, in the
+West it has a different name. Since the name comes from French (“Rochers
+Liancourt”, due the french whaling ship that sank in that region in
+1849), we say “Perwnts ios Liancourt” instead of “Liancourt Rocks”)*
 
 See the examples below:
 
-**Lieubho brigvs, in mien safers ho kohgnet maung brigvs: Brigv JK, Millennium Brigv, Brigv Alexandre III, Charles/Karluv Brigv, Kintai Brigv ed Brigv os Rialto –** I love bridges, in my travels I've known many bridges: JK Bridge, Millennium Bridge, Pont Alexandre III, Charles Bridge, Kintai Bridge and Rialto Bridge.
+**Lieubho brigvs, in mien safers ho kohgnet[^1] maung brigvs: Brigv JK,
+Millennium Brigv, Brigv Alexandre III, Charles/Karluv Brigv, Kintai
+Brigv ed Brigv os Rialto –** I love bridges, in my travels I've known
+many bridges: JK Bridge, Millennium Bridge, Pont Alexandre III, Charles
+Bridge, Kintai Bridge and Rialto Bridge.
 
 **Brigv JK =** Ponte Juscelino Kubitschek
+
 **Millennium Brigv =** Millennium Bridge
+
 **Brigv Alexandre III =** Pont Alexandre-III
+
 **Charles/Karluv Brigv =** Karlův most
+
 **Kintai Brigv =** 錦帯橋 Kintai-kyō
+
 **Brigv os Rialto =** Ponte di Rialto
 
-In Sambahsa we don't use the genitive when the name refers to the whole place because it would be appelation, we don't say “id citad os Montréal” but “id citad Montréal”, but we have to say “id tribunal os Montréal” because Montreal is not a tribunal. Other example is the translation of “Palace of Versailles” *(“Château de Versailles” in the original)*, which is “Chateau os Versailles” in Sambahsa.
+In Sambahsa we don't use the genitive when the name refers to the whole
+place because it would be appellation, we don't say “id citad os
+Montréal” but “id citad Montréal”, but we have to say “id tribunal os
+Montréal” because Montreal is not a tribunal. Other example is the
+translation of “Palace of Versailles” *(“Château de Versailles” in the
+original)*, which is “Chateau os Versailles” in Sambahsa.
 
-ADJECTIVES
-==========
+[]{#anchor-186}ADJECTIVES
+=========================
 
 An adjective is a word that qualifies a noun, as in “the beautiful
 house”, where the adjective “beautiful” qualifies the noun “house”. I
@@ -2307,9 +2549,9 @@ think I'll seize the moment to explain what is an adverb: an adverb
 qualifies adjectives and verbs, like in “very fast”, where the adverb
 “very” qualifies the adjective “fast”. Are we understood?
 
-The construction of adjectives is similar to english, basically you have
-to put the adjective just before the noun. Let's know some
-adjectives and nouns that we'll use in our examples:
+The construction of adjectives is similar to English, basically you have
+to put the adjective just before the noun. Let's know some adjectives
+and nouns that we'll use in our examples:
 
 **Veut {vöt} –** old
 
@@ -2333,7 +2575,7 @@ adjectives and nouns that we'll use in our examples:
 
 **Blou {blu:} –** blue
 
-There the examples:
+Some examples:
 
 **Veut wogh –** old car
 
@@ -2343,7 +2585,7 @@ Naturally you can make constructions like that:
 
 **Id wogh est veut –** the car is old
 
-Like in english, the adjectives don't receive the -s termination when in
+Like in English, the adjectives don't receive the -s termination when in
 the plural.
 
 **Veut woghs –** old cars
@@ -2352,13 +2594,13 @@ the plural.
 
 You may use the adjective alone and make it as a noun:
 
-**The powerful *****woman***** –** []{#anchor-145}ia staur / ia staura
+**The powerful *****woman***** –** []{#anchor-187}ia staur / ia staura
 
-Notice that you need an article and you can make use of a declination,
+Notice that you need an article and you can make use of a declension,
 when possible.
 
-Also it's possible to make adjectives from verbs through participles, but
-this I'l explain only in the chapter od participles.
+Also it's possible to make adjectives from verbs through participles,
+but I'll explain it only in the chapter about participles.
 
 To create adjectives from substantives you may make use of affixes like
 -ic or -eus, like in the examples below:
@@ -2367,142 +2609,151 @@ To create adjectives from substantives you may make use of affixes like
 
 **Is est wirt*****ic***** {is est wIrtik} –** he is worthy
 
-**Tod place est danger*****eus***** {tod plAts est dangërÖs} –** this
+**Tod place est danger*****eus***** {tod plAts est dandjërÖs} –** this
 place is dangerous
 
 **Ia gwen est nerv*****eus***** {ya gwen est nervÖs} –** the woman is
 nervous
 
 Don't worry too much about these affixes because many words can be used
-as substantives or adjectives without the necessity of modifing the
+as substantives or adjectives without the necessity of modifying the
 word, like “infinitive”, which means “infinitive”*(what a big
-surprise!)*, in“un infinitive verb”*(a infinitive verb)* or “smad studye
-id infinitive”*(let's study the infinitive)*.
+surprise!)*, in“un infinitive verb”*(a infinitive verb)*.
 
-A *very important observation* is that the vocabulary of sambahsa comes
-from languages of different families, like derivatives from latin and
-germanic languages, the rules of making of adjectives from substantives
-are adapted according to the origin of the word, sometimes you use other
-affix, or other way, which is not through the -ic or -eus. See the
-examples below:
+A *very important observation* is that the vocabulary of Sambahsa comes
+from languages of different families, like derivatives from Latin and
+Germanic languages, the rules of making of adjectives from substantives
+are adapted according to the origin of the word. See the examples below:
 
-[]{#anchor-146}[]{#anchor-147}[]{#anchor-148}[]{#anchor-149}**Cid est un
-insuleus land –** []{#anchor-150}that is a insular
-country[]{#anchor-151} **{**[]{#anchor-152}**wrong X}**
+[]{#anchor-188}[]{#anchor-189}[]{#anchor-190}[]{#anchor-191}**Cid est un
+insuleus land –** []{#anchor-192}that is a insular
+country[]{#anchor-193} **{**[]{#anchor-194}**wrong X}**
 
-[]{#anchor-153}**Cid est un insulic land –** []{#anchor-154}that is a
-insular country []{#anchor-155}**{ wrong X}**
+[]{#anchor-195}**Cid est un insulic land –** []{#anchor-196}that is a
+insular country []{#anchor-197}**{ wrong X}**
 
-[]{#anchor-156}[]{#anchor-157}**Cid est un insular land –**
-[]{#anchor-158}that is a insular country **{**[]{#anchor-159}**correct
+[]{#anchor-198}[]{#anchor-199}**Cid est un insular land –**
+[]{#anchor-200}that is a insular country **{**[]{#anchor-201}**correct
 Ѵ}**
 
-[]{#anchor-160}**Som in un problemic situation –** []{#anchor-161}I'm in
-a problematic situation []{#anchor-162}**{ wrong X}**
+[]{#anchor-202}**Som in un problemic situation –** []{#anchor-203}I'm in
+a problematic situation []{#anchor-204}**{ wrong X}**
 
-[]{#anchor-163}[]{#anchor-164}**Som in un problematic situation –** I'm
-in a problematic situation []{#anchor-165}**{ correct Ѵ}**
+[]{#anchor-205}[]{#anchor-206}**Som in un problematic situation –** I'm
+in a problematic situation []{#anchor-207}**{ correct Ѵ}**
 
-[]{#anchor-166}**Un pateric amor –** []{#anchor-167}a paternal love
-[]{#anchor-168}**{ wrong X}**
+[]{#anchor-208}**Un pateric amor –** []{#anchor-209}a paternal love
+[]{#anchor-210}**{ wrong X}**
 
-[]{#anchor-169}**Un patruw amor –** a paternal love (attachment) []{#anchor-170}**{
-correct Ѵ}**
-*The Romance word “amor” has a PIE ancestor meaning “to be bound” or “attached to” (cf. Greek : omnumi = I swear). So, the real first meaning of “amor” is “attachment” (“emotional connection between individuals”)*
+[]{#anchor-211}**Un patruw amor –** a paternal love *(attachment)*
+[]{#anchor-212}**{ correct Ѵ}**
 
-[]{#anchor-171}**Tod buit monstereus –**
-[]{#anchor-172}[]{#anchor-173}that was monstrous **{ wrong X}**
+The Romance word “amor” has a PIE ancestor meaning “to be bound” or
+“attached to” (cf. Greek : omnumi = I swear). So, the real first meaning
+of “amor” is “attachment” (“emotional connection between individuals”)
 
-[]{#anchor-174}**Tod buit monstrueus –** that was monstrous
-[]{#anchor-175}**{ correct Ѵ}**
+[]{#anchor-213}**Tod buit monstereus –**
+[]{#anchor-214}[]{#anchor-215}that was monstrous **{ wrong X}**
 
-[]{#anchor-176}**Es baygh bayeus –** []{#anchor-177}you're very fearful
+[]{#anchor-216}**Tod buit monstrueus –** that was monstrous
+[]{#anchor-217}**{ correct Ѵ}**
+
+[]{#anchor-218}**Es baygh bayeus –** []{#anchor-219}you're very fearful
 **{acceptable, but prefer the sentence below}**
 
-[]{#anchor-178}**Es baygh bayasen –** you're very fearful **{correct
+[]{#anchor-220}**Es baygh bayasen –** you're very fearful **{correct
 Ѵ}**
 
-Sometimes may be not interesting to use an affix for transforming a substantive
-in an adjective, but a preposition like “os” or "es" may be a good alternative.
+Sometimes may be not interesting to use an affix for transforming a
+substantive in an adjective, but a preposition like “os” or “es” may be
+a good alternative.
 
-[]{#anchor-179}**Kamo anon es kwaun –** []{#anchor-180}I like food of
+[]{#anchor-221}**Kamo anon es kwaun –** []{#anchor-222}I like food of
 dog
 
-**Lieubho likes RPGs os table –** []{#anchor-181}I love playing tabletop RPGs
+**Lieubho likes RPGs os table –** []{#anchor-223}I love playing tabletop
+RPGs
 
-Wouldn't make sense to say something like []{#anchor-182}“…kwaunic anon”
-or []{#anchor-183}“… []{#anchor-184}tableus RPG”, because “…kwaunic
+Wouldn't make sense to say something like []{#anchor-224}“…kwaunic anon”
+or []{#anchor-225}“… []{#anchor-226}tableus RPG”, because “…kwaunic
 anon” gives the impression of the food has some canine characteristic,
-although the food is for dogs, and “… []{#anchor-185}tableus RPG” gives
+although the food is for dogs, and “… []{#anchor-227}tableus RPG” gives
 the impression that the RPG have a characteristic of table, although the
 game normally is played on the table.
 
-The most interesting way of expressing the ideas of the two last
-examples is:
+The most interestingway of expressing the ideas of the two last examples
+is:
 
 **Kamo kwaun-anon –** I like dog food
 
 **Lieubho likes table-RPGs –** I love playing tabletop RPGs
 
 Notice that the “table” of “table-RPG” and the “kwaun” of “kwaun-anon”
-are not as adjectives, but as components of a word made throught the
-aglutination of other words. If, for example, the “table” of “table-RPG”
-were an adjetive, would be possible the sentense “id RPG est table”,
-what doesn't make the minor sense. Ah, and you could write “kwaun-anon”
-and “table-RPG” without the hyphens, leaving them thus: “kwaun anon” and
-“table RPG”.
+are not as adjectives, but as components of a word made through the
+agglutination of other words. If, for example, the “table” of
+“table-RPG” were an adjective, would be possible the sentence “id RPG
+est table”, what doesn't make the minor sense. Ah, and you could write
+“kwaun-anon” and “table-RPG” without the hyphens, leaving them thus:
+“kwaun anon” and “table RPG”.
 
-Know also the []{#anchor-186}[]{#anchor-187}[]{#anchor-188}predicative
-adjective over the object, very used in sentenses like the ones of the
+Know also the []{#anchor-228}[]{#anchor-229}[]{#anchor-230}predicative
+adjective over the object, very used in sentences like the ones of the
 below examples:
 
-[]{#anchor-189}**Ho pict mien dom do glend –** I've painted the house
+[]{#anchor-231}**Ho pict mien dom do glend –** I've painted the house
 green
 
 **Ia me hat kalen zani –** she has called me adulterous
 
 **Tod anon kwehrt/beuwt me sieug –** this food makes me sick
 
-Seizing the opportunity, let me teach you how to say “Anna called John (as) Robert”. Well, it's exactly like in English: *Anna kiel John (ka) “Robert”*. I suggest you to use the “ka” in order to avoid equivocal appositions.
+Seizing the opportunity, let me teach you how to say “Anna called John
+(as) Robert”. Well, it's exactly like in English: *Anna kiel John (ka)
+“Robert”*. I suggest you to use the “ka” in order to avoid
+misunderstandings.
 
-I'll use the first example, “[]{#anchor-190}ho pict mien dom do glend”,
+I'll use the first example, “[]{#anchor-232}ho pict mien dom do glend”,
 to explain more about this kind of situation. We couldn't have written
-“[]{#anchor-191}ho pict mien dom glend” because the “glend” would
-be in the accusative and the translation would be something like “I've
-painted my green of house”, it wouldn't make sense, and remember that
-the sambahsa adjectives come before the substantive. Also we couldn't
-write “[]{#anchor-192}ho pict mien glend dom”, because the translation
-is “I've painted my green house”, which, although it's gramatically
-perfect, definitivaly shows the wrong idea.
+“[]{#anchor-233}ho pict mien dom glend” because the “glend” would be in
+the accusative and the translation would be something like “I've painted
+my green of house”, it wouldn't make sense. Also we couldn't write
+“[]{#anchor-234}ho pict mien glend dom”, because its translation is
+“I've painted my green house”, which, although it's grammatically
+perfect, definitively shows the wrong idea.
 
 I think it's pertinent to make some observations about these last
 examples, they are very interesting.
 
-Notice that , for building the []{#anchor-193}predicative adjective over
+Notice that , for building the []{#anchor-235}predicative adjective over
 the object in the first example, it was made use of the preposition
 “do”, which you'll learn with more details in future chapters, but you
-can rewrite these sentenses in other way, like for example: “Ho pict(o)
+can rewrite these sentences in other way, like for example: “Ho pict(o)
 glend(o) mien dom”, thus the “glend” is not taken to be the attributive
 adjective of “dom”.
 
 In the second example I could make the word “zani” a substantive if I
 add a indefinite article before this word: “Ia me hat kalen *un* zani”;
-the meaning pratically still is the same. But this case is no more a
-[]{#anchor-194}predicative adjective over the object, but a *nominal*
+the meaning practically still is the same. But this case is no more a
+[]{#anchor-236}predicative adjective over the object, but a *nominal*
 adjective over the object.
 
 There is a better way to write the third sentence, it would be making
 use of the suffix -eih, which is a factive, you'll learn about affixes
-in a specific chapter. The sentense would be thus: “Tod anon sieugeiht
+in a specific chapter. The sentence would be thus: “Tod anon sieugeiht
 me” *(this food sickens me)*. I didn't use it in the examples because
 thus the sentence no more would be a predicative adjective over the
 object.
 
-COMPARISONS
------------
+As you know, the qualifier precedes the qualified item, but for
+quantities, the thing measured can be put after the unit of measure.
 
-The comparison is made suffixing the -er to the adjective (or -ter in the
-case the word finishes with a vowel), but only use this ending when
+**Dwo botels vin –** Two bottles of wine
+
+[]{#anchor-237}COMPARISONS
+--------------------------
+
+The comparison is made suffixing the -er to the adjective (or -ter in
+the case the word finishes with a vowel), but only use this ending when
 the accentuation of the word is not altered, in other case use the word
 “meis”, which means “more”; “quem” means “than”.
 
@@ -2511,28 +2762,29 @@ the accentuation of the word is not altered, in other case use the word
 **He is taller than me –** is est meis buland quem io {is est meys
 bulAnd kem yo}
 
-Comparisons of equality are made with "tem … quem", which may be
-translated as "as … as".
+Comparisons of equality are made with “tem … quem”, which may be
+translated as “as … as”.
 
 **Mary is as beautiful as Elizabeth – **Maria est tem bell quem
 Elizabeth
 
-Comparison od inferiority as made with "minter … quem", which may be
-translated to "less … than".
+Comparison od inferiority as made with “minter … quem”, which may be
+translated to “less … than”.
 
 **Wolves are less reliable than dogs –** wolfs sont minter amin quem
 kwauns {wolfs sont mIntër amIn kem kwAons}
 
-A important observation is about the adjective “amin” is that actually
-it is for humans, but the other sambahsa adjective for reliable, which
-is “wassic”, is for things. Which one use? You choose, I prefered
-“amin”, but wouldn't be wrong to use “wassic”, it depends of the
-person's world perspective.
+A important observation about the adjective “amin” is that actually it
+is for humans, but the other Sambahsa adjective for reliable, which is
+“wassic”, is for things. Which one use? You choose, I prefered “amin”,
+but wouldn't be wrong to use “wassic”, it depends of the person's world
+perspective.
 
-“Meis” and “minter” (sometimes "mins" instead of "minter", but rare) are comparative words, now let's talk about
-superlatives. But what are superlatives? Look the two examples below:
+“Meis” and “minter” *(sometimes "mins" instead of "minter", but rare)
+*are comparative words, now let's talk about superlatives. But what are
+superlatives? Look the two examples below:
 
-[]{#anchor-195}Charles is taller than Michael
+[]{#anchor-238}Charles is taller than Michael
 
 Steven is the tallest
 
@@ -2550,7 +2802,7 @@ Steven is the less tall
 The superlatives are “meist”, which means “most”, and “minst”, which
 means “less”. Look the examples below:
 
-[]{#anchor-196}**Matthew is the tallest –** Matthew est is meist buland
+[]{#anchor-239}**Matthew is the tallest –** Matthew est is meist buland
 
 **Matthew is the less tall –** Matthew est is minst buland
 
@@ -2566,11 +2818,12 @@ they are:
 
 **Superlative:** “megst” {megst} and “lytst” {lütst}
 
-PLURAL
-======
+[]{#anchor-240}PLURAL
+=====================
 
-The plural is easy and intuitive, often the words have a -s added in their endings, as made in english, this is
-basically the standard form.
+The plural is easy and intuitive, often the words in plural have a -s
+added in their endings, as made in English, this is basically the
+standard form.
 
 **Prince {prints} *****(prince)***** –** princes {prIntsës} *(princes)*
 
@@ -2601,8 +2854,8 @@ respectively for -si e -sa.
 
 There will situations that it's not possible to add a -s at the end of
 the word for pronunciation issues, in these cases it's added the
-terminations -i *(for animated beings)* or -a *(for unanimated
-beings)*.
+terminations -i *(for *[]{#anchor-241}*animated beings)* or -a *(for
+inanimate beings)*.
 
 **Magv {magv} *****(child)***** – **magvi {mAgvi} *(children)*
 
@@ -2620,7 +2873,7 @@ units)*
 **Musch {muc} *****(fly)***** –** muschi {mUci} *(flies)*
 
 *The only exception is “ok” (eye), whose plural can be “oks” {oks} or
-“okwi” {okwi}.*
+“okwi” {Okwi}.*
 
 Some examples with articles:
 
@@ -2636,24 +2889,25 @@ Some examples with articles:
 
 **The people –** i leuds {i lödz}
 
-*Please notice that even the articles are modified, while “the men” is “ies wirs”, “the man” is “is wir”.*
+Please notice that even the articles are modified, while “the men” is
+“ies wirs”, “the man” is “is wir”.
 
-For finishing, an example of plural with declination:
+For finishing, an example of plural with declension:
 
-**Plur millions brasileiren –** several millions of brazilians
+**Plur millions brasileiren –** several millions of Brazilians
 
-Notice that was written “brasileiren” instead “brasileirs”, but I could use anyone without problems, but if you use “brasilers”, don't
-forget to use the “em”, that would be “Plur millions em brasileirs
-vahnt…”
+Notice that was written “brasileiren” instead “brasileirs”, but I could
+use anyone without problems, but if you use “brasilers”, don't forget to
+use the “em”, that would be “Plur millions em brasileirs vahnt…”
 
-SOME, FEW, MANY AND OTHERS
-==========================
+[]{#anchor-242}SOME, FEW, MANY AND OTHERS
+=========================================
 
 **Nothing more –** neideti {neydEti}
 
-**Nothing at all –** []{#anchor-198}khich {qitc}
+**Nothing at all –** []{#anchor-243}khich {qitc}
 
-**No-one, nobody –** []{#anchor-199}neanghen {neAngën}, nimen {nImën}
+**No-one, nobody –** []{#anchor-244}neanghen {neAngën}, nimen {nImën}
 
 **Some –** sem {sem}
 
@@ -2680,7 +2934,8 @@ SOME, FEW, MANY AND OTHERS
 
 **More *****(adverb or adjective) (comparative)***** –** meis {meys}
 
-**Less *****(adverb or adjective)***** *****(comparative)***** –** minter {mIntër}; mins {mins}
+**Less *****(adverb or adjective)***** *****(comparative)***** –**
+minter {mIntër}
 
 **Most *****(adverb or adjective) (superlative)***** –** meist {meyst}
 
@@ -2692,7 +2947,8 @@ SOME, FEW, MANY AND OTHERS
 
 **Each *****(of two)*****, either –** Ieter {yEtër}
 
-**All the –** vasyi {vAzyi} *(masculine & undetermined nominative plural)*
+**All the –** vasyi {vAzyi} *(masculine & undetermined nominative
+plural)*
 
 **All the –** vasyas {vAzyas} *(feminine nominative plural)*
 
@@ -2714,7 +2970,7 @@ SOME, FEW, MANY AND OTHERS
 
 **One and half –** pwolter {pwOltër}
 
-**The other (one) –** alter {Altër} *(*[]{#anchor-200}*it's not
+**The other (one) –** alter {Altër} *(*[]{#anchor-245}*it's not
 necessary the article)*
 
 **Another –** alyo {Alyo} *(it's not necessary the article)*
@@ -2727,8 +2983,7 @@ necessary the article)*
 
 **Either… or… –** auter… au… {Aotër… Ao…}
 
-**Whether, if *****(before the choose of two)***** –** kweter
-{kwEtër}
+**Whether, if *****(before the choose of two)***** –** kweter {kwEtër}
 
 **Neither… nor… –** neter… ni… {nEtër… ni…}
 
@@ -2741,24 +2996,24 @@ necessary the article)*
 **A(n) *****(indefinide article refering to the member of a pair)*****
 –** uter {Utër}
 
-**Little by little –** []{#anchor-201}lyt ed lyt {lüt ed lüt}
+**Little by little –** []{#anchor-246}lyt ed lyt {lüt ed lüt}
 
 **Some days –** sem diens {sem dyens}
 
 **Few hors –** pauk hors {pAok hors}
 
-**She is a bit heavy –** Ia est lyt []{#anchor-202}gwaur {ya est lüt
+**She is a bit heavy –** Ia est lyt []{#anchor-247}gwaur {ya est lüt
 gwAur}
 
 **The other book –** alter buk {Altër buk}
 
 **Another book –** alyo buk {Alyo buk}
 
-ARE YOU A BIT CONFUSE WITH SO MANY “MUCHS” AND “FEWS”?
---------------------------------------------------------
+[]{#anchor-248}ARE YOU A BIT CONFUSE WITH SO MANY “MUCHS” AND “FEWS”?
+---------------------------------------------------------------------
 
-You must observe what is adjective, what is adverb and what is both,
-it is very important! Let's see the implications of that:
+You must observe what is adjective, what is adverb and what is both, it
+is very important! Let's see the implications of that:
 
 “Baygh” may not be used before an adjective followed by a substantive, a
 sentence like “baygh smulk magvi” would mean what? “many small children”
@@ -2775,29 +3030,28 @@ because of “maung” only serves as adjective.
 I believe you already understand it. Some good examples for you to fix
 it in your mind:
 
-***Maung***** smulk magvi –** []{#anchor-203}many small children
+***Maung***** smulk magvi –** []{#anchor-249}many small children
 
-***Meg***** smulk magvi –** []{#anchor-204}very small children
+***Meg***** smulk magvi –** []{#anchor-250}very small children
 
-**Tod land hat *****pauk***** bella plaja –** []{#anchor-205}this
+**Tod land hat *****pauk***** bella plaja –** []{#anchor-251}this
 country has few beautiful beachs
 
 **Tod land hat *****pau***** bella plaja –** this country has not-very
-beautiful beachs. 
+beautiful beachs
 
-You can see that some of the above-mentionned words work sometimes
-as an adjective, and sometimes as an adverb. What makes the difference ?
-It is an adjective when it refers to the quantity of the substantive, 
-but it's an adverb when it refers to the quality of the adjective. 
+You can see that some of the words mentioned above work sometimes as an
+adjective, and sometimes as an adverb. What makes the difference? It is
+an adjective when it refers to the quantity of the substantive, but it's
+an adverb when it refers to the quality of the adjective.
 
-**Volo lyt cofie -** I want a little of coffee
+**Volo lyt cofie –** I want a little of coffee
 
-**Lyt-ye bitter cofie -** Slightly bitter coffee
+**Lyt-ye bitter cofie –** Slightly bitter coffee
 
 To differentiate them when there is a risk of confusion, use the
-hyphenated ending "-ye" for adverbs, and, if possible, the "euphonic"
-declensional endings for adjectives. 
-
+hyphenated ending “-ye” for adverbs, and, if possible, the “euphonic”
+declensional endings for adjectives.
 
 About “destull”:
 
@@ -2813,8 +3067,8 @@ beautiful, but there are other countries that are more beautiful)*
 
 You can also translate “destull” as “kinda”.
 
-NUMBERS
-=======
+[]{#anchor-252}NUMBERS
+======================
 
 Here are the numbers from 0 to 10:
 
@@ -2878,10 +3132,9 @@ For numbers like 20, 30, 40, …, 90 you use the suffix -gim
 
 **90 – nevgim {nEvdjim} –** ninety
 
-Here are the numbers 100, 1000, 
-and 1000000000:
+Here are the numbers 100, 1000, 1000000 and 1000000000:
 
-**100 – cent(om) {tsent / tsëntOm} –** one hundred
+**100 – cent(om) {tsent}/{tsëntOm} –** one hundred
 
 **1,000 – mil {mil} –** one thousand
 
@@ -2895,10 +3148,10 @@ Some examples of numbers:
 
 **130 – cent trigim –** one hundred and thirty
 
-**569 – penkcent sixgim nev –** f[]{#anchor-206}ive hundred and
+**569 – penkcent sixgim nev –** f[]{#anchor-253}ive hundred and
 sixty-nine
 
-**1992 – mil nevcent nevgim dwo –** []{#anchor-207}one thousand nine
+**1992 – mil nevcent nevgim dwo –** []{#anchor-254}one thousand nine
 hundred ninety-two
 
 Cardinal numbers are made with the suffix -t (or -im if the first suffix
@@ -2907,7 +3160,7 @@ for incompatible).
 **First –** ~~oint~~ prest *(if it's the first of a group of two, we use
 “preter” instead “prest”)*
 
-**Second –** dwot *(or “second”, equal to the english word)*
+**Second –** dwot *(or “second”, equal to the English word)*
 
 **Third – **trit
 
@@ -2931,7 +3184,7 @@ Yes, “first” and “second” are irregular, despite be admitted the “dwot
 
 Only the last component needs termination:
 
-**Twenty first –** dwogim prest
+**Twenty first –** dec prest
 
 Know these too:
 
@@ -2945,11 +3198,11 @@ A multiplicator is made with the suffix -(en)s:
 
 **Twice –** dwis *(irregular)*
 
-[]{#anchor-208}**Thrice –** tris
+[]{#anchor-255}**Thrice –** tris
 
 We also may use the word “ker”:
 
-**Once –** oin kers
+**Once –** oin ker
 
 **Twice –** dwo kers
 
@@ -2969,7 +3222,7 @@ yeah, it's the same word)
 
 For numbers finished in -dem or -gim, you use -tia instead -(e)n.
 
-**20 –** []{#anchor-209}dwogimtia *(like a score)*
+**20 –** []{#anchor-256}dwogimtia *(like a score)*
 
 This termination -(e)n also is used for counting nouns that doesn't have
 a form in the singular:
@@ -2979,7 +3232,7 @@ a form in the singular:
 If the distributive is used as quantity, then the nouns and adjectives
 are in the plural of genitive.
 
-**Un centen wolfen gwiviet in France –** a[]{#anchor-210} hundred wolves
+**Un centen wolfen gwiviet in France –** a[]{#anchor-257} hundred wolves
 could live in France
 
 Remember of “million” and “milliard”? They only exist in the
@@ -2995,7 +3248,7 @@ Parts can be indicated by -del.
 
 But look:
 
-**Half *****(as substantive) *****–** []{#anchor-211}dwidel
+**Half *****(as substantive) *****–** []{#anchor-258}dwidel
 
 **Half *****(as adjective)***** –** pwol *(often used as prefix)*
 
@@ -3006,21 +3259,46 @@ the “pwol”. Look one more example:
 
 **Pwolpenkt – **4,5
 
-About punctuations in numbers, sambahsa is different from english, the fractioned numbers don't receive a dot, but a comma; a number like “two and a half” is transcribed as 2,5 in sambahsa. Numbers superior to 999 don't reveice any punctuation, so “one million” wont be transcribed as 1,000,000, but as 1000000.
+**Pwolnevt –** 8,5
+
+About punctuations in numbers, Sambahsa is different from English, the
+fractional numbers don't receive a dot, but a comma; a number like “two
+and a half” is transcribed as 2,5 in Sambahsa. Numbers superior to 999
+don't receive any punctuation, so “one million” wont be transcribed as
+1,000,000, but as 1000000.
 
 Math operations:
 
-**2 + 2 = 4 –** dwo plus dwo egal (ad) quar
+**2 + 2 = 4 –** dwo plus dwo kwehr(n)t quar
 
-**2 − 2 = 0 –** dwo minus/ex dwo egal (ad) zero
+**2 − 2 = 0 –** dwo minus/ex dwo kwehr(n)t zero
 
-**2 − 3 = −1 –** dwo minus/ex tri egal (ad) minus oin
+**2 − 3 = −1 –** dwo minus/ex tri kwehr(n)t minus oin
 
-**2 ⨯ 2 = 4 –** dwo kers dwo egal (ad) quar
+**2 ⨯ 2 = 4 –** dwo kers dwo kwehr(n)t quar
 
-**2 ÷ 2 = 1 –** dwo dividen ab dwo egal (ad) oin
+**2 ÷ 2 = 1 –** dwo dividen ab dwo kwehr(n)t oin
 
-Score or result of voting, like the result of a soccer game where Barcelona scored two gols and Real Mardid scored one.
+**6¹ =** six alt oin
+
+**6² =** six alt quadrat
+
+**6² =** six alt dwo
+
+**6³ =** six alt cube
+
+**6³ =** six alt tri
+
+**6⁴ =** six alt quar
+
+**6⁵ =** six alt penk(we)
+
+** =** quadrat raudh os six
+
+** =** cubic raudh os six
+
+Score or result of voting, like the result of a soccer game where
+Barcelona scored two gols and Real Madrid scored one.
 
 **Dwo contra oin pro Barcelona –** two to one to Barcelona
 
@@ -3029,15 +3307,16 @@ Score or result of voting, like the result of a soccer game where Barcelona scor
 For indicating age, you use the suffix -at:
 
 **Som dwogim sixat –** I am twenty six years old
+
 **Cid monument est milat –** that monument is one thousand years old
 
-TIME
-====
+[]{#anchor-259}TIME
+===================
 
-To indicate the day of a month, we put the “dien” before the cardinal
-number of the date,
+To indicate the day of a month, we put “dien” before the cardinal number
+of the date:
 
-[]{#anchor-212}Dien quar jul mil septcent septgim six, ia Uniet Stats
+[]{#anchor-260}Dien quar jul mil septcent septgim six, ia Uniet Stats
 bihr independent
 
 On the fourth of July of one thousand seven hundred and seventy-six,
@@ -3045,22 +3324,22 @@ United States became independent
 
 Dien sept september mil octcent dwogim dwo, Brasilu bihsit independent
 
-On the seventh of september of one thousand eight hundred and
+On the seventh of September of one thousand eight hundred and
 eighty-two, Brazil became independent
 
 The days of the week:
 
 **Mingo {mIngo} –** Sunday
 
-**Mundie **[]{#anchor-213}[]{#anchor-214}**{mundI:} –** Monday
+**Mundie **[]{#anchor-261}[]{#anchor-262}**{mundI:} –** Monday
 
 **Ardie {ardI:} –** Tuesday
 
-**Credie **[]{#anchor-215}**{krëdI:} –** Wednesday
+**Credie **[]{#anchor-263}**{krëdI:} –** Wednesday
 
 **Khamsi {qAmsi} –** Thursday
 
-**Juma **[]{#anchor-216}**{jUma} –** Friday
+**Juma **[]{#anchor-264}**{jUma} –** Friday
 
 **Sabd {sabd} –** Saturday
 
@@ -3068,7 +3347,7 @@ Here are the months:
 
 **Januar {januAr} –** January
 
-**Februar {fëbruAr} –** February
+**Februar {februAr} –** February
 
 **Mart {mart} –** March
 
@@ -3090,19 +3369,41 @@ Here are the months:
 
 **December {dëtsEmbër} –** December
 
-To indicate the hours, the best way is putting the number's hour before
-of “saat” {saAt} following the minute's numbers.
+To indicate the time, you put the numbers of the hours and minutes
+*(separated by a colon)* before the word “saat” {saAt}:
 
-**18:49 –** octdem saat quargim nev
+**18:49 saat –** octdem saat quargim nev *(forty-nine minutes past six
+p.m.)*
 
-**05:00 –** penk saat
+**05:00 saat –** penk saat *(five o'clock)*
 
-To indicate a determined decade, like “the 70's”, you inform the year
-more the termination -tias.
+If you want, you don’t have to write “saat” when in the numeric form,
+“18:49” and “05:00” are enough.
 
-**Ia 1970 –** **Ia mil nevcent septgimtias –** the (19)70's
+Another way:
 
-A adverb of period of time may be made per the termination -s.
+**06:49 saat vesper –** six saat quargim nev vesper *(six forty-nine
+p.m.)*
+
+**05:00 saat aghyern –** penk saat aghyern *(five o'clock a.m.)*
+
+In order to indicate a determined decade, like “the 1970's”, you inform
+the year more the termination -tias.
+
+**Ia 1970tias –** **Ia mil nevcent septgimtias –** the 1970's
+
+In order to indicate the century we can say something like this:
+
+**Gwivmos in id dwogim-prest secule, poskwo sessiet id dwogim-dwot
+secule, prever eet id dwogimt secule, ed pre tod eet id nevdemt secule
+–** We live in the twenty-first century, then it will be the
+twenty-second century, before it was the twentieth century and before
+this one was the nineteenth century
+
+In the place of “dwogim-prest” and “dwogim-dwot” you may say
+respectively “dwogim-oint”[^2] and “dwogim-second” if you want.
+
+An adverb of period of time may be made per the termination -s.
 
 **I beis, qui wey eiskwmos, appareihnt noct*****s***** –** the bees,
 which we want, appears at night
@@ -3126,7 +3427,7 @@ A verb that indicates a period of spent time can be made per the prefix
 
 **Uperdienam in id farm –** we spent the day in the farm
 
-There the translations for “tomorrow, “yesterday" and their variations:
+There the translations for “tomorrow, “yesterday” and their variations:
 
 **Tomorrow –** cras
 
@@ -3136,24 +3437,25 @@ There the translations for “tomorrow, “yesterday" and their variations:
 
 **Of yesterday –** ghestern
 
-**Before yesterday –** []{#anchor-217}preghes {prëgEs}
+**Before yesterday –** []{#anchor-265}preghes {prëgEs}
 
 More important words:
 
-**Hourly –** []{#anchor-218}horlong
+**Hourly –** []{#anchor-266}horlong
 
-**Last week –** []{#anchor-219}perhvdi {pEr(h)vdi}
+**Last week –** []{#anchor-267}perhvdi {pEr(h)vdi}
 
-**Every time –** []{#anchor-220}stets (used in general with comparatives)
+**Every time –** []{#anchor-268}stets *(used in general with
+comparatives)*
 
-**In times past –** []{#anchor-221}xiawngja {ksyAwngja}
+**In times past –** []{#anchor-269}xiawngja {ksyAwngja}
 
 **Last night –** yarlay {yarlAy}
 
 **Day & night *****(24 horas)***** –** yawm {yAwm}
 
-CORRELATIVES
-============
+[]{#anchor-270}CORRELATIVES
+===========================
 
 They are words made by affixing certain particles to the interrogative
 pronouns or other words, like “anghen” *(person)*, “ject” *(thing)* and
@@ -3165,22 +3467,29 @@ pronouns or other words, like “anghen” *(person)*, “ject” *(thing)* and
 
 > **Is lehct quodquid –** he’s telling anything at all
 
-**-gvonc {gvonk} –** it is between “some” and “any”. *It's freely inspired by the -cumque from Latin, it's also like the -unque from Italian (like in “chiunque” and “dovunque”), the -conque from French (like in “quiconque”), the -gen from German (like in “wegen”).*
+**-gvonc {gvonk} –** it is between “some” and “any”. *It's freely
+inspired by the -cumque from Latin, it's also like the -unque from
+Italian (like in “chiunque” and “dovunque”), the -conque from French
+(like in “quiconque”), the -gen from German (like in “wegen”).*
 
 > **Ne has clus id dwer. Quelgvonc ghehdiet entre id dom –** you haven't
 > closed the door. Anyone/Someone could enter the house
 
-> **Ne has tu dar mathen od mien intelligence est dar staurer quem quodgvonc eins? –** haven't you learnt yet that my intelligence is still mightier than any sword?
+> **Ne has tu dar mathen od mien intelligence est dar staurer quem
+> quodgvonc eins? –** haven't you learnt yet that my intelligence is
+> still mightier than any sword?
 
 **-kwe {kwë} –** when suffixed to interrogative pronouns corresponds to
-the english -ever *(but with an idea of totality in a sentence)*
+the English -ever *(but with an idea of totality in a sentence)*
 
 > **Ir gwelsa brungend quodkwe spalt iom armurs –** their shafts taking
 > advantage of any split of the armours
 
-> **Querkwe gwahm, io incontre prients –** whereever I go, I encounter friends
+> **Querkwe gwahm, io incontre prients –** wherever I go, I encounter
+> friends
 
-**-libt {libd} –** any *(in the sense of “whichever you want” or “at one's pleasure”)*
+**-libt {libd} –** any *(in the sense of “whichever you want” or “at
+one's pleasure”)*
 
 > **Cheus quodlibt fustan {tcös kwOdlibt fustAn} – **Choose any skirt
 > *(the one you prefer)*
@@ -3189,7 +3498,7 @@ A comparison for better understanding, the two sentences below mean
 “any/whichever shoe is useful for me”:
 
 > **Quodquid schou est util pro me:** means that the person doesn’t care
-> about the shoe to b worn in his foot
+> about the shoe to be worn in his foot
 
 > **Quodkwe schou est util pro me:** it’s more serious
 
@@ -3214,7 +3523,10 @@ A comparison for better understanding, the two sentences below mean
 
 **Quiskwe {kIskwë} –** whoever
 
-*For saying sentences like “I don't see (any)thing”, you can say “ne vido ject”, it's used “ject” in these cases when in negative sentences. But a better way of expressing would be “vido neid” (“I see nothing”).*
+*For saying sentences like “I don't see (any)thing”, you can say “ne
+vido ject”, it's used “ject” in these cases when in negative sentences.
+But a better way of expressing would be “vido neid”* (“I see nothing”)*.
+When we talk about persons we use the word “anghen”.*
 
 **Ma? {ma} –** why?
 
@@ -3227,9 +3539,9 @@ also means the verb “like”}*
 
 **Ka {ka} –** as (a) *(quality, function)*
 
-**It(han) {it / i§An} –** so, this way
+**It(han) {it}/{i§An} –** so, this way
 
-[]{#anchor-222}**Zowngschie {dzowngcI:} /dzowŋ'ʃi/ –** anyway
+[]{#anchor-271}**Zowngschie {dzowngcI:} /dzowŋ'ʃi/ –** anyway
 
 **-med {med} –** *suffixed to a pronoun in the genitive, it has the
 meaning of “per/through” + instrument. quosmed {kwOsmëd} (with what? /
@@ -3279,7 +3591,7 @@ kwAntro, kwAntos/kwantOys} –** everywhere
 
 **Neidloc/nequer, netro, netos {neydlOk/neker, nEtro, nEtos} –** nowhere
 
-**Alyer, altro, altos/alyois {Alyer, Altro, Altos/alyOys} –** elsewhere
+**Alyer, altro, altos/alyois {Alyër, Altro, Altos/alyOys} –** elsewhere
 
 “Left” and “right” are represented respectively by lev(ter) and
 dex(ter), naturally that are possible forms like levtro/dextro and
@@ -3313,16 +3625,18 @@ An adverb of location can be made, rarely, per the termination -i.
 
 **Solg, talg {solg, talg} –** Such
 
-**Quod? {kwod} –** What?[]{#anchor-223}
+**Quod? {kwod} –** What?[]{#anchor-272}
 
 **Semject, semquod {semjEkt, semkwOd} –** something
 
 **Quant(o/um) {kwAnt(o/um)} –** everything
 
-**Khich {qitc} –** nothing at all
+**Quant est correct –** everything is correct
 
 Quant- may serve as relative pronoun, you only have to add the
-declination terminations to it.
+declension terminations to it.
+
+**Khich {qitc} –** nothing at all
 
 **Quan(do) {kwAn(do)}? –** when?
 
@@ -3334,7 +3648,8 @@ didn1t existed
 **Ye id dien kun is mohr, vasyi buir trauric –** On the day he died,
 everybody were sad
 
-*As relative pronouns, there is no difference between “kun” and “quan(do)”, but only “quan(do)” may be used in the interrogative form.*
+As relative pronouns, there is no difference between “kun” and
+“quan(do)”, but only “quan(do)” may be used in the interrogative form.
 
 **Yando {yAndo} –** sometimes
 
@@ -3346,7 +3661,8 @@ everybody were sad
 
 **Tun {tun} –** then
 
-*“Tun” is equivalent to the Sambahsa expressions: “ye tod tid”, “in tod condition”, etc*
+“Tun” is equivalent to the Sambahsa expressions: “ye tod tid”, “in tod
+condition”, etc
 
 **Semper {sEmpër} –** always
 
@@ -3358,6 +3674,8 @@ everybody were sad
 
 **Hol {hol} –** whole, integer *(adjective)*
 
+***Hol est correct –** everything is correct*
+
 **Alnos {Alnos} –** completely, wholly *(adverb)*
 
 **Ceter {tsEtër} –** all the other
@@ -3368,23 +3686,27 @@ everybody were sad
 
 **Cada {kAda} –** each, every
 
-THE VERBS
-=========
+[]{#anchor-273}THE VERBS
+========================
 
 Ah, the verbs…
 
-With the exception of three main verbs, “es” {ses}, “hab” {hab} and “woid”
-{woyd}, all the other verbs are regular, you only need pay attention to
-some cases, predicted by the ortographic rules.
+With the exception of the three main verbs, “es” {es}, “hab” {hab} and
+“woid” {woyd}, all the other verbs are regular, you only need pay
+attention to some cases predicted by the orthographic rules.
 
 It's common, in other languages, the verbs be represented in their
-infinitive form, like in dictionaries for example, but in sambahsa the
-standard form of presentation is in the form of *stem*. I want it clear from now on, the translations from sambahsa to english will be
+infinitive form, like in dictionaries for example, but in Sambahsa the
+standard form of presentation is in the form of *stem*. I wanna make it
+clear from now on, the translations from Sambahsa to English will be
 provided in the infinitive form, even when the verbs are in their
-original form (only the stem). For example: the word “sedd” is translated to “to sit” (infinitive in english), but “sedd” is not the infinitive form of the word, its infinitive form is “sedde”. Don't worry because I'll
-warn you when the verb be in the infinitive, I only want that you know
-that when I show you something like “linekw = to leave”, don't think that
-“linekw” already is the Sambahsa verb in the infinitive form. Are we understood?
+original form *(only the stem)*. For example: the verb “sedd” is
+translated to “to sit” *(infinitive just in the English translation!)*,
+but actually “sedd” is not the infinitive form of the word, its
+infinitive form is “sedde”. Don't worry because I'll warn you when the
+verb is in the infinitive, I only want that you know that when I show
+you something like “linekw = to leave”, don't think that “linekw”
+already is the Sambahsa verb in the infinitive form. Are we understood?
 
 Let's meet the irregular verbs:
 
@@ -3394,26 +3716,39 @@ Let's meet the irregular verbs:
 
 **Woid {woyd} –** to know
 
-[]{#anchor-224}“Es”, “hab” and “woid” are verbs in the stem form, the
+[]{#anchor-274}“Es”, “hab” and “woid” are verbs in the stem form, the
 infinitive form of them are respectively “ses”, “habe” and “woide”. You
 don't need to worry a lot about “es”, “hab” and “woid” since these verbs
 are irregular.
 
-I need to make a special comment about the verb “woid”. It means “to know”, but there is other verb with the same translation that is “gnoh”. The difference between “gnoh” and “woid” is that “gnoh” has a broader meaning than “woid”. “Gnoh” can be translated to “saber” and “conocer” (spanish), “wissen” and “kennen” (german), “savoir” and “connaître” (french), while “woid” only can be translated to “saber” (spanish/portuguese), “wissen” (german) or “savoir” (french).
+I need to make a special comment about the verb “woid”. It means “to
+know”, but there is other verb with almost the same translation that is
+“kehgn”. Let’s see the translations for other languages: in Spanish,
+“woid” can be translated to “saber” and “kehgn” to “conocer”; in German
+“woid” can be translated to “wissen” and “kehgn” to “kennen”; in French
+“woid” can be translated to “savoir” and “kehgn” to “connaître” .
 
-Taking the spanish words as reference: “saber” means that you have the knowing of a fact or information, like in “he knows when to leave” or “I know chinese”; “conocer” is for expressing the familiarity with someone, some place or something, like in “they know Oliver” or “I know Chile”. In a resume:
+The word “woid” means that you have the knowing of a fact or
+information, like in “he knows when to leave” or “I know Chinese”;
+“kehgn” is for expressing the familiarity with someone, some place or
+something, like in “they know Oliver” or “I know China”.
+
+We also have the verb “gnoh”, which essentially has both meanings. In a
+resume:
 
 **Woid –** “saber” / “wissen” / “savoir”
 
 **Kehgn –** “conocer” / “kennen” / “connaître”
 
-**Gnoh –** woid + kehgn
+**Gnoh –** *woid + kehgn*
 
-PRESENT
--------
+But only “woid” is irregular in this group!
+
+[]{#anchor-275}PRESENT
+----------------------
 
 You already know the conjugation of the verb “es” in the present, but
-it's no bother to repeat them:
+[]{#anchor-276}it's no bother to repeat them:
 
 **Som {som} –** *(I)* am
 
@@ -3430,8 +3765,8 @@ it's no bother to repeat them:
 The verb “ste” is pronounced as {ste} because {st} is not a viable
 pronounce.
 
-The pronouns were omitted, but you are entirely free to use them too.
-Look the very same conjugation from above, but with the pronouns:
+The pronouns were omitted, but you are entirely free to use them! Look
+the very same conjugation from above, but with the pronouns:
 
 **Io som {yo som} –** I am
 
@@ -3479,29 +3814,28 @@ The conjugation of woid is not compulsory.
 The conjugation of verbs in the present is made with the following
 endings:
 
-**1**^**st**^** **[]{#anchor-225}**person singular:** -m *(when after
-the sound of vowel or {y})*, -o *(in other cases)*. If the stem of the verb ends
-with "-e" or if the addition of "-o" would be incompatible with the
-accentuation, add nothing  but use the personal pronoun "io". 
+**1**^**st**^** **[]{#anchor-277}**person singular:** -m *(when after
+the sound of vowel or {y})*, -o *(in other cases). If the stem of the
+verb ends with -e or if the addition of -o would be incompatible with
+the accentuation, add nothing but use the personal pronoun “io”.*
 
 **2**^**nd**^** person singular:** -s
 
 **3**^**rd**^** person singular:** -t
 
-**1**^**st**^** person plural:** -m(o)s (use the one compatible with the
-accentuation)
+**1**^**st**^** person plural:** -m(o)s *(use the one compatible with
+the accentuation)*
 
-**2**^**nd**^** person plural:** -t(e) (use "-t" if "-te" is incompatible with 
-the accentuation)
+**2**^**nd**^** person plural:** -t(e)
 
-**3**^**rd**^** person plural:** -(e)nt, -e (use the one compatible with the
-accentuation)
+**3**^**rd**^** person plural:** -(e)nt, -e *(use the one compatible
+with the accentuation)*
 
 Let's see an example:
 
 **I love you –** te lieubho {te lyÖbo}
 
-**You love me –** []{#anchor-226}me lieubhs {me lyÖbs}
+**You love me –** []{#anchor-278}me lieubhs {me lyÖbs}
 
 **She loves him –** ia lieubht iom {ya lyÖbt yom}
 
@@ -3516,71 +3850,114 @@ lyÖbt nos}
 
 **They love me –** ies lieubhent me {yes lyÖbënt me}
 
-Since the pronouns are often easy to identify (whether they are nominative,
-accusative, etc) you are free to change the order of them in the
-sentence, but maintain the good sense for avoiding misunderstandings.
-You may say too:
-[]{#anchor-227}[]{#anchor-228}[]{#anchor-229}[]{#anchor-230}lieubho te,
-lieubhs me, []{#anchor-231}io []{#anchor-232}lieubho te, tu lieubhs me,
-te []{#anchor-233}lieubho io, me lieubhs tu.
+Since the pronouns are often easy to identify (whether they are
+nominative, accusative, etc) you are free to change the order of them in
+the sentence, but maintain the good sense for avoiding
+misunderstandings. You may say too:
+[]{#anchor-279}[]{#anchor-280}[]{#anchor-281}[]{#anchor-282}lieubho te,
+lieubhs me, []{#anchor-283}io []{#anchor-284}lieubho te, tu lieubhs me,
+te []{#anchor-285}lieubho io, me lieubhs tu.
 
 Another example to you understand it well:
 
-***(I)***** learn sambahsa –** euco sambahsa {Öko sambA:sa}
+***(I)***** learn Sambahsa –** euco Sambahsa {Öko sambA:sa}
 
-***(You)***** learn sambahsa –** eucs sambahsa {öks sambA:sa}
+***(You)***** learn Sambahsa –** eucs Sambahsa {öks sambA:sa}
 
-***(He/she/it)***** learns sambahsa –** euct sambahsa {ökt sambA:sa}
+***(He/she/it)***** learns Sambahsa –** euct Sambahsa {ökt sambA:sa}
 
-***(We)***** learn sambahsa –** eucmos sambahsa {Ökmos sambA:sa}
+***(We)***** learn Sambahsa –** eucmos Sambahsa {Ökmos sambA:sa}
 
-***(You)***** learn sambahsa –** yu eucte sambahsa {yu ökt sambA:sa}
+***(You)***** learn Sambahsa –** yu eucte Sambahsa {yu ökt sambA:sa}
 
-***(They)***** learn sambahsa –** eucent sambahsa {Ötsënt sambA:sa}
+***(They)***** learn Sambahsa –** eucent Sambahsa {Ötsënt sambA:sa}
 
-BRIEF EXPLANATION ABOUT THE NASAL INFIX
----------------------------------------
+[]{#anchor-286}BRIEF EXPLANATION ABOUT THE NASAL INFIX
+------------------------------------------------------
 
 I will talk about the nasal infix with more details in an appropriate
 chapter, but as I need right now that you have a notion about this
 subject, I'll show you a quick explanation.
 
-A verb with nasal infix has an *un*stressed “e”
-together the consonants “m” or “n”. In all verbal
-tenses, with the exception of a form of imperative that uses the own
-stem form of the verb, this kind of verb will suffer an alteration,
-which basically is a lost of the unstressed “e” and, maybe, some other
-modifications that I will explain in the appropriate chapter.
+A verb with nasal infix has an *un*stressed “e” together the consonants
+“m” or “n”. In all verbal tenses, with the exception of a form of
+imperative that uses the own stem form of the verb, this kind of verb
+will suffer an alteration, which basically is a lost of the unstressed
+“e” and, maybe, some other modifications that I will explain in the
+appropriate chapter.
 
 Look how it works:
 
-**Linekw →** linkw
+**Lin*****e*****kw {lInëkw} →** linkw {linkw}
 
-**Pregen →** pregn
+**Preg*****e*****n {prEdjën} →** pregn {preny}
 
-You may question: but why Sambahsa has this characteristic? Sambahsa behaves like a natural language, if you analize it well, it's more pleasant to speak with the things in this way, people naturally would want to drop this unstressed “e”. Without this rule, the language could be a bit easer, but it wouldn't be much comfortable to speak.
+You may question: but why Sambahsa has this characteristic? Sambahsa
+behaves like a natural language, if you analyze it well, it's more
+pleasant to speak in this way, people naturally would want to drop this
+unstressed “e”. Without this rule, the language could be a bit easier,
+but it wouldn't be much comfortable to speak. Do you doubt me? Check
+whether the *in*correct conjugation below is pleasant to pronounce:
 
-PAST TENSE
-----------
+Linekwe {linEkwë}
+
+Linekwo {linEkwo}
+
+Linekws {linEkus}
+
+Linekwt {linEkut}
+
+Linekwm(o)s {linEkum(o)s}
+
+Linekwte {linEkut}
+
+Linekwnt {linEkunt}
+
+It becomes a mess, if you look it well you'll notice that that
+pronunciation is not very natural or human! Now see these words properly
+conjugated:
+
+linkwes {lInkwës}
+
+linkwo {lInkwo}
+
+linkws {lInkus}
+
+linkwt {lInkut}
+
+linkwm(o)s {lInkum(o)s}
+
+linkwte {lInkut}
+
+linkwnt {lInkunt}
+
+It's much better, isn’t?
+
+I hope you understand that this nasal infix rule is not here by chance,
+it is very necessary. But don't worry, before you know it you’re be
+applying this rule in your speaking by nature.
+
+[]{#anchor-287}PAST TENSE
+-------------------------
 
 There are two verbal tenses in the past for the verb “es”, the simple
-past and the imperfect, while the first one informs about an action that takes place in a punctual
-time in the past, the second one deals with situations that happened
-continuously in the past and ended.
+past and the imperfect, while the first one informs about an action that
+takes place in a punctual time in the past, the second one deals with
+situations that happened continuously in the past and ended.
 
 Simple past
 
-**Buim {bwim} –** []{#anchor-234}*(I)* was
+**Buim {bwim} –** []{#anchor-288}*(I)* was
 
-**Buist(a) {bwIst(a)} –** []{#anchor-235}*(you)* were
+**Buist(a) {bwIst(a)} –** []{#anchor-289}*(you)* were
 
-**Buit {bwit} –** []{#anchor-236}*(he/she/it)* was
+**Buit {bwit} –** []{#anchor-290}*(he/she/it)* was
 
-**Buam {bwam} –** []{#anchor-237}*(we)* were
+**Buam {bwam} –** []{#anchor-291}*(we)* were
 
-**Buat {bwat} –** []{#anchor-238}*(you)* were
+**Buat {bwat} –** []{#anchor-292}*(you)* were
 
-**Buir {bwir} –** []{#anchor-239}*(they)* were
+**Buir {bwir} –** []{#anchor-293}*(they)* were
 
 Imperfect past
 
@@ -3627,13 +4004,13 @@ Both “hab” and “woid” only have the simple past.
 
 The conjugation of the verb “wois” is not compulsory.
 
-The conjugation of the verbs in the past is made by the following
+The conjugation of the verbs in the simple past is made by the following
 terminations:
 
-**1**^**st**^** **[]{#anchor-240}**person singular:** -im
+**1**^**st**^** **[]{#anchor-294}**person singular:** -im
 
-**2**^**nd**^** person singular:** -(i)st(a) (use what is 
-compatible with the accentuation)
+**2**^**nd**^** person singular:** -(i)st(a) *(use the one compatible
+with the accentuation)*
 
 **3**^**rd**^** person singular:** -it
 
@@ -3642,18 +4019,19 @@ compatible with the accentuation)
 **2**^**nd**^** person plural:** -at
 
 **3**^**rd**^** person plural:** -eer *(it's -r when the verb finishes
-with a accentued vowel)*
+with a accentuated vowel)*
 
-Between the stem of the verb and the ending of the conjugation, it would be interesting to use of the -s-, when the stem ends with the sound
-of vowel, but it's not mandatory! Look an example below:
+Between the stem of the verb and the ending of the conjugation, it would
+be interesting to use of the -s-, when the stem ends with the sound of
+vowel, but it's not mandatory! Look an example below:
 
-[]{#anchor-241}**ghyah {gya:} –** to gape
+[]{#anchor-295}**ghyah {gya:} –** to gape
 
-**ghyah + s + it = ghyahsit {gyA:sit} –** (he/she/it) gaped
+**ghyah + s + it = ghyahsit {gyA:sit} –** *(he/she/it)* gaped
 
 An example to you understand:
 
-[]{#anchor-242}***(***[]{#anchor-243}***I)***** browed –** brovim
+[]{#anchor-296}***(***[]{#anchor-297}***I)***** browed –** brovim
 {brOvim}
 
 ***(You)***** browed – **brovist {brOvist} *or* brovsta {brOvzta}
@@ -3666,8 +4044,8 @@ An example to you understand:
 
 ***(They)***** browed –** broveer {brovEër}
 
-“Brovista” is not possible because the “a” would change the
-accentuation of the word.
+“Brovista” is not possible because the “a” would change the accentuation
+of the word.
 
 Apropos, “brov” also means the substantive “eyebrow”.
 
@@ -3680,47 +4058,27 @@ the pronouns. It's the last time I notify you this possibility, my
 conjugations are made without the pronouns, but it doesn't mean that
 they may not be used! I say the same for any verbal tense.
 
-### ACTUALLY THERE ARE TWO WAYS OF REPRESENTING THE PAST
+### []{#anchor-298}ACTUALLY THERE ARE TWO WAYS OF REPRESENTING THE PAST
 
-What you've just saeen is the simple past, which the actions started and
-ended in the past and ***didn't** let consequences in the present*. The
-other form is the perfect present, in which the actions still occurs in the
-present or, although the actions were finished in the past, *they left some
-consequence in the present*; the present perfect is made through the
-verb “habe” + the participle in passive past (as I'll only teach you the
-participles in future chapters, I'll limit me to show you examples here,
-you don't need to know how to made them now, but I want that you at
-least know how to identify them).
+What you've just seen is the simple past, Sambahsa also has the present
+perfect like English:
 
-Look the examples below to you understand the differences *(notice
-that the (a)s are in the simple past while the (b)s are in the present
-perfect)*:
+**Is gwivit in Rome unte oct yars –** he lived in Rome for eight years
 
-**(1a) Is gwivit in Rome unte oct yars –** he lived in Rome for eight
+**Is hat gwiwt in Rome unte oct yars –** he has lived in Rome for wight
 years
 
-**(1b) Is hat gwiwt in Rome unte oct yars –** he has lived in Rome for
-wight years
+**Ia ghiet iom **[]{#anchor-299}**gouverneur –** []{#anchor-300}she met
+the governor
 
-**(2a) Ia ghiet iom **[]{#anchor-244}**gouverneur –** []{#anchor-245}she
-met the governor\
-**(2b) Ia hat ghaten iom gouverneur –** she has met the governor
+**Ia hat ghaten iom gouverneur –** she has met the governor
 
-**(3a) Lusim mien cleich –** I lost my key
+**Lusim mien cleich –** I lost my key
 
-**(3b) Ho lusen mien cleich –** []{#anchor-246}I've lost my key
+**Ho lusen mien cleich –** []{#anchor-301}I've lost my key
 
-In (1a) the person lived in Rome in the past, but currently he lives in
-other place or he is no more alive; in (1b) he has lived in Rome and
-still is there. In (2a) kinda implies the governor doesn't have his
-position nowadays; in (2b) we know the governor still is alive and still
-has his position. In (3a) I lost my keys in the past, but I already have
-found them or it is no more important currently; in (3b) I've lost my
-keys, I didn't find them and I still suffer the consequences like I don't be
-able to enter into my own house.
-
-INFINITIVE
-----------
+[]{#anchor-302}INFINITIVE
+-------------------------
 
 You were expecting that I would talk about the future tense, weren't? I
 will talk about the future tense in other opportunity because I will
@@ -3739,20 +4097,20 @@ Verbs finished in an unstressed “e” don't change:
 For verbs with the nasal infix, the unstressed “e” is removed and it's
 added the termination -es.
 
-Verbs with “ei”{ey} or “eu”{ö} have these parts replaced
-respectively for “i” and “u” and is added the termination -es.
+Verbs with “ei”{ey} or “eu”{ö} have these parts replaced respectively
+for “i” and “u” and is added the termination -es.
 
 **Linekw {lInëkw}** – linkwes {lInkwës} *(to leave)*
 
 **Dreiv {dreyv} –** drives {drivz} *(to drift)*
 
-[]{#anchor-247}**Ghieul {giÖl} –** ghiules {gyüls} *(to carbonize)*
+[]{#anchor-303}**Ghieul {giÖl} –** ghiules {gyüls} *(to carbonize)*
 
 In all the other cases it's enough to add the final -e when it doesn't
 change the accentuation, if the accentuation is altered the word simply
 remains unaltered.
 
-[]{#anchor-248}**Garabat {garabAt} –** garabate {garabAt} *(to
+[]{#anchor-304}**Garabat {garabAt} –** garabate {garabAt} *(to
 scribble)*
 
 **Hinder {hIndër} – **hinder {hIndër} *(to hinder)*
@@ -3765,7 +4123,7 @@ Let's see a practical example:
 
 ***Kaup {kAop} –** buy*
 
-### THE USE OF THE PREPOSITION “AD” WITH VERBS IN THE INFINITIVE
+### []{#anchor-305}THE USE OF THE PREPOSITION “AD” WITH VERBS IN THE INFINITIVE
 
 You've known an example of the following kind:
 
@@ -3775,30 +4133,30 @@ You've known an example of the following kind:
 
 But verbs that denotes movement you must use the preposition “ad”, which
 you will know with more details in a future chapter. That happens
-because sambahsa infinitives behave like substantives, except those ones that
-don't use any article.
+because Sambahsa infinitives behave like substantives, except those ones
+that don't use any article.
 
 **Ia ihsit *****ad***** vide sien son {ya I:sit ad vid syen son} –** she
-went []{#anchor-249}to see her son
+went []{#anchor-306}to see her son
 
 A situation where the verb is explicitly used as substantive:
 
 **Is hehlpt iom *****ad***** tarjmes id dictionar do portughesche {is
 he:lpt yom ad tArjmës id diktyonAr do portugEc} –** he helps him to
-translate the dictionary to portuguese
+translate the dictionary to Portuguese
 
-Othe similar situation, but with two verbs in the infinitive:
+Other similar situation, but with two verbs in the infinitive:
 
 **(Tu) has gwiven kay hehlpe *****ad***** cree un nov mund {(tu) has
-gwIvën kay he:lp ad crEë un nov mund} –** you have lived to help create a
-new world
+gwIvën kay he:lp ad krEë un nov mund} –** you have lived to help create
+a new world
 
-FUTURE
-------
+[]{#anchor-307}FUTURE
+---------------------
 
 The conjugations of the three main verbs:
 
-**Sessiem {sesyEm} –** []{#anchor-250}*(I)* will be
+**Sessiem {sesyEm} –** []{#anchor-308}*(I)* will be
 
 **Sessies {sesyEs} –** *(you)* will be
 
@@ -3810,7 +4168,7 @@ The conjugations of the three main verbs:
 
 **Sessient {sesyEnt} –** *(they)* will be
 
-**Habsiem {habsyEm} –** []{#anchor-251}*(I)* will have
+**Habsiem {habsyEm} –** []{#anchor-309}*(I)* will have
 
 **Habsies {habsyEs} –** *(you)* will have
 
@@ -3822,7 +4180,7 @@ The conjugations of the three main verbs:
 
 **Habsient {habsyEnt} –** *(they)* will have
 
-**Woidsiem {woydsyEm} –** []{#anchor-252}*(I)* will know
+**Woidsiem {woydsyEm} –** []{#anchor-310}*(I)* will know
 
 **Woidsies {woydsyEs} –** *(you* will know
 
@@ -3840,31 +4198,32 @@ In the first one you use the verbal form in the 2^nd^ person singular
 plus the particle “ie” and the conjugations of present, look an example
 below:
 
-**You permit –** permitts {permItz} *(2*^*nd*^* person singular in the
+**You permit –** permitts {përmItz} *(2*^*nd*^* person singular in the
 present)*
 
-[]{#anchor-253}[]{#anchor-254}***(I)***** will permit – **permittsiem
+[]{#anchor-311}[]{#anchor-312}***(I)***** will permit – **permittsiem
 {përmitsyEm}
 
-***(You)***** will permit –** permittsies {permitsyEs}
+***(You)***** will permit –** permittsies {përmitsyEs}
 
-***(He/she/it)***** will permit –** permittsiet {permitsyEt}
+***(He/she/it)***** will permit –** permittsiet {përmitsyEt}
 
-***(We)***** will permit –** permittsiem(o)s {permitsyEm(o)s}
+***(We)***** will permit –** permittsiem(o)s {përmitsyEm(o)s}
 
-***(You)***** will permit –** yu permittsiete {yu permitsyEt}
+***(You)***** will permit –** yu permittsiete {yu përmitsyEt}
 
-***(They)***** will permit –** permittsient {permitsyEnt}
+Notice that “permittsiem” is the “siem permitte” with the auxiliary as
+suffix.
 
-In the second form you use the auxiliar sie- (conjugated!) plus the verb
-in the infinitive, look the same example from above conjugated in this
-way:
+In the second form you use the auxiliary sie- (conjugated!) plus the
+verb in the infinitive, look the same example from above conjugated in
+this way:
 
-[]{#anchor-255}***(I)***** will permit –** siem permitte {syem permIt}
+[]{#anchor-313}***(I)***** will permit –** siem permitte {syem permIt}
 
 ***(You)***** will permit –** sies permitte {syes permIt}
 
-***(He/she/it)***** will permit –** siet permitte{syet permIt}
+***(He/she/it)***** will permit –** siet permitte {syet permIt}
 
 ***(We)***** will permit –** siem(o)s permitte {syEm(o)s permIt}
 
@@ -3872,22 +4231,40 @@ way:
 
 ***(They)***** will permit –** sient permitte {syent permIt}
 
-It's a kinda similar to english.
+We also have a negative version of the above conjugation, the auxiliary
+nie-, but in this one we can't put a suffix in the verb, that is to say,
+we can’t have something like “permittniem”:
 
-Sambahsa has the negative version of sie-, which works in the same way
-(i.e. only as an independent particle, but never as a suffix),
-it's the nie-.
+[]{#anchor-314}***(I)***** won't permit –** niem permitte {nyem permIt}
 
-***(I)***** wont permit –** niem permitte {nyem permIt}
+***(You)***** won't permit –** nies permitte {nyes permIt}
 
-### THE NEAR FUTURE
+***(He/she/it)***** won't permit –** niet permitte {nyet permIt}
 
-For an event that is close to occur, we use the auxiliar vah-. It
-works in the following way: we add to this auxiliary the appropriate
-conjugation of the present and then we put the verb in the infinitive. I am going to
-use the verb “orbat” (to work) in this example.
+***(We)***** won't permit –** niem(o)s permitte {nyEm(o)s permIt}
 
-[]{#anchor-256}***(I)***** am **[]{#anchor-257}**going to work –** vahm
+***(You)***** won't permit –** yu niete permitte {yu nyet permIt}
+
+***(They)***** won't permit –** nient permitte {nyent permIt}
+
+An to make it clear:
+
+permittsiem = siem permitte
+
+\[…\]
+
+niem permitte = ne permittsiem
+
+\[…\]
+
+### []{#anchor-315}THE NEAR FUTURE
+
+For an event that is close to occur, we use the auxiliar vah-. It works
+in the following way: we add to this auxiliary the appropriate
+conjugation of the present and then we put the verb in the infinitive. I
+am going to use the verb “orbat” (to work) in this example.
+
+[]{#anchor-316}***(I)***** am **[]{#anchor-317}**going to work –** vahm
 orbate {va:m orbAt}
 
 ***(You)***** are going to work –** vahs orbate {va:s orbAt}
@@ -3900,8 +4277,8 @@ orbate {va:m orbAt}
 
 ***(They)***** are going to work –** vahnt orbate {vA:nt orbAt}
 
-FUTURE PERFECT
---------------
+[]{#anchor-318}FUTURE PERFECT
+-----------------------------
 
 They are future events, but that already occurred in the mentioned
 facts. Look an example below:
@@ -3909,16 +4286,16 @@ facts. Look an example below:
 **When I return, he will have already left –** Quando reicsiem, is
 habsiet ja likwn
 
-Very similar to english.
+Very similar to English.
 
-SUBJUNCTIVE
------------
+[]{#anchor-319}SUBJUNCTIVE
+--------------------------
 
 It indicates desire or expectancy.
 
 Only the verb “es” has the complete conjugation in this mode.
 
-**Io sia {yo sya} –** []{#anchor-258}*(that I)* be
+**Io sia {yo sya} –** []{#anchor-320}*(that I)* be
 
 **Sias {syas} –** *(that you)* be
 
@@ -3932,25 +4309,25 @@ Only the verb “es” has the complete conjugation in this mode.
 
 All the other verbs only have the singular. The endings are:
 
-**1**^**st**^** **[]{#anchor-259}**person singular:** -a
+**1**^**st**^** **[]{#anchor-321}**person singular:** -a
 
 **2**^**nd**^** person singular:** -as
 
 **3**^**rd**^** person singular:** -a
 
-Per this ending you can make a negative imperative with the
-prohibitive adverb “mae” {may}.
+Per this ending you can make a negative imperative with the prohibitive
+adverb “mae” {may}.
 
 **Mae kaupas {may kAopas} –** “Don’t buy!” or “Thou shalt not buy!
 
-IMPERATIVE
-----------
+[]{#anchor-322}IMPERATIVE
+-------------------------
 
 It indicates an order or an ask.
 
 The conjugation of the main verbs:
 
-**Sdi {sdi} –** []{#anchor-260}be
+**Sdi {sdi} –** []{#anchor-323}be
 
 **Estu {Estu} –** *(he/she/it)* be
 
@@ -3989,14 +4366,14 @@ verb in the infinitive.
 In the 2^nd^ person plural, the form is the same used in the simple
 present, but without the personal pronoun.
 
-**Linkwte {lInkut} –** *(you)* leave !
+**Linkwte {lInkut} –** *(you)* leave
 
-**Eddte {edt} -** []{#anchor-261}(*you)* eat
+**Eddte {edt} -** []{#anchor-324}(*you)* eat
 
-CONDITIONAL
------------
+[]{#anchor-325}CONDITIONAL
+--------------------------
 
-**Esiem {ezyEm} –** []{#anchor-262}*(I)* would be
+**Esiem {ezyEm} –** []{#anchor-326}*(I)* would be
 
 **Esies {ezyEs} –** *(you)* would be
 
@@ -4008,7 +4385,7 @@ CONDITIONAL
 
 **Esient {ezyEnt} –** *(they)* would be
 
-**Habiem {habyEm} –** []{#anchor-263}*(I)* would have
+**Habiem {habyEm} –** []{#anchor-327}*(I)* would have
 
 **Habies {habyEs} –** *(you)* would have
 
@@ -4020,7 +4397,7 @@ CONDITIONAL
 
 **Habient {habyEnt} –** *(they)* would have
 
-**Woidiem {woydyEm} –** []{#anchor-264}*(I)* would know
+**Woidiem {woydyEm} –** []{#anchor-328}*(I)* would know
 
 **Woidies {woydyEs} –** *(you)* would know
 
@@ -4035,7 +4412,7 @@ CONDITIONAL
 This verbal mood is made attaching the verbal stem + “ie” + conjugation
 of the present.
 
-[]{#anchor-265}***(I)***** would eat –** eddiem {edyEm}
+[]{#anchor-329}***(I)***** would eat –** eddiem {edyEm}
 
 ***(You)***** would eat –** eddies {edyEs}
 
@@ -4051,12 +4428,12 @@ There is no problem if the verb ends in -ye:
 
 **Sudye {sUdy(ë)} (to sue) →** sudyiet {sudyEt} (*he/she/it* would sue)
 
-### BUT WHAT ABOUT VERBS THAT ALREADY FINISH WITH “IE”?
+### []{#anchor-330}BUT WHAT ABOUT VERBS THAT ALREADY FINISH WITH “IE”?
 
-Regarding these ones, replace “ie” for “icie”. Let's see the verb “edifie”
-{edIfye}, which means “to edify”.
+Regarding these ones, replace “ie” for “icie”. Let's see the verb
+“edifie” {edIfye}, which means “to edify”.
 
-[]{#anchor-266}***(I)***** would edify –** edificiem {edifitsyEm}
+[]{#anchor-331}***(I)***** would edify –** edificiem {edifitsyEm}
 
 ***(You)***** would edify –** edificies {edifitsyEs}
 
@@ -4068,38 +4445,59 @@ Regarding these ones, replace “ie” for “icie”. Let's see the verb “edi
 
 ***(They)***** would edify –** edificient {edifitsyEnt}
 
-CATEGORIES OF VERBAL STEMS
---------------------------
+[]{#anchor-332}CATEGORIES OF VERBAL STEMS
+-----------------------------------------
 
 Depending of the kind of verb, the stem may suffer changes, all of them
 will be explained in this subchapter. Although I will talk a lot here
 about participles, you don't need worry about them, it's still not
 necessary to know how create them, it's enough to know that they are
-nominal forms of the verb *(like the past passive participle “eaten” that
-comes from the verb “to eat”)*.
+nominal forms of the verb *(like the past passive participle “eaten”
+that comes from the verb “to eat”)*.
 
-### NASAL INFIXES
+### []{#anchor-333}NASAL INFIXES
 
 From here to the final of this subchapter of **NASAL INFIXES**, the text
 will be almost a transcription of the book *The Grammar Of
-Sambahsa-Mundialect In English*, of Dr. Olivier Simon.
+Sambahsa-Mundialect In English*, of Dr. Olivier Simon. But I took many
+informations from the text *“Sambahsa in Six Minutes \#1 : Nasal
+Infixes”* by Robert Winter.
 
-Are verbs with nasal infixes those with the following characteristics:
+Verbs with nasal infixes are those with the following characteristics:
 
--   An unstressed “e” as last vowel and this “e” is between consonants
--   One of these consonants must be “m” or “n”
+-   There is an unstressed “e” as last vowel and this “e”
+-   This “e” is accompanied by the consonant “m” or “n”. Here are the
+    possible configurations:
+
+    \_\_\_\_-en
+
+    \_\_\_\_-en-
+
+    \_\_\_\_-em
+
+    \_\_\_\_-em-
+
+    \_\_\_\_ne-
+
+    \_\_\_\_-ne-
+
+    \_\_\_\_me-
+
+    \_\_\_\_-me-
+
+-   This “e” precedes or follows an infix
 
 Let's work with the following words:
 
 **Linekw {lInëkw} –** to leave
 
-[]{#anchor-267}**Pressem {prEsëm} –** to press
+[]{#anchor-334}**Pressem {prEsëm} –** to press
 
-[]{#anchor-268}**Scinesd {sInësd} –** to split (transitive)
+[]{#anchor-335}**Scinesd {sInësd} –** to split *(transitive verb)*
 
-[]{#anchor-269}**Annem {Anëm} –** to breathe
+[]{#anchor-336}**Annem {Anëm} –** to breathe
 
-[]{#anchor-270}**Pregen {prEdjën} –** to imbue, to impregnate
+[]{#anchor-337}**Pregen {prEdjën} –** to imbue, to impregnate
 
 In the present tense, and in all the tenses derived from the present
 tense, the verbs lose their unstressed “e” when possible. If, with the
@@ -4114,13 +4512,13 @@ Scindo, scinds, scindt, scindmos, yu scindte, scinde(nt)
 
 Annmo, annems, annemt, annmmos, yu annemt, annment
 
-(“annmt” and “annms” would be impronouncable)
+(“annmt” and “annms” would be unpronounceable)
 
 Pregno {prEnyo}, pregens {prEdjëns}, pregent, pregnems {prEnyëms}, yu
 pregent, pregne(nt)
 
 All the verbs, with or without nasal infix, a “e” can be put between the
-verbal stem and the conjugation for the word being pronounceble. Look
+verbal stem and the conjugation for the word being pronounceable. Look
 this case with the verb “storgn”.
 
 Storgno, storgnes, storgnet, storgnems, yu storgnet, storgne(nt)
@@ -4151,10 +4549,10 @@ unstressed “e”, loses the nasal infix.
 
 **Annem – **annim, annist, annit, annam, annat, anneer
 
-### VERBS WITH “EH” + CONSONANT
+### []{#anchor-338}VERBS WITH “EH” + CONSONANT
 
-In verbs with a vowel “eh” followed by a consonant, the “eh” becomes “oh”
-when in the past tense and past participle.
+In verbs with a vowel “eh” *followed by a consonant*, the “eh” becomes
+“oh” when in the past tense and past participle.
 
 **Ghehd –** to be able to, can
 
@@ -4169,7 +4567,7 @@ ghohdeer
 
 **Past participle:** ghohdt / ghohden
 
-### VERBS WITH “EU” AND “EI”
+### []{#anchor-339}VERBS WITH “EU” AND “EI”
 
 Verbs with “eu” or “ei”, within the word, have these parts respectively
 replaced by “i” and “u” when used in the infinitive, past tense or past
@@ -4180,8 +4578,7 @@ participle.
 **Present:** kheisso, tu kheiss, kheisst, kheissmos, yu kheisste,
 kheisse(nt)
 
-“tu” é compulsório antes de “kheiss” porque a terminação não pode ser
-ouvida
+“tu” is compulsory before “kheiss” because its ending cannot be listened
 
 **Infinitive:** khisses {qIsës}
 
@@ -4192,7 +4589,8 @@ khisseer
 
 **Past participle:** khisst / khissen
 
-**Beud –** to appeal to, to make (someone) pay attention (to = dat.), to demand (something)
+**Beud –** to appeal to, to make (someone) pay attention (to = dat.), to
+demand (something)
 
 **Present:** beudo, beuds, beudt, beudmos, yu beudte, beude(nt)
 
@@ -4200,26 +4598,27 @@ khisseer
 
 **Past tense:** io bud, tu bud…
 
-***Or:*** *budim, budst(a) / budist, budit, budam, budat, budeer*
+**Or:** budim, budst(a) / budist, budit, budam, budat, budeer
 
 **Past participle:** budt / buden
 
 **Credeih –** to believe
 
-**Present:** credeihm, credeihs, credeiht, credeihm(o)s, yu credeihte, credeihnt
+**Present:** credeihm, credeihs, credeiht, credeihm(o)s, yu credeihte,
+credeihnt
 
 **Infinitive:** credihes {krëdI:s}
 
 **Past tense:** io credih, tu credih…
 
-***Or:*** *credihsim, credihst(a), credihsit, credihsam, credihsat, credihr*
+**Or:** credihsim, credihst(a), credihsit, credihsam, credihsat, credihr
 
 **Past participle:** crediht / credihn
 
-### VERBS WITH “A”
+### []{#anchor-340}VERBS WITH “A”
 
 Verbs with “a” within the word, even the diphthongs “au” or “ay”, have
-their “a” replaced for “ie” in the past tense, but the “a” is maintened
+their “a” replaced for “ie” in the past tense, but the “a” is maintained
 in the past participle.
 
 **nak –** to reach
@@ -4263,26 +4662,23 @@ sieygeer
 
 **Past participle:** aurt / aur(e)n
 
-### THE VON WAHL RULES
+### []{#anchor-341}THE VON WAHL RULES
 
 The ending of these verbs are modified in the past tense and past
 participle:
 
-**Original –** after modification
+  ----------------- --------------------
+  Original          After modification
+  -d                -s
+  -dd / -tt         -ss
+  -rt / -rr / -rg   -rs
+  -lg               -ls
+  -ct               -x
+  ----------------- --------------------
 
-**-d –** -s
-
-**-dd / -tt –** ss
-
-**-rt / -rr / -rg –** -rs
-
-**-lg –** ls
-
-**-ct –** -x
-
-Verbs ending in -v follow the same procediment of -t, but only for
-their past participle. If the -v comes after "o" or "u", it falls, otherwise it will
-be replaced for -w.
+Verbs ending in -v follow the same procedure of -t, but only for their
+past participle. If the -v comes after “o” or “u”, it falls, otherwise
+it will be replaced for -w.
 
 **Solv –** solwt
 
@@ -4291,7 +4687,6 @@ be replaced for -w.
 In other forms the -v disappears.
 
 **mov – **mot
-
 
 **Clud –** to close
 
@@ -4355,7 +4750,7 @@ permissat, permisseer
 
 **Past participle:** curs / curren
 
-### ENDING WITH A STRESSED VOWEL
+### []{#anchor-342}ENDING WITH A STRESSED VOWEL
 
 Verbs ending with a stressed vowel, or with a -h just after the vowel,
 follow the pattern below:
@@ -4371,7 +4766,7 @@ gwahr
 
 **Past participle:** gwaht / gwahn
 
-### THE OTHER VERBS
+### []{#anchor-343}THE OTHER VERBS
 
 They follow the rules normally and request the conjugation in the past
 tense.
@@ -4385,24 +4780,27 @@ tense.
 **Past tense:** duxim, ducst(a)/duxist, duxit, duxam, duxat, duxeer
 
 You may say “ducim”, “ducit”… too. “duxim” was chosen here for
-etimological reasons, because latin have dux- as the past of duc-.
+etimological reasons, because Latin have dux- as the past of duc-.
 
-**Past participle: **[]{#anchor-271}duct / ducen
+**Past participle: **[]{#anchor-344}duct / ducen
 
 The accentuation must stay in the same syllable for all persons in the
 present tense.
 
-In all the verbal moods, with exception of the nasal inffixes, the
-unstressed “e” between two consonants, when this range is at the end of the word,
-can be dropped if the junction of these two consonants doesn't change
-the pronounciation of the first consonant.
+In all the verbal moods, with exception of the nasal infixes, the
+unstressed “e” between two consonants, when this range is at the end of
+the word, can be dropped if the junction of these two consonants doesn't
+change the pronunciation of the first consonant.
 
-VERBAL AFFIXES
---------------
+[]{#anchor-345}VERBAL AFFIXES
+-----------------------------
 
-In the examples below I will use words in the gerund and I will make use of reflexive pronouns, don't worry about them, only focus in the verbal affixe and how they change the verbs. Later I will talk about gerund and reflexive pronouns.
+In the examples below I will use words in the gerund and I will make use
+of reflexive pronouns, don't worry about them, only focus in the verbal
+affix and how they change the verbs. Later I will talk about gerund and
+reflexive pronouns.
 
-**bi- –** to begin to *(*[]{#anchor-272}*inchoative)*
+**bi- –** to begin to *(*[]{#anchor-346}*inchoative)*
 
 **Id luce biattract insects –** The light begins to attract insects
 
@@ -4410,7 +4808,7 @@ In the examples below I will use words in the gerund and I will make use of refl
 
 **Is nieudh urgent-ye namove –** He needed urgently to keep moving
 
-**re- –** *as the re- of english*
+**re- –** *as the re- of English*
 
 **Ho tohrben rescribe mien buk –** I have had to rewrite my book
 
@@ -4423,14 +4821,19 @@ In the examples below I will use words in the gerund and I will make use of refl
 **Ibs sclavs buit permitten za-ermes –** The slaves were allowed to stop
 rowing
 
-### AFFIXES THAT CHANGE THE TENSE OF THE VERB
+### []{#anchor-347}AFFIXES THAT CHANGE THE TENSE OF THE VERB
 
 **ee- –** used to
 
 **Hermann ee(-)gwaht id scol siens urb –** Hermann used to go to the
 school of his town
 
-Notice that the verb “gwaht” is in the present tense
+**Ia ee(-)lyeict flors ep id tumbh sienias mater –** She used to lay
+down flowers on her mother's grave
+
+**Io eeorbato cer –** I used to work there
+
+*Notice that the verbs are in the present tense*
 
 **sa(l)- –** to be about to *+ verb* *(always written with hyphen)*
 
@@ -4455,18 +4858,18 @@ and “vergeih” are two examples.
 This affix can be added to adjectives. “rudh” means “red”, “rudheih”
 means “make (something) red”.
 
-SOME LITERARY VERBAL FORMS
---------------------------
+[]{#anchor-348}SOME LITERARY VERBAL FORMS
+-----------------------------------------
 
-Due its indo-european heritage, sambahsa has some verbal forms that are
+Due its Indo-European heritage, Sambahsa has some verbal forms that are
 found only in the literary use.
 
-### OPTIONAL ENDINGS OF THE PRESENT OF THE INDICATIVE
+### []{#anchor-349}OPTIONAL ENDINGS OF THE PRESENT OF THE INDICATIVE
 
 If it is compatible with the accentuation, the verbs can receive the
 following terminations:
 
-**1**^**st**^** **[]{#anchor-273}**person singular:** -mi
+**1**^**st**^** **[]{#anchor-350}**person singular:** -mi
 
 **2**^**nd**^** person singular:** -si
 
@@ -4476,18 +4879,16 @@ following terminations:
 
 **The verb “ses”:** esmi, essi, esti, sonti
 
-The verb must be in the initial position of the sentence and this
-sentence must not contain adverb, even a negation! This verbal formation
-only must describe the events that actually occurs, no for general
-statements. These consitions are rarely fulfilled.
+This verbal formation only must describe the events that actually
+occurs, no for general statements.
 
-[]{#anchor-274}[]{#anchor-275}**Stahnti medsu iens peinds –** here they
+[]{#anchor-351}[]{#anchor-352}**Stahnti medsu iens peinds –** here they
 stand amidst the enemies
 
 **Acquiseihmi denars kay likes videogames –** I gain money for playing
-videogames
+video-games
 
-### OLD FORMS OF THE IMPERATIVE
+### []{#anchor-353}OLD FORMS OF THE IMPERATIVE
 
 In the 2^nd^ person singular of the imperative, an option may be the use
 of the suffix -di to the stem of the verb. Don't forget in changing “eu”
@@ -4497,10 +4898,10 @@ and “ei” for respectively “u” and “i” and observe the nasal infix.
 
 **Ihdi! –** go! *instead* “eih(e)!”
 
-An imperative in the 3^rd^ persons is possible by suffixing the -u to the
-conjugated verb, if it doesn't change the accentuation.
+An imperative in the 3^rd^ persons is possible by suffixing the -u to
+the conjugated verb, if it doesn't change the accentuation.
 
-**Is maurdher nehct –** the murderer perishs
+**Is maurdher nehct –** the murderer perishes
 
 **Is maurdher nehctu! –** let the murderer perish!
 
@@ -4514,17 +4915,17 @@ subject in the sentence:
 
 **Gwive is roy! –** long live the king!
 
-### PARTICIPLE IN THE FUTURE
+### []{#anchor-354}PARTICIPLE IN THE FUTURE
 
-To make the participle, it's used the sintetic form of the future plus
+To make the participle, it's used the synthetic form of the future plus
 the ending -nd.
 
-**gwehmsie + nd = **[]{#anchor-276}**gwehmsiend –** []{#anchor-277}*what
+**gwehmsie + nd = **[]{#anchor-355}**gwehmsiend –** []{#anchor-356}*what
 or who* will be coming
 
 The near future is marked with the ending “tur”, for making it:
 
--   Add -ur to the verbs in the participle that follow the Von Wahl rules,
+-   Add -ur to the verbs in participle that follow the Von Wahl rules,
     or those ones that end with “v”.
 
 **Cedd –** cessur (going to yield)
@@ -4537,7 +4938,16 @@ The near future is marked with the ending “tur”, for making it:
 
 The active future of the verb “ses” is “butur”.
 
-### THE OLD FORMATIONS OF THE INFINITIVE
+**Dat tod strehl khact esus xuden in vain, Ashvatthâman diswehrt kyi
+embryos qui ias esors iom Pândavas behrnt we behrsient in ir gwelbhs,
+quibs is addeiht iom gnahtur napter Arjunas –** As this shaft cannot
+have been smitten in vain, Ashvatthâman diverts it towards the embryos
+that the wives of the Pândavas are bearing or will bear in their wombs,
+to whom he adds Arjuna's grandson yet to be born
+
+“gnahtur” comes from “gnah”.
+
+### []{#anchor-357}THE OLD FORMATIONS OF THE INFINITIVE
 
 Formations of the old infinitive are possible in two ways: following the
 same base of the active future seen before (the use of the passive
@@ -4564,11 +4974,11 @@ It appears often after qualitative adjectives.
 **Un garden amat spehctu –** A garden *(that is)* pleasant to be looked
 at
 
-Sometimes it appears as a ajective of obligation.
+Sometimes it appears as a adjective of obligation.
 
 **Ia kwehrtu opsa** – the tasks to be done
 
-### THE DURATIVE
+### []{#anchor-358}THE DURATIVE
 
 The durative suffix -neu corresponds to actions that started in the past
 and continues until the present, it includes situations where normally
@@ -4579,28 +4989,43 @@ minutes
 
 The past tense is made with ee-.
 
+**Eestahneum her pon trigim minutes –** I had been standing there for 30
+minutes
+
 **Eeghangneut apter iom pon Orleans –** he had been walking behind him
 since Orleans
 
-### THE EVENTIVE
+### []{#anchor-359}THE EVENTIVE
 
 It means “not to stop doing”, it consists in repeat the fist consonant
 (or sC, Cw, Cy or Cv) before the stem with the addiction of i- or ei-.
 The imperfect tense is made with ee-.
 
-**Dehm *****(to tame/to put upright)***** –** didehm *(to tame/to put upright *without stoping*)*
+**Gainsbourg eedideumt ed vimohr ob cancer –** Gainsbourg didn't stop /
+was always smoking and finally died of cancer
 
-### THE INTENSIVE
+“eedideumt” comes from “deum”
+
+**Is giglect iam nieberin –** He doesn't stop ogling the female
+neighbour
+
+*“giglect” comes from “gleg”*
+
+### []{#anchor-360}THE INTENSIVE
 
 It means “to do little by little”. It consists in the duplication od the
-stem (with the deletion of clusives in the middle). Rarely used. The
+stem (with the deletion of occlusives in the middle). Rarely used. The
 imperfect tense is made with ee-.
 
-**Wehrt →** wehrwehrt
+**Is leisleist “Alice in Daumsenland” aun eucus Sambahsa lakin speht is
+visagvsiet tod bahsa –** He is reading little by little "Alice in
+Daumsenland" without having learnt Sambahsa and hopes however he will
+finally know (how to speak) this language
 
-### THE ITERATIVE
+### []{#anchor-361}THE ITERATIVE
 
-It means “to start to keep on doing”. There is apofonies to be observed:
+It means “to start to keep on doing”. There is apophonies to be
+observed:
 
 **eh:** oh
 
@@ -4610,31 +5035,50 @@ It means “to start to keep on doing”. There is apofonies to be observed:
 
 You use the suffix -ye. The imperfect tense is made with ee-.
 
-[]{#anchor-278}**Kwehr- sien itner –** to make one's way
+**Quan is eewehght ex Paris do Varschava, is eestopt in Nürnberg dind
+eekwohryet sien itner tiel Polska –** When he used to drive from Paris
+to Warsaw, he would stop at Nuremberg and then continue his journey up
+to Poland
+
+[]{#anchor-362}**Kwehr- sien itner –** to make one's way
 
 **Kwohrye- sien itner –** *it indicates that the action was stopped for
-a time (for example: for the agent to rest) and it continues this action
-later. It wouldn't be like in “rekwehr- sien itner”, which indicates
-that all the action is being remade.*
+a time *(for example: for the agent get a rest)* and it continues this
+action later. It wouldn't be like in “rekwehr- sien itner”, which
+indicates that all the action is being remade.*
 
-### THE PERFECT
+**Pos neicus el moskitt, lyohgyim –** After having killed the mosquito,
+I lay back on my bed
+
+“lyohgyim” comes from “lyehg”
+
+### []{#anchor-363}THE PERFECT
 
 It represents an action made in the past whose effects or consequences
-still have an influence in the present. It's made preffixing the first
+still have an influence in the present. It's made prefixing the first
 letter of the stem followed by the “e” and then the verb conjugated in
 the past.
 
-[]{#anchor-279}**Lelikwst id vetus wastu –** thou hast left the olde
-city []{#anchor-280}*(“lelikwst” comes from the verb “linekw”)*
+[]{#anchor-364}**Lelikwst id vetus wastu –** thou hast left the old city
+[]{#anchor-365}*(“lelikwst” comes from the verb “linekw”)*
 
-MORE ABOUT THE USE OF THE DECLINATIONS
-======================================
+**Ia lelyigit flors ep id tumbh sienias mater –** She has been laying
+down flowers on her mother's grave *(she does it until today, it’s a
+tradition now)*
+
+It's very similar to the Present Perfect, the difference is that the
+Perfect reinforces the idea that the consequences of the actions are
+still there. This verbal form is very literal and can't work with all
+the verbs.
+
+[]{#anchor-366}MORE ABOUT THE USE OF THE DECLENSIONS
+====================================================
 
 As you already know the verbs, I feel more comfortable to teach you more
-about the declinations.
+about the declensions.
 
-ACCUSATIVE
-----------
+[]{#anchor-367}ACCUSATIVE
+-------------------------
 
 It’s very easy, some examples:
 
@@ -4646,20 +5090,22 @@ biliubht alyu gwen
 **biliubht =** bi (verbal affix that means “to begin to”) + liubht
 (participle in the past)
 
-DATIVE
-------
+[]{#anchor-368}DATIVE
+---------------------
 
-**Manoel gives honey to the bears –** Manoel daht mielt im urxims\
-**I’ve bought a present to my wife –** ho kaupen un hadia mieni esori\
+**Manoel gives honey to the bears –** Manoel daht mielt im urxims
+
+**I’ve bought a present to my wife –** ho kaupen un hadia mieni esori
+
 **I make furnitures for the houses –** kwehro meublar ibs domims
 
-ADVERBS
-=======
+[]{#anchor-369}ADVERBS
+======================
 
-Adverbs are words that qualifies verbs and adjectives, like in “traveled quietly” and
-“ate a lot”, where the verbs “traveled” and “ate” are qualified by the
-adverbs “quietly” and “a lot”. For making a adverb you have to add the
-suffix -ye (with hyphen!!!). Look some examples:
+Adverbs are words that qualifies verbs and adjectives, like in “traveled
+quietly” and “ate a lot”, where the verbs “traveled” and “ate” are
+qualified by the adverbs “quietly” and “a lot”. For making a adverb you
+have to add the suffix -ye (with hyphen!!!). Look some examples:
 
 **End –** end, final
 
@@ -4669,8 +5115,9 @@ suffix -ye (with hyphen!!!). Look some examples:
 
 **Enpace-ye –** peacefully
 
-It’s can be said that the -ye is like the -ly of english. But, as in english, not all adverbs ends with the same termination, because
-some words are adverbs by itselves, look some examples:
+It’s can be said that the -ye is like the -ly of English. But, as in
+English, not all adverbs ends with the same termination, because some
+words are adverbs by themselves, look some examples:
 
 **Tik –** only
 
@@ -4698,7 +5145,7 @@ some words are adverbs by itselves, look some examples:
 
 **(Ya)schi {(yA)ci} –** too
 
-Adverbs also can be made by adding the preffix a- to substantives.
+Adverbs also can be made by adding the prefix a- to substantives.
 
 **Part –** part
 
@@ -4710,8 +5157,8 @@ Adverbs also can be made by adding the preffix a- to substantives.
 
 Adverbs of quality like “baygh” and “pior” may behave like adjectives
 when they refer to a substantive, they may have (it’s not compulsory) a
-declesional final, but as an adverb (with the possible adjunction of the
--ye) when they refer to an attributive adjective.
+declensional final, but as an adverb (with the possible adjunction of
+the -ye) when they refer to an attributive adjective.
 
 **Piora kowpic chifans sont vierdnic pro sieune –** too many copious
 meals are harmful for health
@@ -4719,11 +5166,11 @@ meals are harmful for health
 **Pior-ye kowpic chifans sont vierdnic pro sieune –** too much copious
 meals are harmful for health
 
-GERUND
-======
+[]{#anchor-370}GERUND
+=====================
 
 In order to make the gerund, it’s used the active participle plus the
-suffix -ye (with hyphen!). It’s very simple, but english speakers must
+suffix -ye (with hyphen!). It’s very simple, but English speakers must
 pay a bit of attention here, because you already saw that the sentence
 “I am eating” is translated as “som eddend”, but no “som eddend-ye”!
 With the verb “ses”, you only use the active participle in the present,
@@ -4742,8 +5189,8 @@ If it facilitates the understanding: the two examples above may be
 translated like “he ate the cake *while* he looked at me” and “they died
 *while* they are working”.
 
-REFLEXIVE PRONOUNS AND THE POSSESSIVE PRONOUN “SIEN”
-====================================================
+[]{#anchor-371}REFLEXIVE PRONOUNS AND THE POSSESSIVE PRONOUN “SIEN”
+===================================================================
 
 The pronouns are: “se” (accusative), “sib” (dative) and “sien”
 (possessive pronoun).
@@ -4769,13 +5216,13 @@ The “self” is translated as -swo, look:
 **Gnohdi teswo –** Know thyself
 
 Ah, it’s opportune to say that “each other” is translated to “mutu” in
-sambahsa.
+Sambahsa.
 
 **Martin ed eyso prient tolke con mutu in Sambahsa –** Martin and his
-friend talk to each other in sambahsa
+friend talk to each other in Sambahsa
 
-**RELATIVE PRONOUN AND INTEGRANT CONJUNCTION**
-==============================================
+[]{#anchor-372}RELATIVE PRONOUN AND SUBORDINATING CONJUNCTION
+=============================================================
 
 Look the sentences below, look at the use of the word “that”:
 
@@ -4793,11 +5240,11 @@ The “that”s of the sentences (1) and (2) are relative pronouns, because
 they are related to some substantive used before, in the case of the
 sentence (1) it's “horse” and in the sentence (2) it's “daughter”.
 
-The “that”s of the sentences (3) and (4) are integrant conjunctions,
+The “that”s of the sentences (3) and (4) are subordinating conjunctions,
 because they start a new sentence.
 
 Perhaps you already know the relative pronouns, because they are in that
-list of cases of declination, only pay attention about what case to use,
+list of cases of declension, only pay attention about what case to use,
 because the “that” of the sentence (1) is a direct object (of the verb
 “bought”) while the “that” of the sentence (2) is a subject.
 
@@ -4807,7 +5254,7 @@ kieupim
 **I had a daughter *****that***** wanted to be singer –** hiebim un
 dugter *qua* iskwit ses sehngver
 
-The integrant conjuction is often translated as “od”.
+The subordinating conjunction is often translated as “od”.
 
 **I’ve said *****that***** I don’t like coffee –** Ho saygen *od* ne
 kamo cofie
@@ -4816,14 +5263,15 @@ kamo cofie
 Africa
 
 As sometimes only a conjunction is not clear enough to indicate whether
-what was said is a desire or a claim, there is also the integrant
+what was said is a desire or a claim, there is also the subordinating
 conjunction “ke” (or “kem”), which express a desire and may be used in
 the place of “od”.
 
-**I desire that he learns sambahsa –** vanscho kem is euct Sambahsa
+**I desire that he learns Sambahsa –** vanscho kem is euct Sambahsa
 
-**That our team win the enemy team and become the european soccer champion
-–** Ke nies swoin vinct id peindswoin ed biht Europes football champion
+**That our team win the enemy team and become the european soccer
+champion –** Ke nies swoin vinct id peindswoin ed biht Europes football
+champion
 
 **Let’s fake that the glass have become so soft as gauze to we can go
 the on the other side –** smad simule kem id glas hat biht tem moll quem
@@ -4831,8 +5279,8 @@ kaz kay ghehdiemos lites ocolo
 
 **I ask you to leave –** te prehgo ke linkws
 
-THE RELATIVE PRONOUNS “YO(S)”, “YA” AND “YOD”
----------------------------------------------
+[]{#anchor-373}THE RELATIVE PRONOUNS “YO(S)”, “YA” AND “YOD”
+------------------------------------------------------------
 
 I thought a lot if I really should bring this subject here, because, as
 you’ll see, maybe you will never use them, but as this is a *complete*
@@ -4850,27 +5298,29 @@ The relative pronouns yo(s)/ya/yod are to make independent sentences,
 how? Look the example below:
 
 **Latif, gwivt-yo in Afghanistan, baht Sambahsa –** Latif, who lives in
-Afghanistan, speaks sambahsa
+Afghanistan, speaks Sambahsa
 
-*They actually are 
-s, you'll know more about them in a appropriate chapter, it's enough to know that they must be suffixed – with hyphen – just after the verb.*
+They actually are enclitics, you'll know more about them in a
+appropriate chapter, it's enough to know that they must be suffixed –
+with hyphen – just after the verb.
 
 Notice that even we remove the “gwivt-yo in Afghanistan” (“who lives in
 Afghanistan”), the sentence wouldn’t lose its meaning, once “Latif baht
 Sambahsa” still pass the same message? We can understand the relative
 pronouns yo(s)/ya/yod insert an information merely additional that –
-gramatically speaking – can be omitted.
+grammatically speaking – can be omitted.
 
 Now let’s see an example that the relative pronouns yo(s)/ya/yod
 wouldn’t be useful.
 
 **Id bahsa, quod Latif baht, est Sambahsa –** the language, which Latif
-speaks, is sambahsa
+speaks, is Sambahsa
 
 If we remove the “quod Latif baht” (“which Latif speaks”), the sentence
 would lose its original meaning.
 
-You would question me: “but I could use a lot these relative pronouns that you say be rarely used, because I make a lot of sentences where
+You would question me: “but I could use a lot these relative pronouns
+that you say be rarely used, because I make a lot of sentences where
 they fit”.
 
 But the detail is that you could use the pronouns qui/qua/quod in the
@@ -4880,8 +5330,8 @@ qui gwivt in Afghanistan, baht Sambahsa”
 The only reason to use the relative pronouns yo(s)/ya/yod would be for
 literary proposals.
 
-QUESTIONS
-=========
+[]{#anchor-374}QUESTIONS
+========================
 
 There are diverse ways for making a question, the first one is adding
 the word “kwe” {kwe} at the beginning of the sentence.
@@ -4913,16 +5363,22 @@ Notice that is necessary the use of the pronoun.
 Notice that is necessary the use of the “ter”.
 
 Questions with “what”, “who”, “when” and other similar pronouns, you can
-make a question in the same way you do in english.
+make a question in the same way you do in English.
 
 **Quis ste yu? –** who are you? *(question made for a male person)*
 
 **Quando safersies –** when you travel?
 
-NEGATION
-========
+[]{#anchor-375}NEGATION
+=======================
 
-In order to answer a question in a negative way, you can simply say “no”.
+In order to answer a question in a negative way, you can simply say
+“no”.
+
+**Gwivte yu in France? –** Do you live in France?
+
+**No, ne gwivo in France, weiko in Brasilu –** no, I don’t live in
+France, I live in Brazil
 
 To create a negative verb, it’s enough to put the “ne” before the verb.
 
@@ -4947,8 +5403,8 @@ We may not forget the verb “I am not able to” that is “khako” {qAko}.
 
 “Khak” is the antonymous of “ghehd”.
 
-ABOUT THE USE OF THE “SI”
--------------------------
+[]{#anchor-376}ABOUT THE USE OF THE “SI”
+----------------------------------------
 
 In order to have not doubts regarding the use of the “si”, which means
 “yes” and is used to answer negative questions. Observe the following
@@ -4958,18 +5414,19 @@ situation:
 
 Si
 
-The “si” doesn’t confirm the thought of who asks, in other words.
+Notice that “si” doesn’t confirm the thought of who asks, in other
+words.
 
 **Ne has tu purts? –** don’t you have children?
 
 **Si, ho purts –** yes, I have children
 
-AVOIDING REPETITIONS
-====================
+[]{#anchor-377}AVOIDING REPETITIONS
+===================================
 
-In a conversation, may occur the necessity of refering to a substantive already used just
-before, to avoid the repetition of words, sambahsa offers basically the
-same resources as english. Look the examples:
+In a conversation, may occur the necessity of referring to a substantive
+already used just before, to avoid the repetition of words, Sambahsa
+offers basically the same resources as English. Look the examples:
 
 If you like tea, I can give you *some*
 
@@ -4986,7 +5443,7 @@ Plais, schehnk mi *uno*!
 A course of faculty is composed by diverse subjects, and *each one* has
 a certain quantity of hours
 
-**U**n facultat curs est composen ab/med multa matiers, ed *ielg* hat un
+Un facultat curs est composen ab/med multa matiers, ed *ielg* hat un
 certain quantitat om hors
 
 Take your book and pass *mine*
@@ -5008,16 +5465,16 @@ My little fish is like of the neighbor*’s one* before die
 
 Mien lytil pisk est lik *tal* ios nieber pre mehre
 
-Here the complete sentence: Mien lytil pisk est lik al pisk ios
-nieber pre mehre
+Here the complete sentence: Mien lytil pisk est lik al pisk ios nieber
+pre mehre
 
-PARTICIPLES
-===========
+[]{#anchor-378}PARTICIPLES
+==========================
 
 Participles are the nominal form of the verb.
 
-ACTIVE PRESENT
---------------
+[]{#anchor-379}ACTIVE PRESENT
+-----------------------------
 
 For forming the active participle of the present, it’s enough to add the
 suffix -(e)nd *(-(e)nt is possible too, but rarely used because it can
@@ -5040,12 +5497,12 @@ In theory, the participles can be used as substantives, but actually it
 never occurs, what happens is the use of endings like -(e)nt and -(a)nt,
 like in “president”, “studyent” and “immigrant”.
 
-ACTIVE PAST
------------
+[]{#anchor-380}ACTIVE PAST
+--------------------------
 
 For forming the active participle of the past, it’s enough to add the
 suffix -us or -vs *(it’ll depend of what gives the better pronunciation
-to the word and of its accentuational patterns)*.
+to the word and of its accentuation patterns)*.
 
 **Dank spollay ob gwehmus hetro –** thank you very much for coming here
 
@@ -5057,10 +5514,10 @@ to the word and of its accentuational patterns)*.
 
 **Woid –** woidus
 
-PASSIVE PRESENT
----------------
+[]{#anchor-381}PASSIVE PRESENT
+------------------------------
 
-From the passive participles, sambahsa uses only the past, but it’s
+From the passive participles, Sambahsa uses only the past, but it’s
 possible to use the passive present in composed words. The suffix is
 -men with the stem of the verb in the present.
 
@@ -5068,8 +5525,8 @@ possible to use the passive present in composed words. The suffix is
 
 **Almen –** pupil
 
-PASSIVE PAST
-------------
+[]{#anchor-382}PASSIVE PAST
+---------------------------
 
 For forming the passive participle, it’s enough to add the suffix -t or
 -(e)n. I judge this participle the most interesting and you understand
@@ -5081,10 +5538,10 @@ why.
 
 **Woid –** wois / woiden *(known)*
 
-### OTHER WAY OF EXPRESSING THE PAST TENSE, THE PRESENT PERFECT
+### []{#anchor-383}OTHER WAY OF EXPRESSING THE PAST TENSE, THE PRESENT PERFECT
 
-It’s the same as in english but sambahsa tenses can refer to actions that don't 
-last anymore, even if they still have consequences.
+It’s the same as in English but Sambahsa tenses can refer to actions
+that don't last anymore, even if they still have consequences.
 
 **Ho edden –** I’ve eaten
 
@@ -5096,7 +5553,7 @@ last anymore, even if they still have consequences.
 
 **Habte yu kaupen? / –** have you bought?
 
-### A WAY OF MAKING ADJECTIVES WITH VERBS
+### []{#anchor-384}A WAY OF MAKING ADJECTIVES WITH VERBS
 
 Let’s use the following verbs and substantives in the examples:
 
@@ -5124,56 +5581,58 @@ Now let’s see the application of the participles:
 **Un calive covohrno med un tenu sneigvlyegher –** A cabin covered with
 a thin snow-layer
 
-CONJUNCTIONS AND OTHER INVARIABLE WORDS
-=======================================
+[]{#anchor-385}CONJUNCTIONS AND OTHER INVARIABLE WORDS
+======================================================
 
-Both in this chapter an in the next one, the chapter about the prepositions, I’ll work in the following way: I’ll show some direct
+Both in this chapter an in the next one, the chapter about the
+prepositions, I’ll work in the following way: I’ll show some direct
 translations of the words, but in the examples I may represent these
-invariable Sambahsa words per words or expressions of the english
+invariable Sambahsa words from per words or expressions of the English
 language that I didn’t show in the direct translation. How? I’ll talk
-about the invariable word “schowi”, which is translated as “therefore, consequently”,
-but in the examples I did not exactly use this translation! I did it
-deliberately with the goal of showing you that you have to learn the
-idea behind the words, not merely their direct translations!
+about the invariable word “schowi”, which is translated as “therefore,
+consequently”, but in the examples I did not []{#anchor-386}exactly use
+this translation! I did it deliberately with the goal of showing you
+that you have to learn the idea behind the words, not merely their
+direct translations!
 
-Don’t be afraid with the size of this chapter, I only aimed to put all
-the invariable words here, in order to this grammar be a good
-reference material.
+Don’t be afraid with the size of this chapter, I only aimed to put *all*
+the invariable words here, in order to this grammar be a good reference
+material.
 
 **Aiw(o) {Äw(o)} –** ever
 
-**Ays kays eet id bellst quod is hieb aiwo vis –** Her hair was the most 
-beautiful he had ever seen.
+**Ays kays eet id bellst quod is hieb aiwo vis –** her hair was the most
+beautiful he had ever seen
 
-**Est stragn od tod ilaj aiw hieb esen usen –** It's strange that this 
-medical treatment has ever been used.
+**Est stragn od tod ilaj aiw hieb esen usen –** it's strange that this
+(medical) treatment has ever been used
 
-*As substantive, “aiwo” means “age”, i.e. “period of time, History”, like in “Petraiwo”, which means “Stone Age”.*
+As substantive, “aiwo” means “age”, i.e. “period of time, History”, like
+in “Petraiwo”, which means “Stone Age”.
 
 **Id memorandum comprindt oino iom meist exhaustive playcts aiwo signen
-ab bo lands, markend uno major wehnd in ira relations –**
-[]{#anchor-281}The memorandum comprises one of the most exhaustive 
-agreements ever signed by both countries, highlighting a major turning
-point in their relations.
+ab bo lands, markend uno major wehnd in ira relations –** the memorandum
+comprises one of the most exhaustive agreements ever signed by both
+countries, highlighting a major turning point in their relations
 
-**Id khakst film aiwo –** The worst movie ever.
+**Id khakst film aiwo –** the worst movie ever
 
-**Agar {agAr} –** in case that
+**Agar {agAr} –** if, in case
 
 **In 2005, id Chinese Parlament hat widen un "anti-secession" leg
-autorisend silahneud agar Taywan declariet sien independence –** In
+autorisend silahneud agar Taywan declariet sien independence –** in
 2005, the Chinese Parliament passed an "anti-secession" act which
 authorizes the use of force in case that Taiwan would declare its
 independence
 
-**Albatt(a) {albAt(a)} – **certainly, indeed
+**Albatt(a) {albAt(a)} –** certainly, indeed
 
-**Albatt sambahsa ne est id meist facil bahsa –** Certainly, Sambahsa
-is not the easiest language.
+**Albatt Sambahsa ne est id meist facil bahsa –** certainly, Sambahsa is
+not the easiest language
 
 **Als {als} –** otherwise, else
 
-**Kwe semanghen als volt anon? –** Does someone else want some food ?
+**Kwe semanghen als volt anon? –** does someone else want some food?
 
 **Also {Also} –** also, so
 
@@ -5189,279 +5648,302 @@ closer at each face
 suddenly thought about stopping up his nose; also, he wasn't caught by
 sneezings
 
-**Amalan {amalAn} –** practically, virtually
+**Amalan {amalAn} –** practically
 
-**Ti bell animals sont amalan extinct –** These beautiful animals are 
-practically extinct. 
+**Ti bell animals sont amalan extinct –** these beautiful animals are
 
-**An {an} –** whether, if, that (introducing an interrogation, a doubt)
+practically extinct.
 
-***Ne woidim an poitto drehnke hoyd –** I don't know if I have the right 
-to drink alcohol today. 
+**An {an} –** whether, if, that* (introducing an interrogation, a
+doubt)*
 
-***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** She went 
-off to see if her car had left the reparation service. 
+***Ne woidim an poitto drehnke hoyd –** I don't know if I have the right
+to drink (alcohol) today. *
 
-***Daumo an i insects tant kame plukes ambh kiers –** I wonder whether insects
-so much like to fly around candles.
+***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** She
+went off to see if her car had left the reparation service*
+
+***Daumo an i insects tant kame plukes ambh kiers –** I wonder whether
+insects so much like to fly around candles*
 
 **Anter {Antër} –** rather
 
-**Sieycst “torche”, bet kad eiskws sayge anter “torte” –** You said "torche", but
-perhaps that you rather mean "cake". 
+**Sieycst “torche”, bet kad eiskws sayge anter “torte” –** you said
+“torche”, bet perhaps that you rather mean “cake”
 
-**Api {Api} –** but, now (to introduce a counter-argument)
+**Api {Api} –** but, now *(to introduce a counter-argument)*
 
 **Est saygen od pisks ne maghe ses daht im leuds, i dehlge bihe bedarst
-ad piskes, api leuds ne hant access ei fluv –** It is said that fish(es) cannot
-be given to people, they must be taught how to fish, but people don't have any
-access to the river. 
+ad piskes, api leuds ne hant access ei fluv –** it is said that fish(es)
+cannot be given to people, they must be taught how to fish, but people
+don't have any access to the river
 
 **Gulf lands eiskwnt conserve ir teutisk ed religieus traditions. Api,
 id interpretation ios Coran ed ia reuls in gwis ios scharia
-inferioreihnt gwens dia wirs –** The Gulf countries want to keep their tribal 
-and religious traditions. Now, the interpretation of the Coran and the rules
-in force of the Sharia make women inferior towards men. 
+inferioreihnt gwens dia wirs –** the Gulf countries want to keep their
+tribal and religious traditions. Now, the interpretation of the Coran
+and the rules in force of the Sharia make women inferior towards men
 
-**Aproposs {apropOs} –** By the way, a propos
+**Aproposs {apropOs} –** by the way, a propos
 
-**Dank ob aurdhnes id meja. Aproposs, kwohrst tien almentask? –**
-Thanks for putting the table in order. By the way, did you do your (school)
-homework ? 
+**Dank ob aurdhens id meja. Aproposs, kwohrst tien almentask? –** thanks
+for putting the table in order. By the way, did you do your (school)
+homework?
 
 **Som un serieus christian ed, aproposs, som gai. Sem leuds pohnd
-difficil ghabe to –** I'm a serious Christian and, by the way, I'm gay. Some
-people found this difficult to understand.
+difficil ghabe to –** I'm a serious Christian and, by the way, I'm gay.
+Some people found this difficult to understand
 
 **Ar {ar} –** for *(used when “ghi” is not convenient)*
 
 **Kartvelia est ayt un perodhkala os Occident ar, pos dwo secules os
-russiano militaro presence, Moskva hat dohlgen evacue in 2005 sien
+Russiano militaro presence, Moskva hat dohlgen evacue in 2005 sien
 sensta militar bases –** Georgia (the Caucasian country) is considered
 an advanced bastion of the West for, after two centuries of Russian
 military presence, Moscow had to evacuate in 2005 its last military
 bases
 
-Notice that the use of “ghi” would not be practical because
-of the long complement “pos dwo secules os Russiano militaro presence”
+Notice that the use of “ghi” would not be practical because of the long
+complement “pos dwo secules os Russiano militaro presence”
 
 **Arasih {arazI:} –** accidentally
 
-**Arasih ho sorben un bei –** Accidentally I've swallowed a bee.
+**Arasih ho sorben un bei –** accidentally I've swallowed a bee
 
-**Au {Ao} –** or *(separate substantives and adjectives)*
+**Au {Ao} –** or *(separate substantives, adjectives and verbs)*
 
-**Dah ei un apel au un vinber –** Give him an apple or a grape.
+**Dah ei un apel au un vinber –** give him an apple or a grape
 
 **Aus {Aos} –** early
 
-***Is gwohmit aus –** He came early*
+***Is gwohmit aus –** he came early*
 
-**Autah {aotA:} –** or *(a little stronger than “au”)*
+**Autah {aotA:} –** or *(it's just stronger than “au”)*
 
 ***China est tienxia dwot plautsto Stat yeji id land superficie, autah
 trit au quart plautsto yeji id total superficie, sekwent id meid methode
-–** China is the world's second largest state by land area, or either 
-the third or fourth-largest by total area, depending on the method of 
+–** China is the world's second largest state by land area, or either
+the third or fourth-largest by total area, depending on the method of
 measurement*
 
 **Auti {Aoti} –** or … too, or … also
 
 ***Tod militar potential ghehdt ses nudt eni id quader om UNO au NATO
-operations, auti ob id ****maidehsa om certain lands au organisations
-–** This military potential can be used whithin the framework of UNO 
-or NATO operations, or else because of the call for help of certain 
-countries or organisations*
+operations, auti ob id maidehsa om certain lands au organisations –**
+this military potential can be used whithin the framework of UNO or NATO
+operations, or else because of the call for help of certain countries or
+organisations*
 
 **Bad {bad} –** at last, finally
 
-**Bad gwahsiem hem –** at last I'll go home.
+**Bad gwahsiem hem –** at last I'll go home
 
 **Ia gwenak me spohc med sien okwi meg-ye ghyanen ob staunos, pre bad
-sprehge –** The young woman looked at me with her eyes wide-opened in
-amazement, before she finally talked to me.
+sprehge –** the young woman looked at me with her eyes wide-opened in
+amazement, before she finally talked to me
 
-**Ne … bad {në … bad} –** not... yet
+**Ne … bad {ne … bad} –** not … yet
 
 **Ne ho bad perichohxen id hol Sambahsa-Portughesche kamus –** I haven't
-yet proofread the whole Sambahsa-Portuguese lexicon.
+yet proofread the whole Sambahsa-Portuguese lexicon
 
-perichohxen = peri + chohxen (preterit of "chehx")
+perichohxen = peri + chohxen (past tense of “chehx”)
 
-**Bariem {baryEm} – **at least
+**Bariem {baryEm} –** at least
 
-**Som orm, bet bariem weiko in un riche land –** I'm poor, but at least I
-live in a rich country.
+**Som orm, bet bariem weiko in un riche land –** I'm poor, but at least
+I live in a rich country
 
-**Besonters {bëzOntërs} –** especially
+**Besonters {bezOntërs} –** especially
 
-***Kamo magvi, besonters i tamijdars –** I like children, especially
-the well-educated ones.
+***Kamo magvi, besonters i tamijdars –** I like children, especially the
+well-educated ones*
 
-Extra: "those well-educated" would be "ti tamijdar", because "ti" here
-replaces the substantive. 
+Extra: “those well-educated” would be “ti tamijdar”, because “ti” here
+replaces the substantive.
 
-**Bet {bet} –** bet
+**Bet {bet} –** but
 
-**Ho un bell gvibh, bet ne som noroct –** I have a beautiful wife, but I'm
-not happy.
+**Ho un bell gvibh, bet ne som noroct –** I have a beautiful wife, but
+I'm not happy
 
-**Bfuyi {bfUyi} –** continuously, non-stop
+**Bfuyi {bfUyi} –** non-stop, continuously
 
-**El Manticore henslit iom bfuyi –** The Manticore harassed him continously.
+**El Manticore henslit iom bfuyi –** the Manticore harassed him
+continously
 
 **Biadet {byAdët} –** usually
 
-**Biadet eihm hem jumas –** Usually I go home on Fridays.
+**Biadet eihm hem jumas –** usually I go home on Fridays
 
-**Bilax {bilAks} –** On the contrary
+**Bilax {bilAks} –** on the contrary
 
-**Ne orbato con bandits, bilax, tik orbato con honeste leuds –** I don't work 
-with bandits, on the contrary, I only work with honest people.
+**Ne orbato con bandits, bilax, tik orbato con honeste leuds –** I don't
+work with bandits, on the contrary, I only work with honest people
 
 **(Bil)hassa {(bil)hAsa} –** mostly
 
-**Bilhassa ghango in id forest nocts –** I walk in the forest mostly at night. 
+**Bilhassa ghango in id forest nocts –** I walk in the forest mostly at
+night
 
-**Cadadien {kadadyEn} – **every day, daily
+**Cadadien {kadadyEn} –** daily
 
-**Cadadien puwno id dom –** I clean up the house every day.
+**Cadadien puwno id dom –** I clean up the house every day
 
-**Casu quo {kAzu kwo} – **if need be
+**Casu quo {kAzu kwo} –** if need be
 
-**Casu quo, pehrnsiem id dom, men neti sessiem makrouse –** If necessary, I 
-will sell the house, but I won't be indebted anymore.
+**Casu quo, pehrnsiem id dom, men neti sessiem makrouse –** if
+necessary, I will sell the house, but I won't be indebted anymore
 
-**Chiowdeo {tcyowdEo} –** exactly, precisely
+**Chiowdeo {tcyowdEo} –** exactly
 
-**Quod volst sayge chiowdeo? –** What did you mean exactly ?
+**Quod volst sayge chiowdeo? –** what did you mean exactly?
 
 **Chunke {tcunk} –** since, as *(conditional)*
 
 **Chunke yu xeihte id magh os kyukes iom Mighelekwo, ne ghehdiete yu
-sprehge iom quer wehst eys poti? –**Since you hold the power to summon the
-Horse of Mist, couldn't you ask him where his master is now ?
+sprehge iom quer wehst eys poti? –** since you hold the power to summon
+the Horse of Mist, couldn't you ask him where his master is now?
 
 **Circa {tsIrka} –** about, approximately
 
-**Is est circa dwo meters buland –** He's approximately two meters tall.
+**Is est circa dwo meters buland –** he's approximately two meters tall
 
 **Com(samen) {kom(sAmën)} –** together
 
-**Hovesper, sessiemos com –** Tonight, we'll be together.
+**Hovesper, sessiemos com –** tonight, we'll be together
 
 **Daanistah {daanista:} –** knowingly, intentionally
 
-**Daanistah brohgim id machine –** I broke the machine intentionally.
+**Daanistah brohgim id machine –** I broke the machine intentionally
 
 **Dalg {dalg} –** far
 
 **Weiko dalg –** I live far (from here)
 
-**Dalger {dAldjër} –** farther, further *(in the spatial sense, never temporal)*
+**Dalger {dAldjër} –** farther, further *(in the spatial sense, never
+temporal)*
 
-**Tetos dalger, vidsies un phar –** Farther from there, you'll see a 
-lighthouse.
+**Tetos dalger, vidsies un phar –** farther from there, you'll see a
+lighthouse
 
-**Seghlim dalger kay trehve id noroc **– I sailed farther to find 
-happiness.
+**Seghlim dalger kay trehve id noroc **– I sailed farther to find
+happiness
 
 **Dar {dar} –** still *(as an adverb)*
 
-**Quan gwahm lict, mien mann dar est wehrgend –** When I go to bed, 
-my husband is still working.
+**Quan gwahm lict, mien mann dar est wehrgend –** When I go to bed, my
+husband is still working
 
 **Dat {dat} –** given that
 
 **Dat id noct hieb gwohmen, is Marjban ess oin lembas pre swehpe –**
-Given that the night had come, the Ranger (from Middle Earth of Tolkien)
+given that the night had come, the Ranger (from Middle Earth of Tolkien)
 ate one lembas before sleeping
 
 **Dat is hieb nia denars kay tules un eustwort porm, Tosten dohlgit
-linkwes id urb –** Given that he had no money to afford a fare to the
+linkwes id urb –** given that he had no money to afford a fare to the
 east, Ithacus had to leave the city
 
 **Daydey {daydEy} –** in general, generally
 
-**Daydey ia semens teukent quan (sont) madhen –** In general, seeds do 
-sprout when they've turned wet.
-*Ps.: in this case, writting only “…quan madhen” is not gramatically incorrect, but it's preferable the use of the verb in the middle for clarity*
+**Daydey ia semens teukent quan (sont) madhen –** in general, seeds do
+sprout when they've turned wet
+
+Ps.: in this case, writting only “…quan madhen” is not gramatically
+incorrect, but it's preferable the use of the verb in the middle for
+clarity
 
 **Dayim {dayIm} –** constantly
 
-***Is fabric orbater premt ia scruvs dayim –** The factory worker constantly
-presses the screws.
+***Is fabric orbater premt ia scruvs dayim –** the factory worker
+constantly*
+
+presses the screws
+
 It's synonyms of “bfuyi”
-
-**Dind {dind} –** then, after that
-
-***Gwahsim id mercat, dind gwahsim kyrk –** I went to market, then I went
-to church*
-
-***Iran speht ithan crisces sien financial ressurces –** Iran hopes to increase this way its financial resources*
-
-*It's synonyms of “poskwo” and “pos to”*
 
 **Dexios {dEksjos} –** briskly
 
-**Id Caroline snohg dexios inter ia enflammen vracks ed intercepit oino iom feugend vecels –** the Caroline (a warship) sneaked skillfully between the flamed wrecks and intercepted one of the fleeing vessels
+**Id Caroline snohg dexios inter ia enflammen vracks ed intercepit oino
+iom feugend vecels –** the Caroline (a warship) sneaked skillfully
+between the flamed wrecks and intercepted one of the fleeing vessels
 
-**Diu {dyu} – **for a long time, long (temporal adverb)
+**Dind {dind} –** then, after that
 
-**Unte baygh diu, ho esen her –** during a long time, I've been here.
+***Gwahsim id mercat, dind gwahsim kyrk –** I went to market, then I
+went to church*
 
-**Diutos is est un prisoner – **He's been a prisoner for a long time.
+**Iran speht ithan crisces sien financial ressurces –** Iran hopes to
+increase this way its financial resources
+
+It's synonyms of “poskwo” and “pos to”
+
+**Diu {dyu} –** long time, long *(temporal adverb)*
+
+**Unte baygh diu, ho esen her –** during a long time, I've been here
+
+Diutos is est un prisoner – he's been a prisoner for a long time
 
 **Diuper {dyÜpër} –** long ago
 
-**Diuper ia gwivit in mien dom –** Long ago, she lived in my house.
+**Diuper ia gwivit in mien dom –** long ago, she lived in my house
 
 **Ed {ed} –** and
 
-**Io ed mien son –** Me and my son.
+**Io ed mien son –** Me and my son
 
 **Entrim {Entrim} –** meanwhile
 
 **Vahm soke discret-ye, bet entrim, to dehlct remane inter nos –** I'm
-gonna investigate discretely, but meanwhile, that must remain between us.
+gonna investigate discretely, but meanwhile, that must remain between us
 
 **Esdi {Ezdi} –** even if
 
-**Ne weiko in tod dom esdi i payghent me –** I don't live in that house even
-if they pay me.
+**Ne weiko in tod dom esdi i payghent me –** I don't live in that house
+even if they pay me
 
-**I men Chineses name ir land Zhōngguó, quo hat dahn id Sambahsa Giungkwok, esdi tod nam est neter nudt in id official nam ios Popules Respublic China, ni in tod ios Respublic China (Taywan). China de gwehmt ex id nam ios megil cesar Qin Shi Huangdi (246-210 pre JC) –** Chinese do call their country Zhōngguó, what has given the Sambahsa Giungkwok, even if this name is neither used in the official name of the People's Republic of China, nor in Taiwan's one. “China” comes from the name of the great emperor Qin Shi Huangdi (246-210 B.C.)
-    If you didn’t understand the use of “… men (…) de …”, in the chapter “Enclitics and Proclitics” there is an explanation.
+**I men Chineses name ir land Zhōngguó, quo hat dahn id Sambahsa
+Giungkwok, esdi tod nam est neter nudt in id official nam ios Popules
+Respublic China, ni in tod ios Respublic China (Taywan). China de gwehmt
+ex id nam ios megil cesar Qin Shi Huangdi (246-210 pre JC) –** Chinese
+do call their country Zhōngguó, what has given the Sambahsa Giungkwok,
+even if this name is neither used in the official name of the People's
+Republic of China, nor in Taiwan's one. “China” comes from the name of
+the great emperor Qin Shi Huangdi (246-210 B.C.)
+
+If you didn’t understand the use of “… men (…) de …”, in the chapter
+“Enclitics and Proclitics” there is an explanation.
 
 **Eni {Eni} –** within, inside
 
-***El kwaun est eni id dom –** The dog is inside the house.*
+***El kwaun est eni id dom –** the dog is inside the house*
 
 **Eti {Eti} –** moreover, furthermore, also
 
-**Ne eddo hamburger, eti som vegetarian – **I don't eat hamburger, 
-moreover I'm a vegan.
+**Ne eddo hamburger, eti som vegetarian –** I don't eat hamburger,
+moreover I'm a vegan
 
 **En id plan ios edifice. Tod plan est ja veut. Kad id edifice hat est
 modifiet mulayim-ye tuntos. Eti khact ses vis ep id an fulan dwer est
-ghyanen au cluden –** Here is the plan of the building. This plan is 
+ghyanen au cluden –** here is the plan of the building. This plan is
 already old. Perhaps that the building was slightly modified since this
-time. Moreover, we cannot see whether any door is open or closed.
+time. Moreover, we cannot see whether any door is open or closed
 
 **Tod vestibule compris eti dwo dwers, uter wester, alter euster –**
-This entrance room comprised furthermore two doors, one to the west, 
-the other one to the east.
+this entrance room comprised furthermore two doors, one to the west, the
+other one to the east
 
 **Exo {Ekso} –** outside
 
-**El kwaun est exo id dom –** The dog is outside the house. 
+**El kwaun est exo id dom –** the dog is outside the house
 
 We can also say: “el kwaun est exter id dom”
 
 **Fauran {faorAn} –** immediately
 
 **Kehrzsiem mien kays fauran, iey(it) is orbater ei bes –** I will cut
-my hair immediately, the worker said to the boss.
+my hair immediately, the worker said to the boss
 
 **Filan {filAn} –** so & so
 
@@ -5470,13 +5952,15 @@ Bible eet we ne inspiret ab Div –** the religious authorities have
 discussed to know whether this or that book of the Bible was inspired by
 God or not
 
-**FujatAn {fujatAn} –** suddenly
+**Fujatan {fujatAn} –** suddenly
 
-**Fujatan eem trigimat –** Suddenly I turned thirty.
+**Fujatan eem trigimat –** suddenly I turned thirty
 
 **Gairn {gärn} –** of goodwill
 
-**Is commander reservit id access ibs “inner kyals” (kam is gairn kiel ia) sibswo –** the commander reserved the access to the “inner rooms” (as he liked to call them) to himself
+**Is commander reservit id access ibs “inner kyals” (kam is gairn kiel
+ia) sibswo –** the commander reserved the access to the “inner rooms”
+(as he liked to call them) to himself
 
 **Gontro {gOntro} (gon + tro) –** aside *(adverb of movement)*
 
@@ -5491,552 +5975,593 @@ way, the long blade of Fabricio's sabre of heavy cavalry slid along the
 dress of the hussard and passed just under his very eyes
 
 **Ghi {gi} –** *without any definite meaning, this word frequently
-appears in second position and serves to emphasize the word before. It is
-often suffixed to a pronoun, an adverb, as long as it is phonetically
-compatible. Can mean "also, then, for..."
+appears in second position and serves to emphasize the word before. It
+is often suffixed to a pronoun, an adverb, as long as it is phonetically
+compatible. Can mean “also, then, for…”*
 
-**Is ne kieup id wogh, isghi ne hieb denars –** He didn't buy the car, for
-he had no money.
+**Is ne kieup id wogh, isghi ne hieb denars –** he didn't buy the car,
+for he had no money
 
-**Eiskwo woide id ghi payghen pris –** I'd like to know the (actually) paid
-price.
+**Eiskwo woide id ghi payghen pris –** I'd like to know the (actually)
+paid price
 
-**Id probleme tom prabhils est od pauk ghi anghens brunge ia –** The problem
-with these rules is that (indeed) few people benefit from them.
+**Id probleme tom prabhils est od pauk ghi anghens brunge ia –** the
+problem with these rules is that (indeed) few people benefit from them
 
-**Gwaru {gwAru} –** seriously, heavily *(when referring to a wound)*
+***Gwaru {gwAru} –*** seriously, heavily* (when referring to a wound)*
 
-**Id ecosysteme os Amazonia buit gwaru taraght ab illegal reuydens –** the ecosystem of Amazonia was heavily upset by illegal exploitations
+**Id ecosysteme os Amazonia buit gwaru taraght ab illegal reuydens –**
+the ecosystem of Amazonia was heavily upset by illegal exploitations
 
-**Hatta {hAta} –** even (adv.)
+**Hatta {hAta} –** even *(adverb)*
 
-**Hatta i smulkst aranks ghehde nices –** Even the smallest spiders can kill.
+**Hatta i smulkst aranks ghehde nices –** even the smallest spiders can
+kill
 
-**Pedro ne hat hatta smautert tod film –** Pedro hasn't even watched this movie.
+**Pedro ne hat hatta smautert tod film –** Pedro hasn't even watched
+this movie
 
-**Tu hatta ghyienst id hadia –** You even opened the present.
+**Tu hatta ghyienst id hadia –** you even opened the present
 
-**Hatta habend-ye piten, ne kamyabim –** Even having tried, I didn't succeed.
+**Hatta habend-ye piten, ne kamyabim –** even having tried, I didn't
+succeed
 
-**Magho sayge od hatta Suomi hat falls os foll gwow siuge –** I can tell that 
-even Finland has cases of mad cow disease.
+**Magho sayge od hatta Suomi hat falls os foll gwow siuge –** I can tell
+that even Finland has cases of mad cow disease
 
 **Hakan {hakAn} –** really, truly
 
-***Is hakan lieubht te –** He really loves you.*
+***Is hakan lieubht te –** he really loves you*
 
 **Iawod {yawOd} –** provided that, let's hope that
 
 **Hol grupps bihnt autoriset ad page, conservend ir bahsa, ir mores, ir
-social organisation iawod obedeihnt ia loys ios Roman Stat –** Whole groups
-are authorized to settle down, keeping their language, their customs, their
-social organisation, provided that they abide by the laws of the Roman State.
+social organisation iawod obedeihnt ia loys ios Roman Stat –** whole
+groups are authorized to settle down, keeping their language, their
+customs, their social organisation, provided that they abide by the laws
+of the Roman State
 
 **Ib {ib} –** lest
 
 **Eti, un ieuster daysa iom opnos tehrbiet bihe instohlen in multa
-lands, ibo vide udbrehge grave social troubles –** Moreover, a fairer
+lands, ibo vide udbrehge grave social troubles –** moreover, a fairer
 sharing of wealth should be set up in many lands, lest (we) see grave
-social troubles break up.
+social troubles break up
 
 **Ilhali {ilhAli} –** whereas
 
 **Ilhali id recognition ios inherent decos vasyims members ios
-menscfamilia ed iren egal ed inalienable rects constituet id sul om lure,
-justice ed pace tienxia –** Whereas recognition of the inherent dignity
+menscfamilia ed iren egal edinalienable rects constituet id sul om lure,
+justice ed pace tienxia –** whereas recognition of the inherent dignity
 and of the equal and inalienable rights of all members of the human
-family is the foundation of freedom, justice and peace in the world.
+family is the foundation of freedom, justice and peace in the world
 
 **Inkaptos {inkAptos} –** from the beginning/start
 
-**Sayg mi quanto wakyit inkaptos –** Tell me everything that happened from
-the beginning.
+**Sayg mi quanto wakyit inkaptos –** tell me everything that happened
+from the beginning
 
-**Intant {intAnt} –** in the meantime
+***Intant {intAnt} –** in the meantime*
 
-**Bet intant, kwehr quodlibt –** But in the meantime, do what you want.
+**Bet intant, kwehr quodlibt –** but in the meantime, do what you want
 
-**Iter {Itër} –** once again, once more, anew
+**Iter {Itër} –** once again, oncemore, anew
 
-**Som con mien família iter –** I'm once again with my family.
+**Som con mien família iter –** I'm once again with my family
 
 **In unisson {in unisOn} –** in unison
 
-**I brasileirs obswihr is corrumepen president in unisson –** all together/like a single man, the Brazilians booed at the corrupted president
+**I brasileirs obswihr is corrumepen president in unisson –** all
+together/like a single man, the Brazilians booed at the corrupted
+president
 
 **Ja {ja} –** already
 
-**Tu biscripst todeghern ed tu ja finihst id wehrg –** You began to
-write this morning and already you finished the work.
+**Tu biscripst todeghern ed tu ja finihst id wehrg –** you began to
+write this morning and already you finished the work
 
-**Jaldi {jAldi} –** swiftly, quickly *(notion of velocity)*
+**Jaldi {jAldi} –** fast, quickly *(notion of velocity)*
 
-**Ia cursit meg jaldi quando ia eet yuner –** She ran more quickly when
-she was younger.
+**Ia cursit meg jaldi quando ia eet yuner –** she ran more quickly when
+she was younger
 
-**Id nivell ios wed est steighend jaldi –** The level of the water is rising
-quickly.
+**Id nivell ios wed est steighend jaldi –** the level of the water is
+rising quickly
 
-**Ka {ka} –** as (a) (when referring to a quality)
+**Ka {ka} –** as (a) *(when referring to a quality)*
 
-**Tod werd wehrct ka adjective ed adverb –** This word works as an adjective
-and as an adverb.
+**Tod werd wehrct ka adjective ed adverb –** this word works as an
+adjective and as an adverb
 
-**Kad {kad} –** maybe/perhaps that
+**Kad {kad} –** maybe, perhaps that
 
-**Kad wehdsiem iam –** Perhaps I will marry her.
+**Kad wehdsiem iam –** Perhaps I will marry her
 
 **Kafi {kAfi} –** enough
 
-**Sat {sat} –** enough
+**Sat! {sat} –** enough!
 
-**Ho edden kafi –** I have eaten enough.
+**Ho edden kafi –** I've eaten enough
 
-**Kam {kam} –** how ?, in what manner ?, like
+**Kam {kam} –** how?, in what manner ?, like
 
 **Kam has tu arriven her? –** how have you arrived here?
 
-**Kam leits tu? –** How are you?
+**Kam leits tu? –** how are you?
 
 **Som kam tu –** I am like you
 
-**Kam adet {kam Adët} –** As usual.
+**Kam adet {kam Adët} –** as usual
 
-**Kam adet ia oisbud aus –** As usual she woke up early.
+**Kam adet ia oisbud aus –** as usual she woke up early
 
 **Kamsei {kamsEy} –** as if
 
-**Is ee-sispehct me kamsei is esiet/eet un lion sispehcend un owu –**
-He didn't stop looking at me as if he was/were a lion looking at a sheep.
+**Is ee-sispehct me kamsei is esiet/eet un lion sispehcend un owu –** he
+didn't stop looking at me as if he was/were a lion looking at a sheep
 
 **Kariban {karibAn} –** soon, shortly
 
-**Linkwsiemos (hetos) kariban –** We'll soon leave (from here).
+**Linkwsiemos (hetos) kariban –** we'll soon leave (from here)
 
 **Kathalika {ka§alIka} –** likewise
 
-**Tony ed Sandro sont kerabs, kathalika sont Otavio ed Clarissa –** Tony 
-and Sandro are relatives, likewise are Otavio and Clarissa.
+**Tony ed Sandro sont kerabs, kathalika sont Otavio ed Clarissa –** Tony
+and Sandro are relatives, likewise are Otavio and Clarissa
 
 **Kay {kay} –** (in order) to
 
-**Gwahsiem weir kay defende mien land –** I'll go to war to defend my 
-country.
+**Gwahsiem weir kay defende mien land –** I'll go to war to defend my
+country
 
-**Eiskwo un wogh kay safer –** I want a car in order to travel.
+**Eiskwo un wogh kay safer –** I want a car in order to travel
 
 **Khaliban {qalibAn} –** mainly
 
-**Is orbietit khaliban ka swobod orbater –** He mainly worked as a
+**Is orbietit khaliban ka swobod orbater –** he mainly worked as a
 freelancer
 
-**Kheptenn {qëptEn} –** definitely
+**Kheptenn {qëptEn} –** quite, definitely
 
-**Is kheptenn est gai –** He's definitely gay.
+**Is kheptenn est gai –** he's definitely gay
 
-**Kjiawxieng {kjyawksyEng} –** by chance
+**Kjiawxieng {kjyawksyEng} –** by chance, incidentally
 
-**Kjiawxieng kwe has cigarettes? –** By chance, do you have some 
+**Kjiawxieng kwe has cigarettes? –** by chance, do you have some
 cigarettes?
 
-**Kongcio {kOngtsyo} –** from now on, hereinafter, henceforth.
+**Kongcio {kOngtsyo} –** from now on, hereinafter, henceforth
 
-**Kongcio sessiem un gohd pater, promitto –** Henceforth I'll be a
-good father, I promise.
+**Kongcio sessiem un gohd pater, promitto –** henceforth I'll be a good
+father, I promise
 
-*“Nuntos” has the same meaning and often is most used, since the “kongcio” seems be antiquated.* 
+[]{#anchor-387}“Nuntos” has the same meaning and often is most used,
+since the “kongcio” seems be antiquated.
 
 **Kwecto {kwEcto} –** apparently, as it seems
 
-***Id phial, quei poskwo dahsim mien attention, kwecto pwolpohld med un cruorrudh liqueur –** the phial, to which I next turned my attention, might have been about half-full of a blood-red liquor*
+**Id phial, quei poskwo dahsim mien attention, kwecto pwolpohld med un
+cruorrudh liqueur –** the phial, to which I next turned my attention,
+might have been about half-full of a blood-red liquor
 
-***Hatta eys prientias kwecto kihr ep un samliko catholicitat os suabuhsa –** even his friendships seemed to be founded in a similar catholicity of good-nature*
+**Hatta eys prientias kwecto kihr ep un samliko catholicitat os suabuhsa
+–** even his friendships seemed to be founded in a similar catholicity
+of good-nature
 
-**Kweid {kweyd} –** even if, though *(pass the idea of: under the price of/it is necessary that)*
+**Kweid {kweyd} –** even if, though *(pass the idea of: under the price
+of/it is necessary that)*
 
-***Iaschi EU lands maghe bihe tenten ab bringhes wahid-ye securitara responses ei probleme os terrorisme, kweid biht limitet id bungos iom civil lures –** the EU countries themselves may be tempted to bring security-only responses to the problem of terrorism, even (under the price of) if the function of the civil freedoms gets limited*
+**Iaschi EU lands maghe bihe tenten ab bringhes wahid-ye securitara
+responses ei probleme os terrorisme, kweid biht limitet id bungos iom
+civil lures –** the EU countries themselves may be tempted to bring
+security-only responses to the problem of terrorism, even (under the
+price of) if the function of the civil freedoms gets limited
 
-**Kweter {kwEtër} –** *"whether", indicates the choice or the doubt
-between two options.*
+**Kweter {kwEtër} –** whether.* It indicates the choice or the doubt
+between two options*
 
-*Ay buit impossible tarctum kweter ia hieb vanien in id hava we ia hieb
-curren baygh oku in id bosc* (“tarctum” is an optional antiquated form of
-infinitive) –
+***Ay buit impossible tarctum kweter ia hieb vanien in id hava we ia
+hieb curren baygh oku in id bosc***** **(“tarctum” is an optional
+antiquated form of infinitive)** –** *it was impossible to her to
+conjecture whether she has vanished in the air or she had run very
+quickly into the wood*
 
-It was impossible to her to conjecture whether she has vanished in the air
-or she had run very quickly into the wood.
+***Quo ia druve-ye gnohskwit eet kweter el stohng we ne –** what she
+really wanted to know *(about an insect)* was whether it stung or not*
 
-***Quo ia druve-ye gnohskwit eet kweter el stohng we ne –** What she really
-wanted to know (about an insect) was whether it stung or not. *
+**Lakin {lakIn} –** however, nevertheless
 
-**Lakin {lakIn} –** However, nevertheless
-
-**Kamo te, lakin tu dehlcs change –** I like you, however you've got to change.
+**Kamo te, lakin tu dehlcs change –** I like you, however you've got to
+change
 
 **Libter {lIbtër} –** willingly, with pleasure
 
-**Libter kwehrsiem tod pro te –** With pleasure I shall do that for you.
+**Libter kwehrsiem tod pro te –** with pleasure I shall do that for you
 
-**Lika {lIka} –** the same (adverb), alike
+**Lika {lIka} –** the same *(adverb)*, alike
 
-**Daydey, ho piten vergihes werds qua swehnient pior lika alyi –** In general, 
-I have tried to avoid words that sounded too much the same as another (one).
+**Daydey, ho piten vergihes werds qua swehnient pior lika alyi –** in
+general, I have tried to avoid words that sounded too much the same as
+another (one)
 
 **Makar {makAr} –** even though, although
 
-**Makar ei saygo, is ne kaurt de –** Even though I tell him, he doesn't care.
+**Makar ei saygo, is ne kaurt de –** even though I tell him, he doesn't
+care
 
-**Makar io ielgv denars, na kwahsim spare –** Even though I earned money, I 
-failed to spare.
+**Makar io ielgv denars, na kwahsim spare –** even though I earned
+money, I failed to spare
 
-**Makar kauro, ne kwahm vergihes howkscheces –** Even though I care, I fail to
-avoid potholes.
+**Makar kauro, ne kwahm vergihes howkscheces –** even though I care, I
+fail to avoid potholes
 
 **Makhsus {mAqsus} –** on purpose, intentionally
 
-**Makhsus ho scriben id texte samt erros –** Deliberately I've written the text with mistakes
+**Makhsus ho scriben id texte samt erros –** deliberately I've written
+the text with mistakes
 
 **Mathalan {ma§alAn} –** for example, for instance
 
-**Kamo veuta fantasia buks, mathalan "Is Lytil Prince" ed Lovecrafts buks –**
-I like old fantasy books, for example "The Little Prince" and Lovecraft's books.
+**Kamo aw fantasia buks, mathalan “Is Lytil Prince” ed Lovecrafts buks
+–** I like old fantasy books, for example “The Little Prince” and
+Lovecraft's books.
 
 **Meist-ye {meyst ye} –** at the most, at the latest
 
-**Eiskwo meist-ye dwo purts, ne meis quem to –** I want two children at the 
-most, no more than that.
+**Eiskwo meist-ye dwo purts, ne meis quem to –** I want two children at
+the most, no more than that
 
-**Men {men} –** but (less strong than "bet")
+**Men {men} –** but (less strong than “bet”)
 
-**Men, weidwos, to ne est tien fault –** But, of course, this is not your
-fault.
+**Men, weidwos, to ne est tien fault –** But, of course, this is not
+your fault
 
-**Menxu {mEnksu} –** while (conj.)
+**Menxu {mEnksu} –** while *(conjunction)*
 
-**Eem in alyo land menxu mien land eet invaden –** I was in another country
-while my country was invaded.
+**Eem in alyo land menxu mien land eet invaden –** I was in another
+country while my country was invaded
 
 **Minst-ye, lytst-ye –** at the least *(“tehrb” can be used here)*
 
-**Naudhsies minst-ye six hevds kay plane adequat-ye –** You shall require
-at the least seven weeks in order to plan adequately.
+**Naudhsies minst-ye six hevds kay plane adequat-ye –** you shall
+require at the least seven weeks in order to plan adequately
 
 **Mudam {mudAm} –** constantly, steadily, continually, continuously
 
-**Myen machine orbat mudam –** My machine works continually.
+**Myen machine orbat mudam –** my machine works continually
 
-***Id seuy fallt mudam – **The rain is continually falling.*
+***Id seuy fallt mudam –** the rain is continually falling*
 
 **Mutlak {mutlAk} –** absolutely
 
-**Ia est mutlak khiter –** She is absolutely evil.
+**Ia est mutlak khiter –** she is absolutely evil
 
-**Mox(u) {mOks(u)} –** soon (adv.)
+**Mox(u) {mOks(u)} –** soon
 
-**Vidsiem te mox –** I shall see you soon.
+**Vidsiem te mox –** I shall see you soon
 
 **Naiw(o) {nÄw(o)} –** never
 
-**Naiwo likwim mien land –** I never left my country.
+**Naiwo likwim mien land –** I never left my country
 
 **Naturelika {natürëlIka} –** naturally
 
-**Naturelika kamo uces bahsas –** Naturally I enjoy learning
-languages.
+**Naturelika kamo uces bahsas –** naturally I enjoy learning languages
 
 **Nepunei {nepÜney} –** with impunity
 
-**“Niem permitte od quoy serve iom Demon-Roy safernt nepunei unte mien land, Castelian”, grohm Beruh –** “I won't allow that those who serve the Demon-King travel unpunished through my country, Castelian”, did Beruh roar
+**“Niem permitte od quoy serve iom Demon-Roy safernt nepunei unte mien
+land, Castelian”, grohm Beruh –** “I won't allow that those who serve
+the Demon-King travel unpunished through my country, Castelian”, did
+Beruh roar
 
 **Neti {nEti} –** not … anymore, nevermore, never again, no more
 
-**Neti eddo her –** I eat here no more.
+**Neti eddo her –** I eat here no more
 
-**Nib/nibo {nib/nIbo} –** unless
+**Nib(o) {nIb(o)} –** unless
 
-**Orbatsiem in id farm nibo kamyabo in un public concurs – **I 
-will work at the farm unless I pass a public exam.
+**Orbatsiem in id farm nibo kamyabo in un public concurs –** I will work
+at the farm unless I pass a public exam
 
 **Nisbatan {nisbatAn} –** relatively
 
-**Ia ruines sont nisbatan salver quem id forest –** The ruins are 
-relatively safer than the forest.
+**Ia ruines sont nisbatan salver quem id forest –** the ruins are
+relatively safer than the forest
 
 **Nun {nun} –** now
 
-**Som noroct nun –** Now I'm happy
+**Som noroct nun –** now I'm happy
 
 **Nundiens {nundyEns} –** nowadays
 
-**Nundiens, leuds sont suagramat –** Nowadays, people are well literate.
+**Nundiens, leuds sont suagramat –** nowadays, people are well literate
 
-**Nuper {nÜpër} – **recently
+**Nuper {nÜpër} –** recently
 
-**Gnahsit nuper –** (He/she) was born recently.
+**Gnahsit nupe –** (He/she) was born recently
 
 **Nuptos {nUptos} –** not long ago
 
-**Nuptos mien dugter ghiemit –** Recently my daughter married.
+**Nuptos mien dugter ghiemt –** recently my daughter married
 
-**Oku {Oku} –** quick(ly)
+**Oku {Oku} –** quickly
 
-**Gwehm oku –** Come quickly
+**Gwehm oku –** come quickly
 
-**Ne ghehdo antwehrde tib oku –** I cannot answer quickly to you.
+**Ne ghehdo antwehrde tib oku –** I cannot answer quickly to you
 
 **Okwivid-ye {okwivId-ye} –** obviously
 
-**Okwivid-ye i ne surviveer –** obviously they didn't survive.
+**Okwivid-ye i ne surviveer –** obviously they didn't survive
 
-**Payn {payn} – **hardly
+**Payn {payn} –** hardly
 
-**Payn kwahsiemos fuges –** We could hardly flee.
+**Payn kwahsiemos fuges –** We could hardly flee
 
-**Perodh {përOd} –** forward
+**Perodh {perOd} –** forward
 
 **Ghango perodh –** I walk forward
 
-**Plus {plus} –** plus (+), additional, more
+**Plus {plus} –** more (+), additional, more
 
 **Dwo plus dwo est egal ad quar –** 2 + 2 = 4
 
-**Ho addihn plus mathmoun ad mien buk –** I've added more contents to my book
+**Ho addihn plus mathmoun ad mien buk –** I've added more contents to my
+book
 
-In the latter sentence, you could have used "meis" instead of 
-"plus"
+In the latter sentence, you could have used “meis” instead of “plus”.
 
 **Poskwo {pOskwo} –** afterwards, then
-**Ghamsiemos poskwo stajernsiemos un dom –** we will marry and we will rent a house afterwards
 
-**Prevst {prevst} –** once (in the very past), before
+**Ghamsiemos poskwo stajernsiemos un dom –** we will marry and we will
+rent a house afterwards
 
-**Visim un fee prevst –** I saw a fairy once in the past.
+**Prevst {prevst} –** once (*in the very past)*, before
 
-**Protiapo {protyApo} –** against the stream
+**Visim un fee prevst –** I saw a fairy once in the past
+
+**Protiapo {protyApo} –** against the current
 
 **Snahm protiapo –** I swim against the stream
 
-**Punor {punOr} –** however, on the other hand (opposition)
+**Punor {punOr} –** however, on the other hand *(opposition)*
 
-**Habe purts est gohd, punor dehlcs dedie tien hol gwiv pro i –**Having
+**Habe purts est gohd, punor dehlcs dedie tien hol gwiv pro i –** having
 children is good, but, on the other hand, you must dedicate your life to
-them.
+them
 
 **Quayque {kwAyk(ë)} –** (al)though
 
-**Eddo mult leckereits, quayque som diabetic –** I eat a lot of sweets, 
-though I'm diabetic.
+**Eddo mult leckereits, quayque som diabetic –** I eat a lot of sweets,
+though I'm diabetic
 
-**Quasi {kwAzi} –** nearly
+**Quasi {kwAzi} –** nearly, almost
 
-**Quasi mohrim honoct –** I nearly died tonight.
+**Quasi mohrim honoct –** I nearly died tonight
 
-**Quodlibt {kwOdlibd} –** whatever, anyone/thing you like/want
+**Quodlibt {kwOdlibd} –** anyone/thing you like/want
 
-**Vols tu un orange, un banana au un mankay? Quodlibt – **Do you 
-want an orange, a banana or a mango ? Anyone you want. 
+**Vols tu un orange, un banana au un mankay? Quodlibt –** do you want an
+orange, a banana or a mango ? Anyone you want
 
-**Quoterlibt {kwOtërlibd} –** *same as "quodlibt", but for a choice
+**Quoterlibt {kwOtërlibd} –** *same as “quodlibt”, but for a choice
 between two options*
 
-**Vols tu un orange au un mankay? Quoterlibt – **Do you want 
-an orange or a mango ? Anyone you want.
+**Vols tu un orange au un mankay? Quoterlibt –** do you want an orange
+or a mango ? Anyone you want
 
-**Saat-ye {saAt ye} –** clockwise (adv.)
+**Saat-ye {saAt ye} –** clockwise *(adverb)*
 
-**Id wogh gwaht saat-ye –** The car goes clockwise.
+**Id wogh gwaht saat-ye –** the car runs clockwise
 
-**Sammel {sAmël} –** at the same time.
+**Sammel {sAmël} –** at the same time
 
-**Nies purts vanier sammel –** Our children vanished at the same time.
+**Nies purts vanier sammel –** our children vanished at the same time
 
 **Sat {sat} –** enough
 
-**Essim sat – **I ate enough.
+**Essim sat –** I ate enough
 
-**Schawxwen {xAwkswën} –** []{#anchor-282}momentarily
+**Schawxwen {xAwkswën} –** momentarily
 
-***Eem schawxwen dusiht –** I turned momentarily dizzy.*
+***Eem schawxwen dusiht –** I turned momentarily dizzy*
 
 **Schowi {cOwi} –** therefore, consequently
 
 **Id institutional division iom maghs est schowi necessar iri mutual
-control –** The institutional division of the powers is by consequence
-necessary to their mutual control.
+control –** the institutional division of the powers is by consequence
+necessary to their mutual control
 
-**Sei {sey} –** if *(introducing a condition or a supposition)*
+**Sei {sey} –** if *(introducing a condition or suposition)*
 
-**Sei seuyt, mansiem domi –** If it rains, I'll stay at home.
+**Sei seuyt, mansiem domi –** if it rains, I'll stay at home
 
 **Kaupsiem tien hadia, bet sei tien pater ne payght mi, cheidsiem con
-iom –** I shall buy your present, but if your father doesn't pay me, I'll
-have an argument with him. 
+iom –** I shall buy your present, but if your father doesn't pay me,
+I'll have an argument with him
 
 **Sekwent {sEkwënt} –** following, according to
 
-***Sekwent ids Constitution, official bahsa Ukraines est ukrainsk –** according to its constitution, the official language of Ukraine is Ukrainian*
+**Sekwent ids Constitution, official bahsa Ukraines est ukrainsk –**
+according to its constitution, the official language of Ukraine is
+Ukrainian
 
-***Sekwent id Tyrk statistic institut, id population ios landios mikdier 74,7 millions leuden in 2011 –** according to the Turkish statistical institute, the country's population amounted to 74,7 million people in 2011*
+**Sekwent id Tyrk statistic institut, id population ios landios mikdier
+74,7 millions leuden in 2011 –** according to the Turkish statistical
+institute, the country's population amounted to 74,7 million people in
+2011
 
 **Seni {sEni} –** apart, separately, asunder
 
-**Crohscim seni ud mien braters ed swesters** – I grew up separately from
-my brothers and sisters. 
+**Crohscim seni ud mien braters ed swesters –** I grew up separately
+from my brothers and sisters
 
-**Ser {ser} –** severely *(injuries)*
+**Ser {ser} –** seriously* (when refering to injuries, wounds…)*
 
 ***Buim ser vurnt unte id accident –** I was severely injured during the
-accident
+accident*
 
 **Serter {sErtër} –** later
 
-**Wano wakt nun, ghehdsiemos vide mutu serter –** I'm lacking time for the
-moment, we can see each other later.
+**Wano wakt nun, ghehdsiemos vide mutu serter –** I'm lacking time for
+the moment, we can see each other later
 
 **Shayad {xayAd} –** probably
 
-Credeihm od ne ter sessient meis large ubnuwa nuntos. Shayad naudhsiem
-kaure tik de id = *I think that there won't be larger updates from now on. 
-Probably I'll have to care about it.*
+**Credeihm od ne ter sessient meis large ubnuwa nuntos. Shayad naudhsiem
+kaure tik de id –** I think that there won't be larger updates from now
+on. Probably I'll have to care about it
 
-**Sigwra {sIgura} –** certainly, sure (adv.)
+**Sigwra {sIgura} –** certainly, sure
 
-**Sigwra eucsiem sambahsa –** I will certainly learn Sambahsa.
+**Sigwra eucsiem Sambahsa –** I will certainly learn Sambahsa
 
 **Sonst {sonst} –** if not, or else
 
-**Is ne hat daken vies message, sonst habiet gwohmt –** He didn't get 
-your message, or else he would have come.
+**Is ne hat daken vies message, sonst habiet gwohmt –** he didn't get
+your message, or else he would have come
 
 **Sontern {sOntërn} –** but *(after a negation)*
 
 **“Ne ho saygen od neid est gohder,” jawieb is Roy, “sontern od neid est
-meis lecker –** "I haven't said that nothing is better," replied the King, 
-"but that nothing is more delicious". 
+meis lecker –** “I haven't said that nothing is better,” replied the
+King, “but that nothing is more delicious”
 
-**Stayg {stayg} =** fujutan ***(both can be used as adjectives)***
+**Stayg {stayg} =** fujutan *(both can be used as adjectives)*
 
 **Strax {straks} =** fauran
 
-**Tadrijan {tadrijAn} –** gradually, little by little
+**Tadrijan {tadrIjan} –** gradually
 
-**Tadrijan i beis construgent ir alvey –** Little by little do the bees build
-their hive.
+**Tadrijan i beis construgent ir alvey –** little by little do the bees
+build their hive
 
 **Taiper {tÄpër} –** presently
 
-**Taiper id mund est baygh dangereus –** The world is presently very dangerous.
+**Taiper id mund est baygh dangereus –** the world is presently very
+dangerous
 
 **Takriban {takribAn} –** about, approximately
 
-**Ho takriban penkwe milliards in id bank –** I have approximately five millions
-at the bank.
+**Ho takriban penkwe milliards in id bank –** I have approximately five
+millions at the bank
 
 **Tan(do) {tAn(do)} –** as long as
 
 **“Ghehdo te hehlpe ad kwehre id sam”, is iey “tan es asli-ye zakir” –**
-"I can help you to do the same", he said, "as long as you are faithfully
-pious".
+“I can help you to do the same”, he said, “as long as you are faithfully
+pious”
 
 **Tienxia {tyEnksya} –** all around the world
 
-**Tienxia est khitert, betschi tienxia est karam –** There's evil all around
-the world, but there is also goodness all around the world.
+**Tienxia est khitert, betschi tienxia est karam –** rhere's evil all
+around the world, but there is also goodness all around the world
 
-**Tik {tik} – **only
+**Tik {tik} –** only
 
-**Som tik octat –** I'm only eight years old.
+**Som tik octat –** I'm only eight years old
 
 **Towsraen {towsrAyn} –** randomly, at random
 
-**Ia numers prehpent towsraen –** The numbers come up at random.
+**Ia numers prehpent towsraen –** the numbers come up at random
 
-**Tsay {tsay} –** back, again
+**Tsay {tsay} –** back
 
-**I peinds gwehment tsay –** The enemies are coming back.
+**I peinds gwehment tsay –** The enemies are coming back
 
 **Tun {tun} –** then *(temporal adverb)*
 
-**Tun el magv visit un serpent ep id gras –** Then the child saw
-a snake on the grass.
+**Tun el magv visit un piurneus serpent ep id charagah –** then the
+child saw a snake on the grass
 
-**Wa {wa} –** ed/or *(to indicate alternative names)*
+**Wa {wa} –** and/or *(to indicate alternative names)*
 
 **Feira de Santana wa “Princesse Urb” est id second mierst urb os Bahia
-–** Feira de Santana or “Princess City” is the second largest city of 
-Bahia.
+–** Feira de Santana or “Princess City” is the second largest city of
+Bahia
 
 **Wakea {wakEa} –** definitely
 
-**Is est wakea is meist preparet **– He's definitely the best prepared one.
+**Is est wakea is meist preparet **– he's definitely the best prepared
+one
 
-**Way {way} –** unfortunately, alas !
+**Way {way} –** alas, unfortunately
 
-**Way ia mohrit –** Alas, she died.
+**Way ia mohrit –** alas, she died
 
 **We {we} –** or *(separes clauses)*
 
-***Ne woidim an kaupo un wogh we io safer do Tyrkia –** I don't know if I 
-buy a car or travel to Turkey.
+***Ne woidim an kaupo un wogh we io safer do Tyrkia –** I don't know if
+I buy a car or travel to Turkey*
 
 **Weidwos {wEydwos} –** of course
 
-**Weidwos od sambahsa est facil –** Of course that Sambahsa is easy.
+**Weidwos od Sambahsa est facil –** of course that Sambahsa is easy
 
 **Yadi {yAdi} –** if only
 
-***Yadi Jorge hieb esen perodhsedd, hol esiet different –** If only Jorge
-had been the chairman, everything would be different.*
+***Yadi Jorge hieb esen perodhsedd, hol esiet different –** if only
+Jorge had been the chairman, everything would be different*
 
-**Yani {yAni} –** that is to say (to bring a precision)
+**Yani {yAni} –** that is to say *(to bring a precision)*
 
-**Babys sont pur, yani, i ne hant synt –** Babies are pure, that is to say,
-they haven't sin.
-**…i hant neid synt –** …they have no sin.
+**Babys sont pur, yani, i ne hant synt –** babies are pure, that is to
+say, they haven't sin
 
-**(Ya)schi {(yA)ci} –** also, too *(“-schi” can be suffixed
-to a pronoun, an article or another invariable word if it's
-phonetically compatible and if it's the word concerned by the repetition)*
+**…i hant neid synt –** …they have no sin
 
-**Iaschi buit makhkoumihn ad mohrt –** She also was sentenced to death.
+**(Ya)schi {(yA)ci} –** too, also *(“-schi” can be suffixed to a
+pronoun, an article or another invariable word if it's phonetically
+compatible and if it's the word concerned by the repetition)*
 
-**Cavalls yaschi ghehdent ses usen ka transport forme – **Horses also can be
-used as a means of transportation.
+**Iaschi buit aunstohmen ad mohrt –** she also was sentenced to death
+
+**Cavalls yaschi ghehdent ses usen ka transport forme –** horses also
+can be used as a means of transportation
 
 **Yed {yed} –** yet, however
 
-**Yed, is postalion ne gwohmit. –** Yet, the postman didn't come.
+**Yed, is postalion ne gwohmit –** yet, the postman didn't come
 
 **Yeji {yEji} –** according to
 
-***Yeji id Traiteit os Amritsar, is Radja os Jammu, Gulab Singh, bihsit is nov wanak os Kashmir –** pursuant to the Amritsar Traiteit, the Ralah of Jammu, Gulab Singh, became the new ruler of Kashmir*
+**Yeji id Traiteit os Amritsar, is Radja os Jammu, Gulab Singh, bihsit
+is nov wanak os Kashmir –** pursuant to the Amritsar Traiteit, the Ralah
+of Jammu, Gulab Singh, became the new ruler of Kashmir
 
-***Strehcend uper circa 9,6 millions km², China est tienxia dwot plautsto Stat yeji id land superficie –** spanning over around 9,6 millions km², China is the second or third largest country of the world according to land surface*
+**Strehcend uper circa 9,6 millions km², China est tienxia dwot plautsto
+Stat yeji id land superficie –** spanning over around 9,6 millions km²,
+China is the second or third largest country of the world according to
+land surface
 
 **Yeji Einstein, dwo jects sont aunfin, id universe ed mensc cacavania
-–** According to Einstein, two things are endless, the universe and 
-human stupidity.
+–** according to Einstein, two things are endless, the universe and
+human stupidity
 
 **Yunyun {yunyUn} –** and so on
 
-**Un cycliste safert 20Km in id prest hor, 16 in id second yunyun –** A
-cycliste travels 20 kmin the first hour, 16 in the second one, and so on.
+**Un cyclist safert 20Km in id prest hor, 16 in id second yunyun –** a
+cycliste travels 20 kmin the first hour, 16 in the second one, and so on
 
-SOME DOUBTS THAT CAN APPEAR
----------------------------
+[]{#anchor-388}SOME DOUBTS THAT CAN APPEAR
+------------------------------------------
 
-I've tried to explain the conjunctions well in the examples, I've even used very similar examples in order to evidence the differences, but some doubts can remain. In this subchapter I try to predict some of them and I try to answer them.
+I've tried to explain the conjunctions well in the examples, I've even
+used very similar examples in order to evidence the differences, but
+some doubts can remain. In this subchapter I try to predict some of them
+and I try to answer them.
 
-### WHAT'S THE DIFFERENCE BETWEEN “BET” AND “MEN”?
+### []{#anchor-389}WHAT'S THE DIFFERENCE BETWEEN “BET” AND “MEN”?
 
 While “bet”, the most common, presents a real opposition, “men” doesn't
 present real oposition. Look the examples below:
 
-**(1) Ne eddo **[]{#anchor-283}**leckereits, MEN ne som diabetic –** I
+**(1) Ne eddo **[]{#anchor-390}**leckereits, MEN ne som diabetic –** I
 don't eat candies, but I am not diabetic
 
 **(2) Ia orbat in un kiekwrschop, MEN ia ne est veterinar –** she works
-in a pet shop, but she is not veterinar
+in a pet shop, but she is not veterinarian
 
 **(3) Kamo sports, BET ne som un athlete –** I like sports, but I am not
 an athlete
@@ -6044,253 +6569,264 @@ an athlete
 **(4) Gwivs in id eust, BET eiskws gwive in id west –** you live in the
 east, but you want to live in the west
 
-Observe that, in (1), if I don't eat candies, it doesn't necessarly mean
-that I am diabetic; in (2) the woman works in a pet shop, but she
-doesn't have to be veterinar to work there. But in (3), if I say that I
-like sports, many people may presume that I am an athlete; in (4) the
+Observe that, in (1), if I don't eat candies, it doesn't necessarily
+mean that I am diabetic; in (2) the woman works in a pet shop, but she
+doesn't have to be veterinarian to work there. But in (3), if I say that
+I like sports, many people may presume that I am an athlete; in (4) the
 person lives in the east, so it's assumed that he/she wanted to live
 there, but in reality his/her desire is otherside.
 
 Don't worry so much, because the choose between “men” and “bet” is very
 *subjective*, some can say that if you work in a pet shop, much probably
-you are a veterinar, thus we should use “bet” instead “men” in (2). In
-(3), if you live in a place where people like sports a lot, but it's
+you are a veterinarian, thus we should use “bet” instead “men” in (2).
+In (3), if you live in a place where people like sports a lot, but it's
 common that almost nobody practice such activities, “men” can be used.
 
+[]{#anchor-391}PREPOSITIONS
+===========================
 
-PREPOSITIONS
-============
+Prepositions are words that establish the relationship, of subordinative
+type, between two terms of a sentence. Most of the Sambahsa prepositions
+can be used as conjunctions too. The prepositions are:
 
-Note that many Sambahsa prepositions can be used as conjunctions or adverbs too
-*(see the dictionary in case of doubt)*
+**Ab {ab} –** by *(after a verb in the passive).* *This preposition
+becomes “af” when before words that begins with “h”. It also can means
+“as of” or “starting from”*
 
-**Ab {ab} –** by *(after a verb in the passive).* This preposition turns to "af"
-if the next word begins with a "h". Otherwise, it can mean "starting from".
+**Id torte buit edden ab me –** the pie was eaten by me
 
-**Id torte buit edden ab me –** The pie was eaten by me.
-
-**Af hoyd –** from today.
+**Af hoyd –** from today
 
 **Ad {ad} –** at. *Very useful when the dative cannot be used.*
 
-**Yeiso un blixbrev ad Henrique –** I send an e-mail to Henrique.
+**Yeiso un blixbrev ad Henrique –** I send an e-mail to Henrique
 
-***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** She went
-off tosee if her car had left the reparation service.
+***Ia ihsit ad vide an ays wogh hieb likwt id reparation service –** she
+went off to see if her car had left the reparation service*
 
-**Ant {ant} –** in front of
+**Ant {ant} –** before, in front of
 
 **Ant id scol –** in front of the school
 
 **Ant id thron** – in front of the throne
 
-**Apo {Apo} –** off. Can be reduced to "ap" before a vowel.
+**Apo {Apo} –** off. *It can be reduced to “ap” when before vowels.*
 
-**Grand Britain lyehct apo id Europay dayluk –** Great Britain is located off
-the European mainland.
+**Grand Britain lyehct apo id Europay dayluk –** Great Britain is
+located off the European mainland
 
 **Apter {Aptër} –** behind
 
-**Apter id dru –** behind the tree
+**Apter id dru –** behind the trees
 
 **Apter iam mater –** behind the mother
 
-**Id urb est apter id forest – **The city is behind the forest.
+**Id urb est apter id forest –** the city is behind the forest
 
-**Aun {Aon}– **without
+**Aun {Aon} –** without
 
-**Som aun chifan –** I'm without a meal.
+**Som aun chifan –** I'm without meal
 
 **Bayna {bAyna} –** among
 
-**Smos bayna i peinds –** We are among the enemies.
+**Smos bayna i peinds –** we're among the enemies
 
-**Id vallee est bayna ia ghyors –** The valley is among the mountains.
+**Id vallee est bayna ia ghyors –** the valle is among the mountains
 
-**Is planit id competition bayna i daskals –** He planned the competition 
-among the teachers.
+**Is planit id competition bayna i daskals –** he planned the
+competition among the teachers
 
-**Bi {bi} –** at *(workplace, shop)*, in *(the work of an author)*, by *(idea
-of non-permanent proximity)*.
-This preposition frequently merges with the pronoun-definite article in the dative
-or accusative. bi + ei = bei; bi + ay = bay; bi + el = bil; bi + im = bim;
+**Bi {bi} –** at *(workplace, shop), in (the work of an author), by
+(idea *
+
+*of non-permanent proximity)*. *This preposition often merges with
+pronouns in the dative and accusative forms. bi + ei = bei; bi + ay =
+bay; bi + el = bil; bi + im = bim.*
 
 **Fruits sont kaupen bi mercat –** fruits are bought at the market
 
-**Manskwo bi mien sokwi ep tod walu –** I want to stand by my companion on that
-battlefield.
+**Manskwo bi mien sokwi ep tod walu –** I want to stand by my companion
+on that battlefield
 
 **Sei yed id dayi progress dehlct ses, bi Kant kam bi Condorcet, id
-norme quod permitt judce Historia… –** If however the idea of progress must be,
-in Kant as in Condorcet, the norm that allows to judge History...
+norme quod permitt judce Historia… –** if however the idea of progress
+must be, in Kant as in Condorcet, the norm that allows to judge History…
 
 **Bila {bIla} –** in lack of, failing
 
 **Bila satisfacend communicationzariyas ed efficienta
-transportsnetwehrgs, ia electoral campagnes sont difficil ductu –**In lack
-of satisfying communication means and transportation networks, electoral
-campaigns are hard to carry on.
+transportsnetwehrgs, ia electoral campagnes sont difficil ductu –** in
+lack of satisfying communication means and transportation networks,
+electoral campaigns are hard to carry on
 
-**Cis {tsis} –** On this side (where I am)
+**Cis {tsis} –** on this side (where I am)
 
-**Cis tod fluv –** On this side of the river.
+**Cis tod fluv –** on this side of the river
 
 **Con {kon} –** with *(idea of company)*
 
 **Som con te –** I'm with you.
 
-**Safersiem con iom –** I will travel with him.
+**Safersiem con iom –** I will travel with him
 
-**Weiko con mien esor – **I live with my wife.
+**Weiko con mien esor –** I live with my wife
 
 **Tolko con Olivier –** I'm talking with Olivier
 
 **Contra {kOntra} –** against
 
-**I katuer contra nos –** They fought against us.
+**I katuer contra nos –** they fought against us
 
-**Circa {tsIrka} – **about, approximately
+**Circa {tsIrka} –** about, approximately
 
-**Is est circa dwo meters buland–** He's approximately two meters high.
+**Is est circa dwo meters buland–** he's approximately two meters high
 
-**Dayir {dAyir} –** concerning, for what pertains to
+**Dayir {dAyir} –** concerning
 
-**Ia conflicts dayir wed bihnt schowi imminent –** By consequence, 
-conflicts about water are getting imminent. 
+**Ia conflicts dayir wed bihnt schowi imminent –** by consequence,
+conflicts about water are getting imminent
 
 **De {de} –** about
 
-**Tod buk est de drus –** This book is about trees.
+**Tod buk est de drus –** this book is about trees
 
-**Dia {dya} –** towards (in a moral, figurative sense)
+**Dia {dya} –** towards *(in a moral, figurative sense)*
 
 **Id majoritat os Kashmirs population esiet nuntos ryowkhowo dia
-independence –** The majority of Kashmir's population would be from
-now on favorable towards independence.
+independence –** the majority of Kashmir's population would be from now
+on favorable towards independence
 
-**Som allergic dia penicillin –** I'm allergical at penicillin.
+**Som allergic dia penicillin –** I'm allergical at penicillin
 
-**Do {do} –** into
+**Do {do} –** (in)to
 
-**Wey safersiemos do Espania –** We will travel (in)to Spain.
+**Wey safersiemos do Espania –** we will travel (in)to Spain
 
 ***Ho adapten sem reconstruct nams em antique hindeuropay divs do
-Sambahsa – **I have adapted some reconstructed names of antique 
-Indo-european gods into Sambahsa.*
+Sambahsa –** I have adapted some reconstructed names of antique
+Indo-european gods into Sambahsa*
 
-**Due {dü:}–** due to
+**Due {dü:} –** due to
 
-**Due id seuy, khako linkwes mien dom – **Because of (due to) the rain, 
-I can't leave my house.
+**Due id seuy, khako linkwes mien dom –** because of (due to) the rain,
 
-**En {en} –** here is/are + acc
+I can't leave my house
+
+**En {en} –** here is/are *+ acc*
 
 ***En id antwehrd –** here is the answer*
 
 **Ender {Endër} –** beneath, underneath *(doesn't imply contact)*
 
-**Ter est un kwaun ender id meja –** There is a dog beneath the table.
+**Ter est un kwaun ender id meja –** there is a dog beneath the table
 
-**Ender nebhs sont id land ed id mar –** Beneath the clouds there are the
-land and the sea.
+**Ender nebhs sont id land ed id mar –** bthe mouth beneath the
+noseeneath the clouds there are the land and the sea
 
-**Id stohm ender id nas –** the mouth beneath the nose.
+**Id stohm ender id nas –** the mouth beneath the nose
 
-**Endo {Endo} –** within, inside (with movement)
+**Endo {Endo} –** within, inside *(with movement)*
 
-**El monster fugit endo id antro –** The monster fled inside the cave-den.
+**El monster fugit endo antro –** the monster fled inside the cave-den
 
-**Engwn {Engun} – **along
+**Engwn {Engun} –** along
 
-**Tod permitt mette precis-ye engwn ia walls ed flors **– This allows to 
-mow with precision along the remparts and the flowers.
+**Tod permitt mette precis-ye engwn ia walls ed flors **– this allows to
+mow with precision along the remparts and the flowers
 
-**Eni {Eni} –** within, inside
+**Eni {Eni} –** within
 
-**Eni mien corpos ter sont vehrms –** There are worms inside my body.
+**Eni mien corpos ter sont vehrms –** there are worms inside my body
 
-**Ep {ep} –** on *(touches the object). Turns to "ef" before "h-".*
+**Ep {ep} –** on *(touches the object)*. *Before “h” this preposition
+becomes “ef”, like is done with “ab”*
 
-**Ter est un rat ep id meja –** There is a rat on the table.
+**Ter est un rat ep id meja –** there is a rat on the table
 
-**Epter {Eptër} –** just over (ex: a garment on another one, or looking over a 
-shoulder)
+**Epter {Eptër} –** just over *(ex: a garment on another one, or looking
+over a shoulder)*
 
 **Ia dohm-se ep id bors om sien peds, ed, glanzend epter id leizdo ios
-mur, ayso spect incontrit tod uns buland wir –** She stood upright on the tip
-of her feet, and, glancing over the edge of the wall, her look met the one of 
-a tall man.
+mur, ayso spect incontrit tod uns buland wir –** she stood upright on
+the tip of her feet, and, glancing over the edge of the wall, her look
+met the one of a tall man
 
 **Ex {eks} –** out of, from (within)
 
-**Som ex Brasilu –** I'm from Brazil.
+**Som ex Brasilu –** I am from Brazil
 
-**Un helm ex stal –** A helmet (made) of steel.
+**Un helm ex stal –** a helmet (made) of steel
 
-**El kwaun gwehmt ex id dom –** The dog comes out of the house.
+**El kwaun gwehmt ex id dom –** the dog comes out of the house
 
-Look at the difference between “ex” and “exo”
+Look the difference between “ex” and “exo”
 
-***El kwaun est ex****o**** id dom –** The dog is outside the house.
+***El kwaun est ex****o**** id dom –** the dog is outside the house*
 
-*When is not possible to express the idea of “made of” or “from certain place”, the preposition “ex” passes the idea of movement.*
+When is not possible to express the idea of “made of” or “from certain
+place”, the preposition “ex” passes the idea of movement.
 
-**In {in} – **in
+**In {in} –** in
 
-**Som in id strad X –** I'm in Street X
+**Som in id strad X –** I am in the street X
 
-**Ghehdo bahe in dwodem bahsas –** I can speak in twelve languages.
+**Ghehdo bahe in dwodem bahsas –** I can speak in twelve languages
 
-**Credeihm in fees –** I believe in fairies.
+**Credeihm in fees –** I believe in fairies
 
 **Instet {instEt} –** instead (of)
 
-**Instet swehpe, ma ne orbats? –** Instead of sleeping, why don't you work ?
+**Instet swehpe, ma ne orbats? –** instead of sleeping, why don't you
+work?
 
 **Inter {Intër} –** between
 
-**Ia bent est inter dwo geronts –** The girl is between two old men.
+**Ia bent est inter dwo geronts –** the girl is between two old men
 
-***Id joyel eet inter ia colunns –** The jewel was between the columns.*
+***Id joyel eet inter ia colunns –** the jewel was between the columns*
 
 **Kata {kAta} –** from above, down
 
 **Mathalan, ia pinegs hangend kata id mur nieb id ogwn quanta tengier
-gwiv –** For example, the paintings on the wall near the fire all
-seemed to be alive.
+gwiv –** for example, the paintings on the wall near the fire all seemed
+to be alive
 
-**Kye {kye} –** in the direction of. *This preposition merges itself with the following determinat or the pronoun in the 3rd person, it's not rare to find something like kyid (kye + id).*
+**Kye {kye} –** in the direction of. *This preposition merges itself
+with the following determinat or the pronoun in the 3*^*rd*^* person,
+it's not rare to find something like kyid (kye + id).*
 
-**Vahm gwahe kye mien dom –** I shall go soon in the direction of my house.
+**Vahm gwahe kye mien dom –** I shall go soon in the direction of my
+house
 
-**Is fallit kya dubes ios hayd –** He fell towards the depths of Hell.
+**Is fallit kya dubes ios hayd –** he fell towards the depths of Hell
 
-**To ne est bad perfection, sontern to est un itner kye –** This is not yet
-perfection, but this is a way in (that) direction.
+**To ne est bad perfection, sontern to est un itner kye –** this is not
+yet perfection, but this is a way in (that) direction
 
-**Kyant {kyant} = kye + ant –** towards *(coming in the opposite direction of)
+**Kyant {kyant} = kye + ant –** towards* (coming in the opposite
+direction of)*
 
-**Io vis iom gwehme kyant me –** I saw him coming towards me.
+**Io vis iom gwehme kyant me –** I saw him coming towards me
 
 **Med {med} –** with *(an instrument)*.
 
-**Is magician construgit un castell med sien magia – **The magician built a 
-castle with his magics.
+**Is magician construgit un castell med sien magia –** the magician
+built a castle with his magics
 
-**Saferam med wogh –** We traveled in a car.
+**Saferam med wogh –** we traveled in a car
 
 **Med alya werds –** with other words
 
 **Medsu {mEdsu} –** amidst, in the middle of
 
-**Eduarda khiek sib stambhes glihes medsu sien dakrus –** Eduarda couldn't 
-help herself from laughing in the middle of her tears.
+**Eduarda khiek sib stambhes glihes medsu sien dakrus –** Eduarda
+couldn't help herself from laughing in the middle of her tears
 
 **Arriveer bad in vid unios mier menegh medsu quod is Lion ed is Unicorn
-eent katuend –** They eventually arrived in sight of a big crowd in the
-middle of which the Lion and the Unicorn were fighting.
+eent katuend –** they eventually arrived in sight of a big crowd in the
+middle of which the Lion and the Unicorn were fighting
 
-**Mustathna {mustA§na} –** apart from, except
+**Mustathna {mustA§na} –** apart from
 
 **3.729.500 leuds gwiveer dien 1sto Januar 2015 in Kartvelia (mustathna
 Abkhasia ed Sud-Iristan) –** 3.729.500 people were living on the 1st of
@@ -6298,257 +6834,273 @@ January 2015 in Georgia (not counting Abkhazia and South Ossetia)
 
 **Na {na} –** in continuation to
 
-***J. K. Rowling scripsit alya Harry Potter buks na “The Philosopher's Stone” –** J. K. Rowling wrote other Harry Potter books in continuation to “The Philosopher's Stone”*
+**J. K. Rowling scripsit alya Harry Potter buks na “The Philosopher's
+Stone” –** J. K. Rowling wrote other Harry Potter books in continuation
+to “The Philosopher's Stone”
 
 **Nespekent {nëspEkënt} –** despite
 
 **Nespekent sien situation, Sophia biey meis pro iom quem pro se ye cid
-moment –** Despite her situation, Sophi feared more for him than for
-herself at this moment.
+moment –** despite her situation, Sophi feared more for him than for
+herself at this moment
 
 **Nieb {nyeb} –** next to, on the side of, beside
 
-**Id dru est nieb id dom –** The tree is by the house.
+**Id dru est nieb id dom –** the tree is by the house
 
 **Ob {ob} –** because (of)
 
-**Eddo sabzi ob id suasmehct –** I eat vegetables because they taste good.
+**Eddo sabzi ob id suasmehct –** I eat vegetables because they taste
+good
 
-**Dank ob id antwehrd –** Thanks for the answer
+**Dank ob id antwehrd –** thanks for the answer
 
-**Ois {oys} –** coming from, having its origin in. *Sometimes written “oys”.*
+**Ois {oys} –** coming from, having its origin in. *Sometimes it is
+written as “oys”.*
 
 **Tuntos, ad pelu Stats ois id decolonisation moliet trehve ir tula –**
-From this time, many States born out of the decolonization had
-difficulties to find their balance.
+from this time, many States born out of the decolonization had
+difficulties to find their balance
 
-I think that is better I explain what “ad” is doing in “ad pelu Stats” for those who didn't understand. In the example was used the verb “molie”, which means “to be difficult to”, that's why was necessary the use of “ad” for indicating the indirect object. The real subject of “moliet” is “trehve”.
+I think that is better I explain what “ad” is doing in “ad pelu Stats”
+for those who didn't understand. In the example was used the verb
+“molie”, which means “to be difficult to”, that's why was necessary the
+use of “ad” for indicating the indirect object. The real subject of
+“moliet” is “trehve”.
 
 **Pati {pAti} –** including
 
 **Ceters hieb esen lusen unte id naufrage, pati vasya mehmens os eys
-gwito tuntro –** All other things had been lost during the shipwreck, 
-including all the memories of his life until then.
+gwito tuntro –** all other things had been lost during the shipwreck,
+including all the memories of his life until then
 
-**Sayg mi tien adresse, pati tien postal code –** tell me your address, inclunding your postal code
+***Sayg mi tien adresse, pati tien postal code –** tell me your address,
+inclunding your postal code*
 
 **Per {per} –** through
 
-**Skapam per cid passage –** We escaped through this passage.
+**Skapam per cid passage –** we escaped through this passage
 
-**Presaygo id future per mien cristall ball –**I foretell the future 
-through my cristal ball.
+**Presaygo id future per mien cristall ball –** I foretell the future
+through my cristal ball
 
-***Dec kilometers per hor –** ten kilometers per hour*
+**Dec kilometers per hor –** ten kilometers per hour
 
 **(Per)ambh {(për)Amb} –** around
 
-***Piends sont ambh nos –** Enemies are around us*
+***Piends sont ambh nos –** enemies are around us*
 
-**Ia ghyors perambh id vallee –** The mountains around the valley.
+**Ia ghyors perambh id vallee –** the mountains around the valley
 
-Ter est wed perambh id insule – There is water around the island.
+Ter est wed perambh id insule – There is water around the island
 
 **Ploisko {plOysko} –** except
 
-**Eddo quant genos os miems, ploisko pork –** I eat all kind of meat, 
-except pork.
+**Eddo quant genos os miems, ploisko pork –** I eat all kind of meat,
+except pork
 
-**Po {po} –** for *(in exchange of; in search for)*
+**Po {po} –** for *(in exchange of, in search for)*
 
-**Io exchange un apel po un banane –** I exchange an apple for a banana.
+**Io exchange un apel po un banane –** I exchange an apple for a banana
 
 **Pon {pon} –** since, for
 
-**Som her pon id auror –** I'm here since dawn.
+**Som her pon id auror –** I'm here since dawn
 
-**Pon kamdiu reidneute yu in plen diewo? –** For how long have you been
-riding in full daylight ? (notice the use of the durative -neu-, I'll talk about it in the appropriate chapter)
+**Pon kamdiu reidneute yu in plen diewo? –** for how long have you been
+riding in full daylight? (notice the use of the durative -neu-, I'll
+talk about it in the appropriate chapter)
 
 **Pos {pos} –** after
 
-**Tolko tib pos io arrive –** I (will) talk to you after I (will) arrive.
+**Tolko tib pos io arrive –** I (will) talk to you after I (will) arrive
 
-***Ho corregen werd pos werd –** I've corrected word by word*
+**Ho corregen werd pos werd –** I've corrected word by word
 
-**Pre {pre} –** before (in time)
+**Pre {pre} –** before *(in time)*
 
-**Tolko tib pre linkwo –** I talk to you before I leave.
+**Tolko tib pre linkwo –** I talk to you before I leave
 
-**Pri {pri} –** by, along (idea of movement)
+**Pri {pri} –** by, along *(idea of movement)*
 
-**Is vis un bloudun reider qui galoppit pri iom dextos levtro –** He saw
-a blue-clad rider who was galopped before him from the right to the left.
+**Is vis un bloudun reider qui galoppit pri iom dextos levtro –** he saw
+a blue-clad rider who was galopped before him from the right to the left
 
-**Quando yu gwahsiete pri id cocin –** When you'll go by the kitchen
+**Quando yu gwahsiete pri id cocin –** when you'll go by the kitchen
 
-**El shamyu snahsit pri me –** The shark was swimming along me.
+**El shamyu snahsit pri me –** the shark was swimming along me
 
 **Pro {pro} –** for (the benefit of), to, per
 
-**Kieupim un cavall pro te –** I bought a horse for you.
+**Kieupim un cavall pro te –** I bought a horse for you
 
-**Eiskwo un wogh pro miena safers – **I want a car for my travels.
+**Eiskwo un wogh pro miena safers –** I want a car for my travels
 
-**El behrger mohrit pro vies gwits –** The saviour died for your lives.
+**El behrger mohrit pro vies gwits –** the saviour died for your lives
 
-***Dec kilometers pro hor –** ten kilometers per hour*
+**Dec kilometers pro hor –** ten kilometers per hour
 
-***To est nearyo pro me –** that's Greek to me / it's double Dutch*
+**To est nearyo pro me –** that's Greek to me / it's double Dutch
 
 **Prod {prod} –** ahead (of)
 
-**Noster chef semper ghanct prod nies grupp –** Our chief is always walking
-ahead of our group.
+**Noster chef semper ghanct prod nies grupp –** our boss always walks
+ahead the group
 
-**Prokwe(m) {prOkwë(m)}–** near, close to
+**Prokwe(m) {prOkwë(m)} –** near, close to
 
-**El animal est prokwe me –** The animal is close to me.
+**El animal est prokwe me –** the animal is close to me
 
 **Prosch {proc} –** close(r) to *(idea of approaching)*
 
-**Id wogho gwehmt prosch me –** The car is approaching me.
+**Id wogho gwehmt prosch me –** the car is approaching me
 
 **Protie {protI:} =** contra
 
-**I katueer protiev nos –** They fought against us.
+**I katueer protiev nos –** they fought against us
 
 **Protiev {protyEv} = **Protie
 
-**Samt {samt} –** with (circumstance, description)
+**Samt {samt} –** with *(circumstance, description)*
 
-**Un wir samt blou okwi –** A blue-eyed man.
+**Un wir samt blou okwi –** a blue-eyed man
 
-**Cid familia gwivt samt maungo noroc –** This family lives with a 
-lot of happiness.
+**Cid familia gwivt samt maungo noroc –** this family lives with a lot
+of happiness
 
-**Cheuso mien werds samt kaur –** I choose my words carefully.
+**Cheuso mien werds samt kaur –** I choose my words carefully
 
 **Sekwos {sEkwos} –** following
 
 **Sekwos id swodetermination referendum os 1sto Jul 1962, Algeria
-proclamet sien independence –** Following the self-determination
-referendum of July 1st, 1962, Algeria proclaims its independence.
+proclamet sien independence –** following the self-determination
+referendum of July 1st, 1962, Algeria proclaims its independence
 
-**Speit {speyt} –** despite *(with a idea of disappointment)(is a 
+**Speit {speyt} –** despite *(with a idea of disappointment)(is a
 substantive as well)*
 
-**Id tank, speit gwaur leusa, tadrijan upertrehsit eyso squadron –** 
-The tank, despite heavy losses, managed to get through his squadron.
+**Id tank, speit gwaur leusa, tadrijan upertrehsit id squadron –** the
+tank, despite heavy losses, managed to get through his squadron
 
 **Sub {sub} –** under *(often implies contact)*
 
-**Ter est un arank sub id meja –** There's a spider under the table.
+**Ter est un arank sub id meja –** there's a spider under the table
 
-**Sub un peruca ter est un calv cap –** Under a wig there's a bald head.
+**Sub un peruca ter est un calv cap –** under a wig there's a bald head
 
-**Subpoena {subpOyna} –** under fear of*(penalty)*
+**Subpoena {subpOyna} –** under fear of *(penalty)*
 
 **Uno mukhla al est tun dahn kay linkwes id land subpoena expulsion –**
 A deadline is then given to him/her in order to leave the country under
-threat of expulsion.
+threat of expulsion
 
 **Suisraen {swisrAyn} –** notwithstanding
 
 **Diplomatia ghehdeiht ia Stats suisraen ia differences iren
-constitutional ed social systemes, do mutual comprehension –**
-Diplomacy allows States, notwithstanding the differences of their
-constitutional and social systemes, to reach mutual understanding.
+constitutional ed social systemes, do mutual comprehension –** diplomacy
+allows States, notwithstanding the differences of their constitutional
+and social systemes, to reach mutual understanding
 
-**Suppose {supOz} –** supposing that
+**Suppose {supOzë} –** supposing that
 
 **Suppose mathalan yu subscripte un contract bi un pharmaceutic firma
-kay behrge vos ud diabetes –** Let's suppose, for example, that you 
-sign a contract with a pharmaceutical firm to keep you from diabetes.
+kay behrge vos ud diabetes –** let's suppose, for example, that you sign
+a contract with a pharmaceutical firm to keep you from diabetes
 
 **Swod {swod} –** in the way of, according to the custom of
 
-***Swod iens atavs (salaf) sokwis ios Prophet –** In the way of the 
+***Swod iens atavs (salaf) sokwis ios Prophet –** In the way of the
 ancestors (salaf) who followed the Prophet*
 
-**Tiel {tyel}–** up to, till. But before a verb, use “hin(a)”.
+**Tiel {tyel}–** till. *But before a verb we use “hin(a)”.*
 
-**Id verdia start ex id urb ed continuet tiel id mar –** The highway
-starts from the city and runs to the sea.
+**Id verdia start ex id urb ed continuet tiel id mar –** the highway
+starts from the city and runs to the sea
 
-**Cursim tiel mien dom –** I ran up to my house.
+**Cursim tiel mien dom –** I ran up to my house
 
 **Trans {trans} –** beyond
 
-**Trans tod fluv –** Beyond the river.
+**Trans tod fluv –** beyond the river
 
-**Trans destruge doms, hurcan Irma hat nicen leuds –** beyond the destruction of houses, the hurricane Irma has killed people
+**Trans destruge doms, hurcan Irma hat nicen leuds –** beyond the
+destruction of houses, the hurricane Irma has killed people
 
-**Ud {ud} –** from, of
+**Ud {ud} –** from
 
-**Un brev ud Clara –** A letter from Clara
+**Un brev ud Marta –** a letter from Marta
 
-**Ia kieupit un dom med denars ud ays pater –** She bought a house with 
-money from her father. 
+**Ia kieupit un dom med denars ud ays pater –** she bought a house with
+money from her father
 
 **Ulter {Ultër} –** besides, moreover, in addition to
 
 **Ulter id marche wehlen ios roy Huan, is conservit precieus-ye id royal
-titule yeji quod is poiss mutalbe id noble nam Vasconcelos –** In addition
-to the march order of King Huan, he kept preciously the royal title 
-according to which he had the right to claim the noble name Vasconcelos.
+titule yeji quod is poiss mutalbe id noble nam Vasconcelos –** in
+addition to the march order of King Huan, he kept preciously the royal
+title according to which he had the right to claim the noble name
+Vasconcelos
 
-**Uper {Üpër} –** over (it doesn't touche the object)
+**Uper {Üpër} –** over *(it doesn't touche the object)*
 
-**Un plav pleuct uper id tor –** A plane is flying over the tower.
+**Un plav pleuct uper id tor –** a plane is flying over the tower
 
-**Unte {Unt} –** during, in the space of* (temporal or spatial meaning)*
+**Unte {Untë} –** during, in the space of *(temporal or spatial
+meaning)*
 
 **Unte id wer –** during the spring
 
-**Unte id hall – **Within the hall
+**Unte id hall –** within the hall
 
-**I construgeer id tor unte ia yars –** They build the tower during the
-years.
+**I construgeer id tor unte ia yars –** they build the tower during the
+years
 
-***Unte tod wakt, in Washington –** During this time, in Washington*
+***Unte tod wakt, in Washington –** during this time, in Washington*
 
 **Sub id schock, is Waktprince remien aunmov unte un khvil –** Under the
-shock, the Prince of Time remained motionless for a while.
+shock, the Prince of Time remained motionless for a while
 
 **Vice {vits} –** at the place of *(it can also be used as a prefix)*
 
 **Henrique ne hat ghohden dake ia buks. Vice to, Olivier hat ei yist ia
-odt-documents –** Henrique could not get the books. Instead of this, 
-Olivier sent him the odt-documents.
+odt-documents –** Henrique could not get the books. Instead of this,
+Olivier sent him the odt-documents
 
 **Witerom {witërOm} –** opposite to *(it's also an adverb)*
 
-**Witerom id dikhliz, is daskal skohpt me –** On the opposite end of the
-gangway, the teacher was waiting for me. 
+**Witerom id dikhliz, is daskal skohpt me –** on the opposite end of the
+gangway, the teacher was waiting for me
 
-**Yant {yant} –** as soon as (can be used with substantives)
+**Yant {yant} –** as soon as *(can be used with substantives)*
 
-**Yant ho denars, kaupo un leuyk tib –** As soon as I get money, I buy you
-a toy.
+**Yant ho denars, kaupo un leuyk tib –** as soon as I get money, I buy
+you a toy
 
-**Ye {ye} –** *it doesn't have a defined meaning, it expresses a circumstance or condition, you use this preposition when no other is useful, it is our Joker card*
+**Ye {ye} –** *it doesn't have a defined meaning, it expresses a
+circumstance or condition, you use this preposition when no other is
+useful, it is our Joker card*
 
-**Ye mien surprise –** At my surprise
+**Ye mien surprise –** at my surprise
 
-**Ye mieno mayn –** In my opinion
+**Ye mieno mayn –** in my opinion
 
-**Io arrive do dom ye noct–** I arrive at the house at night.
+**Io arrive do hem ye noct –** I arrive at the house at night
 
 **Za {dza} –** in the back of
 
-**Za te! –** In your back !
+**Za te! –** in your back!
 
+[]{#anchor-392}SOME DOUBTS THAT CAN APPEAR
+------------------------------------------
 
-SOME DOUBTS THAT CAN APPEAR
----------------------------
+I've tried to explain the prepositions well in the examples, I've even
+used very similar examples in order to evidence the differences, but
+some doubts can remain. In this subchapter I try to predict some of them
+and I try to answer them.
 
-I've tried to explain the prepositions well in the examples, I've even used very similar examples in order to evidence the differences, but some doubts can remain. In this subchapter I try to predict some of them and I try to answer them.
+### []{#anchor-393}DIFFERENCE BETWEEN “MED” AND “PER”
 
-
-### DIFFERENCE BETWEEN “MED” AND “PER”
-
-What's the difference between the twho sentences below?
+What's the difference between the two sentences below?
 
 **Is magician hat construgen un castell med sien magia –** the magician
 has built a castle with his magic
@@ -6556,11 +7108,11 @@ has built a castle with his magic
 **Is magician hat construgen un castell per sien magia – **the magician
 has built a castle through his magic
 
-The second sentence is gramatically correct, but it gives the impression
-that the magician has build the castle with him in other dimension or
-distant place, while in the first sentence the magician has build the
-castle in the place where he was. Look whether with the example below
-you can understand:
+The second sentence is grammatically correct, but it gives the
+impression that the magician has build the castle with him in other
+dimension or distant place, while in the first sentence the magician has
+build the castle in the place where he was. Look whether with the
+example below you can understand:
 
 Glego per id fenster med mien durbin iam bikini-vehsend gwenak
 
@@ -6570,8 +7122,7 @@ woman
 Did you notice why my second example *(the one of the magician who has
 built the castle “per” his magic)* was strange?
 
-
-### DIFFERENCE BETWEEN “POS” AND “TRANS”
+### []{#anchor-394}DIFFERENCE BETWEEN “POS” AND “TRANS”
 
 “Pos” is initially an adverb, in other words, if you say a sentence like
 the one below:
@@ -6581,8 +7132,7 @@ the one below:
 The sentence above means something like: first it's necessary cross the
 forest before reaching the city.
 
-
-### DIFFERENCE BETWEEN “EX” AND “UD”
+### []{#anchor-395}DIFFERENCE BETWEEN “EX” AND “UD”
 
 Let's see three examples:
 
@@ -6595,11 +7145,10 @@ Let's see three examples:
 The “ex”, when not in the sense of “out”, is used for something made
 from the mentioned object or came from it, like a helmet of steel or a
 person from a country. The “ud” is used for things that didn't come from
-within the mencioned object, like we don't expect that the letter was
+within the mentioned object, like we don't expect that the letter was
 made from the body of Klara, so we use “ud” instead “ex”.
 
-
-### DIFFERENCE BETWEEN “VICE” AND “INSTET”
+### []{#anchor-396}DIFFERENCE BETWEEN “VICE” AND “INSTET”
 
 As prepositions both means the same thing, but “instet” can be also a
 adverb while “vice” also can be a prefix, like in “vice-president”.
@@ -6610,115 +7159,174 @@ odt-documents
 Henrique ne hat ghohden dake ia buks. *Vice to*, Olivier hat ei yist ia
 odt-documents
 
+[]{#anchor-397}ENCLITICS AND PROCLITICS
+=======================================
 
-ENCLITICS AND PROCLITICS
-========================
+Some of these words are not easy to be translated, but this chapter will
+teach you how to use them. Enclitics are words put after another word
+while proclitics are words put before another word.
 
-Some of these words are not easy to be translated, but this chapter will teach you how to use them. Enclitics are words put after another word while proclitics are words put before another word.
-
-The word “tun” is the demonstrative of “kun” or “quando”.
+The enclitic “tun” is the demonstrative of “kun” or “quando”.
 
 **Herodotos extendt tod nam do id continental hinterland, beuwend it
 Asia id trit part ios gnoht mundios tun –** Herodot extends this name to
 the continental hinterland, making thus of Asia the third part of the
 known world then* (at that time)*
-**Id Occidental nam ios land gwehmt sigwra ex id Medieval Chinese pronunciation tom khanjis, quod tun buit launto do id bahsa Indonesias ka “Jepang”, ed dind ab Portughesche nauts –** the Occidental name of the country surely comes from the Medieval Chinese pronounciation of those hanzis, which was then borrowed into Indonesian as “Jepang”, and afterwards by Portuguese sailors
 
-When you have to use some clitic, but you haven’t a word with the convenient accentuation that supports the clitic, you can use “nu” as a support, like in “nughi” *(nu + ghi)* or with the relative pronouns “yos”, “ya”, “yod”, “yel” *(for example: nu- yos, nu-yel)*.
+**Id Occidental nam ios land gwehmt sigwra ex id Medieval Chinese
+pronunciation tom khanjis, quod tun buit launto do id bahsa Indonesias
+ka “Jepang”, ed dind ab Portughesche nauts –** the Occidental name of
+the country surely comes from the Medieval Chinese pronunciation of
+those hanzis, which was then borrowed into Indonesian as “Jepang”, and
+afterwards by Portuguese sailors
 
-**Chanda ex Zambia, nu-yos suabaht Sambahsa, gnoht maung bahsas –** Chanda from Zambia, who speaks well Sambahsa, knows many languages
+When you have to use some clitic, but you haven’t a word with the
+convenient accentuation that supports the clitic, you can use “nu” as a
+support, like in “nughi” *(nu + ghi)* or with the relative pronouns
+“yos”, “ya”, “yod”, “yel” *(for example: nu- yos, nu-yel)*.
+
+**Chanda ex Zambia, nu-yos suabaht Sambahsa, gnoht maung bahsas –**
+Chanda from Zambia, who speaks well Sambahsa, knows many languages
 
 “ge” and “tar” are like “ghi”, but as, sometimes, the repetition of the
 particle “ghi” occurs very repeatedly, it's used these two particles.
 “ge” emphasizes personal pronouns and articles, while “tar” emphasizes
 interrogative pronouns.
 
-**Ia gehnsiet un son, ed ei dahsies id nam Jesus; is ge salvsiet sien popule ex idsa synts –** she will conceive a son, whom she will give the name Jesus; it’s him who will save his people from its sins
+**Ia gehnsiet un son, ed ei dahsies id nam Jesus; is ge salvsiet sien
+popule ex idsa synts –** she will conceive a son, whom she will give the
+name Jesus; it’s him who will save his people from its sins
 
 **Yed, isge ieg kam weysmee –** however, he did like we (did)
 
-*-ge is put together to a personal pronoun, in this sentence of the example -ge is here to emphasize the opposition with “wey-smee”*
+-ge is connected to a personal pronoun, in this sentence of the example
+-ge is here to emphasize the opposition with “wey-smee”
 
 **Quod tar tengicit is? –** what did he (really) look like?
 
-*Often “tar” and “ge” are not directly translated to another language, especially “tar”*
+Often “tar” and “ge” are not directly translated to another language,
+especially “tar”
 
 An excellent example with “nu” and “tar”:
 
 **Sei nu id luce quod est in te est temos, kam tar megil sessiet tod
-temos! –** if, therefore, the light that is in thee be darkness, how 
+temos! –** if, therefore, the light that is in thee be darkness, how
 great is that darkness!
 
 The enclitic “pet” reinforces identity, often translated as our “very”.
 
-**Henrique weict in idpet centre ios citad –** Henrique lives in the very center of the city
-    To write “…in idswo centre…” would be strange because it means “… in the center itself …”
+**Henrique weict in idpet centre ios citad –** Henrique lives in the
+very center of the city
 
-**Id brev hieb gwohmt unte idpet dwer ios laboratorium –** the letter had come through the very door of the laboratory
+To write “…in idswo centre…” would be strange because it means “… in the
+center itself …”
 
-**Est un prientlik geront quospet ghalv buit trohven medsu eys bustan –** it's a friendly old man whose very skull was found in the middle of his garden
+**Id brev hieb gwohmt unte idpet dwer ios laboratorium –** the letter
+had come through the very door of the laboratory
 
-**I reuschus leuds eent ipet parents ias magv –** the people who had rushed were *(precisely)* the parents of the child *(after that child had an accident)*
-    ipet = i (the definite article) + pet
+**Est un prientlik geront quospet ghalv buit trohven medsu eys bustan
+–** it's a friendly old man whose very skull was found in the middle of
+his garden
 
-When “pet” is used after a verb, it has the sense of “to be in the capacity of”.
+**I reuschus leuds eent ipet parents ias magv –** the people who had
+rushed were *(precisely)* the parents of the child *(after that child
+had an accident)*
 
-**Sei yu plais steighte con me do mien fiaker, duco-pet vos ad eys baytel –** if you accept to get in with me into my cab, I *(can)* drive you to his home
+*ipet = i *(the []{#anchor-398}definite article)* + pet*
 
-With adverbs of time and space the word “kye”, as an enclitic, reinforces the adverb.
+When “pet” is used after a verb, it has the sense of “to be in the
+capacity of”.
 
-**… ed terkye id sinister masse uns bina forstilb ids ghebel uper id strad –** … and just at that point, a certain sinister block of building thrust forward its gable on the street
+**Sei yu plais steighte con me do mien fiaker, duco-pet vos ad eys
+baytel –** if you accept to get in with me into my cab, I *(can)* drive
+you to his home
 
-**Ed mehnte ghi od is nos duxit tei stet querkye staht id dwer?! –** and where do you think he carried us but to that place with the door?!
+With adverbs of time and space the word “kye”, as an enclitic,
+reinforces the adverb.
 
-**“Nunkye”, bahsit alter, antwehrdte mi: “quois gnohte yu me?” –** “And now”, said the other, you answer me: “how did you know me?”
-    *Notice that “antwehrdte” and “gnohte yu” refer to one person, not to a group as it may look at a first moment. It's becauste it's used the pronoun of cortesy “yu”, indeed you only can know it by the context.*
+**… ed terkye id sinister masse uns bina forstilb ids ghebel uper id
+strad –** … and just at that point, a certain sinister block of building
+thrust forward its gable on the street
 
-**Tunkye eet circum nev saat ios aghyern, ed id prest nebule ios saison –** it was by this time about nine in the morning, and the first fog of the season
+**Ed mehnte ghi od is nos duxit tei stet querkye staht id dwer?! –** and
+where do you think he carried us but to that place with the door?!
 
-**Gheskye ia ne eevevis iom pon quasi dwo munts –** it was nearly two months since she had seen him till yesterday
+**“Nunkye”, bahsit alter, antwehrdte mi: “quois gnohte yu me?” –** “And
+now”, said the other, you answer me: “how did you know me?”
+
+Notice that “antwehrdte” and “gnohte yu” refer to one person, not to a
+group as it may look at a first moment. It's because it's used the
+pronoun of courtesy “yu”, indeed you only can know it by the context.
+
+**Tunkye eet circum nev saat ios aghyern, ed id prest nebule ios saison
+–** it was by this time about nine in the morning, and the first fog of
+the season
+
+**Gheskye ia ne eevevis iom pon quasi dwo munts –** it was nearly two
+months since she had seen him till yesterday
 
 The enclitic “wert” indicates reported speech.
 
-**Sambahsa estwert baygh interessant –** Sambahsa - it is said - is very interesting
+**Sambahsa estwert baygh interessant –** Sambahsa - it is said - is very
+interesting
 
-**Sekwent qui ghieng pri iens unte ir mingo promenades, bowert sieyg neid –** it was reported by those who encountered them in their Sunday walks, that they said nothing
+**Sekwent qui ghieng pri iens unte ir mingo promenades, bowert sieyg
+neid –** it was reported by those who encountered them in their Sunday
+walks, that they said nothing
 
-**Sekwent tom mertikwol, ia bent comwert hieb haben meis dekhschat quem gvol –** well, the child was not much the worse, more frightened, according to the Sawbones
+**Sekwent tom mertikwol, ia bent comwert hieb haben meis dekhschat quem
+gvol –** well, the child was not much the worse, more frightened,
+according to the Sawbones
 
-**Iswert liek stets meis confinit-se in id practis uper id laboratorium, quer is hatta swohp yando –** the doctor, it appeared, now more than ever confined himself to the cabinet over the laboratory, where he would sometimes even sleep (in the preceding sentence of the translation, what we know about the doctor is reported by his butler)
+**Iswert liek stets meis confinit-se in id practis uper id laboratorium,
+quer is hatta swohp yando –** the doctor, it appeared, now more than
+ever confined himself to the cabinet over the laboratory, where he would
+sometimes even sleep *(in the preceding sentence of the translation,
+what we know about the doctor is reported by his butler)*
 
 The proclitic “proe” is often translated as “already”.
 
-**Kun id nam os Hyde buit swohrt, Ustad Utterson proe-akowsicit, bet kun is chohx id klor, is khiek etidwoie –** when Hyde's name was uttered, Mr. Utterson was already listening, but when he checked the bit of wood, he no longer doubted it
+**Kun id nam os Hyde buit swohrt, Ustad Utterson proe-akowsicit, bet kun
+is chohx id klor, is khiek etidwoie –** when Hyde's name was uttered,
+Mr. Utterson was already listening, but when he checked the bit of wood,
+he no longer doubted it
 
-**Mien kerd hat tem aghnuet quem ioschi proe-plangiem –** I came away with that upon my heart, that I could have wept too
+**Mien kerd hat tem aghnuet quem ioschi proe-plangiem –** I came away
+with that upon my heart, that I could have wept too
 
-**… proeghi tetyohc pelu dwogimtias –** … a thing that had befallen many scores of times
+**… proeghi tetyohc pelu dwogimtias –** … a thing that had befallen many
+scores of times
 
-The set “… men (…) de …” or “… nu (…) de …” shows an opposition between two sentences:
+The conjunction “… men (…) de …” or “… nu (…) de …” shows an opposition
+between two sentences:
 
-**Olivier men weict in France; Henrique de in Brasilu –** Olivier lives *(on his side)* in France; Henrique *(for what regards him)* in Brazil
+**Olivier men weict in France; Henrique de in Brasilu –** Olivier lives
+*(on his side)* in France; Henrique *(for what regards him)* in Brazil
 
-**Central ed Eust Asia nu est befolct ab mongoloids. Indonesia de superpont uni aborigine substrat malays populations –** Central & East Asia is populated *(on its side)* by mongoloids. Indonesia ((on its side)* superposes malay populations to an aborigine substrate
+**Central ed Eust Asia nu est befolct ab mongoloids. Indonesia de
+superpont uni aborigine substrat malays populations –** Central & East
+Asia is populated *(on its side)* by mongoloids. Indonesia *(on its
+side)* superposes Malay populations to an aborigine substrate
 
-    *uni = un + i = ad un (dative singular)*
+uni = un + i = ad un (dative singular)
 
 “… men (…) de …” and “… nu (…) de …” have the very same role.
 
-But when “nu” is used alone, that’s to say, it’s not used in conjunction with “de”, it’s an adverb that means “namely”.
+But when “nu” is used alone, that’s to say, it’s not used in conjunction
+with “de”, it’s an adverb that means “namely”.
 
 **Un public wesnum est un contracto conclus ab un contragend magh, nu id
 Stat, ia regional au local autoritats –** a public procurement is a
 contract concluded by a contracting authority, namely/that is to say the
 State, the regional or local authorities (etc …)
 
-The enclitic affix -schi already was explained and the enclitic affix -smee will be explained soon.
+The enclitic affix -schi already was explained and the enclitic affix
+-smee will be explained soon.
 
-USEFUL AFFIXES
-==============
+[]{#anchor-399}USEFUL AFFIXES
+=============================
 
-Differently of other auxiliary languages, sambahsa rely more on borrowed
+Differently of other auxiliary languages, Sambahsa rely more on borrowed
 words than composed words. Sambahsa has so many languages as sources
 that is impossible to have a regular system of derivation, but some
 useful affixes can be listed.
@@ -6746,8 +7354,8 @@ add*eih* → add*it-* → addition
 
 The perfect stem of other verbs corresponds to their participles in “t”.
 
-PREFFIXES
----------
+[]{#anchor-400}PREFFIXES
+------------------------
 
 **ab- –** away
 
@@ -6757,7 +7365,7 @@ PREFFIXES
 
 **Apopater –** great-grandfather
 
-**be- –** *makes transitive verbs as be- in english*
+**be- –** *makes transitive verbs as be- in English*
 
 **begh(i)s- –** deprived of
 
@@ -6816,7 +7424,7 @@ preffixed to a word of “muslim” origin*
 
 **or- –** original, primeval, primitive
 
-**Oraryo – **pre-aryan or proto indo-european (aryo = aryan)
+**Oraryo – **pre-aryan or proto Indo-European (aryo = arian)
 
 **par- –** completion or fullfilled action
 
@@ -6861,14 +7469,15 @@ something.
 **Id mafia sib udtehrct id silence schahiden –** The Mafia gets the
 silence of witnesses by threatening them
 
-SUFFIXES
---------
+[]{#anchor-401}SUFFIXES
+-----------------------
 
-### EXPRESSING QUALITY OR STATE
+### []{#anchor-402}EXPRESSING QUALITY OR STATE
 
-In some cases it's added the suffix -e and it's submitted to apophony if possible.
+In some cases it's added the suffix -e and it's submitted to apophony if
+possible.
 
-**Long \[long\] (length) –** longe \[londj\] (lengthness)
+**Long \[long\] (length) –** longe \[londj\] (lengthiness)
 
 **Deub \[döb\] (deep) –** dube \[düb\] (deepness)
 
@@ -6883,15 +7492,17 @@ adjective and the derived form. For other adjectives is used the suffix
 **Mynder \[mÜndër\] (proud) –** Myndert \[mÜndërt\] (pride)
 
 It's possible the use of others affixes like -os and -ia. For words of
-romanic origin it's used -or and (i)tat.
+romance origin it's used -or and (i)tat.
 
-### EXPRESSING AN ACTION
+### []{#anchor-403}EXPRESSING AN ACTION
 
-If the own stem is not the sufficient, the ending -(e)n may be added *(or -sa for verbs ending with a stressed vowel sound)*. For verbs of romance origin is added -(t)ion is added to the verbal stem.
+If the own stem is not the sufficient, the ending -(e)n may be added
+*(or -sa for verbs ending with a stressed vowel sound)*. For verbs of
+romance origin is added -(t)ion is added to the verbal stem.
 
-### INDICATING THE PERFORMER OF AN ACTION
+### []{#anchor-404}INDICATING THE PERFORMER OF AN ACTION
 
-The most used is -er, very similar to english. A pratical set is -ant
+The most used is -er, very similar to English. A practical set is -ant
 for who makes the action, -eit for who suffers this action and -at to
 indicate the result or object of this action.
 
@@ -6899,9 +7510,9 @@ Is telephonant kwehrt un telephonat pro iom telephoneit
 
 The caller makes a phone call to the called
 
-### OTHER SUFFIXES
+### []{#anchor-405}OTHER SUFFIXES
 
-**-ar –** colection. For names of profession it means “maker of”
+**-ar –** collection. For names of profession it means “maker of”
 
 **-asc –** to become
 
@@ -6914,18 +7525,18 @@ modified because of nasal infix and other reasons)
 
 ***Vinber –** grape* (vin = vin)
 
-**-ble –** possibility. Very similar to the english -ble. If there is a
-risk of confusion with other conjugated form, then use -et (or -im if
-the -t is not possible)
+**-ble –** possibility. Very similar to the English -ble. If there is a
+risk of confusion with other conjugated form, then use **-et** *(or
+**-im** if the **-t** is not possible)*
 
 ***Dyehrcet –** glimpsable *(dyehrc = to glimpse)
 
-**-dem –** region. Very similar to english -dom.
+**-dem –** region. Very similar to English -dom.
 
 ***Roydem –** kingdom* (roy = king)
 
 **-eus –** adjetive of quality.* *It corresponds to the -ous from
-english
+English
 
 ***Bulbeus –** bulbous *(bulbe = bulb)
 
@@ -6965,13 +7576,19 @@ english
 **-iste –** participants or supporters of a study of something, theory
 or ideology
 
-**-ka –** makes the feminine diminutuve in a stressed syllable
+**-ka –** makes the feminine diminutive in a stressed syllable
 
-**Ritka & Hanko –** Hansel & Gretel
+**-ko –***** ***makes the masculine diminutive in a stressed syllable
 
-**-ko –***** ***makes the masculine diminutuve in a stressed syllable
+**Hansel & Gretel – **Hanko & Ritka[^3]
 
-**Ritka & Hanko –** Hansel & Gretel
+**Cat –** cat → catko
+
+**Dog –** kwaun → kwaunko
+
+**Kitchen –** cucin → (cu)cinko
+
+**Book –** buk → bukko
 
 **-lik –** -like
 
@@ -6991,7 +7608,7 @@ within of a compounded word
 
 **-ner –** masculine suffix
 
-***Eireanner –** irishman* (eirean = pessoa ou coisa da irlanda)
+***Eireanner –** irishman* (eirean = person or thing from Ireland)
 
 **-nic – **pejorative *(masculine)*
 
@@ -7001,7 +7618,10 @@ within of a compounded word
 
 **-on –** precision *(with hyphen)*
 
-***Segim mien diemens. Bet ye tod-on momento, ies Orks vols ed exkardkiesch ir simitars ed dagas –** I cut my bonds. But at this very moment, the Orcs turned around and pulled out their scimitars and daggers*
+**Segim mien diemens. Bet ye tod-on momento, ies Orks vols ed
+exkardkiesch ir simitars ed dagas –** I cut my bonds. But at this very
+moment, the Orcs turned around and pulled out their scimitars and
+daggers
 
 **-os –*** *on a verb it means “game of”
 
@@ -7013,30 +7633,37 @@ within of a compounded word
 left our parents
 
 **-ster –** feminine suffix. Use this only there are no problems with
-change of accentation
+change of accentuation
 
 **-ure –** on the perfect stem it means “result” or “quality”
 
-**-went –** maks adjectives, corresponds to the english -ful. For matter
+**-went –** maks adjectives, corresponds to the English -ful. For matter
 of accentuation, this suffix counts as apart substantive within of a
 compounded word.
 
 ***Dakruwent –** tearful (dakru = tear)*
 
-STYLE
-=====
+[]{#anchor-406}STYLE
+====================
 
-Different from the national languages, which have native speakers inserted
-in a determined social context, sambahsa is to be spoken between people
-of different backgrounds. A mongolian will find difficulties in
-understanding a person who speaks in the german way, regardless how the Sambahsa of this second person is grammatically correct and how his pronunciation is good.
+Different from the national languages, which have native speakers
+inserted in a determined social context, Sambahsa is to be spoken
+between people of different backgrounds. A Mongolian will find
+difficulties in understanding a person who speaks in the German way,
+regardless the Sambahsa of this second person is grammatically correct
+and his/her pronunciation is good.
 
-You must beaware to don't translate a sentence like “It's necessary to repair the house” to “id est necessar repare id dom”, the correct translation is “est necessar repare id dom”. Work on to avoid transporting characteristics from english to sambahsa.
+You must be aware to don't translate a sentence like “It's necessary to
+repair the house” to “id est necessar urpes id dom”, the correct
+translation is “est necessar urpes id dom”, although the better way of
+expressing this idea would be “id dom tehrpt bihe urpt”. Work on to
+avoid transporting characteristics from English to Sambahsa.
 
-Do you know what is idiotism? It's is a linguistic term used to describe
-terms that are only used in a determined language, if they were directly
-translated to other language, they wont have any sense. I'll show you
-some examples from the french language:
+Now let's see the case of the idioms, do you know what is idiom? It's is
+a linguistic term used to describe terms that are only used in a
+determined language, if they were directly translated to other language,
+they wont have any sense. I'll show you some examples from the French
+language:
 
 **Cherchez la femme –** police slang for situations when there is a
 complication and nobody knows who was the responsible. In a literal
@@ -7045,84 +7672,100 @@ translation it is “look for the woman”
 **Pourboire –** it's our tip *(the extra money that we give to the
 waiter)*. In direct translation it is “for drinking”.
 
-It's not like the idiotisms are untranslable, it's their direct
+Let's see a more familiar example: “Fred kicked the bucket”, which means
+that Fred has died. If you say “Fred kalkit id amfer” to a Brazilian
+(s)he will understand that Fred literally kicked a physical bucket!
+
+It's not like the idioms are untranslatable, it's their direct
 translation that is unfeasible. Are understanding what I am trying to
 say?
 
-I am not saying that you have to speak a poor and personalityless
-sambahsa! But you have to be aware in avoiding idiotisms and other forms
-of speaking that are proper of americans or british.
+I am not saying that you have to speak a poor and personalitiless
+Sambahsa! But you have to be aware in avoiding idioms and other forms of
+speaking that are exclusive of Americans. Talk in a simple way, but
+without lose the personality that the language allows us to have and the
+richness that it offers us.
 
-**What I am trying to say is:** talk in a simple way, but without lose
-the personality that the language allows us to have and the richness
-that it offers us.
+[]{#anchor-407}NEW WORDS
+========================
 
-CHOOSING NEW WORDS
-==================
-
-The primary source is, surely, what was reconstructed from the ancestor
-(Proto-)Indo-European. As not all words were reconstructed, many of them can be
-obtained from indo-european ancient languages like sanskrit, ancient
-greek and latin.
-
-Other sources are borrowed words from, at least, two linguistic branchs,
-from West Europe until East Asia.
-
-There is no reason to worry about new words, sambahsa already has a
-great lexicon and new words will come from the absortion of neologisms.
-If it's not possible a translation from the existent lexicon in
-sambahsa, can be used the word in its original form, the terms from the
-computer science area are a good example about it. Words that imply a
-specific cultural item, like a martial arts of a people or a typical
-dish, will be used the own word. It's similar what would happen in
-english, for example, the word 武術 *(wushu)* was translated in the
+This chapter briefly discuss about the creation of words for the
+language. There is no reason to worry about new words, Sambahsa already
+has a great lexicon and new words will come from the absorption of
+neologisms. If it's not possible a translation from the existent lexicon
+in Sambahsa, it can be used the word in its original form, the terms
+from the computer science area are a good example about it. Words that
+imply a specific cultural item, like a martial arts of a people or a
+typical dish, will be used the own word. It's similar what would happen
+in English, for example, the word 武術 *(wushu)* was translated in the
 nearest way to what is pronounced in the original, respecting the limits
-of the english language that doesn't have the intonations of chinese and
+of the English language that doesn't have the intonations of Chinese and
 other different sounds.
 
+I notice that many people too underestimate the vocabulary of Sambahsa,
+I remember that there was one time that I saw a man who thought that
+Sambahsa didn’t have translations for words like “source-code” and
+“webcomic”. We already have many words, a lot of them. I admit that
+Sambahsa doesn’t have translations for all the medicine terms created by
+man, but the vocabulary is very rich.
+
+The primary source is, surely, what was reconstructed from the ancestor
+(Proto-)Indo-European. As not all words were reconstructed, many of them
+can be obtained from Indo-European ancient languages like Sanskrit,
+Ancient Greek and Latin.
+
+Other sources are borrowed words from, at least, two linguistic
+branches, from West Europe until East Asia.
+
 As you can see, naturally that the new words have to be adapted to the
-orthography of sambahsa, which due its flexibility tries at best
-maintain the words in their original form and original pronounce.
+orthography of Sambahsa, which, due its flexibility, tries at best to
+maintain the words in their original form and original pronunciation.
 
-COMMON MISTAKES AND QUESTONS
-==========================
+[]{#anchor-408}COMMON MISTAKES AND QUESTIONS
+============================================
 
-In all this grammar I've tried to explain all the details of the language,
-but something that was not understood by someone may always exist. So I've
-created this chapter for listing all the mistakes and doubts I had
-throughout my learning in sambahsa, I hope that this chapter be useful
-for you.
+In all this grammar I've tried to explain all the details of the
+language, but something that was not understood by someone may always
+exist. So I've created this chapter for listing all the mistakes and
+doubts I had throughout my learning in Sambahsa, I hope that this
+chapter be useful for you.
 
-Obviously that, in future versions of this grammar, questions of other people will be added here.
+Obviously that, in future versions of this grammar, questions of other
+people will be added here.
 
+[]{#anchor-409}HOW WORK GENERIC PRONOUNS LIKE “TO” AND “QUO”?
+-------------------------------------------------------------
 
+Words like “to” and “quo” are generic pronouns that especially refer to
+already said things, they are for neutral singular
+nominative/accusative. They don’t suffer declension.
 
-HOW WORK GENERIC PRONOUNS LIKE “TO” AND “QUO”?
-==========================
-
-Words like “to” and “quo” are generic pronouns that especially refer to already said things, they are for neutral singular nominative/accusative. They don’t suffer declination.
-
-**Henrique hat creet un nov automatic dictionar. Tod suawehrct!**
+Henrique hat creet un nov automatic dictionar. Tod suawehrct!
 
 Here “tod” refers to “automatic dictionar”.
 
-**Henrique hat creet un nov automatic dictionar. To est un khauris khabar!**
+Henrique hat creet un nov automatic dictionar. To est un khauris khabar!
 
-Here “to” sto the previous sentence, to the fact that Henrique has created a new dictionary.
+Here “to” sto the previous sentence, to the fact that Henrique has
+created a new dictionary.
 
-**“To hat duren pior diu!!!!” sieyg is ob impatience.**
+“To hat duren pior diu!!!!” sieyg is ob impatience.
 
 Here “to” refers to the situation that created this impatience.
 
-**El prient: “Volo kaupe un ieftin deluxe auto, bet ne trehvo semject interessant in id journal”. 
-Serter: Est her un annunce quod correspondt quo tu paurskes**
+**El prient: “Volo kaupe un ieftin deluxe auto, bet ne trehvo semject
+interessant in id journal”.**
 
-Here “quod” refers to “annunce” and “quo” refers to something that was not said in the sentence.
+Serter: Est her un annunce quod correspondt quo tu paurskes
 
-Is it possible more generic pronouns? In theory would be possible pronouns like “cio” and “eno”, but they almost are never used.
+Here “quod” refers to “annunce” and “quo” refers to something that was
+not said in the sentence.
 
-WHAT REALLY MEANS THE VERB “LEIT”
----------------------------------
+Is it possible more generic pronouns? In theory would be possible
+pronouns like “cio” and “eno”, but they almost are never used.
+
+[]{#anchor-410}WHAT REALLY MEANS THE VERB “LEIT”
+------------------------------------------------
 
 It means “to go, to run” in the figurative sense.
 
@@ -7144,18 +7787,25 @@ going a bit very quickly
 
 More examples, but with te word “uperleit”:
 
-**Hind uperleit ex un agrent societat eni un democratic quader –** India makes the transition from a agricultural society within a democratic framework
+**Hind uperleit ex un agrent societat eni un democratic quader –** India
+makes the transition from a agricultural society within a democratic
+framework
 
-**Id economic crosct nilent, uperleitend ex 9% pro yar in 2010 do 6% in 2011 –** The economic growth is slowing down, passing from 9% for year to 6% in 2011
+**Id economic crosct nilent, uperleitend ex 9% pro yar in 2010 do 6% in
+2011 –** The economic growth is slowing down, passing from 9% for year
+to 6% in 2011
 
-**Mehnent maghe uperlites fauran do id politic nivell –** They think *(they)* can pass immediately to the political level
+**Mehnent maghe uperlites fauran do id politic nivell –** They think
+*(they)* can pass immediately to the political level
 
-**Serter uperlit is do id camp ios Papp –** Later, he joined the camp of the Pope
+**Serter uperlit is do id camp ios Papp –** Later, he joined the camp of
+the Pope
 
-**Ghehdt uperlites id hol territorium uns land –** it can go *(extend)* beyond the whole territory of a country
+**Ghehdt uperlites id hol territorium uns land –** it can go *(extend)*
+beyond the whole territory of a country
 
-HOW ASK SOMETHING TO SOMEONE
-----------------------------
+[]{#anchor-411}HOW ASK SOMETHING TO SOMEONE
+-------------------------------------------
 
 How translate “I asked my father for money”. The most correct
 translation is *not* “prohgim denars ad mien pater”, let's see the
@@ -7178,8 +7828,8 @@ Now see the sentence how it should be translated:
 
 Notice that “mi” is in the dative case
 
-HOW TO SAY WHETHER SOMETHING WILL BE DELAYED OR BE LATE?
---------------------------------------------------------
+[]{#anchor-412}HOW TO SAY WHETHER SOMETHING WILL BE DELAYED OR BE LATE?
+-----------------------------------------------------------------------
 
 Let's start with the verb “chitay”. You can make sentences like:
 
@@ -7202,8 +7852,8 @@ There are several forms of expressing an idea:
 **Id machine tehrpt wakt pre biwehrge –** the machine needs time before
 it start to work
 
-VERBS OF DIRECTION LIKE “GWAH”
-------------------------------
+[]{#anchor-413}VERBS OF DIRECTION LIKE “GWAH”
+---------------------------------------------
 
 Verbs like “gwah” (to go to) dispense prepositions, because their direct
 objects already informate that they are the direction of movement. The
@@ -7216,90 +7866,129 @@ house, but I don't plain to enter into it)*
 **Vahm gwahe mien dom –** I am going to my house *(I enter into the
 houseentro na casa)*
 
-WHAT'S THE DIFFERENCE BETWEEN “YAKIN” AND “WEIDWOS”?
-----------------------------------------------------
+[]{#anchor-414}WHAT'S THE DIFFERENCE BETWEEN “YAKIN” AND “WEIDWOS”?
+-------------------------------------------------------------------
 
 While “yakin” is an adjective, “weidwos” is an adverb.
 
-Always pay attention in the dictionary to the gramatical
+Always pay attention in the dictionary to the grammatical
 classificationof the words.
 
-# ABOUT MINOR GRAMMATICAL ISSUES
+[]{#anchor-415}ABOUT MINOR GRAMMATICAL ISSUES
+=============================================
 
-## NAMES OF LANGUAGES AND NATIONALITIES
+[]{#anchor-416}NAMES OF LANGUAGES AND NATIONALITIES
+---------------------------------------------------
 
-Look the following text: “Did you know that Spanish is spoken by more than five hundred million people? But there are only forty-seven million Spaniards”.
+Look the following text: “Did you know that Spanish is spoken by more
+than five hundred million people? But there are only forty-seven million
+Spaniards”.
 
-This very same text in Portuguese: “Você sabia que o espanhol é falado por mais de quinhentos milhões de pessoas? Mas só existem quarenta e sete milhões de espanhóis”.
+This very same text in Portuguese: “Você sabia que o espanhol é falado
+por mais de quinhentos milhões de pessoas? Mas só existem quarenta e
+sete milhões de espanhóis”.
 
-Notice that in English the first letter of the name of the language was written in capital letter and didn't received a definite article, the gentile was also written in capital letter. But in Portuguese both the name of the language and its gentile always has its first letter written in lowercase, and the name of the language receives article.
+Notice that in English the first letter of the name of the language was
+written in capital letter and didn't received a definite article, the
+gentile was also written in capital letter. But in Portuguese both the
+name of the language and its gentile always has its first letter written
+in lowercase, and the name of the language receives article.
 
-Which model Sambahsa follows? Both are valid, write in the way you think is better.
+Which model Sambahsa follows? Both are valid, write in the way you think
+is better.
 
-## WORDS RELATED TO NUMBERS LESSER THAN TWO
+**English way:** Wois(at) yu od Espaniol est baht ab meis quem penk(we)
+cent millions leuden? Bet ter sont tik quargim sept millions Espaniolen
 
-What's correct, “1,5 liter” or “1,5 liters”?  In Sambahsa both are correct.
+**Portuguese way:** Wois(at) yu od id espaniol est baht ab meis quem
+penk(we) cent millions em leuds? Bet ter sont tik quargim sept millions
+em espaniols
 
-## VERBAL CONCORDANCE OF THE VERB “ES”
+[]{#anchor-417}WORDS RELATED TO NUMBERS LESSER THAN TWO
+-------------------------------------------------------
+
+What's correct, “1,5 liter” or “1,5 liters”? In Sambahsa both are
+correct.
+
+[]{#anchor-418}VERBAL CONCORDANCE OF THE VERB “ES”
+--------------------------------------------------
 
 Look the following sentences:
 
-(1) – Id bratriya est i Purts ios Desert
-(2) – Id bratriya sont i Purts ios Desert
+\(1) – Id bratriya est i Purts ios Desert 
 
-Which one would be the correct in this case, “est” or “sont”? To which sentence the verb “es” preferably agrees, “Id bratriya” or “i Purts ios Desert”? In such cases, if there is an element in the plural, the verb to be used will be in the plural, therefore the correct would be (2).
+\(2) – Id bratriya sont i Purts ios Desert
 
-Yeah, I know that the best way to write this sentence would be “id bratriya est composen ab i Purts ios Desert”, but I've forced a more informal sentence in order to show you what to do in situations like that.
+Which one would be the correct in this case, “est” or “sont”? To which
+sentence the verb “es” preferably agrees, “Id bratriya” or “i Purts ios
+Desert”? In such cases, if there is an element in the plural, the verb
+to be used will be in the plural, therefore the correct would be (2).
 
-# WORDS AND THEIR MEANINGS
+Yeah, I know that the best way to write this sentence would be “id
+bratriya est composen ab i Purts ios Desert”, but I've forced a more
+informal sentence in order to show you what to do in situations like
+that.
 
-Words have layers of meanings, like the word “fortuitous”, which means “coincidental” or “unplanned”, but some people think that it means “coincidentaly fortunate” or “unplannedly fortunate”, although a fortuitous thing can be unfortunate.
+[]{#anchor-419}WORDS AND THEIR MEANINGS
+=======================================
 
-If you see something like “milder”, which means “mitigate”, don't assume that it means “to militate” or “to provide reasons for” because it actually means “to alleviate”.
+Words have layers of meanings, like the word “fortuitous”, which means
+“coincidental” or “unplanned”, but some people think that it means
+“coincidentally fortunate” or “unplanned fortunate”, although a
+fortuitous thing can be unfortunate.
 
-When you're consulting the dictionary, be careful with this kind of situation in order to the message doesn't be passed or received wrongly. Of course that, in the dictionaries, always there will the effort to make more-explicative dictionaries, but in doubt consult an English dictionary for making sure about the meaning of the word.
+If you see something like “milder”, which means “mitigate”, don't assume
+that it means “to militate” or “to provide reasons for” because it
+actually means “to alleviate”.
 
-VOCABULARY
-==========
+When you're consulting the dictionary, be careful with this kind of
+situation in order to the message doesn't be passed or received wrongly.
+Of course that, in the dictionaries, always there will the effort to
+make more-explicative dictionaries, but in doubt consult an English
+dictionary for making sure about the meaning of the word.
+
+[]{#anchor-420}VOCABULARY
+=========================
 
 You've learned much of what you need for using this beautiful language
-called sambahsa. I'll not be unmodest in affirm that I've passed all
-that can be taught, even the auxiliary languages requires volumes and
-more volumes if they were taught deeply, but I hope that this grammar
-had taught you to use the language in at least 99,90% of the situations.
+called Sambahsa. I'll not be immodest in claim that I've passed all that
+can be taught, even the auxiliary languages requires volumes and more
+volumes if they were taught deeply, but I hope that this grammar had
+taught you to use the language in, at least, 99,90% of the situations.
 
 This last chapter has as goal expand a bit more your vocabulary, it's
 obvious that I'll not teach all words, because this book would have to
-be also a dictionay for this task be possible, but I want that you
-finish this book with a reasonable vocabulary, in order to you can
-initiate the reading of texts with a bit of comfort.
+be also a dictionary for this task be possible, but I want that you
+finish this book with a reasonable vocabulary, in order to you be able
+to initiate the reading of texts with a bit of comfort.
 
 There are several subchapters that treats several areas, like human body
-and computers, but it will be just basic concepts, there is no pretension here in to list the names in sambahsa of all muscles and bones
-of the human body or all the names concerning Information Technology;
-you'll have to search the words in a dictionary or, in the case of very
-specific terms, in dictionaries about a specific area like dicionaries
-of medical terms.
+and computers, but it will be just for basic concepts, there is no
+pretension here in to list the names in Sambahsa of all muscles and
+bones of the human body or all the names concerning Information
+Technology; you'll have to search the words in a dictionary or, in the
+case of very specific terms, in dictionaries about a specific area like
+dictionaries of medical terms.
 
-Also it's important to pay attention in which subchapter the words are found
-in order to you don't have unnecessary doubts about the actual meaning
-of the words. I wanna avoid situations like you see the word “musch”,
-whose translation is “fly”, and you think that it means the verb “to
-fly”; if this word is in the subchapter ANIMALS, probably it refers to
-an insect of the order Diptera instead of that action that airplanes do.
-Resumming: through the subchapter where the word is found you can deduce
-in what context this word can be used.
+Moreover it's important to pay attention in which subchapter the words
+are found in order to you don't have unnecessary doubts about the actual
+meaning of the words. I wanna avoid situations like you see the word
+“musch”, whose translation is “fly”, and you think that it means the
+verb “to fly”; if this word is in the subchapter ANIMALS, probably it
+refers to an insect of the order Diptera instead of that action that
+airplanes and birds do. In short: through the subchapter where the word
+is found you can deduce in what context this word can be used.
 
-In order to you expand your vocabulary – and consolidate your
-knowledges of grammar – it's essential that you read, listen and
-practise the language.
+In order to you expand your vocabulary – and consolidate your knowledge
+of grammar – it's essential that you read, listen and practice the
+language.
 
-VERBS
------
+[]{#anchor-421}VERBS
+--------------------
 
-*Although the english words are in the infinitive form, the presented
-sambahsa verbs are in their stem form. Exemple: the **infinitive** verb
-“to add” is “addihes” in sambahsa, not “addeih”. Are we understood?*
+*Although the English words are in the infinitive form, the presented
+Sambahsa verbs are in their stem form. Example: the **infinitive** verb
+“to add” is “addihes” in Sambahsa, not “addeih”. Are we understood?*
 
 **Acquiseih {akizE:y} –** to acquire *(like, for example, in a legal
 sense)*
@@ -7341,7 +8030,8 @@ your friend)*; to say, to tell *(“…” **iey is =** “…” said he)*
 **Beud {böd} –** to appeal to *(someone)*, to make* (someone) *pay
 attention* (to = dative)*, to demand* (something)*
 
-**Beuw {böw} –** to make grow, to make become; to cultivate *(a particular culture)*
+**Beuw {böw} –** to make grow, to make become; to cultivate *(a
+particular culture)*
 
 **Bih {bi:} –** to become
 
@@ -7357,8 +8047,8 @@ attention* (to = dative)*, to demand* (something)*
 
 **Clud {klud} –** to close
 
-**Comprehend {komprehEnd} –** to comprehend (to have comprehension
-for)
+**Comprehend {komprëhEnd} –** to comprehend *(to have comprehension
+for)*
 
 **Credeih {krëdE:y} –** to believe
 
@@ -7392,7 +8082,8 @@ for)
 
 **Disradh {disrAd} –** to advise Y against X
 
-> ***Tib disradho namore ciom yuwen –** I advise you to don't date that youngster*
+**Tib disradho namore ciom yuwen –** I advise you to don't date that
+youngster
 
 **Drehnk {dre:nk} –** to drink* (alcohol)*
 
@@ -7405,7 +8096,7 @@ for)
 **Em {em} –** to take *(in the sense of “take a train” or “take a
 decision”)*
 
-**(En)schalt {(en)cAlt} –** to switch (on) *(a machine)*
+**(En)schalt {(en)cAlt} –** to switch on *(a machine)*
 
 **Entre {Entrë} –** to enter
 
@@ -7423,7 +8114,7 @@ decision”)*
 
 **Fleurt {flört} –** to flirt
 
-**Folossie {folosI:} –** to use, to make use of
+**Folossie {folosI:} –** to use, make use of
 
 **Fortrehc {fortrE:k} –** to depart, to go off *(for a travel)*
 
@@ -7449,6 +8140,8 @@ you can say “bringhes do luce”)*
 **Ghyan {gyan} –** to open
 
 **Gnah {nya:} –** to be born
+
+**Gnoh {nyo:} –** to know
 
 **Gugheir {gugEyr} –** to mess up, to spoil something
 
@@ -7533,7 +8226,7 @@ second movie takes place in China”)*
 
 **Leis {leys} –** to read
 
-**Leips {leypz} –** to miss *(a deadline, a bus...)*
+**Leips {leypz} –** to miss *(a deadline, a bus…)*
 
 **Leit {leyt} –** to go, to run *(figurative sense)*
 
@@ -7549,7 +8242,7 @@ second movie takes place in China”)*
 
 **Lites {lits} –** *infinitive form of “leit”*
 
-**Localise {lokaliz} –** to locate
+**Localise {lokalIz} –** to locate
 
 **Magh {mag} –** can, may
 
@@ -7557,9 +8250,9 @@ second movie takes place in China”)*
 
 **Man {man} –** to stay
 
-**Manage {manAdj} –** to manage (something, to take good care of)
+**Manage {manAdj} –** to manage (something), to take good care of
 
-**Mank {mank} –** to lack, to be lacking (intransitive)
+**Mank {mank} –** to lack, to be lacking *(intransitive verb)*
 
 **Maximise {maksimIz} –** to maximize
 
@@ -7595,7 +8288,7 @@ reasons to
 
 **Namor {namOr} –** to date *(like in “John and Mary are dating”)*
 
-**Naudh {nAod} –** to need, require
+**Naudh {nAod} –** to need, to require
 
 **Nayd {nayd} –** to scoff at
 
@@ -7614,13 +8307,13 @@ reasons to
 
 **Orbat {orbAt} –** to work, to labour
 
-**Paursk {pAorzk} –** to search, to look for
+**Paursk {pAorsk} –** to search, to look for
 
 **Pehrd {pe:rd} –** to fart *(with noise)*
 
 **Pehrn {pe:rn} –** to sell
 
-**Pehzd {pe:zd} –** to fart *(with bad smell)*
+**Pehzd {pe:dzd} –** to fart *(with bad smell)*
 
 **Peit {peyt} –** to try
 
@@ -7639,9 +8332,9 @@ reasons to
 **Poitt {poyt} –** to have the right to, to be entitled to
 
 **Prehg *****&lt;someone&gt;***** ke(m) {pre:g &lt;&gt; ke(m)} –** to
-ask, to pray *(like in “Henrique prehct Olivier kem (is) ei antwehrdt”, which
-means “Henrique asks Olivier for an answer”)*, to talk *(in the sense of
-“to talk with someone about a matter”)*
+ask, to pray *(like in “Henrique prehct Olivier kem (is) ei antwehrdt”,
+which means “Henrique asks Olivier for an answer”)*, to talk *(in the
+sense of “to talk with someone about a matter”)*
 
 **Prehp {pre:p} –** to appear *(in the sense of become visible)*, to
 come into sight
@@ -7715,13 +8408,16 @@ use the emblem of his house”)*
 
 **Spend {spend} –** to spend
 
+**Spraneg {sprAnëg} –** to spring, to explode, to burst *(transitive
+verb)*
+
 **(oi)Sprehg *****&lt;asked person&gt; &lt;question&gt;***** {(oy)sprE:g
 &lt;&gt;&lt;&gt;} –** to ask *(someone about a question. Like in “Smith
 sprehct Lee quer is weict in Brasilu”, que significa “Smith asks Lee
 where he lives in Brazil”)*
 
-**Sprehng {spre:ng} –** to spring, to explode, to burst (intransitive;
-the transitive is "spraneg")
+**Sprehng {spre:ng} –** to spring, to explode, to burst *(intransitive
+verb)*
 
 **Stehm {ste:m} –** to support *(a person, an idea, something)*
 
@@ -7745,7 +8441,8 @@ something like a roof)*; to tolerate
 **Tehrb {te:rb} –** to have to *(in the sense of “I have to do the
 dinner” or “I have to work”)*
 
-**Tekhnass {teqnAs} –** to manage to, to handle *(the situation)*, to get by
+**Tekhnass {teqnAs} –** to manage to, to handle *(the situation)*, to
+get by
 
 **Tengie {tëndjI:} –** to look like
 
@@ -7757,13 +8454,14 @@ dinner” or “I have to work”)*
 
 **Trehc {tre:k} –** to displace (oneself)
 
-**Trehv {tre:v} –** to find, to meet (transitive)
+**Trehv {tre:v} –** to find, to meet *(transitive verb)*
 
 **Ubklad {ubklAd} –** to upload *(a file)*
 
 **Uc {uk} –** *past tense of “euc”*
 
-**Uperleit do {üpërlEyt do} –** to pass to, to go to *(figurative sense)*
+**Uperleit do {üpërlEyt do} –** to pass to, to go to *(figurative
+sense)*
 
 **Use {Üz} –** to use
 
@@ -7797,8 +8495,8 @@ of location)*
 
 **Yis {yis} –** *past tense of “yeis”*
 
-ADJECTIVES
-----------
+[]{#anchor-422}ADJECTIVES
+-------------------------
 
 **Akster {Akstër} –** lively, strong *(figurative sense: colors; sense,
 link in “strong alcohol”)*
@@ -7853,7 +8551,7 @@ quality)*
 
 **Kiest {kyest} –** clean *(pure)*
 
-**Latif {lAtif} –** kind (adjective)
+**Latif {lAtif} –** kind
 
 **Lent {lent} –** slow
 
@@ -7913,7 +8611,7 @@ quality)*
 
 **Veut {vöt} –** old
 
-**Wahid {wahId} –** only
+**Wahid {wAhid} –** only
 
 **Walik {wAlik} –** strong, powerful
 
@@ -7921,14 +8619,14 @@ quality)*
 
 **Yun {yun} –** young
 
-BODY
-----
+[]{#anchor-423}BODY
+-------------------
 
 **Anus {Anus} –** anus
 
 **Aur {Aor} –** ear
 
-**Badan {badAn} –** organism (when refering to the body)
+**Badan {badAn} –** organism *(obviously when refering to the body)*
 
 **Bagu {bAgu} –** forearm
 
@@ -8064,8 +8762,8 @@ BODY
 
 **Yowkjitia {yowkjItya} –** body (when refering to a living being)
 
-COLORS
-------
+[]{#anchor-424}COLORS
+---------------------
 
 **Albh {alb} –** white
 
@@ -8098,31 +8796,31 @@ meaning.*
 
 **Violett {violEt} –** purple
 
-COMPUTING
----------
+[]{#anchor-425}COMPUTING
+------------------------
 
-As certain terms, especially acronyms, from the english language have
+As certain terms, especially acronyms, from the English language have
 wide acceptation in the world, maybe it's more convenient to use the
-original terms, like VGA, which in sambahsa is VGT. Well, do what you
+original terms, like VGA, which in Sambahsa is VGT. Well, do what you
 think that is the better.
 
 Do you remember what I told about the verbs in the infinitive form? If
 not, please go back to the subchapter VERBS in this chapter VOCABULARY.
 
-If you want to translate a software to sambahsa and don't know whether
+If you want to translate a software to Sambahsa and don't know whether
 you should translate the commands to the infinitive form or imperative
 form, see here the explanation of how it must be made:
 
 -   Commands given to the computer by the user are translated in the
-    infinitive form. ***Example:** abonne id forum *(subscribe in the
+    infinitive form. ***Example:** abonne in forum *(subscribe in the
     forum)*; rename archive *(rename file)*; yises blixbrev *(send
     email)
 -   Commands given to the user by the computer are translated in the
-    imperative form, with the "courtesy" formula of the 2nd person plural.
-    ***Example:** contancte nos *(contact us)*; clickte her
+    imperative form, with the "courtesy" formula of the 2nd person
+    plural. ***Example:** contacte nos *(contact us)*; clickte her
     *(click here)*; yeiste nos un blixbrev *(send us an email)
 
-[]{#anchor-284}**Abonn {abOn} –** to subscribe to/in
+[]{#anchor-426}**Abonn {abOn} –** to subscribe to/in
 
 **Abonnent {abOnënt} –** subscriber
 
@@ -8143,7 +8841,7 @@ form, see here the explanation of how it must be made:
 
 **Analogic {analOdjik} –** analogic
 
-**Antivirus {antivIrus} –** antivírus
+**Antivirus {antivIrus} –** antivirus
 
 **Anyow {anyOw} –** password
 
@@ -8153,6 +8851,8 @@ form, see here the explanation of how it must be made:
 
 **Arrange {arAndj} – **to format (a text)
 
+Personally I prefer to use “format”, but “arrange” is a possibility too.
+
 **Attache {atAtc} –** to attach (a file)
 
 **Aunviel {aonvyEl} –** wireless
@@ -8161,7 +8861,7 @@ form, see here the explanation of how it must be made:
 
 **Aurphone {aorfOn} –** headset, headphone
 
-**BR *****(Blou-rai)***** {blu:-rä} –** BR *(Blue-ray)*
+**BD *****(Blou-rai)***** {blu:-rä} –** BD *(Blue-ray)*
 
 **Bichoun {bitcU:n} –** layout
 
@@ -8171,8 +8871,8 @@ form, see here the explanation of how it must be made:
 
 **Blog {blog} –** Blog
 
-**Bluetooth {blu:tU§} –** Bluetooth (since it's a Registered Trademark, 
-the Sambahsa word keeps the English pronounciation)
+**Bluetooth {blu:tU§} –** bluetooth *(since it's a Registered Trademark,
+the Sambahsa word keeps the English pronunciation)*
 
 **Browser {brOwsër} –** web browser
 
@@ -8213,7 +8913,7 @@ tower, system unit, cabinet, base unit
 
 **Configuration {konfiguratyOn} –** configuration
 
-**Connect {konEkt} –** to connect (transitive)
+**Connect {konEkt} –** to connect *(transitive verb)*
 
 **Cont(o) {kOnt(o)} –** account
 
@@ -8295,7 +8995,7 @@ Memory)*
 
 **Emulator {emulatOr} –** emulator
 
-**Enmercatnotes {enmErkatnots} –** release notes
+**Enmercatnotes {enmërkatnOts} –** release notes
 
 **error {erOr} –** error
 
@@ -8315,8 +9015,8 @@ Memory)*
 
 **Fraumbar {fraombAr} –** scroll bar
 
-**Frequent-ye Anacta Questions (F.A.Q.) {frEkwënt-ye anAkta këstyOns}
-–** Frequently Asked Questions (F.A.Q.)
+**Frequent-ye Anacta Questions (F.A.Q.) {frEkënt-ye anAkta këstyOns} –**
+Frequently Asked Questions (F.A.Q.)
 
 **Funed {fÜnëd} –** to merge (table cells)
 
@@ -8462,15 +9162,15 @@ interpreter)*
 
 **Primark lurhat {primArk lurhAt} –** markup language
 
-**Printer {prIntër} –** printer
+Printer {prIntër} – printer
 
-**Processor {protsesOr} –** processor
+Processor {protsesOr} – processor
 
-**Profile {profIl} –** profile
+Profile {profIl} – profile
 
-**Programmation lurhat {programatyOn lurhAt} –** programing language
+Programmation lurhat {programatyOn lurhAt} – programing language
 
-**Programme {progrAm} –** to program, to code
+Programme {progrAm} – to program, to code
 
 **Pung {pung} –** button
 
@@ -8562,9 +9262,9 @@ or state)*
 
 **Ubklad {ubklAd} –** to upload
 
-**Ubnuw {ubnUw} –** update (substantive)
+**Ubnuw {ubnUw} –** update
 
-**Ubnuwen {ubnÜwën} -** to update (transitive verb)
+**Ubnuwen {ubnÜwën} –** to update
 
 **Ubstiumep {ubstyÜmëp} –** to upgrade
 
@@ -8610,11 +9310,11 @@ or state)*
 
 **Webcam {wëbkAm} –** webcam
 
-**Website {wëbsIt} –** website
+**Website {wëbsAyt} –** website
 
 **Webtyohc {wëbtyO:k} –** feed *(substantive)*
 
-**Wehrgeih {we:rdjE:y} –** play, run (transitive)
+**Wehrgeih {we:rdjE:y} –** to play, to run *(transitive verb)*
 
 **Windows portfeuyl {windOws portfÖyl} –** Briefcase *(from Microsoft
 Windows)*
@@ -8623,9 +9323,8 @@ Windows)*
 
 **Zoum prosch {zu:m proc} –** Zoom in
 
-
-ANIMALS
--------
+[]{#anchor-427}ANIMALS
+----------------------
 
 **Arank {arAnk} –** spider
 
@@ -8639,7 +9338,7 @@ ANIMALS
 
 **Baleina {balEyna} –** whale
 
-**Baul {bawl} –** bat
+**Baul {bAol} –** bat
 
 **Bei {bey} –** bee
 
@@ -8679,7 +9378,7 @@ ANIMALS
 
 **Lion {lyon} –** lion
 
-**Maymoun {maymU:n} – ** monkey
+**Maymoun {maymU:n} – **monkey
 
 **Murm {murm} –** ant
 
@@ -8725,9 +9424,8 @@ ANIMALS
 
 **Wolf {wolf} –** wolf
 
-
-MEASURES
---------
+[]{#anchor-428}MEASURES
+-----------------------
 
 **Absorpt energia dose {absOrpt enErdjya doz} –** absorbed dosis *(total
 ionizing dose)*
@@ -8849,8 +9547,8 @@ induction flux
 
 **Watt {wat} (W) –** watt
 
-FAMILY
-------
+[]{#anchor-429}FAMILY
+---------------------
 
 **Aja {Aja} –** granny, grandma
 
@@ -8956,8 +9654,8 @@ FAMILY
 
 **Wehdmen {wE:dmën} –** *purchase price of the bride*
 
-VARIOUS
--------
+[]{#anchor-430}VARIOUS
+----------------------
 
 **Alphabet {alfAbd} – **alphabet
 
@@ -8977,7 +9675,7 @@ VARIOUS
 
 **Forest {forEst} –** forest
 
-**Future {futür} –** future (substantive)
+**Future {futÜr} –** future *(substantive)*
 
 **Geront {djërOnt} –** old man
 
@@ -8993,7 +9691,7 @@ VARIOUS
 
 **Kindergarten {kindërgArtën} –** kindergarten
 
-**Kwehrmen {kwE:mën} –** way *(of doing something)*
+**Kwehrmen {kwE:rmën} –** way *(of doing something)*
 
 **Majoritat {majoritAt} –** majority
 
@@ -9041,8 +9739,8 @@ fundamental*
 
 **Zaman {dzamAn} –** epoch, time
 
-INTERJECTIONS
--------------
+[]{#anchor-431}INTERJECTIONS
+----------------------------
 
 **Ajaban! {ajabAn} –** gosh!
 
@@ -9092,7 +9790,7 @@ INTERJECTIONS
 
 **Lutfan {lutfAn} –** be nice!
 
-**Maideh {maydE:} –** help! mayday!
+**Maideh {mädE:} –** help! mayday!
 
 **Marba {mArba} –** please to meet you!
 
@@ -9128,8 +9826,8 @@ INTERJECTIONS
 
 **Zinhaar! {dzinhaAr} –** beware! caution!
 
-REFERENCES
-==========
+[]{#anchor-432}REFERENCES
+=========================
 
 SIMON, Olivier. RICE, Stephen L (ed.). **The Grammar Of
 Sambahsa-Mundialect In English**. 7 ed. Maio 2012.
@@ -9140,23 +9838,21 @@ RICE, Stephen L. **Sambahsa\_Phrasebook**
 
 WINTER, Robert. **Sambahsa: Guide to Pronouns and Articles**.
 
-**Many and many talks with Olivier Simon**.
+WINTER, Robert. **Sambahsa in Six Minutes \#1 : Nasal Infixes.**
 
-LIMA, Henrique Matheus da Silva. **Manual de Alfabeto Fonético Internacional**. 2017.
+Many and many talks with Olivier Simon.
+
+LIMA, Henrique Matheus da Silva. **Manual de Alfabeto Fonético
+Internacional**. 2017.
 
 OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **FrontPage**. Available in:
-&lt;http://sambahsa.pbworks.com/w/page/10183084/FrontPage&gt;. Acesso
+&lt;http://Sambahsa.pbworks.com/w/page/10183084/FrontPage&gt;. Acesso
 em: jul. 2016.
 
 OFFICIAL DAKHELPAGE OS SAMBAHSA-MUNDIALECT. **IPA Sambahsa phonetics**.
 Available in:
-&lt;http://sambahsa.pbworks.com/w/page/10183089/IPA%20Sambahsa%20phonetics&gt;.
+&lt;http://Sambahsa.pbworks.com/w/page/10183089/IPA%20Sambahsa%20phonetics&gt;.
 Access in: jul. 2016.
-
-YEAHBITCHMAGNETSOH. **Flag of Indo-European Speakers**. Reddit.
-Disponível em:
-&lt;https://www.reddit.com/r/vexillology/comments/3jlf0k/flag\_of\_indoeuropean\_speakers/&gt;.
-Access in: jul 2016.
 
 DIARIO DOS CAMPOS. **Idiotismos da Língua Portuguesa**. 01 set. 2012.
 Disponível em:
@@ -9166,3 +9862,19 @@ Access in: jul. 2016.
 RACHEL. Youtube channel of Rachel's English.
 &lt;https://www.youtube.com/user/rachelsenglish&gt;. Access in: jan.
 2017.
+
+[^1]: **It’s not “kohgnt” because {ko:nyt} is not pronounceable, that’s
+    why we write “kohgnt” {kO:nyët} here**.
+
+[^2]: We can use “oint” her because it is a compound word.
+
+[^3]: Indeed it’s “Ritka” instead “Gritka”. If you wanna know why
+    Olivier (this example is his) did in this way, its because “Gretel”
+    comes from Latin “Margaritha”, in the diverse languages this name
+    lost some syllables:
+
+    Greta → Gretchen → Gretel
+
+    The original joint of letters is “margaRITa”, not “GRIT”, that’s why
+    it became “Ritka”.
+
