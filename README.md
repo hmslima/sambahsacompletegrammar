@@ -12,10 +12,10 @@ This project aims to develop a friendly complete grammar book for Sambahsa Mundi
 
 You can:
 
-* Revise translations. No revision is necessary for the Brazilian Portuguese version since it is the original book
+* Revise translations. No revision is necessary for the Brazilian Portuguese version since it is the original book;
 
-* Check whether there is some mistake in the grammar
+* Check whether there is some mistake in the grammar;
 
 * Give me suggestions for making the grammar better. Is something badly written? Does an explanation is not good enough? Did I forget to talk about some topic? Let me know.
 
-You always can talk to me [here](https://github.com/hmslima/sambahsacompletegrammar/issues).
+You can always talk to me [here](https://github.com/hmslima/sambahsacompletegrammar/issues).
